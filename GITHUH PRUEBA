@@ -7759,7 +7759,8 @@ EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", M| Cinema 25
 http://vplay.club:8080/luis00/luis00/302670
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", :CINE ACCION 
 http://vplay.club:8080/luis00/luis00/302671
-EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", :CINE ACCION SAGAS http://vplay.club:8080/luis00/luis00/302672
+EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", :CINE ACCION SAGAS 
+http://vplay.club:8080/luis00/luis00/302672
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7",: CINE ACCION HD 
 http://vplay.club:8080/luis00/luis00/302675
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7",: CINE COMEDIA 2 
@@ -7822,7 +7823,8 @@ EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", | Peppa Pig
 http://vplay.club:8080/luis00/luis00/302717
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", | Phineas y Ferb 
 http://vplay.club:8080/luis00/luis00/302718
-EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", | Pokemon http://vplay.club:8080/luis00/luis00/302719
+EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", | Pokemon 
+http://vplay.club:8080/luis00/luis00/302719
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", | Power Rangers 
 http://vplay.club:8080/luis00/luis00/302720
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", | Vaca y Pollito 
@@ -7939,7 +7941,8 @@ EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", Xena La Princesa Guerrera T
 http://vplay.club:8080/luis00/luis00/302779
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", | Los Thundercats 
 http://vplay.club:8080/luis00/luis00/302780
-EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", | Mr Bean http://vplay.club:8080/luis00/luis00/302781
+EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", | Mr Bean 
+http://vplay.club:8080/luis00/luis00/302781
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", | Los Picapiedra 
 http://vplay.club:8080/luis00/luis00/302782
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", Los Supersonicos 
@@ -8000,34 +8003,3 @@ EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", Futurama
 http://vplay.club:8080/luis00/luis00/492116
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", El Increíble Mundo de Gumball 
 http://vplay.club:8080/luis00/luis00/492117
-http://skylogic.site:8080/Worldstreaming/fc58e438/287646
-#EXTINF:-1,MX: TeleFormula
-http://skylogic.site:8080/Worldstreaming/fc58e438/31746
-#EXTINF:-1,MX: Telehit Musica
-http://skylogic.site:8080/Worldstreaming/fc58e438/31785
-#EXTINF:-1,MX: Telemax
-http://skylogic.site:8080/Worldstreaming/fc58e438/7080
-#EXTINF:-1,MX: Teleritmo
-http://skylogic.site:8080/Worldstreaming/fc58e438/9066
-#EXTINF:-1,MX: Televisa Networks
-http://skylogic.site:8080/Worldstreaming/fc58e438/31791
-#EXTINF:-1,MX: Tlaxcala TV
-http://skylogic.site:8080/Worldstreaming/fc58e438/296507
-#EXTINF:-1,MX: Tlnovelas
-http://skylogic.site:8080/Worldstreaming/fc58e438/9141
-#EXTINF:-1,MX: TNT Series
-http://skylogic.site:8080/Worldstreaming/fc58e438/9139
-#EXTINF:-1,MX: TUDN
-http://skylogic.site:8080/Worldstreaming/fc58e438/31784
-#EXTINF:-1,MX: TV Mas
-http://skylogic.site:8080/Worldstreaming/fc58e438/9097
-#EXTINF:-1,MX: TV Mexiquense
-http://skylogic.site:8080/Worldstreaming/fc58e438/9104
-#EXTINF:-1,MX: TV Nuevo Leon 28
-http://skylogic.site:8080/Worldstreaming/fc58e438/296506
-#EXTINF:-1,MX: TVC Deportes
-http://skylogic.site:8080/Worldstreaming/fc58e438/9075
-#EXTINF:-1,MX: Unicable
-http://skylogic.site:8080/Worldstreaming/fc58e438/5804
-#EXTINF:-1,MX: Warner TV
-http://skylogic.site:8080/Worldstreaming/fc58e438/9142
