@@ -8003,3 +8003,42 @@ EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", Futurama
 http://vplay.club:8080/luis00/luis00/492116
 EXTINF:-1 tvg-id="" tvg-name=""" group-title="24/7", El Increíble Mundo de Gumball 
 http://vplay.club:8080/luis00/luis00/492117
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="",  CRONICA HD (OP2)
+
+http://vplay.club:8080/luis00/luis00/416210
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", DEPORTV HD (OP2)
+
+http://vplay.club:8080/luis00/luis00/416211
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="",  CANAL 9
+
+http://vplay.club:8080/luis00/luis00/416212
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", TV PUBLICA
+
+http://vplay.club:8080/luis00/luis00/416213
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="",  HBO Mundi
+
+http://vplay.club:8080/luis00/luis00/416379
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", HCDN
+
+http://vplay.club:8080/luis00/luis00/416383
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", TVE
+
+http://vplay.club:8080/luis00/luis00/416384
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", I
+
+http://vplay.club:8080/luis00/luis00/416386
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", AMERICA 24
+
+http://vplay.club:8080/luis00/luis00/416388
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", ARGENTINISIMA
+
+http://vplay.club:8080/luis00/luis00/416389
