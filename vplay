@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/entina/directv.com.ar.channels.xml"
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="", Canal de la Ciudad HD,
 http://vplay.club:8080/luis00/luis00/408597
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="",  El Nueve HD
