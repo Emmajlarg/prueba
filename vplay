@@ -13,7 +13,7 @@ http://vplay.club:8080/luis00/luis00/408601
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="",  C5N HD,http://vplay.club:8080/luis00/luis00/408603
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="", America TV HD
 http://vplay.club:8080/luis00/luis00/408604
-DeporTV.ar,ARG08: DEPORTV HD
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="", DEPORTV HD
 http://vplay.club:8080/luis00/luis00/408605
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="", Volver HD
 http://vplay.club:8080/luis00/luis00/408606
