@@ -6,8 +6,6 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86604
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195298
 #EXTINF:-1,ARG | AMERICA TV (lt)
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195300
-#EXTINF:-1,ARG|  TV FHD
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86605
 #EXTINF:-1,ARG| CANAL NUEVE HD
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86606
 #EXTINF:-1,ARG| EL NUEVE HD *
@@ -32,8 +30,6 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195328
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195334
 #EXTINF:-1,ARG | TV PUBLICA SD (AR) (lt)
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195335
-#EXTINF:-1,VIP| | Canal 26
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86654
 #EXTINF:-1,ARG| EL TRECE HD
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86608
 #EXTINF:-1,VIP| | El Trece
@@ -46,10 +42,6 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195315
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195316
 #EXTINF:-1,ARG| TN NOTICIAS
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86619
-#EXTINF:-1,ARG | TN (Argentina) (lt)
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195330
-#EXTINF:-1,ARG | TN HD (lt)
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195331
 #EXTINF:-1,ARG | TN HD * (lt)
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195332
 #EXTINF:-1,ARG | TN NOTICIAS  :)
@@ -74,6 +66,8 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195309
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195310
 #EXTINF:-1,ARG| CANAL 26 HD
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86611
+#EXTINF:-1,VIP| | Canal 26
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86654
 #EXTINF:-1,ARG| A24 HD
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86612
 #EXTINF:-1,ARG| A24 HD
