@@ -4,6 +4,10 @@
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86604
 #EXTINF:-1,ARG | AMERICA (lt)
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195298
+#EXTINF:-1,ARG | AMERICA TV (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195300
+#EXTINF:-1,ARG|  TV FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86605
 #EXTINF:-1,ARG| CANAL NUEVE HD
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86606
 #EXTINF:-1,ARG| EL NUEVE HD *
@@ -56,6 +60,8 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195303
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195304
 #EXTINF:-1,ARG | C5N (lt)
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195305
+#EXTINF:-1,ARG| C5N HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86623
 #EXTINF:-1,ARG | CANAL 26 SD (lt)
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195307
 #EXTINF:-1,ARG| CRONICA HD
@@ -76,6 +82,16 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149625
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195295
 #EXTINF:-1,ARG | A24 HD (lt)
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195297
+#EXTINF:-1,ARG | AMERICA 24 (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195299
+#EXTINF:-1,La NaciÓn +
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/160661
+#EXTINF:-1,ARG | La Nacion (Argentina) (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195321
+#EXTINF:-1,ARG | LN (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195322
+#EXTINF:-1,ARG | ARGENTINA MAGAZINE (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195301
 #EXTINF:-1,ARG| 24/7 NOTICIAS HD
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86613
 #EXTINF:-1,ARG| VOLVER HD
@@ -86,8 +102,6 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86616
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86618
 #EXTINF:-1,ARG| CONSTRUIR TV
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86621
-#EXTINF:-1,ARG| C5N HD
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86623
 #EXTINF:-1,ARG| ENCUENTRO HD
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86624
 #EXTINF:-1,ARG| TNT SPORTS HD
@@ -152,14 +166,6 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149653
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149654
 #EXTINF:-1,ARG| SYFY HD
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149655
-#EXTINF:-1,La NaciÓn +
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/160661
-#EXTINF:-1,ARG | AMERICA 24 (lt)
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195299
-#EXTINF:-1,ARG | AMERICA TV (lt)
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195300
-#EXTINF:-1,ARG | ARGENTINA MAGAZINE (lt)
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195301
 #EXTINF:-1,ARG | DeporTV (lt)
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195311
 #EXTINF:-1,ARG | ENCUENTRO (lt)
@@ -170,10 +176,6 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195318
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195319
 #EXTINF:-1,ARG | GLITZ  :) (lt)
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195320
-#EXTINF:-1,ARG | La Nacion (Argentina) (lt)
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195321
-#EXTINF:-1,ARG | LN  :) (lt)
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195322
 #EXTINF:-1,ARG | MULTIVISION CANAL 9 SALTA (lt)
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195323
 #EXTINF:-1,ARG | TELESUR  :) (lt)
@@ -856,16 +858,16 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131116
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131117
 #EXTINF:-1,SD_LAT: Hbo Family
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131118
+#EXTINF:-1,SD_LAT: Hbo 2
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131122
+#EXTINF:-1,SD_LAT: Axn
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131123
 #EXTINF:-1,SD_LAT: Cinelatino
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131119
 #EXTINF:-1,SD_LAT: Cinemax
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131120
 #EXTINF:-1,SD_LAT: Cinecanal
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131121
-#EXTINF:-1,SD_LAT: Hbo 2
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131122
-#EXTINF:-1,SD_LAT: Axn
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131123
 #EXTINF:-1,SD_LAT: Universal
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131124
 #EXTINF:-1,SD_LAT: Golden Plus
@@ -882,6 +884,14 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131130
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131131
 #EXTINF:-1,SD_LAT: Fox Series
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131133
+#EXTINF:-1,CINE| EPIX DRIVE IN HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/140930
+#EXTINF:-1,CINE| EPIX HITS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/140931
+#EXTINF:-1,CINE| EPIX WEST HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/140932
+#EXTINF:-1,CINE| HBO LATINO DIRECTV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/140934
 #EXTINF:-1,SD_LAT: TUDN
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131134
 #EXTINF:-1,SD_LAT: TUDN XTRA
@@ -936,14 +946,6 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131166
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131167
 #EXTINF:-1,Telemundo 31
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/136523
-#EXTINF:-1,CINE| EPIX DRIVE IN HD
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/140930
-#EXTINF:-1,CINE| EPIX HITS HD
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/140931
-#EXTINF:-1,CINE| EPIX WEST HD
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/140932
-#EXTINF:-1,CINE| HBO LATINO DIRECTV
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/140934
 #EXTINF:-1,MX | Food Network
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88213
 #EXTINF:-1,MX | A&E HD
@@ -1132,8 +1134,6 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86297
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87661
 #EXTINF:-1,UNIVISION EAST HD
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87662
-#EXTINF:-1,TNT USA HD
-http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87663
 #EXTINF:-1,DOCUBOX: SOCIETY
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129789
 #EXTINF:-1,DOCUBOX: HEALTH
@@ -1553,6 +1553,7 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126344
 #EXTINF:-1,NETFLIX TV 16
 http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126359
 #EXTINF:-1,NETFLIX TV 18
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126361
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="", Canal de la Ciudad HD,
 http://vplay.club:8080/luis00/luis00/408597
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="",  El Nueve HD
