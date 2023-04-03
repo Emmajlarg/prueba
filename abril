@@ -1,32 +1,113 @@
 #EXTM3U
 
-
 #EXTINF:-1,ARG: America TV
 http://kuchini.site:8080/mosesmn/4e40546ad6/49245
+#EXTINF:-1,ARG| AMERICA TV FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86604
+#EXTINF:-1,ARG | AMERICA (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195298
+#EXTINF:-1,ARG | AMERICA TV (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195300
 #EXTINF:-1,ARG: Television Publica
 http://kuchini.site:8080/mosesmn/4e40546ad6/296503
 #EXTINF:-1,ARG: TV Publica
 http://kuchini.site:8080/mosesmn/4e40546ad6/8752
+#EXTINF:-1,ARG | TV PUBLICA (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195334
+#EXTINF:-1,ARG | TV PUBLICA SD (AR) (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195335
 #EXTINF:-1,ARG: El Nueve
 http://kuchini.site:8080/mosesmn/4e40546ad6/3202
+#EXTINF:-1,ARG| CANAL NUEVE HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86606
+#EXTINF:-1,ARG| EL NUEVE HD *
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86607
+#EXTINF:-1,ARG | EL NUEVE HD  (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195312
+#EXTINF:-1,ARG | EL NUEVE HD (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195313
 #EXTINF:-1,ARG: Telefe
 http://kuchini.site:8080/mosesmn/4e40546ad6/3199
+#EXTINF:-1,ARG| TELEFE HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149633
+#EXTINF:-1,VIP| | Telefe
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86650
+#EXTINF:-1,ARG | Telefe FHD * (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195325
+#EXTINF:-1,ARG | TELEFE HD * (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195326
+#EXTINF:-1,ARG | Telefe Internacional (Argentina) (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195327
+#EXTINF:-1,ARG | TELEFE SD (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195328
 #EXTINF:-1,ARG: El Trece
 http://kuchini.site:8080/mosesmn/4e40546ad6/3194
+#EXTINF:-1,ARG| EL TRECE HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86608
+#EXTINF:-1,VIP| | El Trece
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86651
+#EXTINF:-1,ARG | EL TRECE (Argentina) (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195314
+#EXTINF:-1,ARG | EL TRECE EN SD (AR) (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195315
+#EXTINF:-1,ARG | EL TRECE HD :) (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195316
 #EXTINF:-1,ARG: IP Noticias
 http://kuchini.site:8080/mosesmn/4e40546ad6/297230
 #EXTINF:-1,ARG: LN+
 http://kuchini.site:8080/mosesmn/4e40546ad6/8758
+#EXTINF:-1,La NaciÓn +
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/160661
+#EXTINF:-1,ARG | La Nacion (Argentina) (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195321
+#EXTINF:-1,ARG | LN (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195322
 #EXTINF:-1,ARG: Todo Noticias
 http://kuchini.site:8080/mosesmn/4e40546ad6/146052
+#EXTINF:-1,ARG| TN NOTICIAS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86619
+#EXTINF:-1,ARG | TN HD * (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195332
+#EXTINF:-1,ARG | TN NOTICIAS  :)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195333
 #EXTINF:-1,ARG: C5N
 http://kuchini.site:8080/mosesmn/4e40546ad6/3191
+#EXTINF:-1,ARG | C5N (Argentina) (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195303
+#EXTINF:-1,ARG | C5N (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195304
+#EXTINF:-1,ARG | C5N (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195305
+#EXTINF:-1,ARG| C5N HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86623
 #EXTINF:-1,ARG: Cronica TV
 http://kuchini.site:8080/mosesmn/4e40546ad6/8763
+#EXTINF:-1,ARG| CRONICA HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86620
+#EXTINF:-1,VIP| | Cronica TV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86655
+#EXTINF:-1,ARG | Cronica (Argentina) (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195309
+#EXTINF:-1,ARG | CRONICA. :) (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195310
 #EXTINF:-1,ARG: A24
 http://kuchini.site:8080/mosesmn/4e40546ad6/3197
+#EXTINF:-1,ARG| A24 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86612
+#EXTINF:-1,ARG| A24 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149625
+#EXTINF:-1,ARG | A24 (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195295
+#EXTINF:-1,ARG | A24 HD (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195297
+#EXTINF:-1,ARG | AMERICA 24 (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195299
 #EXTINF:-1,ARG: Canal 26
 http://kuchini.site:8080/mosesmn/4e40546ad6/3190
+#EXTINF:-1,ARG| CANAL 26 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86611
+#EXTINF:-1,VIP| | Canal 26
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86654
 #EXTINF:-1,ARG: Argentinisima
 http://kuchini.site:8080/mosesmn/4e40546ad6/38659
 #EXTINF:-1,ARG: Telemax
@@ -81,6 +162,8 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/285890
 http://kuchini.site:8080/mosesmn/4e40546ad6/284234
 #EXTINF:-1,ARG: Ciudad Magazine
 http://kuchini.site:8080/mosesmn/4e40546ad6/38663
+#EXTINF:-1,ARG | ARGENTINA MAGAZINE (lt)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/195301
 #EXTINF:-1,ARG: Ciudad TV Chaco
 http://kuchini.site:8080/mosesmn/4e40546ad6/285892
 #EXTINF:-1,ARG: Telefe Rosario
@@ -93,6 +176,10 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/285910
 http://kuchini.site:8080/mosesmn/4e40546ad6/285911
 #EXTINF:-1,ARG: Tierramia TV
 http://kuchini.site:8080/mosesmn/4e40546ad6/76509
+#EXTINF:-1,ARG| TIERRAMIA TV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86618
+#EXTINF:-1,ARG| CONSTRUIR TV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86621
 #EXTINF:-1,ARG: Eltres
 http://kuchini.site:8080/mosesmn/4e40546ad6/285882
 #EXTINF:-1,ARG: Fenix TV
@@ -115,12 +202,20 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/285905
 http://kuchini.site:8080/mosesmn/4e40546ad6/285907
 #EXTINF:-1,ARG: Volver
 http://kuchini.site:8080/mosesmn/4e40546ad6/49329
+#EXTINF:-1,ARG| VOLVER HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86615
 #EXTINF:-1,ARG: Wobi TV
 http://kuchini.site:8080/mosesmn/4e40546ad6/9123
 #EXTINF:-1,ARG: Encuentro
 http://kuchini.site:8080/mosesmn/4e40546ad6/30694
+#EXTINF:-1,ARG| ENCUENTRO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86624
 #EXTINF:-1,ARG: TNT Sports
 http://kuchini.site:8080/mosesmn/4e40546ad6/3204
+#EXTINF:-1,ARG| TNT SPORTS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86626
+#EXTINF:-1,ARG| TNT SPORTS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149627
 #EXTINF:-1,ARG: DeporTV
 http://kuchini.site:8080/mosesmn/4e40546ad6/38664
 #EXTINF:-1,ARG: DirecTV Sports
@@ -145,9 +240,96 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/280370
 http://kuchini.site:8080/mosesmn/4e40546ad6/3187
 #EXTINF:-1,ARG: FOX SPORTS 3
 http://kuchini.site:8080/mosesmn/4e40546ad6/10921
+#EXTINF:-1,ARG| FOX SPORTS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149634
+#EXTINF:-1,ARG| FOX SPORTS 3 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149635
+#EXTINF:-1,ARG| FOX SPORTS 2 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149636
 #EXTINF:-1,ARG: TyC Sports
 http://kuchini.site:8080/mosesmn/4e40546ad6/8749
-
+#EXTINF:-1,ARG| TYC SPORTS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86628
+#EXTINF:-1,LA: TNT Sports
+http://kuchini.site:8080/mosesmn/4e40546ad6/285164
+#EXTINF:-1,ARG| FOX PREMIUN SPORTS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86630
+#EXTINF:-1,LA: ESPN
+http://kuchini.site:8080/mosesmn/4e40546ad6/5779
+#EXTINF:-1,LA: ESPN 2
+http://kuchini.site:8080/mosesmn/4e40546ad6/3031
+#EXTINF:-1,LA: ESPN 3
+http://kuchini.site:8080/mosesmn/4e40546ad6/3032
+#EXTINF:-1,ARG| ESPN 2 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149630
+#EXTINF:-1,ARG| ESPN_HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149631
+#EXTINF:-1,ARG| ESPN HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149632
+#EXTINF:-1,ARG| ESPN 3 SD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86641
+#EXTINF:-1,LA: ESPN Deportes
+http://kuchini.site:8080/mosesmn/4e40546ad6/6446
+#EXTINF:-1,LA: ESPN Extra
+http://kuchini.site:8080/mosesmn/4e40546ad6/285105
+#EXTINF:-1,LA: FOX SPORTS 2
+http://kuchini.site:8080/mosesmn/4e40546ad6/40840
+#EXTINF:-1,LA: FOX SPORTS 3
+http://kuchini.site:8080/mosesmn/4e40546ad6/3042
+#EXTINF:-1,LA: DAZN 1
+http://kuchini.site:8080/mosesmn/4e40546ad6/76336
+#EXTINF:-1,SD_LAT: TUDN
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131134
+#EXTINF:-1,SD_LAT: TUDN XTRA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131135
+#EXTINF:-1,SD_LAT: TUDN XXL
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131136
+#EXTINF:-1,SD_LAT: Afizzionados Opc 1
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131137
+#EXTINF:-1,SD_LAT: CDF BASICO | Chile
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131139
+#EXTINF:-1,SD_LAT: CDF ESTADIO | Chile
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131140
+#EXTINF:-1,SD_LAT: CDF PREMIUM | Chile
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131141
+#EXTINF:-1,SD_LAT: CDO BASICO
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131142
+#EXTINF:-1,SD_LAT: CDO PREMIUM
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131143
+#EXTINF:-1,SD_LAT: DIRECTV SPORTS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131146
+#EXTINF:-1,SD_LAT: DIRECTV SPORTS 1 HD |
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131147
+#EXTINF:-1,SD_LAT: DIRECTV SPORTS 2
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131148
+#EXTINF:-1,SD_LAT: DIRECTV SPORTS PLUS | Ecuador
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131149
+#EXTINF:-1,SD_LAT: ESPN | Mexico
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131151
+#EXTINF:-1,SD_LAT: ESPN 2
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131152
+#EXTINF:-1,SD_LAT: ESPN Deportes USA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131155
+#EXTINF:-1,SD_LAT: EUROSPORT 1
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131157
+#EXTINF:-1,SD_LAT: EUROSPORT 2
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131158
+#EXTINF:-1,SD_LAT: FOX DEPORTES | USA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131159
+#EXTINF:-1,SD_LAT: FOX SPORTS 1 | Sur FXLA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131160
+#EXTINF:-1,SD_LAT: ESPN  PREMIUM LAT
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131162
+#EXTINF:-1,SD_LAT: FOX SPORTS 1 | Latino America
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131163
+#EXTINF:-1,SD_LAT: NBC GOLF
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131164
+#EXTINF:-1,SD_LAT: TNT SPORTS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131165
+#EXTINF:-1,SD_LAT: TVC
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131166
+#EXTINF:-1,SD_LAT: TYC SPORT
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/131167
 #EXTINF:-1,ARG: Baby TV
 http://kuchini.site:8080/mosesmn/4e40546ad6/38649
 #EXTINF:-1,ARG: Boomerang
@@ -166,7 +348,72 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/29310
 http://kuchini.site:8080/mosesmn/4e40546ad6/29311
 #EXTINF:-1,ARG: Pakapaka
 http://kuchini.site:8080/mosesmn/4e40546ad6/49304
-
+#EXTINF:-1,LATINO| CARTOON NETWORK PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86872
+#EXTINF:-1,LATINO| DISCOVERY KIDS PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86873
+#EXTINF:-1,LATINO| DISNEY CHANNEL PREMIUN FHD ( DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86874
+#EXTINF:-1,BITME
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86970
+#EXTINF:-1,BOOMERANG
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86971
+#EXTINF:-1,MX |* TOONCAST HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87106
+#EXTINF:-1,MX |* NICKTOONS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87114
+#EXTINF:-1,NICK HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87002
+#EXTINF:-1,MX |* CARTOON NETWORK HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87124
+#EXTINF:-1,LA: Baby TV
+http://kuchini.site:8080/mosesmn/4e40546ad6/3001
+#EXTINF:-1,LA: Bloomberg TV
+http://kuchini.site:8080/mosesmn/4e40546ad6/71867
+#EXTINF:-1,LA: Cartoon Network
+http://kuchini.site:8080/mosesmn/4e40546ad6/3007
+#EXTINF:-1,LA: Discovery Kids
+http://kuchini.site:8080/mosesmn/4e40546ad6/3020
+#EXTINF:-1,LA: Disney Junior
+http://kuchini.site:8080/mosesmn/4e40546ad6/3026
+#EXTINF:-1,LA: Nick Junior
+http://kuchini.site:8080/mosesmn/4e40546ad6/3075
+#EXTINF:-1,LA: TeenNick
+http://kuchini.site:8080/mosesmn/4e40546ad6/5796
+#EXTINF:-1,LA: Tooncast
+http://kuchini.site:8080/mosesmn/4e40546ad6/3091
+#EXTINF:-1,LA: Ultra Kids
+http://kuchini.site:8080/mosesmn/4e40546ad6/295817
+#EXTINF:-1,KIDS| PANDA HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86389
+#EXTINF:-1,KIDS| NICKELODEON FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86390
+#EXTINF:-1,KIDS| NICK HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86392
+#EXTINF:-1,KIDS| NICK 2 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86393
+#EXTINF:-1,KIDS| NICK JR
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86394
+#EXTINF:-1,KIDS| NICKTOON HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86395
+#EXTINF:-1,KIDS| DISNEY CHANNEL FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86396
+#EXTINF:-1,KIDS| DISNEY JR HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86397
+#EXTINF:-1,KIDS| DISNEY XD FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86398
+#EXTINF:-1,KIDS| DISCOVERY KIDS FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86399
+#EXTINF:-1,KIDS| BOOMERAN FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86400
+#EXTINF:-1,KIDS| BOIN KIDS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86401
+#EXTINF:-1,KIDS| BABY TV FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86402
+#EXTINF:-1,KIDS| CARTOON NETWORKS FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86404
+#EXTINF:-1,KIDS| NICK MUSIC HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86405
 #EXTINF:-1,ARG: AXN
 http://kuchini.site:8080/mosesmn/4e40546ad6/38651
 #EXTINF:-1,ARG: A&E
@@ -187,6 +434,8 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/172268
 http://kuchini.site:8080/mosesmn/4e40546ad6/29302
 #EXTINF:-1,ARG: Space
 http://kuchini.site:8080/mosesmn/4e40546ad6/34566
+#EXTINF:-1,STAR CHANNEL HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86982
 #EXTINF:-1,ARG: SYFY
 http://kuchini.site:8080/mosesmn/4e40546ad6/49316
 #EXTINF:-1,ARG: TCM
@@ -205,7 +454,242 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/38701
 http://kuchini.site:8080/mosesmn/4e40546ad6/29305
 #EXTINF:-1,ARG: HBO Xtreme
 http://kuchini.site:8080/mosesmn/4e40546ad6/172272
-
+#EXTINF:-1,ARG| HBO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149637
+#EXTINF:-1,ARG| HBO PLUS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149638
+#EXTINF:-1,ARG| HBO FAMILY HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149640
+#EXTINF:-1,ARG| HBO SIGNATURE HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149641
+#EXTINF:-1,LA: AXN
+http://kuchini.site:8080/mosesmn/4e40546ad6/2998
+#EXTINF:-1,LA: Cinema Dinamita
+http://kuchini.site:8080/mosesmn/4e40546ad6/3010
+#EXTINF:-1,LA: Cinemax Action
+http://kuchini.site:8080/mosesmn/4e40546ad6/47898
+#EXTINF:-1,LA: Sony Channel
+http://kuchini.site:8080/mosesmn/4e40546ad6/3081
+#EXTINF:-1,LA: Star Cinema
+http://kuchini.site:8080/mosesmn/4e40546ad6/5785
+#EXTINF:-1,LA: Studio Universal
+http://kuchini.site:8080/mosesmn/4e40546ad6/3083
+#EXTINF:-1,LA: SYFY
+http://kuchini.site:8080/mosesmn/4e40546ad6/5802
+#EXTINF:-1,LA: TCM
+http://kuchini.site:8080/mosesmn/4e40546ad6/3085
+#EXTINF:-1,LA: TNT Series
+http://kuchini.site:8080/mosesmn/4e40546ad6/285147
+#EXTINF:-1,LA: Warner TV
+http://kuchini.site:8080/mosesmn/4e40546ad6/60006
+#EXTINF:-1,LA: HBO
+http://kuchini.site:8080/mosesmn/4e40546ad6/3055
+#EXTINF:-1,LA: HBO 2
+http://kuchini.site:8080/mosesmn/4e40546ad6/3056
+#EXTINF:-1,LA: HBO Family
+http://kuchini.site:8080/mosesmn/4e40546ad6/3057
+#EXTINF:-1,LA: HBO Mundi
+http://kuchini.site:8080/mosesmn/4e40546ad6/226015
+#EXTINF:-1,LA: HBO Pop
+http://kuchini.site:8080/mosesmn/4e40546ad6/3069
+#EXTINF:-1,LA: HBO Signature
+http://kuchini.site:8080/mosesmn/4e40546ad6/3059
+#EXTINF:-1,LA: HBO Xtreme
+http://kuchini.site:8080/mosesmn/4e40546ad6/148927
+#EXTINF:-1,LA: HBO+
+http://kuchini.site:8080/mosesmn/4e40546ad6/3058
+#EXTINF:-1,LA: Universal Cinema
+http://kuchini.site:8080/mosesmn/4e40546ad6/291225
+#EXTINF:-1,LA: Universal Reality
+http://kuchini.site:8080/mosesmn/4e40546ad6/291217
+#EXTINF:-1,ARG| CINEMAX HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149642
+#EXTINF:-1,ARG| SPACE HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149643
+#EXTINF:-1,ARG| CINECANAL HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149644
+#EXTINF:-1,ARG| FX HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149645
+#EXTINF:-1,ARG| FOX HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149646
+#EXTINF:-1,ARG| SONY HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149647
+#EXTINF:-1,ARG| WARNER HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149648
+#EXTINF:-1,ARG| UNIVERSAL CHANNEL HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149649
+#EXTINF:-1,ARG| AXN HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149650
+#EXTINF:-1,ARG| A&E HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149652
+#EXTINF:-1,ARG| TBS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149653
+#EXTINF:-1,ARG| AMC HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149654
+#EXTINF:-1,ARG| SYFY HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/149655
+#EXTINF:-1,LATINO| AMC CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86848
+#EXTINF:-1,LATINO| AXN CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86849
+#EXTINF:-1,LATINO| CINECANAL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86850
+#EXTINF:-1,LATINO| FX PREMIUN FHD(DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86856
+#EXTINF:-1,LATINO| HBO  PREMIUN FHD ( DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86858
+#EXTINF:-1,LATINO| HBO PLUS PREMIUN FHD ( DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86861
+#EXTINF:-1,LATINO| SONY CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86864
+#EXTINF:-1,LATINO| TNT CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86866
+#EXTINF:-1,LATINO| TNT SERIES PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86867
+#EXTINF:-1,LATINO| STUDIO UNIVERSAL CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86868
+#EXTINF:-1,LATINO| WARNER CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86870
+#EXTINF:-1,LATINO| FILM & ARTS CHANNEL FHD (DUAL AUDIO)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86871
+#EXTINF:-1,CINE| A ESTRENAR FHD **
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87515
+#EXTINF:-1,CINE| ACTION MAX FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87516
+#EXTINF:-1,CINE| AMC HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87518
+#EXTINF:-1,CINE| LIFETIME FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87524
+#EXTINF:-1,CINE| CINE MEXICANO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87526
+#EXTINF:-1,CINE| CINECANAL HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87527
+#EXTINF:-1,CINE| CINEMA DINAMITA HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87530
+#EXTINF:-1,CINE| CINEMAX EAST FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87533
+#EXTINF:-1,CINE| CINEMAX FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87534
+#EXTINF:-1,CINE| DHE FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87538
+#EXTINF:-1,CINE| ESTUDIO UNIVERSAL FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87540
+#EXTINF:-1,CINE| FILM & ARTS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87542
+#EXTINF:-1,CINE| FILM ZONE HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87543
+#EXTINF:-1,CINE| FOX  FAMILY PREMIUN HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87544
+#EXTINF:-1,CINE| FOX CHANNEL FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87547
+#EXTINF:-1,CINE| FOX LIFE FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87554
+#EXTINF:-1,CINE| FOX SERIES PREMIUN FHD MEXICO
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87562
+#EXTINF:-1,CINE| FX HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87565
+#EXTINF:-1,CINE| GOLDEN EDGE HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87568
+#EXTINF:-1,CINE| GOLDEN HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87569
+#EXTINF:-1,CINE| GOLDEN PLUS FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87570
+#EXTINF:-1,CINE| GOLDEN PREMIER FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87572
+#EXTINF:-1,CINE| MAX PRIME FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87595
+#EXTINF:-1,CINE| MAX UP HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87596
+#EXTINF:-1,CINE| MOREMAX FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87598
+#EXTINF:-1,CINE| MOVIEMAX FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87599
+#EXTINF:-1,CINE| OUTERMAX FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87603
+#EXTINF:-1,CINE| SHOWTIME BEYOND FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87607
+#EXTINF:-1,CINE| SHOWTIME EAST FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87608
+#EXTINF:-1,CINE| SHOWTIME EXTREME LATINO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87609
+#EXTINF:-1,CINE| SHOWTIME HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87610
+#EXTINF:-1,CINE| SHOWTIME LATINO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87611
+#EXTINF:-1,CINE| SONY HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87614
+#EXTINF:-1,CINE| STARZ EAST FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87621
+#EXTINF:-1,CINE| STARZ EDGE LATINO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87623
+#EXTINF:-1,CINE| STARZ ENCORE  ACTION HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87624
+#EXTINF:-1,CINE| STARZ ENCORE FAMILY HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87626
+#EXTINF:-1,CINE| STARZ ENCORE HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87627
+#EXTINF:-1,CINE| STARZ ENCORE WESTERNS HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87628
+#EXTINF:-1,CINE| STARZ FAMLY HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87629
+#EXTINF:-1,CINE| STARZ LATINO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87631
+#EXTINF:-1,CINE| STARZ ENCORE EN ESPANOL  HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87632
+#EXTINF:-1,CINE| TNT  FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87639
+#EXTINF:-1,CINE| TNT SERIES FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87641
+#EXTINF:-1,CINE| UNIVERSAL CHANNEL FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87643
+#EXTINF:-1,CINE| WARNER FHD MEXICO
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87645
+#EXTINF:-1,CINE| CINEBOX 1 4K
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/87665
+#EXTINF:-1,HDMX | DE PELICULA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90166
+#EXTINF:-1,HDMX | GOLDEN EDGE
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90167
+#EXTINF:-1,MX | De Pelicula Clasico
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90168
+#EXTINF:-1,MX | Golden
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90169
+#EXTINF:-1,MX | AMC
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90170
+#EXTINF:-1,MX | De Pelicula
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90171
+#EXTINF:-1,Cinelatino
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90172
+#EXTINF:-1,MX | Cinemax
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90175
+#EXTINF:-1,MX | D Pelicula Plus
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90176
+#EXTINF:-1,MX | HBO 2
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90189
+#EXTINF:-1,MX | HBO Extreme
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90190
+#EXTINF:-1,MX | HBO Family
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90191
+#EXTINF:-1,MX | HBO Mundi
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90192
+#EXTINF:-1,MX | HBO Plus
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90193
+#EXTINF:-1,MX | HBO Pop
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90194
+#EXTINF:-1,MX | HBO Signature
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90195
+#EXTINF:-1,MX | SyFy
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90197
+#EXTINF:-1,HDMX | HBO
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90199
+#EXTINF:-1,HDMX | HBO 2
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90200
+#EXTINF:-1,HDMX | Cinecanal
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90203
+#EXTINF:-1,HD | Cinemax
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90204
+#EXTINF:-1,MX | AZ Cinema
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90211
 #EXTINF:-1,ARG: Comedy Central
 http://kuchini.site:8080/mosesmn/4e40546ad6/49261
 #EXTINF:-1,ARG: Discovery Theater
@@ -218,7 +702,118 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/8691
 http://kuchini.site:8080/mosesmn/4e40546ad6/30712
 #EXTINF:-1,ARG: Garage TV
 http://kuchini.site:8080/mosesmn/4e40546ad6/23915
-
+#EXTINF:-1,MX | TLNovelas
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88244
+#EXTINF:-1,FHD | Discovery Home and Health
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90233
+#EXTINF:-1,HQ | Distrito Comedia
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/170751
+#EXTINF:-1,CULT| A&E LATINO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86185
+#EXTINF:-1,CULT| A&E MEXICO FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86186
+#EXTINF:-1,CULT| ANIMAL PLANET FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86187
+#EXTINF:-1,CULT| DISCOVERY CHANNEL HD*+*
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86189
+#EXTINF:-1,CULT| DISCOVERY CHANNEL EN ESPANOL HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86192
+#EXTINF:-1,CULT| DISCOVERY CIVILIZACION FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86193
+#EXTINF:-1,CULT| DISCOVERY CIVILIZACION HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86194
+#EXTINF:-1,CULT| DISCOVERY FAMILIA FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86195
+#EXTINF:-1,CULT| DISCOVERY HOME & HEALTH
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86197
+#EXTINF:-1,CULT| HGTV HD***
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86199
+#EXTINF:-1,CULT| DISCOVERY ID FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86200
+#EXTINF:-1,CULT| INVESTIGATION DISCOVERY HD*+*
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86202
+#EXTINF:-1,CULT| DISCOVERY INVESTIGATION HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86203
+#EXTINF:-1,CULT| DISCOVERY SCIENCIE FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86204
+#EXTINF:-1,CULT| DISCOVERY THEATHER FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86206
+#EXTINF:-1,CULT DISCOVERY TURBO FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86209
+#EXTINF:-1,CULT| DISCOVERY TURBO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86210
+#EXTINF:-1,CULT| DISCOVERY WORLD FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86211
+#EXTINF:-1,CULT| H2 FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86213
+#EXTINF:-1,CULT| HISTORY CHANNEL FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86216
+#EXTINF:-1,CULT| HISTORY HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86217
+#EXTINF:-1,CULT| INVESTIGATION DISCOVERY FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86218
+#EXTINF:-1,CULT| NAT GEO WILD FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86219
+#EXTINF:-1,CULT| NATIONAL GEOGRAPHIC HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86221
+#EXTINF:-1,CULT| TLC FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86223
+#EXTINF:-1,CULT| TRUTV HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/86226
+#EXTINF:-1,HQ | History
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/170743
+#EXTINF:-1,HQ | Discovery H&H
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/170746
+#EXTINF:-1,SCRIPT SCRIPT Animal Planet
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192348
+#EXTINF:-1,SCRIPT Discovery Channel
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192349
+#EXTINF:-1,SCRIPT Discovery H&h
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192350
+#EXTINF:-1,SCRIPT Discovery Science
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192351
+#EXTINF:-1,SCRIPTDiscovery Theater
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192352
+#EXTINF:-1,SCRIPTDiscovery Tlc
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192353
+#EXTINF:-1,SCRIPTDiscovery Turbo
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192354
+#EXTINF:-1,SCRIPTDiscovery World
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192355
+#EXTINF:-1,SCRIPTH2
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192356
+#EXTINF:-1,SCRIPTHgtv
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192357
+#EXTINF:-1,SCRIPTHistory
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192358
+#EXTINF:-1,SCRIPTNatgeo
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/192360
+#EXTINF:-1,LAT| VIX NOVELAS DE ORO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/118535
+#EXTINF:-1,LAT| NOVELAS CLUB HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/118536
+#EXTINF:-1,ESP| COCINA FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/118537
+#EXTINF:-1,LAT| DELICIOSO COCINA HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/118538
+#EXTINF:-1,CINE| TAQUILLA 4
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/121843
+#EXTINF:-1,Latino | Imagen
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124057
+#EXTINF:-1,Latino | Foro TV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124058
+#EXTINF:-1,Latino | El Gourmet
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124059
+#EXTINF:-1,Latino | El Garage
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124060
+#EXTINF:-1,Latino | AXN White
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124062
+#EXTINF:-1,Latino | ADN40
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124063
+#EXTINF:-1,Latino | FXM
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124064
+#EXTINF:-1,Latino | Glitz
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124066
 #EXTINF:-1,ARG: Gen Reprise
 http://kuchini.site:8080/mosesmn/4e40546ad6/285897
 #EXTINF:-1,ARG: IVC TV
@@ -229,4 +824,411 @@ http://kuchini.site:8080/mosesmn/4e40546ad6/199644
 http://kuchini.site:8080/mosesmn/4e40546ad6/30699
 #EXTINF:-1,ARG: Santa Maria TV
 http://kuchini.site:8080/mosesmn/4e40546ad6/285904
-
+#EXTINF:-1,SKY-SSTV:Tlenovelas SD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/107051
+#EXTINF:-1,SSTV-SKY:AZTECA CORAZON
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/107053
+#EXTINF:-1,MX: Telenovelas
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/107056
+#EXTINF:-1,HDMX | AZTECA 1
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88248
+#EXTINF:-1,MX | ADN40
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88250
+#EXTINF:-1,MX | Azteca 7
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88251
+#EXTINF:-1,MX | Azteca Corazon
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88252
+#EXTINF:-1,MX | Azteca Uno
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88253
+#EXTINF:-1,MX | Canal 5
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88254
+#EXTINF:-1,MX | Estrellas
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88257
+#EXTINF:-1,MX | Multimedios Mty
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88260
+#EXTINF:-1,Antena Chihuahua
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88261
+#EXTINF:-1,HDMX | Canal 5
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88262
+#EXTINF:-1,IZMX | A+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88266
+#EXTINF:-1,RTQ Queretaro
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/106247
+#EXTINF:-1,Tevex
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/106273
+#EXTINF:-1,ADN 40 (480p)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122600
+#EXTINF:-1,Alcarria TV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122602
+#EXTINF:-1,AMX Noticias
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122603
+#EXTINF:-1,Azteca Uno 
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122605
+#EXTINF:-1,Canal 10 Cancún
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122609
+#EXTINF:-1,DW English (1080p)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122620
+#EXTINF:-1,EWTN el Canal Católico
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122631
+#EXTINF:-1,Hiperconectados Televisión
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122636
+#EXTINF:-1,Hipódromo de las Américas
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122637
+#EXTINF:-1,Insight TV (1080p)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122641
+#EXTINF:-1,Jalisco TV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122642
+#EXTINF:-1,Latino Kids 
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122644
+#EXTINF:-1,Multimedios Guadalajara 
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122654
+#EXTINF:-1,Multimedios Laguna
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122655
+#EXTINF:-1,Multimedios Monterrey
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122656
+#EXTINF:-1,NASA TV 
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122658
+#EXTINF:-1,NHK World Japan (1080p)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122659
+#EXTINF:-1,Noticias Canal 10
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122660
+#EXTINF:-1, Euronews
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122663
+#EXTINF:-1,Radio San Borja TV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122666
+#EXTINF:-1,RCG TV (1080p)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122668
+#EXTINF:-1,Red Bull TV (1080p)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122669
+#EXTINF:-1,Runtime (Mexico)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122674
+#EXTINF:-1,SET Televisión Canal 26.1
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122679
+#EXTINF:-1,Sofy TV 
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122682
+#EXTINF:-1,Tastemade en Español 
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122683
+#EXTINF:-1,TELE SISTEMA CANAL 9
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122684
+#EXTINF:-1,Telemax (XEWH-TDT)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122686
+#EXTINF:-1,Teleritmo 
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122687
+#EXTINF:-1,TRT World
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122699
+#EXTINF:-1,TV Perú Internacional 
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122702
+#EXTINF:-1,TVM Internacional
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122704
+#EXTINF:-1,TVMÁS (XHGV-TDT)
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/122705
+#EXTINF:-1,URUGUAY | VTV PLUS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90601
+#EXTINF:-1,URUGUAY | CANAL 4
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90602
+#EXTINF:-1,URUGUAY | CANAL 12
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90603
+#EXTINF:-1,URUGUAY | CANAL 10 SAETA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90605
+#EXTINF:-1,URUGUAY | VTV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90606
+#EXTINF:-1,URUGUAY | CANAL 10
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90607
+#EXTINF:-1,URUGUAY | LA TELE
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90609
+#EXTINF:-1,URUGUAY | LATINA Y PAYSANDU
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90611
+#EXTINF:-1,URUGUAY | CANAL 4 SALTO
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90612
+#EXTINF:-1,URUGUAY | CANAL 4 PAYSANDU
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/90613
+#EXTINF:-1,|ES| LA 1 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/70682
+#EXTINF:-1,|ES| Cuatro 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/70685
+#EXTINF:-1,|ES| La Sexta 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/70687
+#EXTINF:-1,|ES| Disney Channel 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/70698
+#EXTINF:-1,|ES| Discovery Channel
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/70705
+#EXTINF:-1,|ES| Real Madrid TV 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/70734
+#EXTINF:-1,|ES| Movistar Comedia 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/105214
+#EXTINF:-1,|ES| Movistar Estrenos 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/105216
+#EXTINF:-1,|ES| Movistar Series 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/105218
+#EXTINF:-1,|ES| Movistar Series Mania 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/105221
+#EXTINF:-1,|ES| Comedy Central 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/107112
+#EXTINF:-1,|ES| Movistar Comedia 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/107125
+#EXTINF:-1,|ES| Movistar Estrenos 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/107127
+#EXTINF:-1,|ES| Movistar Series Mania 4K+
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/107133
+#EXTINF:-1,ESP| TELECINCO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124251
+#EXTINF:-1,ES | La 2
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129518
+#EXTINF:-1,ES | ANTENA 3
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129519
+#EXTINF:-1,ES | Telecinco
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129521
+#EXTINF:-1,ES | Energy
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129523
+#EXTINF:-1,ES | Mega
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129525
+#EXTINF:-1,ES | Dkiss
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129527
+#EXTINF:-1,ES | Movistar Estrenos
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129528
+#EXTINF:-1,ES | AMC
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129533
+#EXTINF:-1,ES | TCM
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129534
+#EXTINF:-1,ES | AXN
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129536
+#EXTINF:-1,ES | AXN White
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129537
+#EXTINF:-1,ES | Movistar Series
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129540
+#EXTINF:-1,ES | Movistar Seriesmania
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129541
+#EXTINF:-1,ES | Odisea
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129542
+#EXTINF:-1,ES | Discovery Channel
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129543
+#EXTINF:-1,ES | Baby TV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129552
+#EXTINF:-1,ES | Nick Jr
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129553
+#EXTINF:-1,ES | Telemadrid HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129556
+#EXTINF:-1,ES | Canal Panda
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129557
+#EXTINF:-1,LA 1 FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/152297
+#EXTINF:-1,La 2 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/152299
+#EXTINF:-1,CUATRO FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/152305
+#EXTINF:-1,TELECINCO FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/152308
+#EXTINF:-1,FDF
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/152315
+#EXTINF:-1,CLAN HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/152325
+#EXTINF:-1,24 HORAS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179264
+#EXTINF:-1,24 HORAS SD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179265
+#EXTINF:-1,La 1 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179267
+#EXTINF:-1,LA 2 SD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179271
+#EXTINF:-1,ANTENA 3
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179272
+#EXTINF:-1,ANTENA 3 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179273
+#EXTINF:-1,CUATRO
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179275
+#EXTINF:-1,CUATRO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179276
+#EXTINF:-1,TELECINCO
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179278
+#EXTINF:-1,TELECINCO HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179279
+#EXTINF:-1,LA SEXTA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179281
+#EXTINF:-1,La Sexta HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179282
+#EXTINF:-1,MEGA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179284
+#EXTINF:-1,NOVA HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179285
+#EXTINF:-1,NEOX
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179286
+#EXTINF:-1,FDF
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179287
+#EXTINF:-1,FDF HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179288
+#EXTINF:-1,ENERGY
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179289
+#EXTINF:-1,ENERGY HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179290
+#EXTINF:-1,COSMO
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179291
+#EXTINF:-1,COSMO FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179292
+#EXTINF:-1,DIVINITY
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179293
+#EXTINF:-1,DIVINITY HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179294
+#EXTINF:-1,DKISS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179295
+#EXTINF:-1,DMAX
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179296
+#EXTINF:-1,CLAN HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179297
+#EXTINF:-1,CLAN TVE
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179298
+#EXTINF:-1,ARAGON INT
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179299
+#EXTINF:-1,SUNDANCE
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179300
+#EXTINF:-1,TV GALICIA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179301
+#EXTINF:-1,#0  FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179302
+#EXTINF:-1,#0 HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179303
+#EXTINF:-1,101TV Malaga
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179304
+#EXTINF:-1,3/24
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179310
+#EXTINF:-1,AMC FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179311
+#EXTINF:-1,AXN HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179312
+#EXTINF:-1,AXN HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179313
+#EXTINF:-1,AXN WHITE FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179314
+#EXTINF:-1,AXN WHITE HD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179315
+#EXTINF:-1,CALLE 13 FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179318
+#EXTINF:-1,CANAL COCINA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179319
+#EXTINF:-1,CANAL COSTA TV
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179320
+#EXTINF:-1,CLASSICA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179322
+#EXTINF:-1,FOX FHD
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179327
+#EXTINF:-1,TVG Cultural
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179332
+#EXTINF:-1,TVG Europa
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179333
+#EXTINF:-1,TVG Infantil
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179334
+#EXTINF:-1,TVG Musigal
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/179335
+#EXTINF:-1,Vevo 1
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/144350
+#EXTINF:-1,Vevo 2
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/144351
+#EXTINF:-1,DOCUBOX: SOCIETY
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129789
+#EXTINF:-1,DOCUBOX: HEALTH
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129790
+#EXTINF:-1,DOCUBOX: SEXUALITY
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129791
+#EXTINF:-1,DOCUBOX: SCIENCE
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129792
+#EXTINF:-1,DOCUBOX: RELIGION
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129793
+#EXTINF:-1,DOCUBOX: POLITICS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129794
+#EXTINF:-1,DOCUBOX: PERFORMING ARTS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129795
+#EXTINF:-1,DOCUBOX: NATURE
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129796
+#EXTINF:-1,DOCUBOX: MYSTERY
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129797
+#EXTINF:-1,DOCUBOX: MILITARY AND WAR
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129798
+#EXTINF:-1,DOCUBOX: MEDIA
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129799
+#EXTINF:-1,DOCUBOX: ENVIRONMENT
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129800
+#EXTINF:-1,DOCUBOX: ECONOMICS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129801
+#EXTINF:-1,DOCUBOX: DRUGS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129802
+#EXTINF:-1,DOCUBOX: CONSPIRACY
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129804
+#EXTINF:-1,DOCUBOX: BIOGRAPHY
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129805
+#EXTINF:-1,CINEBOX: WAR
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129806
+#EXTINF:-1,DOCUBOX: HISTORY
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129807
+#EXTINF:-1,DOCUBOX: SPORTS
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129808
+#EXTINF:-1,DOCUBOX: TECHNOLOGY
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/129809
+#EXTINF:-1,Videos Chistosos
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/144352
+#EXTINF:-1,Videos Chistosos 2
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/144353
+#EXTINF:-1,NETFLIX 22
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124815
+#EXTINF:-1,NETFLIX 21
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124816
+#EXTINF:-1,NETFLIX 20
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124817
+#EXTINF:-1,NETFLIX 19
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124818
+#EXTINF:-1,NETFLIX 18
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124819
+#EXTINF:-1,NETFLIX 17
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124820
+#EXTINF:-1,NETFLIX 16
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124821
+#EXTINF:-1,NETFLIX 15
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124822
+#EXTINF:-1,NETFLIX 14
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/124823
+#EXTINF:-1,NETFLIX TV 01
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126316
+#EXTINF:-1,NETFLIX TV  02
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126317
+#EXTINF:-1,NETFLIX TV  03
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126318
+#EXTINF:-1,NETFLIX TV  04
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126319
+#EXTINF:-1,NETFLIX TV 05
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126320
+#EXTINF:-1,NETFLIX TV 07
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126322
+#EXTINF:-1,NETFLIX TV 09
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126323
+#EXTINF:-1,NETFLIX TV 21
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126324
+#EXTINF:-1,NETFLIX TV 20
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126325
+#EXTINF:-1,NETFLIX TV 19
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126326
+#EXTINF:-1,NETFLIX TV 18
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126327
+#EXTINF:-1,NETFLIX TV 17
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126328
+#EXTINF:-1,NETFLIX TV 16
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126329
+#EXTINF:-1,NETFLIX TV 15
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126330
+#EXTINF:-1,NETFLIX TV 14
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126331
+#EXTINF:-1,NETFLIX TV 13
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126332
+#EXTINF:-1,NETFLIX TV 12
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126333
+#EXTINF:-1,NETFLIX TV 11
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126334
+#EXTINF:-1,NETFLIX TV 08
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126337
+#EXTINF:-1,NETFLIX TV 07
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126338
+#EXTINF:-1,NETFLIX TV 06
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126339
+#EXTINF:-1,NETFLIX TV  01
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126344
+#EXTINF:-1,NETFLIX TV 16
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126359
+#EXTINF:-1,NETFLIX TV 18
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/126361
