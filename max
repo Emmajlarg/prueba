@@ -1,66 +1,54 @@
 #EXTM3U
-#EXTINF:-1,▂ ▄ ▅ ▆  ARGENTINA  ▆ ▅ ▄ ▂
+#EXTINF:-1,▂ ▄ ▅ ▆ ARGENTINA  3865448130 ▆ ▅ ▄ ▂
 http://maxpro.cc:2095/live/Area504/504restream/31863.ts
-#EXTINF:-1 group-title="", Contacto✅3865448130🟢3865448130
-https://stmv1.cnarlatam.com/cadenavivohd/cadenavivohd/playlist.m3u8
 #EXTINF:-1 tvg-name=" NEO TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="NACIONAL", NEO TV
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv1MpkuA-yo59mjqY_VK5DKg/ts
-#EXTINF:-1,ARG: A24 SD
-http://maxpro.cc:2095/live/Area504/504restream/25181.ts
-#EXTINF:-1,ARG: A24 HD
-http://maxpro.cc:2095/live/Area504/504restream/256.ts
-#EXTINF:-1,ARG: A24 FHD
-http://maxpro.cc:2095/live/Area504/504restream/233889.ts
-#EXTINF:-1,ARG: C5N SD
-http://maxpro.cc:2095/live/Area504/504restream/25180.ts
-#EXTINF:-1,ARG: C5N HD
-http://maxpro.cc:2095/live/Area504/504restream/254.ts
-#EXTINF:-1,ARG: C5N FHD
-http://maxpro.cc:2095/live/Area504/504restream/70341.ts
 #EXTINF:-1,ARG: America TV SD
 http://maxpro.cc:2095/live/Area504/504restream/25182.ts
 #EXTINF:-1,ARG: America TV HD
 http://maxpro.cc:2095/live/Area504/504restream/257.ts
-#EXTINF:-1,ARG: America TV FHD
-http://maxpro.cc:2095/live/Area504/504restream/111674.ts
 #EXTINF:-1,ARG: Television Publica SD 
 http://maxpro.cc:2095/live/Area504/504restream/132566.ts
 #EXTINF:-1,ARG: Television Publica HD
 http://maxpro.cc:2095/live/Area504/504restream/25183.ts
-#EXTINF:-1,ARG: Television Publica FHD
-http://maxpro.cc:2095/live/Area504/504restream/260.ts
 #EXTINF:-1,ARG: El Nueve HD (MOVIL)
 http://maxpro.cc:2095/live/Area504/504restream/74840.ts
 #EXTINF:-1,ARG: El Nueve SD
 http://maxpro.cc:2095/live/Area504/504restream/132153.ts
 #EXTINF:-1,ARG: El Nueve HD
 http://maxpro.cc:2095/live/Area504/504restream/261.ts
-#EXTINF:-1,ARG: El Nueve FHD
-http://maxpro.cc:2095/live/Area504/504restream/262.ts
 #EXTINF:-1,ARG: Telefe SD
 http://maxpro.cc:2095/live/Area504/504restream/264.ts
 #EXTINF:-1,ARG: Telefe HD
 http://maxpro.cc:2095/live/Area504/504restream/111675.ts
-#EXTINF:-1,ARG: Telefe FHD
-http://maxpro.cc:2095/live/Area504/504restream/263.ts
 #EXTINF:-1,ARG: El trece SD
 http://maxpro.cc:2095/live/Area504/504restream/25187.ts
 #EXTINF:-1,ARG: El trece HD
 http://maxpro.cc:2095/live/Area504/504restream/265.ts
-#EXTINF:-1,ARG: El Trece FHD
-http://maxpro.cc:2095/live/Area504/504restream/266.ts
-#EXTINF:-1,ARG: Cine AR SD
-http://maxpro.cc:2095/live/Area504/504restream/25185.ts
-#EXTINF:-1,ARG: Cine AR HD
-http://maxpro.cc:2095/live/Area504/504restream/273.ts
 #EXTINF:-1,ARG: Cronica TV HD
 http://maxpro.cc:2095/live/Area504/504restream/274.ts
 #EXTINF:-1,ARG: Todo Noticias TN SD
 http://maxpro.cc:2095/live/Area504/504restream/275.ts
 #EXTINF:-1,ARG: Todo Noticias TN HD
 http://maxpro.cc:2095/live/Area504/504restream/25194.ts
-#EXTINF:-1,ARG: Todo Noticias TN FHD
-http://maxpro.cc:2095/live/Area504/504restream/112802.ts
+#EXTINF:-1,ARG: A24 SD
+http://maxpro.cc:2095/live/Area504/504restream/25181.ts
+#EXTINF:-1,ARG: A24 HD
+http://maxpro.cc:2095/live/Area504/504restream/256.ts
+#EXTINF:-1,ARG: C5N SD
+http://maxpro.cc:2095/live/Area504/504restream/25180.ts
+#EXTINF:-1,ARG: C5N HD
+http://maxpro.cc:2095/live/Area504/504restream/254.ts
+#EXTINF:-1,ARG: LN+
+http://maxpro.cc:2095/live/Area504/504restream/126043.ts
+#EXTINF:-1,ARG: Net TV HD
+http://maxpro.cc:2095/live/Area504/504restream/163369.ts
+#EXTINF:-1,ARG: Canal 26
+http://maxpro.cc:2095/live/Area504/504restream/300838.ts
+#EXTINF:-1,ARG: Cine AR SD
+http://maxpro.cc:2095/live/Area504/504restream/25185.ts
+#EXTINF:-1,ARG: Cine AR HD
+http://maxpro.cc:2095/live/Area504/504restream/273.ts
 #EXTINF:-1,ARG: Quiero Musica SD
 http://maxpro.cc:2095/live/Area504/504restream/25189.ts
 #EXTINF:-1,ARG: Pakapaka HD
@@ -115,12 +103,6 @@ http://maxpro.cc:2095/live/Area504/504restream/69212.ts
 http://maxpro.cc:2095/live/Area504/504restream/69214.ts
 #EXTINF:-1,ARG: Chato TV Ciudad
 http://maxpro.cc:2095/live/Area504/504restream/71733.ts
-#EXTINF:-1,ARG: LN+
-http://maxpro.cc:2095/live/Area504/504restream/126043.ts
-#EXTINF:-1,ARG: Net TV HD
-http://maxpro.cc:2095/live/Area504/504restream/163369.ts
-#EXTINF:-1,ARG: Canal 26
-http://maxpro.cc:2095/live/Area504/504restream/300838.ts
 #EXTINF:-1,•●★-- Deportes Argentina --★●•
 http://maxpro.cc:2095/live/Area504/504restream/32333.ts
 #EXTINF:-1,SP: ARG: Directv Sports 1 HD
@@ -145,8 +127,6 @@ http://maxpro.cc:2095/live/Area504/504restream/31810.ts
 http://maxpro.cc:2095/live/Area504/504restream/233836.ts
 #EXTINF:-1,SP: ARG: ESPN Premium HD
 http://maxpro.cc:2095/live/Area504/504restream/32331.ts
-#EXTINF:-1,SP: ARG: ESPN Premium FHD
-http://maxpro.cc:2095/live/Area504/504restream/69258.ts
 #EXTINF:-1,SP: ARG: Fox Sports HD
 http://maxpro.cc:2095/live/Area504/504restream/26531.ts
 #EXTINF:-1,SP: ARG: Fox Sports 2 HD
@@ -157,8 +137,6 @@ http://maxpro.cc:2095/live/Area504/504restream/158180.ts
 http://maxpro.cc:2095/live/Area504/504restream/233835.ts
 #EXTINF:-1,SP: ARG: TNT Sports HD
 http://maxpro.cc:2095/live/Area504/504restream/26530.ts
-#EXTINF:-1,SP: ARG: TNT Sports FHD
-http://maxpro.cc:2095/live/Area504/504restream/1901.ts
 #EXTINF:-1,SP: ARG: TyC Sports Local SD
 http://maxpro.cc:2095/live/Area504/504restream/31340.ts
 #EXTINF:-1,SP: ARG: TyC Sports Local FHD
@@ -175,12 +153,8 @@ http://maxpro.cc:2095/live/Area504/504restream/65793.ts
 http://maxpro.cc:2095/live/Area504/504restream/2027.ts
 #EXTINF:-1,LAT: Investigation Discovery HD (CO)
 http://maxpro.cc:2095/live/Area504/504restream/32255.ts
-#EXTINF:-1,LAT: Investigation Discovery FHD (CO)
-http://maxpro.cc:2095/live/Area504/504restream/4578.ts
 #EXTINF:-1,LAT: Investigation Discovery (MX)
 http://maxpro.cc:2095/live/Area504/504restream/7087.ts
-#EXTINF:-1,LAT: Investigation Discovery FHD (MX)
-http://maxpro.cc:2095/live/Area504/504restream/7088.ts
 #EXTINF:-1,LAT: Investigation Discovery (PY)
 http://maxpro.cc:2095/live/Area504/504restream/40834.ts
 #EXTINF:-1,LAT: Investigation Discovery HD (PY) (h265)
