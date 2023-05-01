@@ -3,6 +3,8 @@
 http://maxpro.cc:2095/live/Area504/504restream/31863.ts
 #EXTINF:-1 tvg-name=" NEO TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="NACIONAL", NEO TV
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv1MpkuA-yo59mjqY_VK5DKg/ts
+EXTINF:-1 group-title="Nacional" tvg-logo="https://telefe-static2.akamaized.net/media/143199/logo-tucuman-368x80.png?v=20190205101523000", EL OCHO TV (Tucuman)
+https://www.dailymotion.com/cdn/live/video/x8hvuj5.m3u8?sec=JALxrjMAev4E9s8Lwv9hFOn12NFyri4RcW12IWjc8mUA4ZJzrMGARJf5FqZBnU9HE5LrA-uD8GTPqrvVmJnDLg&dmTs=809674&dmV1st=925e45c3-b881-4816-a8b1-61b54ac8b38e
 #EXTINF:-1,ARG : AMERICA TV FHD
 http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/52536.ts
 #EXTINF:-1,ARG : TV PUBLICA
