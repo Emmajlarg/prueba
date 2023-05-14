@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,▂ ▄ ▅ ▆ ARGENTINA  3865448130 ▆ ▅ ▄ ▂
 http://maxpro.cc:2095/live/Area504/504restream/31863.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MARIO BROS" tvg-logo="https://www.gamingalexandria.com/NES/Super%20Mario%20Bros.%203/Super%20Mario%20Bros.%203%20-%20Label.jpg" group-title="",SUPER MARIO BROS
+http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023-RmTv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MARIO BROS HD" tvg-logo="https://www.gamingalexandria.com/NES/Super%20Mario%20Bros.%203/Super%20Mario%20Bros.%203%20-%20Label.jpg" group-title="", SUPER MARIO BROS HD
+http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
 #EXTINF:-1 tvg-name=" NEO TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="NACIONAL", NEO TV
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv1MpkuA-yo59mjqY_VK5DKg/ts
 #EXTINF:-1,ARG: America TV
