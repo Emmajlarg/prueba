@@ -3,973 +3,1405 @@
 http://maxpro.cc:2095/live/Area504/504restream/31863.ts
 #EXTINF:-1 tvg-name=" NEO TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="NACIONAL", NEO TV
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv1MpkuA-yo59mjqY_VK5DKg/ts
-#EXTINF:-1,ARG| AMERICA TV FHD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86604
-#EXTINF:-1,ARG | AMERICA (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195298
-#EXTINF:-1,ARG | AMERICA TV (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195300
-#EXTINF:-1,ARG | TV PUBLICA (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195334
-#EXTINF:-1,ARG | TV PUBLICA SD (AR) (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195335
-#EXTINF:-1,ARG | EL NUEVE HD  (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195312
-#EXTINF:-1,ARG | EL NUEVE HD (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195313
-#EXTINF:-1,ARG| CANAL NUEVE HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86606
-#EXTINF:-1,ARG| EL NUEVE HD *
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86607
-#EXTINF:-1,ARG | EL TRECE (Argentina) (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195314
-#EXTINF:-1,ARG | EL TRECE EN SD (AR) (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195315
-#EXTINF:-1,ARG | EL TRECE HD :) (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195316
-#EXTINF:-1,ARG| EL TRECE HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86608
-#EXTINF:-1,ARG | Telefe FHD * (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195325
-#EXTINF:-1,ARG | TELEFE HD * (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195326
-#EXTINF:-1,ARG | TELEFE SD (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195328
-#EXTINF:-1,La NaciÓn +
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/160661
-#EXTINF:-1,ARG | TN (Argentina) (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195330
-#EXTINF:-1,ARG | TN HD (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195331
-#EXTINF:-1,ARG | TN HD * (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195332
-#EXTINF:-1,ARG | TN NOTICIAS  :)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195333
-#EXTINF:-1,ARG| TN NOTICIAS
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86619
-#EXTINF:-1,ARG | C5N (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195304
-#EXTINF:-1,ARG | C5N (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195305
-#EXTINF:-1,ARG | Cronica (Argentina) (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195309
-#EXTINF:-1,ARG | CRONICA. :) (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195310
-#EXTINF:-1,ARG| CRONICA HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86620
-#EXTINF:-1,ARG| C5N HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86623
-#EXTINF:-1,ARG | CANAL 26 SD (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195307
-#EXTINF:-1,ARG| CANAL 26 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86611
-#EXTINF:-1,ARG| A24 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86612
-#EXTINF:-1,ARG | A24 (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195295
-#EXTINF:-1,ARG | A24 HD (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195297
-#EXTINF:-1,ARG | AMERICA 24 (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195299
-#EXTINF:-1,ARG | La Nacion (Argentina) (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195321
-#EXTINF:-1,ARG | LN  :) (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195322
-#EXTINF:-1,ARG | MULTIVISION CANAL 9 SALTA (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195323
-#EXTINF:-1,ARG | ENCUENTRO (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195317
-#EXTINF:-1,ARG | ENCUENTRO (lt)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/195318
-#EXTINF:-1,ARG| 24/7 NOTICIAS HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86613
-#EXTINF:-1,ARG| VOLVER HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86615
-#EXTINF:-1,ARG| TIERRAMIA TV
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86618
-#EXTINF:-1,ARG| CONSTRUIR TV
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86621
-#EXTINF:-1,Telefe
-http://170.83.242.30:5350/play/a00b
-#EXTINF:-1,AR | ESPN Premium HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/170278
-#EXTINF:-1, TNT SPORTS HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/129701
-#EXTINF:-1, TNT SPORTS ARGENTINA HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/129702
-#EXTINF:-1,ARG| FOX SPORTS PREMIUN HQ
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/214261
-#EXTINF:-1,|ESPN 1 HD ARGENTINA
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86264
-#EXTINF:-1,|ESPN 2 HD ARGENTINA
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86265
-#EXTINF:-1,|ESPN 3 HD ARGENTINA
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86266
-#EXTINF:-1,LIGA ARGENTINA: TYC  HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/129703
-#EXTINF:-1,ARG| TYC SPORTS LOCAL HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/214260
-#EXTINF:-1,ARG| ESPN PLUS FHD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/214259
-#EXTINF:-1,DEP SD: BEIN SPORTS Ñ (OPC 2)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156590
-#EXTINF:-1,DEP SD: DIRECTV SPORTS + (CHI)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156592
-#EXTINF:-1,DEP SD: DIRECTV SPORTS 2 (CHI)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156594
-#EXTINF:-1,DEP SD: ESPN 2 (ARG)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156598
-#EXTINF:-1,DEP SD: ESPN 2 (COL)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156599
-#EXTINF:-1,DEP SD: ESPN 1 (MEX)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156600
-#EXTINF:-1,DEP SD: ESPN 3 (ARG)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156601
-#EXTINF:-1,DEP SD: ESPN 3 (COL)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156602
-#EXTINF:-1,DEP SD: FOX SPORTS 2 (COL)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156608
-#EXTINF:-1,DEP SD: FOX SPORTS 1 (MEX)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156609
-#EXTINF:-1,DEP SD: FOX SPORTS 2 (MEX)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156611
-#EXTINF:-1,DEP SD: FOX SPORTS 3 (ARG)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156612
-#EXTINF:-1,DEP SD: FOX SPORTS 3 (COL)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156613
-#EXTINF:-1,DEP SD: FOX SPORTS 3 (MEX)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156614
-#EXTINF:-1,DEP SD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156617
-#EXTINF:-1,DEP SD: MOVISTAR LA LIGA DE CAMPEONES
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156618
-#EXTINF:-1,DEP SD: MOVISTAR TOROS
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156619
-#EXTINF:-1,Movistar Deportes 2
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/156621
-#EXTINF:-1,LA LIGA SMARTBANK 1 FHD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/163239
-#EXTINF:-1,LA LIGA SMARTBANK2 FHD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/163240
-#EXTINF:-1,LA LIGA SMARTBANK  HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/163241
-#EXTINF:-1,LA LIGA SMARTBANK HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/163242
-#EXTINF:-1,BabyFirst
-http://170.83.242.30:5350/play/a0mg
-#EXTINF:-1,Cartoon Network
-http://170.83.242.30:5350/play/a03a
-#EXTINF:-1,Discovery Kids
-http://170.83.242.30:5350/play/a02b
-#EXTINF:-1,Disney Channel
-http://170.83.242.30:5350/play/a00n
-#EXTINF:-1,Disney Jr
-http://170.83.242.30:5350/play/a02s
-#EXTINF:-1,Nick Jr
-http://170.83.242.30:5350/play/a00e
-#EXTINF:-1,Nickelodeon
-http://170.83.242.30:5350/play/a02w
+#EXTINF:-1,ARG: America TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/49245
+#EXTINF:-1,ARG: TV Publica
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8752
+#EXTINF:-1,ARG: El Nueve
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3202
+#EXTINF:-1,ARG: Telefe
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3199
+#EXTINF:-1,ARG: El Trece
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3194
+#EXTINF:-1,ARG: Todo Noticias
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/146052
+#EXTINF:-1,ARG: Cronica TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8763
+#EXTINF:-1,ARG: C5N
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3191
+#EXTINF:-1,ARG: A24
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3197
+#EXTINF:-1,ARG: Canal 26
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3190
+#EXTINF:-1,ARG: Telemax
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/146051
+#EXTINF:-1,ARG: IP Noticias
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297230
+#EXTINF:-1,ARG: Litus
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/23925
+#EXTINF:-1,ARG: LN+
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8758
+#EXTINF:-1,ARG: 5 RTV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285871
+#EXTINF:-1,ARG: 24/7 Canal de Noticias
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285870
+#EXTINF:-1,ARG: AMC
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38654
+#EXTINF:-1,ARG: Argentinisima
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38659
+#EXTINF:-1,ARG: AXN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38651
+#EXTINF:-1,ARG: Baby TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38649
+#EXTINF:-1,ARG: Bloomberg TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285198
+#EXTINF:-1,ARG: Boomerang
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38657
+#EXTINF:-1,ARG: Canal 2 Jujuy
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285881
+#EXTINF:-1,ARG: Canal 3 Pinamar
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/166795
+#EXTINF:-1,ARG: Canal 6 Noticias
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/284235
+#EXTINF:-1,ARG: Canal 10 Córdoba
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/54280
+#EXTINF:-1,ARG: Canal 11 La Rioja
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285878
+#EXTINF:-1,ARG: Canal 12 Puerto Madryn
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285879
+#EXTINF:-1,ARG: Canal 13 La Rioja
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285880
+#EXTINF:-1,ARG: Canal 79 Catamarca
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297240
+#EXTINF:-1,ARG: Canal 79 Mar del Plata
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297239
+#EXTINF:-1,ARG: Canal 79 San Juan
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297235
+#EXTINF:-1,ARG: canal orbe 21
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9374
+#EXTINF:-1,ARG: Canal Provincial
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285888
+#EXTINF:-1,ARG: Canal TDC
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285874
+#EXTINF:-1,ARG: Chaco TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/166055
+#EXTINF:-1,ARG: Chacra TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285890
+#EXTINF:-1,ARG: Cinco TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/284234
+#EXTINF:-1,ARG: Cine AR
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38652
+#EXTINF:-1,ARG: Cinecanal
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38655
+#EXTINF:-1,ARG: Ciudad Magazine
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38663
+#EXTINF:-1,ARG: Ciudad TV Chaco
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285892
+#EXTINF:-1,ARG: Comedy Central
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/49261
+#EXTINF:-1,ARG: DeporTV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38664
+#EXTINF:-1,ARG: DirecTV Sports
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/67721
+#EXTINF:-1,ARG: DirecTV Sports+
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/65750
+#EXTINF:-1,ARG: Discovery Theater
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/172605
+#EXTINF:-1,ARG: Disney Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/49266
+#EXTINF:-1,ARG: Disney Junior
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38665
+#EXTINF:-1,ARG: Disney XD
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38667
+#EXTINF:-1,ARG: El Gourmet
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8691
+#EXTINF:-1,ARG: Eltres
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285882
+#EXTINF:-1,ARG: Encuentro
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/30694
+#EXTINF:-1,ARG: ESPN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/61174
+#EXTINF:-1,ARG: ESPN 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/70752
+#EXTINF:-1,ARG: ESPN 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/61170
+#EXTINF:-1,ARG: ESPN 4
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295627
+#EXTINF:-1,ARG: ESPN Extra
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/66298
+#EXTINF:-1,ARG: ESPN Premium
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298158
+#EXTINF:-1,ARG: Europa Europa
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/29295
+#EXTINF:-1,ARG: Fenix TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285896
+#EXTINF:-1,ARG: Film & Arts
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38678
+#EXTINF:-1,ARG: FOX SPORTS
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/280370
+#EXTINF:-1,ARG: FOX SPORTS 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3187
+#EXTINF:-1,ARG: FOX SPORTS 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/10921
+#EXTINF:-1,ARG: FOX SPORTS Premium
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3203
+#EXTINF:-1,ARG: FXM
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/29302
+#EXTINF:-1,ARG: Garage TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/23915
+#EXTINF:-1,ARG: Glitz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/30712
+#EXTINF:-1,ARG: HBO Mundi
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38701
+#EXTINF:-1,ARG: HBO Pop
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/29305
+#EXTINF:-1,ARG: HBO Xtreme
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/172272
+#EXTINF:-1,ARG: HBO+
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38685
+#EXTINF:-1,ARG: I Sat
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148593
+#EXTINF:-1,ARG: Multivision
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/18341
+#EXTINF:-1,ARG: Music Top
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/199644
+#EXTINF:-1,ARG: NAT GEO Wild
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38698
+#EXTINF:-1,ARG: Net TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/267322
+#EXTINF:-1,ARG: Nick Jr
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/29310
+#EXTINF:-1,ARG: nickelodeon
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/29311
+#EXTINF:-1,ARG: Pakapaka
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/49304
+#EXTINF:-1,ARG: Quiero Musica en mi Idioma
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/30699
+#EXTINF:-1,ARG: Santa Maria TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285904
+#EXTINF:-1,ARG: Star Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/280374
+#EXTINF:-1,ARG: Studio Universal
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/280367
+#EXTINF:-1,ARG: SYFY
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/49316
+#EXTINF:-1,ARG: TCM
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/49314
+#EXTINF:-1,ARG: Tele Red
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285183
+#EXTINF:-1,ARG: Telenord Corrientes
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285910
+#EXTINF:-1,ARG: Tierramia TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/76509
+#EXTINF:-1,ARG: TNT Sports
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3204
+#EXTINF:-1,ARG: TVU Universidad Nacional de La Plata
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285907
+#EXTINF:-1,ARG: TyC Sports
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8749
+#EXTINF:-1,ARG: Universal TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38719
+#EXTINF:-1,ARG: Volver
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/49329
 
-#EXTINF:-1,AE Mundo
-http://170.83.242.30:5350/play/a00y
-#EXTINF:-1,AXN
-http://170.83.242.30:5350/play/a0vb
-#EXTINF:-1,AXN CARD00
-http://170.83.242.30:5350/play/a091
-#EXTINF:-1,AXN CARD01
-http://170.83.242.30:5350/play/a0v4
-#EXTINF:-1,Cinecanal
-http://170.83.242.30:5350/play/a030
-#EXTINF:-1,Cinemax
-http://170.83.242.30:5350/play/a002
-#EXTINF:-1,Claro Cinema
-http://170.83.242.30:5350/play/a00d
-#EXTINF:-1,FX
-http://170.83.242.30:5350/play/a006
-#EXTINF:-1,HBO
-http://170.83.242.30:5350/play/a001
-#EXTINF:-1,HBO 2
-http://170.83.242.30:5350/play/a02o
-#EXTINF:-1,HBO Family
-http://170.83.242.30:5350/play/a02r
-#EXTINF:-1,HBO Plus
-http://170.83.242.30:5350/play/a02p
-#EXTINF:-1,HBO XTREME SD
-http://170.83.242.30:5350/play/a02q
-#EXTINF:-1,I-Sat
-http://170.83.242.30:5350/play/a0va
-#EXTINF:-1,STAR CHANNEL
-http://170.83.242.30:5350/play/a037
-#EXTINF:-1,SURTV
-http://170.83.242.30:5350/play/a025
-#EXTINF:-1,Sony
-http://170.83.242.30:5350/play/a003
-#EXTINF:-1,Space
-http://170.83.242.30:5350/play/a005
-#EXTINF:-1,TBS
-http://170.83.242.30:5350/play/a01a
-#EXTINF:-1,TCM
-http://170.83.242.30:5350/play/a038
-#EXTINF:-1,TNT
-http://170.83.242.30:5350/play/a03b
-#EXTINF:-1,Universal
-http://170.83.242.30:5350/play/a031
-#EXTINF:-1,Universal Cinema SD
-http://170.83.242.30:5350/play/a0kp
-#EXTINF:-1,Universal Comedy SD
-http://170.83.242.30:5350/play/a0kq
-#EXTINF:-1,Universal Premiere SD
-http://170.83.242.30:5350/play/a0kk
-#EXTINF:-1,Warner
-http://170.83.242.30:5350/play/a00q
+#EXTINF:-1,LA:  Dios Te Ve Kids
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295819
+#EXTINF:-1,LA: 3ABN Latino
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/286060
+#EXTINF:-1,LA: A Estrenar
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295645
+#EXTINF:-1,LA: ABN TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298146
+#EXTINF:-1,LA: Aliento Vision
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295646
+#EXTINF:-1,LA: America Teve
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297034
+#EXTINF:-1,LA: ANIMAL PLANET
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2997
+#EXTINF:-1,LA: AXN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2998
+#EXTINF:-1,LA: Baby TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3001
+#EXTINF:-1,LA: Bloomberg TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/71867
+#EXTINF:-1,LA: Boing
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298149
+#EXTINF:-1,LA: Boomerang
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298151
+#EXTINF:-1,LA: Cartoon Network
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3007
+#EXTINF:-1,LA: Cinecanal
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/49452
+#EXTINF:-1,LA: Cinema Dinamita
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3010
+#EXTINF:-1,LA: Comedy Central
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3015
+#EXTINF:-1,LA: Concert Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8701
+#EXTINF:-1,LA: DAZN 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/76336
+#EXTINF:-1,LA: Discovery Familia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/147657
+#EXTINF:-1,LA: Discovery H&H
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5774
+#EXTINF:-1,LA: Discovery Kids
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3020
+#EXTINF:-1,LA: Discovery Science
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3021
+#EXTINF:-1,LA: Discovery Theater
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3022
+#EXTINF:-1,LA: Discovery Turbo
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3023
+#EXTINF:-1,LA: Discovery World
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8894
+#EXTINF:-1,LA: Disney Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3025
+#EXTINF:-1,LA: Disney Junior
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3026
+#EXTINF:-1,LA: ESPN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5779
+#EXTINF:-1,LA: ESPN 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3031
+#EXTINF:-1,LA: ESPN 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3032
+#EXTINF:-1,LA: ESPN 4
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295304
+#EXTINF:-1,LA: ESPN Deportes
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/6446
+#EXTINF:-1,LA: ESPN Extra
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285105
+#EXTINF:-1,LA: Eurosport 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298159
+#EXTINF:-1,LA: Food Network
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/187033
+#EXTINF:-1,LA: FOX SPORTS 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/40840
+#EXTINF:-1,LA: FOX SPORTS 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3042
+#EXTINF:-1,LA: FX
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/34561
+#EXTINF:-1,LA: Galavision
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/71860
+#EXTINF:-1,LA: Glitz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/45626
+#EXTINF:-1,LA: Gol TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/60971
+#EXTINF:-1,LA: HBO
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3055
+#EXTINF:-1,LA: HBO 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3056
+#EXTINF:-1,LA: HBO Family
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3057
+#EXTINF:-1,LA: HBO Mundi
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/226015
+#EXTINF:-1,LA: HBO Pop
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3069
+#EXTINF:-1,LA: HBO Signature
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3059
+#EXTINF:-1,LA: HBO Xtreme
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148927
+#EXTINF:-1,LA: HBO+
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3058
+#EXTINF:-1,LA: HGTV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/187008
+#EXTINF:-1,LA: Hispan TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/187027
+#EXTINF:-1,LA: History
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3060
+#EXTINF:-1,LA: History 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/40831
+#EXTINF:-1,LA: Hola TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298058
+#EXTINF:-1,LA: HTV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3062
+#EXTINF:-1,LA: Investigation Discovery
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3063
+#EXTINF:-1,LA: Las Estrellas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298152
+#EXTINF:-1,LA: levelUp
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/294677
+#EXTINF:-1,LA: Lifetime
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3066
+#EXTINF:-1,LA: Mas Chic
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3067
+#EXTINF:-1,LA: Mega TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295841
+#EXTINF:-1,LA: NAT GEO
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3073
+#EXTINF:-1,LA: NAT GEO Wild
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8745
+#EXTINF:-1,LA: NBC Universo
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/90120
+#EXTINF:-1,LA: Nick Jr
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3075
+#EXTINF:-1,LA: Nickelodeon
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3076
+#EXTINF:-1,LA: Paramount Network
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3077
+#EXTINF:-1,LA: Pasiones
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3078
+#EXTINF:-1,LA: Semillitas TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295815
+#EXTINF:-1,LA: Sony Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3081
+#EXTINF:-1,LA: Star Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5785
+#EXTINF:-1,LA: Star Classics
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3033
+#EXTINF:-1,LA: Studio Universal
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3083
+#EXTINF:-1,LA: SYFY
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5802
+#EXTINF:-1,LA: Tastemade
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295852
+#EXTINF:-1,LA: TBS
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5803
+#EXTINF:-1,LA: TCM
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3085
+#EXTINF:-1,LA: TeenNick
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5796
+#EXTINF:-1,LA: Telemundo Tucson Arizona KHRR TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3122
+#EXTINF:-1,LA: Television Del Este
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148724
+#EXTINF:-1,LA: TLC
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3107
+#EXTINF:-1,LA: TNT
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3089
+#EXTINF:-1,LA: TNT Series
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285147
+#EXTINF:-1,LA: TNT Sports
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285164
+#EXTINF:-1,LA: Tooncast
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3091
+#EXTINF:-1,LA: tru TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/284515
+#EXTINF:-1,LA: UniMas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/147654
+#EXTINF:-1,LA: UniMas Newark New Jersey WFUT TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/172679
+#EXTINF:-1,LA: Universal Cinema
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/291225
+#EXTINF:-1,LA: Universal Crime
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/291222
+#EXTINF:-1,LA: Universal Reality
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/291217
+#EXTINF:-1,LA: Warner TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/60006
 
-#EXTINF:-1,ESPN
-http://170.83.242.30:5350/play/a00u
-#EXTINF:-1,ESPN 2
-http://170.83.242.30:5350/play/a02u
-#EXTINF:-1,ESPN 2 Latin
-http://170.83.242.30:5350/play/a00t
-#EXTINF:-1,ESPN 3
-http://170.83.242.30:5350/play/a00h
-#EXTINF:-1,ESPN CO
-http://170.83.242.30:5350/play/a023
-#EXTINF:-1,ESPN4
-http://170.83.242.30:5350/play/a01h
-#EXTINF:-1,Fox Sports 2
-http://170.83.242.30:5350/play/a013
-#EXTINF:-1,Fox Sports 3
-http://170.83.242.30:5350/play/a014
-#EXTINF:-1,TyC
-http://170.83.242.30:5350/play/a00w
+#EXTINF:-1,MX: A&E
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9117
+#EXTINF:-1,MX: ADN 40
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5799
+#EXTINF:-1,MX: Adrenalina Sports Network
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290478
+#EXTINF:-1,MX: Afizzionados
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298042
+#EXTINF:-1,MX: AMC
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9083
+#EXTINF:-1,MX: ANIMAL PLANET
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298043
+#EXTINF:-1,MX: AXN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9138
+#EXTINF:-1,MX: AyM Sports
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9074
+#EXTINF:-1,MX: Az Cinema
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9108
+#EXTINF:-1,MX: Az Clic
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9035
+#EXTINF:-1,MX: Az Corazon
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2999
+#EXTINF:-1,MX: Az Mundo
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3000
+#EXTINF:-1,MX: AZTECA 7
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9026
+#EXTINF:-1,MX: Azteca Mundo
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297204
+#EXTINF:-1,MX: AZTECA Uno
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9025
+#EXTINF:-1,MX: Baby TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295150
+#EXTINF:-1,MX: Bandamax
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9122
+#EXTINF:-1,MX: BitMe
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/47946
+#EXTINF:-1,MX: Canal 4
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/7044
+#EXTINF:-1,MX: Canal 5
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9024
+#EXTINF:-1,MX: Canal 6 Monterrey
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/267340
+#EXTINF:-1,MX: Canal 6 Saltillo
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/7045
+#EXTINF:-1,MX: Canal 8 Costa Rica
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/31756
+#EXTINF:-1,MX: Canal 10 Cancun
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/147894
+#EXTINF:-1,MX: Canal 26
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/7043
+#EXTINF:-1,MX: Canal Internacional
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296519
+#EXTINF:-1,MX: Capital 21
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/287632
+#EXTINF:-1,MX: Cartoon Network
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9043
+#EXTINF:-1,MX: Cartoonito
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9088
+#EXTINF:-1,MX: Cinecanal
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9128
+#EXTINF:-1,MX: CineLatino
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/167062
+#EXTINF:-1,MX: Cinemax
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9080
+#EXTINF:-1,MX: Claro Cinema
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8706
+#EXTINF:-1,MX: Claro Sports
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3012
+#EXTINF:-1,MX: Claro Sports 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297205
+#EXTINF:-1,MX: Comedy Central
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9106
+#EXTINF:-1,MX: Como Dice El Dicho
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298052
+#EXTINF:-1,MX: Cor TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/287634
+#EXTINF:-1,MX: Corazon del la Capital
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296635
+#EXTINF:-1,MX: De Pelicula
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/31740
+#EXTINF:-1,MX: De Pelicula Plus
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298053
+#EXTINF:-1,MX: Discovery Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/280388
+#EXTINF:-1,MX: Discovery H&H
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9110
+#EXTINF:-1,MX: Discovery Kids
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9060
+#EXTINF:-1,MX: Discovery Science
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9059
+#EXTINF:-1,MX: Discovery Theater
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9151
+#EXTINF:-1,MX: Discovery TLC
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9062
+#EXTINF:-1,MX: Disney Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9086
+#EXTINF:-1,MX: Disney Junior
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9042
+#EXTINF:-1,MX: Distrito Comedia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9126
+#EXTINF:-1,MX: Dream Works
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298055
+#EXTINF:-1,MX: ESPN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9070
+#EXTINF:-1,MX: ESPN 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298057
+#EXTINF:-1,MX: ESPN 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38603
+#EXTINF:-1,MX: ESPN Extra
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/38607
+#EXTINF:-1,MX: Estrella Games
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298336
+#EXTINF:-1,MX: Europa Europa
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9130
+#EXTINF:-1,MX: Food Network
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9116
+#EXTINF:-1,MX: Foro TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5782
+#EXTINF:-1,MX: FOX SPORTS
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/10925
+#EXTINF:-1,MX: FOX SPORTS 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3043
+#EXTINF:-1,MX: FOX SPORTS 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3044
+#EXTINF:-1,MX: FX
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9105
+#EXTINF:-1,MX: FXM
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9079
+#EXTINF:-1,MX: Glitz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9125
+#EXTINF:-1,MX: Golden
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5793
+#EXTINF:-1,MX: Golden Edge
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9076
+#EXTINF:-1,MX: Golden Plus
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3051
+#EXTINF:-1,MX: Golden Premier
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3052
+#EXTINF:-1,MX: Golf Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/49383
+#EXTINF:-1,MX: HGTV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/187048
+#EXTINF:-1,MX: History
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9050
+#EXTINF:-1,MX: History 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/273073
+#EXTINF:-1,MX: I Sat
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9121
+#EXTINF:-1,MX: ILCE
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296518
+#EXTINF:-1,MX: Imagen TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9039
+#EXTINF:-1,MX: Ingenio TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9147
+#EXTINF:-1,MX: Investigation Discovery
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9056
+#EXTINF:-1,MX: Jalisco TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/287636
+#EXTINF:-1,MX: Justicia TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/7050
+#EXTINF:-1,MX: La Rosa De Guadalupe
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298059
+#EXTINF:-1,MX: Las Estrellas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3005
+#EXTINF:-1,MX: Maria+Vision
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/163056
+#EXTINF:-1,MX: Maria+Vision Medjugorje
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296514
+#EXTINF:-1,MX: Mexico Travel Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/163049
+#EXTINF:-1,MX: Milenio TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/7067
+#EXTINF:-1,MX: Morbido TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/198054
+#EXTINF:-1,MX: Multicinema
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295813
+#EXTINF:-1,MX: Multimedios Laguna
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/287639
+#EXTINF:-1,MX: MultiPremier
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298164
+#EXTINF:-1,MX: N+ Media
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298165
+#EXTINF:-1,MX: NAT GEO
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8725
+#EXTINF:-1,MX: NAT GEO Wild
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9072
+#EXTINF:-1,MX: nickelodeon
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9085
+#EXTINF:-1,MX: NickToons
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298064
+#EXTINF:-1,MX: Nmas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296521
+#EXTINF:-1,MX: Once Mexico
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/7051
+#EXTINF:-1,MX: Paramount Network
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9146
+#EXTINF:-1,MX: PX Sports
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/267264
+#EXTINF:-1,MX: RCG TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/163053
+#EXTINF:-1,MX: RTQ Queretaro
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/147900
+#EXTINF:-1,MX: SET Television Canal 26
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/287645
+#EXTINF:-1,MX: Sistema Michoacano de TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296509
+#EXTINF:-1,MX: Space
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9136
+#EXTINF:-1,MX: Sqcs
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297030
+#EXTINF:-1,MX: Studio Universal
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9071
+#EXTINF:-1,MX: SYFY
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9081
+#EXTINF:-1,MX: TBS
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9124
+#EXTINF:-1,MX: TCM
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9131
+#EXTINF:-1,MX: Tele Sistema Canal 9
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/287646
+#EXTINF:-1,MX: TeleFormula
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/31746
+#EXTINF:-1,MX: Telehit Musica
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/31785
+#EXTINF:-1,MX: Telehit Musica Plus
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298067
+#EXTINF:-1,MX: Telemax
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/7080
+#EXTINF:-1,MX: Teleritmo
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9066
+#EXTINF:-1,MX: Tlnovelas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9141
+#EXTINF:-1,MX: TNT Series
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9139
+#EXTINF:-1,MX: TUDN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/31784
+#EXTINF:-1,MX: TV Mas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9097
+#EXTINF:-1,MX: TV Mexiquense
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9104
+#EXTINF:-1,MX: TV Nuevo Leon 28
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296506
+#EXTINF:-1,MX: TVC Deportes
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9075
+#EXTINF:-1,MX: Ultra Cine
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/167077
+#EXTINF:-1,MX: Ultra Clasico
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/167076
+#EXTINF:-1,MX: Ultra Docu
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298069
+#EXTINF:-1,MX: Ultra Familia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/167075
+#EXTINF:-1,MX: Ultra Fiesta
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/167078
+#EXTINF:-1,MX: Ultra Kidz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/167080
+#EXTINF:-1,MX: Ultra Macho
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/167081
+#EXTINF:-1,MX: Ultra Mex
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3160
+#EXTINF:-1,MX: Unicable
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5804
+#EXTINF:-1,MX: Univision Tlnovelas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/196608
+#EXTINF:-1,MX: Video Rola
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290484
+#EXTINF:-1,MX: Warner TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9142
 
-#EXTINF:-1,Animal Planet
-http://170.83.242.30:5350/play/a00p
-#EXTINF:-1,Discovery Channel
-http://170.83.242.30:5350/play/a00o
-#EXTINF:-1,Discovery ID
-http://170.83.242.30:5350/play/a017
-#EXTINF:-1,Discovery Turbo
-http://170.83.242.30:5350/play/a00f
-#EXTINF:-1,E Entertainment
-http://170.83.242.30:5350/play/a00r
-#EXTINF:-1,Enlace
-http://170.83.242.30:5350/play/a03f
-#EXTINF:-1,History Channel
-http://170.83.242.30:5350/play/a02z
-#EXTINF:-1,HomeandHealth
-http://170.83.242.30:5350/play/a01c
-#EXTINF:-1,TLC
-http://170.83.242.30:5350/play/a010
-#EXTINF:-1,Nat Geo
-http://170.83.242.30:5350/play/a02y
+#EXTINF:-1,CH: 3+
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/14266
+#EXTINF:-1,CH: 4+
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2809
+#EXTINF:-1,CH: 5+
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/14262
+#EXTINF:-1,CH: 6+
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/14264
+#EXTINF:-1,CH: 6ter Suisse
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298476
+#EXTINF:-1,CH: Blue Prime
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2813
+#EXTINF:-1,CH: Blue Sport 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/6187
+#EXTINF:-1,CH: Blue Zoom D
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/52435
+#EXTINF:-1,CH: Canal Alpha Jura
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9868
+#EXTINF:-1,CH: Comedy Central
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/83349
+#EXTINF:-1,CH: Die Neue Zeit TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/24302
+#EXTINF:-1,CH: Discovery World
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/73992
+#EXTINF:-1,CH: Kabel Eins Schweiz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298477
+#EXTINF:-1,CH: Kanal 9
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/24718
+#EXTINF:-1,CH: Kanal 9 (FR)
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/151500
+#EXTINF:-1,CH: LA TELE
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/23662
+#EXTINF:-1,CH: LFM TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/23665
+#EXTINF:-1,CH: M6 Suisse
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298478
+#EXTINF:-1,CH: Meteonews
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/283865
+#EXTINF:-1,CH: MySports 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/280169
+#EXTINF:-1,CH: MySports 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/35843
+#EXTINF:-1,CH: MySports 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/70853
+#EXTINF:-1,CH: MySports 4
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/23838
+#EXTINF:-1,CH: MySports 5
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/90859
+#EXTINF:-1,CH: MySports 6
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148193
+#EXTINF:-1,CH: MySports 7
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148191
+#EXTINF:-1,CH: MySports 8
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148198
+#EXTINF:-1,CH: MySports 9
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/152345
+#EXTINF:-1,CH: NAT GEO Wild
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148048
+#EXTINF:-1,CH: Nick Jr
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148036
+#EXTINF:-1,CH: Nick Schweiz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290473
+#EXTINF:-1,CH: One TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/81977
+#EXTINF:-1,CH: ProSieben Schweiz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298479
+#EXTINF:-1,CH: Puls Acht
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/83347
+#EXTINF:-1,CH: Rouge TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/265332
+#EXTINF:-1,CH: RSI La 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9873
+#EXTINF:-1,CH: RSI La 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1993
+#EXTINF:-1,CH: RTL
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/81112
+#EXTINF:-1,CH: RTS 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/257
+#EXTINF:-1,CH: RTS 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/256
+#EXTINF:-1,CH: Sat 1 Schweiz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/81111
+#EXTINF:-1,CH: SRF 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/4413
+#EXTINF:-1,CH: SRF Info
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2805
+#EXTINF:-1,CH: SRF Zwei
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/294454
+#EXTINF:-1,CH: Sudostschweiz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/157407
+#EXTINF:-1,CH: Swiss 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/82686
+#EXTINF:-1,CH: Tele 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281735
+#EXTINF:-1,CH: Tele D
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/194685
+#EXTINF:-1,CH: Tele M1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/14253
+#EXTINF:-1,CH: TeleBarn
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/24297
+#EXTINF:-1,CH: Telebasel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/43523
+#EXTINF:-1,CH: Telebielingue
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/165444
+#EXTINF:-1,CH: TeleTicino
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/76988
+#EXTINF:-1,CH: TeleZuri
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/83344
+#EXTINF:-1,CH: TV 24
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/151505
+#EXTINF:-1,CH: TV 25
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/145403
+#EXTINF:-1,CH: TVM 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/24721
+#EXTINF:-1,CH: TVO
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2808
+#EXTINF:-1,CH: V Sport Live 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297923
+#EXTINF:-1,CH: V Sport Live 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297924
+#EXTINF:-1,CH: V Sport Live 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297925
+#EXTINF:-1,CH: V Sport Live 4
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297926
+#EXTINF:-1,CH: W9 Suisse
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298481
 
-#EXTINF:-1,America TV PY
-http://170.83.242.30:5350/play/a01l
-#EXTINF:-1,C9N
-http://170.83.242.30:5350/play/a022
-#EXTINF:-1,CNN Chile
-http://170.83.242.30:5350/play/a036
-#EXTINF:-1,Canal Estrellas
-http://170.83.242.30:5350/play/a012
-#EXTINF:-1,La Tele
-http://170.83.242.30:5350/play/a00j
-#EXTINF:-1,NPY
-http://170.83.242.30:5350/play/a024
-#EXTINF:-1,PARAVISION
-http://170.83.242.30:5350/play/a021
-#EXTINF:-1,ParaguayTV
-http://170.83.242.30:5350/play/a01o
-#EXTINF:-1,RCN Novelas
-http://170.83.242.30:5350/play/a016
-#EXTINF:-1,SNT
-http://170.83.242.30:5350/play/a03d
-#EXTINF:-1,TV CAMARA
-http://170.83.242.30:5350/play/a00m
-#EXTINF:-1,TVE
-http://170.83.242.30:5350/play/a0oy
-#EXTINF:-1,Telefuturo
-http://170.83.242.30:5350/play/a03e
-#EXTINF:-1,Telemundo
-http://170.83.242.30:5350/play/a015
-#EXTINF:-1,Trece
-http://170.83.242.30:5350/play/a01j
+#EXTINF:-1,CO: ATN Television
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295640
+#EXTINF:-1,CO: AXN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/46554
+#EXTINF:-1,CO: Cablenoticias
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148933
+#EXTINF:-1,CO: Cali TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/18392
+#EXTINF:-1,CO: Canal 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/48311
+#EXTINF:-1,CO: Canal 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/286298
+#EXTINF:-1,CO: Canal Capital
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8347
+#EXTINF:-1,CO: Canal CNC Medellin
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/151405
+#EXTINF:-1,CO: Canal Dos
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/286299
+#EXTINF:-1,CO: Canal Institucional
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8348
+#EXTINF:-1,CO: Canal TRO
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/47941
+#EXTINF:-1,CO: Canal Vision Dorada
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/286302
+#EXTINF:-1,CO: Caracol TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3162
+#EXTINF:-1,CO: Caracol TV Internacional
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8351
+#EXTINF:-1,CO: Cinecanal
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290335
+#EXTINF:-1,CO: City TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/48310
+#EXTINF:-1,CO: Cristovision
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/278068
+#EXTINF:-1,CO: DHE
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3016
+#EXTINF:-1,CO: Direct
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298363
+#EXTINF:-1,CO: Direct 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298364
+#EXTINF:-1,CO: Discovery Home & Health
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/172589
+#EXTINF:-1,CO: Discovery World
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/46569
+#EXTINF:-1,CO: El Tiempo TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8353
+#EXTINF:-1,CO: ESPN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295642
+#EXTINF:-1,CO: ESPN 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/273212
+#EXTINF:-1,CO: ESPN 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295641
+#EXTINF:-1,CO: Fox Sports 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/198470
+#EXTINF:-1,CO: FX
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295243
+#EXTINF:-1,CO: Melody Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5821
+#EXTINF:-1,CO: NAT GEO Wild
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/172601
+#EXTINF:-1,CO: NTN 24
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8355
+#EXTINF:-1,CO: RCN 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290242
+#EXTINF:-1,CO: RCN Int
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290241
+#EXTINF:-1,CO: RCN Novelas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/54283
+#EXTINF:-1,CO: RCN Nuestra Tele
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298369
+#EXTINF:-1,CO: RCN TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3163
+#EXTINF:-1,CO: Senal Colombia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3167
+#EXTINF:-1,CO: Suram TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/166060
+#EXTINF:-1,CO: Teleamiga
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197105
+#EXTINF:-1,CO: Teleantioquia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8358
+#EXTINF:-1,CO: Telecafe
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8359
+#EXTINF:-1,CO: Telecaribe
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5823
+#EXTINF:-1,CO: Teleislas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/76223
+#EXTINF:-1,CO: Telemedellin
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8360
+#EXTINF:-1,CO: Telepacifico
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8361
+#EXTINF:-1,CO: Trece
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197058
+#EXTINF:-1,CO: TV Gracia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/166066
+#EXTINF:-1,CO: Win Sports
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8345
+#EXTINF:-1,CO: Win Sports+
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/294455
 
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03i.png",Baby First
-http://45.5.119.155:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g0.png",Boomerang
-http://45.5.119.155:8000/play/a0g0/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0l0.png",CARTOON NT HD
-http://45.5.119.155:8000/play/a0l0/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03l.png",Discovery Kids
-http://45.5.119.155:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i8.png",Disney
-http://45.5.119.155:8000/play/a0i8/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g1.png",Disney JR
-http://45.5.119.155:8000/play/a0g1/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jl.png",Nat Geo Kids
-http://45.5.119.155:8000/play/a0jl/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03f.png",Nick 2 HD
-http://45.5.119.155:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0fz.png",Nick Jr
-http://45.5.119.155:8000/play/a0fz/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hs.png",Nickelodeon HD
-http://45.5.119.155:8000/play/a0hs/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g3.png",SEMILLITAS
-http://45.5.119.155:8000/play/a0g3/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03k.png",Tooncast
-http://45.5.119.155:8000/play/a03k/index.m3u8
+#EXTINF:-1,UY: 1000 X Hora TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/169371
+#EXTINF:-1,UY: ANPI TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295478
+#EXTINF:-1,UY: Canal 2 Lascano
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/169379
+#EXTINF:-1,UY: Canal 2 San Carlos
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/169377
+#EXTINF:-1,UY: Canal 2 Vision Canaria
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290351
+#EXTINF:-1,UY: Canal 4
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/169382
+#EXTINF:-1,UY: Canal 4 Juan Lacaze
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295477
+#EXTINF:-1,UY: Canal 4 Salto
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290352
+#EXTINF:-1,UY: Canal 6 Durazno
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/31732
+#EXTINF:-1,UY: Canal 9 Tele Rocha
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290353
+#EXTINF:-1,UY: Canal 10
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8660
+#EXTINF:-1,UY: Canal 11 Las Piedras
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296873
+#EXTINF:-1,UY: Canal 12 Melo
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8658
+#EXTINF:-1,UY: Canal A+V
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/192774
+#EXTINF:-1,UY: Canal Cinco
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295799
+#EXTINF:-1,UY: La Red TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/266786
+#EXTINF:-1,UY: Maronas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295806
+#EXTINF:-1,UY: Presidencia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295801
+#EXTINF:-1,UY: Teledoce
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296875
+#EXTINF:-1,UY: TV Ciudad
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148685
+#EXTINF:-1,UY: VTV Plus
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8659
+#EXTINF:-1,PY: C9N
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9008
+#EXTINF:-1,PY: Canal Pro
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295666
+#EXTINF:-1,PY: Farra Play
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148639
+#EXTINF:-1,PY: Gen
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148640
+#EXTINF:-1,PY: Noticias
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/48241
+#EXTINF:-1,PY: Paraguay TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148637
+#EXTINF:-1,PY: Paravision
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/279685
+#EXTINF:-1,PY: RCC
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298339
+#EXTINF:-1,PY: SNT
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/68873
+#EXTINF:-1,PY: Sur TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9019
+#EXTINF:-1,PY: Telefuturo
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9020
+#EXTINF:-1,PY: Tigo Sports
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9006
+#EXTINF:-1,PY: TVS
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298382
+#EXTINF:-1,PY: Unicanal
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/148636
 
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kz.png",Claro Sports  HD
-http://45.5.119.155:8000/play/a0kz/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a04o.png",Claro Sports 2 SD
-http://45.5.119.155:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03w.png",Claro Sports 2 SD
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gl.png",ESPN  +
-http://45.5.119.155:8000/play/a0gl/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ki.png",ESPN 2 HD
-http://45.5.119.155:8000/play/a0ki/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kh.png",ESPN 3 HD
-http://45.5.119.155:8000/play/a0kh/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ix.png",ESPN 4 HD
-http://45.5.119.155:8000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kg.png",ESPN HD
-http://45.5.119.155:8000/play/a0kg/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ht.png",FOX SPORTS 2 HD
-http://45.5.119.155:8000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kj.png",FOX SPORTS 3 HD
-http://45.5.119.155:8000/play/a0kj/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h1.png",Golf Channel HD
-http://45.5.119.155:8000/play/a0h1/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03j.png",Latin America Sport
-http://45.5.119.155:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a02v.png",Tigo Sports HD
-http://45.5.119.155:8000/play/a02v/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gt.png",A&E HD
-http://45.5.119.155:8000/play/a0gt/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gu.png",AMC HD
-http://45.5.119.155:8000/play/a0gu/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0iy.png",AXN HD
-http://45.5.119.155:8000/play/a0iy/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hq.png",CINECANAL HD
-http://45.5.119.155:8000/play/a0hq/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ik.png",Cine Latino
-http://45.5.119.155:8000/play/a0ik/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0il.png",CineMax
-http://45.5.119.155:8000/play/a0il/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hl.png",Claro Cinema
-http://45.5.119.155:8000/play/a0hl/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gy.png",DHE HD
-http://45.5.119.155:8000/play/a0gy/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gw.png",FX HD
-http://45.5.119.155:8000/play/a0gw/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gx.png",FX Movies HD
-http://45.5.119.155:8000/play/a0gx/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gs.png",Film & arts HD
-http://45.5.119.155:8000/play/a0gs/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jv.png",Golden
-http://45.5.119.155:8000/play/a0jv/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0l5.png",HBO Family HD
-http://45.5.119.155:8000/play/a0l5/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0l2.png",HBO HD
-http://45.5.119.155:8000/play/a0l2/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0l4.png",HBO Plus HD
-http://45.5.119.155:8000/play/a0l4/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0l6.png",HBO XTREME HD
-http://45.5.119.155:8000/play/a0l6/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a00c.png",HBO2 HD
-http://45.5.119.155:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a04l.png",ISAT
-http://45.5.119.155:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kl.png",Paramount HD
-http://45.5.119.155:8000/play/a0kl/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hp.png",SONY HD
-http://45.5.119.155:8000/play/a0hp/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03s.png",SONY MOVIES HD
-http://45.5.119.155:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hn.png",STAR CHANNEL HD
-http://45.5.119.155:8000/play/a0hn/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g4.png",STAR LIFE
-http://45.5.119.155:8000/play/a0g4/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0iz.png",SPACE HD
-http://45.5.119.155:8000/play/a0iz/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h0.png",Star TVE HD
-http://45.5.119.155:8000/play/a0h0/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0go.png",Studio Universal HD
-http://45.5.119.155:8000/play/a0go/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a04h.png",Warner
-http://45.5.119.155:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g9.png",TBS
-http://45.5.119.155:8000/play/a0g9/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jw.png",TCM
-http://45.5.119.155:8000/play/a0jw/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hu.png",TNT HD
-http://45.5.119.155:8000/play/a0hu/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0km.png",TNT Series HD
-http://45.5.119.155:8000/play/a0km/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kt.png",UNIVERSAL CINEMA HD
-http://45.5.119.155:8000/play/a0kt/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i5.png",UNIVERSAL COMEDY HD
-http://45.5.119.155:8000/play/a0i5/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i4.png",UNIVERSAL CRIME HD
-http://45.5.119.155:8000/play/a0i4/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i1.png",UNIVERSAL PREMIERE HD
-http://45.5.119.155:8000/play/a0i1/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i2.png",UNIVERSAL PREMIERE O HD
-http://45.5.119.155:8000/play/a0i2/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i3.png",UNIVERSAL REALITY HD
-http://45.5.119.155:8000/play/a0i3/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ho.png",WARNER HD
-http://45.5.119.155:8000/play/a0ho/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gq.png",Animal Planet HD
-http://45.5.119.155:8000/play/a0gq/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jp.png",History 2
-http://45.5.119.155:8000/play/a0jp/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gk.png",History Channel HD
-http://45.5.119.155:8000/play/a0gk/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hv.png",DISCOVERY THEATHER HD
-http://45.5.119.155:8000/play/a0hv/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kn.png",Discovery Channel HD
-http://45.5.119.155:8000/play/a0kn/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ia.png",Discovery Turbo
-http://45.5.119.155:8000/play/a0ia/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kp.png",Discovery World HD
-http://45.5.119.155:8000/play/a0kp/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a049.png",Discovery ID HD
-http://45.5.119.155:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a046.png",El Gourmet
-http://45.5.119.155:8000/play/a046/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kk.png",Nat Geo HD
-http://45.5.119.155:8000/play/a0kk/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hy.png",Comedy Central HD
-http://45.5.119.155:8000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hx.png",HOLA! TV HD
-http://45.5.119.155:8000/play/a0hx/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hw.png",Home & Health HD
-http://45.5.119.155:8000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gb.png",LIFE TIME
-http://45.5.119.155:8000/play/a0gb/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gr.png",E! Entertairment HD
-http://45.5.119.155:8000/play/a0gr/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hh.png",TLC
-http://45.5.119.155:8000/play/a0hh/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a00x.png",EURO Channel
-http://45.5.119.155:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a00u.png",Europa HD
-http://45.5.119.155:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gi.png",CNN Español
-http://45.5.119.155:8000/play/a0gi/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03m.png",CCN
-http://45.5.119.155:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0fv.png",Canal Claro
-http://45.5.119.155:8000/play/a0fv/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ij.png",Multipremier
-http://45.5.119.155:8000/play/a0ij/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jt.png",Claro Musica
-http://45.5.119.155:8000/play/a0jt/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a02r.png",Concert Channel
-http://45.5.119.155:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hk.png",Exa TV
-http://45.5.119.155:8000/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0if.png",MTV
-http://45.5.119.155:8000/play/a0if/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0i0.png",MTV 00s HD
-http://45.5.119.155:8000/play/a0i0/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ge.png",MTV 80s
-http://45.5.119.155:8000/play/a0ge/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gm.png",MTV HD
-http://45.5.119.155:8000/play/a0gm/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gd.png",MTV Hits
-http://45.5.119.155:8000/play/a0gd/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hz.png",MTV SIM HD
-http://45.5.119.155:8000/play/a0hz/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0id.png",La voz de Maria
-http://45.5.119.155:8000/play/a0id/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0k0.png",Sembrador
-http://45.5.119.155:8000/play/a0k0/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gj.png",TBN Enlace
-http://45.5.119.155:8000/play/a0gj/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kq.png",Pasiones HD
-http://45.5.119.155:8000/play/a0kq/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0jn.png",RCN Novelas
-http://45.5.119.155:8000/play/a0jn/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gv.png",Telemundo HD
-http://45.5.119.155:8000/play/a0gv/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0kr.png",Univision HD
-http://45.5.119.155:8000/play/a0kr/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0gz.png",AZ click HD
-http://45.5.119.155:8000/play/a0gz/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g6.png",Azcorazon
-http://45.5.119.155:8000/play/a0g6/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0h8.png",Azmundo
-http://45.5.119.155:8000/play/a0h8/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ih.png",Universal
-http://45.5.119.155:8000/play/a0ih/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a03x.png",Latin America Sport
-http://45.5.119.155:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a04n.png",MASTV - PAN
-http://45.5.119.155:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a04j.png",RCN - GUA
-http://45.5.119.155:8000/play/a04j/index.m3u8
-
-#EXTINF:-1,24/7 | AVENGERS FHD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87700
-#EXTINF:-1,24/7 | CINEMA DISNEY PIXAR 2 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87708
-#EXTINF:-1,24/7 | CINEMA DREAMWORKS 1 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87709
-#EXTINF:-1,24/7 | DRAGON BALL Z
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87715
-#EXTINF:-1,24/7| EL CHAVO DEL 8
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87719
-#EXTINF:-1,24/7| LOS PICAPIEDRAS
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87724
-#EXTINF:-1,24/7 | PAW PATROL
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87726
-#EXTINF:-1,24/7 | PINKI & CEREBRO
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87730
-#EXTINF:-1,24/7 | PLAY! CINEMA SCARY MOVIE HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87738
-#EXTINF:-1,24/7 | CANTINFLAS HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87740
-#EXTINF:-1,24/7 | PEDRO INFANTE
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87745
-#EXTINF:-1,24/7| Play! Cinema Toy Story
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114270
-#EXTINF:-1,24/7| Play! Cinema Disney Pixar #2
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114271
-#EXTINF:-1,24/7| Play! La casa de Mickey Mouse
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114272
-#EXTINF:-1,24/7| Play! Cinema Horror
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114273
-#EXTINF:-1,24/7| Play! Cinema Navidad
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114274
-#EXTINF:-1,24/7| Play! Cinema Lego Movies
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114275
-#EXTINF:-1,24/7| Play! Cinema Artes Marciales
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114276
-#EXTINF:-1,24/7| Play! Cinema Happy Madison
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114278
-#EXTINF:-1,24/7| Play! Cinema Halloween
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114279
-#EXTINF:-1,24/7| Play! Cinema Actividad paranormal
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114280
-#EXTINF:-1,24/7| Play! Cinema Keanu Reeves
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114281
-#EXTINF:-1,24/7| Play! Cinema Disney Live Action
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114282
-#EXTINF:-1,24/7| Play! Cinema Accion Classics
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114283
-#EXTINF:-1,24/7| Play! Cinema Mad Max
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114284
-#EXTINF:-1,24/7| Play! Cinema Señor de los Anillos
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114286
-#EXTINF:-1,24/7| Play! Cinema Los Juegos del Hambre
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114289
-#EXTINF:-1,24/7| Play! Cinema Ocean's Eleven
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114291
-#EXTINF:-1,24/7| Play! Cinema Rocky
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114293
-#EXTINF:-1,24/7| Play! Cinema Duro de Matar
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114294
-#EXTINF:-1,24/7| Play! Cinema Cincuenta Sombras
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114295
-#EXTINF:-1,24/7| Play! Cinema Blade
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114296
-#EXTINF:-1,24/7| Play! Cinema El Padrino
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114297
-#EXTINF:-1,24/7| Play! Cinema Esta Abuela es un Peligro
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114298
-#EXTINF:-1,24/7| Play! Cinema Especies
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114302
-#EXTINF:-1,24/7| Play! Cinema Búsqueda implacable
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114303
-#EXTINF:-1,24/7 Chernobyl
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130489
-#EXTINF:-1,24/7 El Chavo del Ocho
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130495
-#EXTINF:-1,24H | Dragon Ball Super
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130501
-#EXTINF:-1,24H | Cantinflas
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130505
-#EXTINF:-1,24H | Dragon Ball GT
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130517
-#EXTINF:-1,VACA Y POLLITO
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130518
-#EXTINF:-1,24H | Batman
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130519
-#EXTINF:-1,24/7 | Batman del Futuro
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130565
-#EXTINF:-1,24/7 | KUNFU PANDA
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130567
-#EXTINF:-1,24/7 | Ben 10 Fuerza Alienigena
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130570
-#EXTINF:-1,24/7 | Best Wars
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130571
-#EXTINF:-1,24/7 |HEY ARNOLD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130572
-#EXTINF:-1,24/7 | Birdman
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130573
-#EXTINF:-1,24/7 | Blanca Nieves
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130574
-#EXTINF:-1,24/7 | Bob Esponja 1-6
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130575
-#EXTINF:-1,24/7 | Bob Esponja 7 -12
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130576
-#EXTINF:-1,24/7 | Bugs Bunny - looney Tunes
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130577
-#EXTINF:-1,24/7 | Buzz LigthYear: Comando Estelar
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130578
-#EXTINF:-1,24/7 | Canuto y Canito
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130579
-#EXTINF:-1,24/7 | Capitan America 1966
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130580
-#EXTINF:-1,24/7 | Capitan Centella
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130581
-#EXTINF:-1,24/7 | Capitan Cavernicola
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130582
-#EXTINF:-1,24/7 | Casa Dibujos
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130583
-#EXTINF:-1,24/7 | CatDog
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130584
-#EXTINF:-1,24/7 | NARUTO 
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130605
-#EXTINF:-1,24/7 | PEPA PIG 24
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130632
-#EXTINF:-1,24/7 | PINKY Y CEREBRO
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130633
-#EXTINF:-1,24/7 | El Oso Yogi
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130634
-#EXTINF:-1,24/7 | El pajaro loco
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130635
-#EXTINF:-1,24/7 | El show de Ren y stimpy
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130636
-#EXTINF:-1,24/7 | El show de Scooby-Doo
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130637
-#EXTINF:-1,24/7 | El Superveloz Buggy Buggy
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130638
-#EXTINF:-1,24/7 | El Zorro
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130640
-#EXTINF:-1,24/7 | Erase una vez el Espacio
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130641
-#EXTINF:-1,24/7 | Escuela de Héroes
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130642
-#EXTINF:-1,24/7 | Fantasma del Espacio
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130643
-#EXTINF:-1,24/7 | Felix el Gato
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130644
-#EXTINF:-1,24/7 | Fenomenoide
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130645
-#EXTINF:-1,24/7 | Foofur
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130646
-#EXTINF:-1,24/7 | Frankenstein Jr
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130647
-#EXTINF:-1,24/7 | Futurama
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130648
-#EXTINF:-1,24/7 | Garfield y sus amigos
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130649
-#EXTINF:-1,24H | Gasparin
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130650
-#EXTINF:-1,24H | POPEYE 
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130651
-#EXTINF:-1,24H | Generador Rex
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130652
-#EXTINF:-1,24H | Gi Joe
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130653
-#EXTINF:-1,24H | Gintama
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130654
-#EXTINF:-1,24H | Godzilla
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130655
-#EXTINF:-1,24H | Archivos Forenses
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130656
-#EXTINF:-1,24H | 24H | LOS SIMPSONS 1-5
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130706
-#EXTINF:-1,24H LOS SIMPSONS 12-17
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130709
-#EXTINF:-1,24H LOS SIMPSONS 18-21
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130710
-#EXTINF:-1,24H | los simpson temporada 22
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130711
-#EXTINF:-1,24H | Lindo Pulgoso
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130712
-#EXTINF:-1,24H | Looney Tunes 1936
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130714
-#EXTINF:-1,24H | SUPER CAMPEONES 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130715
-#EXTINF:-1,24H | WALKING DEAD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130716
-#EXTINF:-1,24H | Los Autos Locos
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130717
-#EXTINF:-1,24H | Los Centuriones
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130718
-#EXTINF:-1,24H | Los Dragon BALL Z
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130719
-#EXTINF:-1,24H | EL PAJARO LOCO
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130720
-#EXTINF:-1,24H | CHERNOBYL
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130721
-#EXTINF:-1,24H | POCOYO
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130722
-#EXTINF:-1,24H | BATMAN DC
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130723
-#EXTINF:-1,24H | Los padrinos mágicos 6 TEMPORADA
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130724
-#EXTINF:-1,24H | CHESPIRITO 2
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130725
-#EXTINF:-1,24H | Los pequeños Looney Tunes
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130726
-#EXTINF:-1,24H | Los pequeños Picapiedra
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130727
-#EXTINF:-1,24H | MR BEAN
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130728
-#EXTINF:-1,24H |DRAGON BALL SUPER 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130745
-#EXTINF:-1,BOB ESPONJA 24-7 TEMP 7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130783
-#EXTINF:-1,24H |DISNEY MOVIES
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130784
-#EXTINF:-1,24H | Un cachorro llamado Scooby-Doo
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130785
-#EXTINF:-1,24H | PINK PANTER
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130786
-#EXTINF:-1,24H |CORRE CAMINOS
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130787
-#EXTINF:-1,24H | CHESPIRITO
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130788
-#EXTINF:-1,24H | EL PAYASO PLIM PLIM
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130789
-#EXTINF:-1,24H | PICAPIEDRA
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130790
-#EXTINF:-1,24H REBELDE
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130793
-#EXTINF:-1,24H | Karate Kid
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130794
-#EXTINF:-1,24H | el principe del rap
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130795
-#EXTINF:-1,24H | Rambo
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130796
-#EXTINF:-1,24H | Rocky Balboa
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130797
-#EXTINF:-1,24H | Harry Potter
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130799
-#EXTINF:-1,24H | la familia peluche
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130800
-#EXTINF:-1,24H | winie pooh
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130801
-#EXTINF:-1,24h Kids | Don gato y su Pandilla
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130802
-#EXTINF:-1,24/7 El Show de Scooby Doo
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130803
-#EXTINF:-1,24/7 Los padrinos mágicos
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130804
-#EXTINF:-1,24H PANTERA ROSA 3
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130805
-#EXTINF:-1,24H | TOM Y JERRI
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130806
-#EXTINF:-1,24H | Estrellas de Acción
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130807
-#EXTINF:-1,24H | Canal forense
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130808
-#EXTINF:-1,Los Simpson 24-7 temp 1 a 5
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/162336
-#EXTINF:-1,Los Simpson 24-7 temp 5-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/162337
-#EXTINF:-1,Los Simpson 24-7 temp 12-17
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/162338
-#EXTINF:-1,LOSPICAPIEDRAS24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176727
-#EXTINF:-1,BOB ESPONJA 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176728
-#EXTINF:-1,CAT DOG 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176729
-#EXTINF:-1,BEN 10
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176730
-#EXTINF:-1,DISNEY 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176731
-#EXTINF:-1,DRAGON BALL GT 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176732
-#EXTINF:-1,DRAGON BALL Z
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176733
-#EXTINF:-1,EL CHAVO DEL 8
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176734
-#EXTINF:-1,EL PAJARO LOCO 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176735
-#EXTINF:-1,LA FAMILIA ROBINSON 27-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176736
-#EXTINF:-1,GRAVITY 24-7 FALLS
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176737
-#EXTINF:-1,HEY ARNOLD 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176738
-#EXTINF:-1,KUNFU PANDA 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176739
-#EXTINF:-1,LA CASA DE MICKEY MOUSE
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176740
-#EXTINF:-1,LA PANTERA ROSA 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176741
-#EXTINF:-1,LOS PITUFOS 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176742
-#EXTINF:-1,LOS SIMPSON TEM 1-2 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176743
-#EXTINF:-1,NARUTO 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176744
-#EXTINF:-1,CINEMA NETFLIX 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176745
-#EXTINF:-1,PEPA PIG 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176746
-#EXTINF:-1,PINKY Y CEREBRO 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176747
-#EXTINF:-1,POKEMON TEMP 1-2 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176748
-#EXTINF:-1,POPEYE 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176749
-#EXTINF:-1,REBELDE 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176750
-#EXTINF:-1,SCOOBY DOO 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176751
-#EXTINF:-1,SPIDERMAN 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176752
-#EXTINF:-1,SUPER CAMPEONES 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176753
-#EXTINF:-1,TOM Y JERRY 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176754
-#EXTINF:-1,VACA Y POLLITO
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/176755
-#EXTINF:-1,LOS CABALLEROS DEL ZODIACO (ALMA DE ORO) 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/187942
-#EXTINF:-1,LOS CABALLEROS DEL ZODIACO (EL LIENZO PERDIDO) 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/187943
-#EXTINF:-1,LOS CABALLEROS DEL ZODIACO (LA LEYENDA) 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/187944
-#EXTINF:-1,LOS CABALLEROS DEL ZODIACO 24-7
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/187945
-#EXTINF:-1,La Reina Del Sur
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201185
-#EXTINF:-1,Sin Senos No Hay Paraiso
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201186
-#EXTINF:-1,el señor de los cielos
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201187
-#EXTINF:-1,La Bella Y Las Bestias
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201188
-#EXTINF:-1,La Niña
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201189
-#EXTINF:-1,La Querida Del Centauro
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201190
-#EXTINF:-1,El Final Del Paraíso
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201191
-#EXTINF:-1,El Barón
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201192
-#EXTINF:-1,El Capo
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201193
-#EXTINF:-1,La Esquina Del Diablo
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201194
-#EXTINF:-1,Alias El Mexicano
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201195
-#EXTINF:-1,Bloque De Búsqueda
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201196
-#EXTINF:-1,Señorita Polvora
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201197
-#EXTINF:-1,Without Breasts, There Is No Paradise
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201198
-#EXTINF:-1,Enemigo Íntimo
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201199
-#EXTINF:-1,Al Otro Lado Del Muro
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201200
-#EXTINF:-1,La Piloto
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201201
-#EXTINF:-1,El Chapo
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201202
-#EXTINF:-1,La Viuda Negra
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201204
-#EXTINF:-1,Alias J.J
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201205
-#EXTINF:-1,El Chema
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201206
-#EXTINF:-1,Rosario Tijeras
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201207
-#EXTINF:-1,Pablo Escobar, El Patron Del Mal
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201208
-#EXTINF:-1,El Cartel De Los Sapos
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201209
-#EXTINF:-1,Narcos
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201210
-#EXTINF:-1,Ruta 35
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201211
-#EXTINF:-1,Senora Acero
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201212
-#EXTINF:-1,Queen Of The South
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201213
-#EXTINF:-1,La Mariposa
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201214
-#EXTINF:-1,El Dandy
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201215
-#EXTINF:-1,Tres Caínes
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/201216
-#EXTINF:-1,CINE| CINEBOX 4 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87669
-#EXTINF:-1,CINE| CINEBOX 5 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87670
-#EXTINF:-1,CINE| CINEBOX 6 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87671
-#EXTINF:-1,CINE| CINEBOX 7 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87672
-#EXTINF:-1,CINE| CINEBOX 8 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87673
-#EXTINF:-1,CINE| CINEBOX 9 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87674
-#EXTINF:-1,CINE| CINEBOX 10 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87675
-#EXTINF:-1,CINE| CINEBOX 11 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87676
-#EXTINF:-1,CINE| CINEBOX 12 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87677
-#EXTINF:-1,NETFLIX 22
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/124815
-#EXTINF:-1,NETFLIX 21
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/124816
-#EXTINF:-1,NETFLIX 20
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/124817
-#EXTINF:-1,NETFLIX 19
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/124818
-#EXTINF:-1,NETFLIX 18
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/124819
-#EXTINF:-1,NETFLIX 17
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/124820
-#EXTINF:-1,NETFLIX 16
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/124821
-#EXTINF:-1,NETFLIX 15
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/124822
-#EXTINF:-1,NETFLIX 14
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/124823
-#EXTINF:-1,NETFLIX TV 01
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/126316
-#EXTINF:-1,NETFLIX TV 05
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/126320
-#EXTINF:-1,NETFLIX TV 15
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/126330
-#EXTINF:-1,NETFLIX TV  01
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/126344
-#EXTINF:-1,NETFLIX TV 18
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/126361
-#EXTINF:-1,ALQUILER 3 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130137
-#EXTINF:-1,ALQUILER 4 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130138
-#EXTINF:-1,ALQUILER 8 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130142
-#EXTINF:-1,ALQUILER 10 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130144
-#EXTINF:-1,MARVEL| STUDIO CHANNEL 2 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/155980
-#EXTINF:-1,MARVEL| STUDIO CHANNEL 3 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/155981
-#EXTINF:-1,MARVEL| STUDIO CHANNEL 4 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/155982
-#EXTINF:-1,MARVEL| STUDIO CHANNEL 5 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/155983
-#EXTINF:-1,MARVEL| STUDIO CHANNEL 6 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/155984
-#EXTINF:-1,MARVEL| STUDIO CHANNEL 7 HD
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/155985
-#EXTINF:-1,PPV - CINEMA 16 FHD (ES).
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/179052
+#EXTINF:-1,ES: #0
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2146
+#EXTINF:-1,ES: #VAMOS
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2148
+#EXTINF:-1,ES: +24
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285721
+#EXTINF:-1,ES: 4 TV Vall Uxa
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285753
+#EXTINF:-1,ES: 7 Noticias
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/283875
+#EXTINF:-1,ES: 101 Tele Antequera
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285722
+#EXTINF:-1,ES: 101 TV Malaga
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/146345
+#EXTINF:-1,ES: 324 Cat
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/165149
+#EXTINF:-1,ES: A Punt
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/146343
+#EXTINF:-1,ES: A&E
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/7731
+#EXTINF:-1,ES: A3 Cine
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/283299
+#EXTINF:-1,ES: Activa TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285727
+#EXTINF:-1,ES: AFV Espanol
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/284259
+#EXTINF:-1,ES: Alacanti TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/66947
+#EXTINF:-1,ES: Alcarria TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/12153
+#EXTINF:-1,ES: AMC
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1174
+#EXTINF:-1,ES: AMC Break
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297245
+#EXTINF:-1,ES: AMC Crime
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297244
+#EXTINF:-1,ES: Antena 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1173
+#EXTINF:-1,ES: Aragon TV Internacional
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2758
+#EXTINF:-1,ES: Atreseries
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9102
+#EXTINF:-1,ES: AXN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1172
+#EXTINF:-1,ES: AXN White
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1171
+#EXTINF:-1,ES: Baby TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5302
+#EXTINF:-1,ES: Bailen TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285732
+#EXTINF:-1,ES: Barca TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1170
+#EXTINF:-1,ES: Be Mad
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2213
+#EXTINF:-1,ES: beIN Sports Xtra en Espanol
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281493
+#EXTINF:-1,ES: beteve
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285834
+#EXTINF:-1,ES: Bloomberg TV EMEA Live Event
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285720
+#EXTINF:-1,ES: Bloomberg TV Europe
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285843
+#EXTINF:-1,ES: Boing
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1169
+#EXTINF:-1,ES: Bom Cine
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/75926
+#EXTINF:-1,ES: Bon Dia TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/165148
+#EXTINF:-1,ES: Cacavision
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/286374
+#EXTINF:-1,ES: Cadena Elite
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/200665
+#EXTINF:-1,ES: Calle 13
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1168
+#EXTINF:-1,ES: Canal 10 Emporda
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285737
+#EXTINF:-1,ES: Canal 2000 La Solana
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/294891
+#EXTINF:-1,ES: Canal 24 Horas
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2216
+#EXTINF:-1,ES: Canal 25 Barbastro
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/146340
+#EXTINF:-1,ES: Canal 33
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/64938
+#EXTINF:-1,ES: Canal 56
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/270088
+#EXTINF:-1,ES: Canal Cocina
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1167
+#EXTINF:-1,ES: Canal Diocesano
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285741
+#EXTINF:-1,ES: Canal Extremadura
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/11776
+#EXTINF:-1,ES: Canal Hollywood
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1154
+#EXTINF:-1,ES: Canal Malaga
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/12139
+#EXTINF:-1,ES: Canal Odisea
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2194
+#EXTINF:-1,ES: Canal Panda
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1166
+#EXTINF:-1,ES: Canal Sierra de Cadiz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285744
+#EXTINF:-1,ES: Canal Super 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285745
+#EXTINF:-1,ES: Canal Sur Andalucia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2191
+#EXTINF:-1,ES: Caza y Pesca
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1165
+#EXTINF:-1,ES: Clan TVE
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2214
+#EXTINF:-1,ES: CNN en Espanol
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/31762
+#EXTINF:-1,ES: Comedy Central
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1164
+#EXTINF:-1,ES: Congreso de los Diputados 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285747
+#EXTINF:-1,ES: Congreso de los Diputados 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285748
+#EXTINF:-1,ES: Congreso de los Diputados 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285749
+#EXTINF:-1,ES: Congreso de los Diputados 4
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285750
+#EXTINF:-1,ES: Congreso de los Diputados 5
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285751
+#EXTINF:-1,ES: Cosmopolitan TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2215
+#EXTINF:-1,ES: Costa Noroeste TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285752
+#EXTINF:-1,ES: CostadelSol TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295246
+#EXTINF:-1,ES: Cuatro
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1163
+#EXTINF:-1,ES: Cultura 24 TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197864
+#EXTINF:-1,ES: D Kiss
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9356
+#EXTINF:-1,ES: Dark
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/121514
+#EXTINF:-1,ES: DAZN 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/64711
+#EXTINF:-1,ES: DAZN 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/64712
+#EXTINF:-1,ES: DAZN 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/269912
+#EXTINF:-1,ES: DAZN 4
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/269911
+#EXTINF:-1,ES: DAZN F1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1672
+#EXTINF:-1,ES: DAZN LaLiga
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297787
+#EXTINF:-1,ES: Decasa
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2771
+#EXTINF:-1,ES: Diez TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/269929
+#EXTINF:-1,ES: Discovery World
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1162
+#EXTINF:-1,ES: Disney Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1145
+#EXTINF:-1,ES: Disney Junior
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5299
+#EXTINF:-1,ES: Disney XD
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5298
+#EXTINF:-1,ES: Distrito TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/201938
+#EXTINF:-1,ES: Divinity
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2795
+#EXTINF:-1,ES: DMAX
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2762
+#EXTINF:-1,ES: DreamWorks TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281787
+#EXTINF:-1,ES: El 33
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/294892
+#EXTINF:-1,ES: EL Pinguino TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/53887
+#EXTINF:-1,ES: El Toro TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/201928
+#EXTINF:-1,ES: Energy
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2217
+#EXTINF:-1,ES: Enlace TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285914
+#EXTINF:-1,ES: Esperanza TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/11119
+#EXTINF:-1,ES: ESPN
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/90708
+#EXTINF:-1,ES: ESPN 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281480
+#EXTINF:-1,ES: ESPN 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281403
+#EXTINF:-1,ES: ESPN Deportes
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281417
+#EXTINF:-1,ES: Esport 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/7445
+#EXTINF:-1,ES: ETB 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/165969
+#EXTINF:-1,ES: ETB 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/165970
+#EXTINF:-1,ES: ETB Basque
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/50135
+#EXTINF:-1,ES: euronews en Espanol
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/282292
+#EXTINF:-1,ES: EUROSPORT 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1160
+#EXTINF:-1,ES: EUROSPORT 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1159
+#EXTINF:-1,ES: Factoria de Ficcion
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2207
+#EXTINF:-1,ES: Fibwi TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296941
+#EXTINF:-1,ES: FOX
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1158
+#EXTINF:-1,ES: Fox Life
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295164
+#EXTINF:-1,ES: FOX SPORTS 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/89723
+#EXTINF:-1,ES: FOX SPORTS 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/89722
+#EXTINF:-1,ES: France 24
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9148
+#EXTINF:-1,ES: Galicia TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2192
+#EXTINF:-1,ES: GCM TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285760
+#EXTINF:-1,ES: Girona TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/174484
+#EXTINF:-1,ES: Goiena Eus
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285761
+#EXTINF:-1,ES: Gol
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1156
+#EXTINF:-1,ES: Gol Play
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297246
+#EXTINF:-1,ES: Hiperconectados TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285916
+#EXTINF:-1,ES: Historia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1155
+#EXTINF:-1,ES: Hola TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/3061
+#EXTINF:-1,ES: Hollywood
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297243
+#EXTINF:-1,ES: Iberalia TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2793
+#EXTINF:-1,ES: Ibiza Global TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285763
+#EXTINF:-1,ES: Imas TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/269931
+#EXTINF:-1,ES: Inter Almeria
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/81640
+#EXTINF:-1,ES: Investigation Discovery
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/27790
+#EXTINF:-1,ES: LA 7
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285768
+#EXTINF:-1,ES: La Otra
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/145616
+#EXTINF:-1,ES: La Sexta
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1152
+#EXTINF:-1,ES: La URBAN TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285780
+#EXTINF:-1,ES: Laliga Smartbank TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297788
+#EXTINF:-1,ES: Laliga Smartbank TV 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297791
+#EXTINF:-1,ES: Laliga Smartbank TV 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297790
+#EXTINF:-1,ES: Laliga Smartbank TV 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297789
+#EXTINF:-1,ES: LaLiga TV Bar
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/197711
+#EXTINF:-1,ES: Lancelot TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/12159
+#EXTINF:-1,ES: Levante TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/146658
+#EXTINF:-1,ES: Locomotion TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/286055
+#EXTINF:-1,ES: Logos TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281790
+#EXTINF:-1,ES: M+ Ellas #V
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/297242
+#EXTINF:-1,ES: Maestrat TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285784
+#EXTINF:-1,ES: Mar TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/166347
+#EXTINF:-1,ES: Marbella TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/174751
+#EXTINF:-1,ES: MavTV Europe
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285845
+#EXTINF:-1,ES: Mega
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2190
+#EXTINF:-1,ES: Melilla TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/270089
+#EXTINF:-1,ES: Mirame TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285786
+#EXTINF:-1,ES: Molahits TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281793
+#EXTINF:-1,ES: MOVISTAR Accion
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1148
+#EXTINF:-1,ES: MOVISTAR Cine Espanol
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/64788
+#EXTINF:-1,ES: MOVISTAR Clasicos
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281773
+#EXTINF:-1,ES: MOVISTAR Comedia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1146
+#EXTINF:-1,ES: Movistar Deportes
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/227121
+#EXTINF:-1,ES: Movistar Deportes 5
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285690
+#EXTINF:-1,ES: Movistar Deportes 6
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/198066
+#EXTINF:-1,ES: MOVISTAR Drama
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1144
+#EXTINF:-1,ES: MOVISTAR Estrenos
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1143
+#EXTINF:-1,ES: MOVISTAR Estrenos 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/295135
+#EXTINF:-1,ES: MOVISTAR Fest
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/168992
+#EXTINF:-1,ES: MOVISTAR Golf
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1142
+#EXTINF:-1,ES: MOVISTAR La Resistencia
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/286800
+#EXTINF:-1,ES: MOVISTAR LaLiga
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1141
+#EXTINF:-1,ES: MOVISTAR LaLiga 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5311
+#EXTINF:-1,ES: MOVISTAR LaLiga 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281772
+#EXTINF:-1,ES: MOVISTAR LaLiga 4
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/269466
+#EXTINF:-1,ES: MOVISTAR LaLiga 5
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281792
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2800
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/81096
+#EXTINF:-1,ES: MOVISTAR Series
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1140
+#EXTINF:-1,ES: MOVISTAR Series 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1139
+#EXTINF:-1,ES: MTV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/29307
+#EXTINF:-1,ES: MTV Espana
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5308
+#EXTINF:-1,ES: Multideporte
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8110
+#EXTINF:-1,ES: NAT GEO
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1138
+#EXTINF:-1,ES: NAT GEO Wild
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1137
+#EXTINF:-1,ES: Navarra TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/146410
+#EXTINF:-1,ES: NEOX
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2208
+#EXTINF:-1,ES: Nick Junior
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5296
+#EXTINF:-1,ES: nickelodeon
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2218
+#EXTINF:-1,ES: Nova
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2189
+#EXTINF:-1,ES: NTV Europe
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285846
+#EXTINF:-1,ES: Oizmendi Telebista
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285790
+#EXTINF:-1,ES: Olympic Channel
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/11138
+#EXTINF:-1,ES: Onda Algeciras TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/269932
+#EXTINF:-1,ES: Onda Cadiz
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/66953
+#EXTINF:-1,ES: Pequeradio
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285793
+#EXTINF:-1,ES: Popular TV Cantabria
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285794
+#EXTINF:-1,ES: Popular TV Melilla
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/270090
+#EXTINF:-1,ES: Punt 3 Vall Uixo
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/269913
+#EXTINF:-1,ES: Rakuten 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285802
+#EXTINF:-1,ES: Rakuten 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285803
+#EXTINF:-1,ES: Rakuten 3
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285804
+#EXTINF:-1,ES: Rakuten 6
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285805
+#EXTINF:-1,ES: Rakuten 7
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285806
+#EXTINF:-1,ES: Rakuten Family
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285801
+#EXTINF:-1,ES: Real Madrid TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1136
+#EXTINF:-1,ES: RT Español
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/166663
+#EXTINF:-1,ES: RTV Vida
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285797
+#EXTINF:-1,ES: RTVC
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/11809
+#EXTINF:-1,ES: RTVE Noticias
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/296504
+#EXTINF:-1,ES: Sevilla FC TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/169002
+#EXTINF:-1,ES: Sofy TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285809
+#EXTINF:-1,ES: Solidaria TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285810
+#EXTINF:-1,ES: Somos
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/16274
+#EXTINF:-1,ES: Sophia TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285811
+#EXTINF:-1,ES: Star TVE
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285188
+#EXTINF:-1,ES: Sundance TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2757
+#EXTINF:-1,ES: SYFY
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1135
+#EXTINF:-1,ES: TCM
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1134
+#EXTINF:-1,ES: Tele Safor
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/50133
+#EXTINF:-1,ES: Telecinco
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1133
+#EXTINF:-1,ES: Teledeporte
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/2774
+#EXTINF:-1,ES: Teleonuba
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/145619
+#EXTINF:-1,ES: TeleRibera
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285823
+#EXTINF:-1,ES: TeleVigo
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285825
+#EXTINF:-1,ES: Ten
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5306
+#EXTINF:-1,ES: Toros TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1132
+#EXTINF:-1,ES: Trece TV
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/60943
+#EXTINF:-1,ES: TV 4 La Vall
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/270092
+#EXTINF:-1,ES: TV Vega Baja
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/269915
+#EXTINF:-1,ES: TV3 Catalunya
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9367
+#EXTINF:-1,ES: TV5 Limares
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/285819
+#EXTINF:-1,ES: TVE Internacional América 1
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/49480
+#EXTINF:-1,ES: TVE Internacional Europa
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/5943
+#EXTINF:-1,ES: TVE La 1 Madrid
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1151
+#EXTINF:-1,ES: TVE La 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/1150
+#EXTINF:-1,ES: TVG 2
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281802
+#EXTINF:-1,ES: TVG Cultural
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/71536
+#EXTINF:-1,ES: TVG Infantil
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281806
+#EXTINF:-1,ES: TVG Musigal
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/281808
+#EXTINF:-1,ES: Ubeat
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/147368
+#EXTINF:-1,ES: XTRM
+http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/11148
