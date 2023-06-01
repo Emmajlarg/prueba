@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name=" NEO TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="NACIONAL", NEO TV  http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv1MpkuA-yo59mjqY_VK5DKg/ts
 #EXTINF:-1,ARG: AMERICA 24 HD
 http://tutvxweb.net:8000/7H9YAQYZU5/BW7JHR6Y8K/146369
 #EXTINF:-1,ARG: TV PUBLICA HD
