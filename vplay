@@ -1,8 +1,22 @@
 #EXTM3U
-#EXTINF:-1,>>CONTACTO 3865 448130<<
+#EXTINF:-1,>CONTACTO 3865 448130<
 ar.Emmajl.Social
+#EXTINF:-1,America TV SD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/43319
+#EXTINF:-1,America TV HD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/43320
+#EXTINF:-1,America TV FHD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/43321
 #EXTINF:-1,Television Publica HD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43308
+#EXTINF:-1,El Nueve SD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/43316
+#EXTINF:-1,El Nueve HD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/43317
+#EXTINF:-1,El Nueve FHD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/43318
+#EXTINF:-1,Telefe HD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302726
 #EXTINF:-1,Telefe SD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43310
 #EXTINF:-1,Telefe HD (ARG)
@@ -11,46 +25,34 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/43311
 http://hidra.live:80/mnbgcnpi/bcbausa71/43312
 #EXTINF:-1,El Trece HD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43314
-#EXTINF:-1,El Nueve SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43316
-#EXTINF:-1,El Nueve HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43317
-#EXTINF:-1,El Nueve FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43318
-#EXTINF:-1,America TV SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43319
-#EXTINF:-1,America TV HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43320
-#EXTINF:-1,America TV FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43321
+#EXTINF:-1,Todo Noticias TN FHD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/43345
+#EXTINF:-1,C5N HD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/43344
+#EXTINF:-1,Cronica HD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/123877
 #EXTINF:-1,A24 FHD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43322
 #EXTINF:-1,A24 HD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43323
+#EXTINF:-1,Canal 26 HD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/43343
+#EXTINF:-1,La Nacion SD (ARG)
+http://hidra.live:80/mnbgcnpi/bcbausa71/43347
 #EXTINF:-1,Net TV HD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43327
 #EXTINF:-1,Encuentro HQ (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43339
 #EXTINF:-1,Cine AR SD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43342
-#EXTINF:-1,Canal 26 HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43343
-#EXTINF:-1,C5N HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43344
-#EXTINF:-1,Todo Noticias TN FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43345
 #EXTINF:-1,Volver SD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43346
-#EXTINF:-1,La Nacion SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43347
 #EXTINF:-1,Garage TV SD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43357
 #EXTINF:-1,Quiero Musica HD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/43361
 #EXTINF:-1,Ciudad Magazine HD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/123876
-#EXTINF:-1,Cronica HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123877
 #EXTINF:-1,Adrenalina Sport Network HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302603
 #EXTINF:-1,Amas HD (MX VIP)
@@ -81,6 +83,18 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/302621
 http://hidra.live:80/mnbgcnpi/bcbausa71/302623
 #EXTINF:-1,CNN HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302624
+#EXTINF:-1,CineCanal HD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302689
+#EXTINF:-1,Claro Sports HD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302690
+#EXTINF:-1,CNN Español HD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302691
+#EXTINF:-1,Comedy Central HD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302692
+#EXTINF:-1,Discovery H&H HD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302693
+#EXTINF:-1,Discovery ID HD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302674
 #EXTINF:-1,Discovery Kids HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302625
 #EXTINF:-1,Discovery Theater HD (MX VIP)
@@ -123,12 +137,18 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/302645
 http://hidra.live:80/mnbgcnpi/bcbausa71/302646
 #EXTINF:-1,Imagen TV HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302650
+#EXTINF:-1,Futv FHD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302697
+#EXTINF:-1,Fox Sport 3 HD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302698
 #EXTINF:-1,Fox Sports HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302652
 #EXTINF:-1,Fox Sports 2 HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302653
 #EXTINF:-1,FX HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302655
+#EXTINF:-1,Golden Premier 2 HD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302699
 #EXTINF:-1,Golden Edge HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302657
 #EXTINF:-1,Golden  HD (MX VIP)
@@ -163,30 +183,12 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/302671
 http://hidra.live:80/mnbgcnpi/bcbausa71/302672
 #EXTINF:-1,History Channel HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302673
-#EXTINF:-1,Discovery ID HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302674
 #EXTINF:-1,iSat HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302676
 #EXTINF:-1,La Octava HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302677
 #EXTINF:-1,LifeTime HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302678
-#EXTINF:-1,Cine Canal HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302689
-#EXTINF:-1,Claro Sports HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302690
-#EXTINF:-1,CNN Español HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302691
-#EXTINF:-1,Comedy Central HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302692
-#EXTINF:-1,Discovery H&H HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302693
-#EXTINF:-1,Futv FHD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302697
-#EXTINF:-1,Fox Sport 3 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302698
-#EXTINF:-1,Golden Premier 2 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302699
 #EXTINF:-1,Las Estrellas HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302700
 #EXTINF:-1,MTV HD (MX VIP)
@@ -217,16 +219,12 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/302722
 http://hidra.live:80/mnbgcnpi/bcbausa71/302723
 #EXTINF:-1,TCM HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302724
-#EXTINF:-1,Telefe HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302726
 #EXTINF:-1,Tele Hit HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302727
 #EXTINF:-1,Telemundo Internacional HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302728
 #EXTINF:-1,TLC HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302730
-#EXTINF:-1,Univision TLNovelas HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302732
 #EXTINF:-1,TNT HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302733
 #EXTINF:-1,TNT Series HD (MX VIP)
@@ -237,12 +235,18 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/302735
 http://hidra.live:80/mnbgcnpi/bcbausa71/302736
 #EXTINF:-1,TVC Deportes HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302737
+#EXTINF:-1,Univision TLNovelas HD (MX VIP)
+http://hidra.live:80/mnbgcnpi/bcbausa71/302732
 #EXTINF:-1,Unicable HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302738
 #EXTINF:-1,Universal Channel HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302739
 #EXTINF:-1,Universal Cinema HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302740
+#EXTINF:-1,Universal Comedy SD (LAT)
+http://hidra.live:80/mnbgcnpi/bcbausa71/34854
+#EXTINF:-1,Universal Comedy HD (LAT)
+http://hidra.live:80/mnbgcnpi/bcbausa71/34855
 #EXTINF:-1,Universal Crime HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302741
 #EXTINF:-1,Universal Premier HD (MX VIP)
@@ -251,8 +255,6 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/302742
 http://hidra.live:80/mnbgcnpi/bcbausa71/302743
 #EXTINF:-1,Warner Channel HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/302746
-#EXTINF:-1,Las Estrellas -1HRs HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304504
 #EXTINF:-1,Affiz HD (MX VIP)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304505
 #EXTINF:-1,DreamWorks HD (MX VIP)
@@ -847,46 +849,8 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/34706
 http://hidra.live:80/mnbgcnpi/bcbausa71/34709
 #EXTINF:-1,EuroSport 2 HQ (ES)
 http://hidra.live:80/mnbgcnpi/bcbausa71/34710
-#EXTINF:-1,Fight Network FHD (CA)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34711
-#EXTINF:-1,NBA TV HD (US)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34712
-#EXTINF:-1,UFC Fight Pass FHD (US)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34714
-#EXTINF:-1,Univision Deportes Network HD (US)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34715
-#EXTINF:-1,WWE Network HD  (US)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34716
 #EXTINF:-1,b31N Sports Ñ HQ (ES)
 http://hidra.live:80/mnbgcnpi/bcbausa71/34717
-#EXTINF:-1,b31N Sports 1 HQ (AR)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34718
-#EXTINF:-1,b31N Sports 3 HQ (AR)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34720
-#EXTINF:-1,b31N Sports 5 HQ (AR)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34722
-#EXTINF:-1,b31N Sports 6 HQ (AR)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34723
-#EXTINF:-1,b31N Sports 7 HQ (AR)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34724
-#EXTINF:-1,Sky Sports MotoGP HQ (IT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34730
-#EXTINF:-1,Sky Sports Arena HQ (IT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34731
-#EXTINF:-1,Sky Sports Tennis HQ (IT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34732
-#EXTINF:-1,Sky Sports F1 HQ (IT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34733
-#EXTINF:-1,Sky Sports UNO HQ (IT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34735
-#EXTINF:-1,Sky Sports AEW / WWE HQ (IT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34736
-#EXTINF:-1,Sky Sports NBA HQ (IT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34737
-#EXTINF:-1,Sky Sports Action HQ (IT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34738
-#EXTINF:-1,Sky Sports 24 Premier League HQ (IT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34739
 #EXTINF:-1,DeporTV HD (ARG)
 http://hidra.live:80/mnbgcnpi/bcbausa71/34740
 #EXTINF:-1,Movistar Deportes (PE)
@@ -1701,16 +1665,10 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/304294
 http://hidra.live:80/mnbgcnpi/bcbausa71/304295
 #EXTINF:-1,Exitosa HD (PE)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304296
-#EXTINF:-1,Frecuencia Latina.. SD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304297
-#EXTINF:-1,Frecuencia Latina. SD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304298
 #EXTINF:-1,Gol Peru. SD (PE)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304300
 #EXTINF:-1,Movistar Deportes FHD (PE)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304302
-#EXTINF:-1,Movistar Deportes. FHD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304303
 #EXTINF:-1,Movistar Plus SD (PE)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304304
 #EXTINF:-1,Panamericana FHD (PE)
@@ -1781,26 +1739,16 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/304388
 http://hidra.live:80/mnbgcnpi/bcbausa71/304389
 #EXTINF:-1,Gol TV SD (EC)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304390
-#EXTINF:-1,Gol TV. SD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304391
-#EXTINF:-1,Oromar FHD  (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304392
 #EXTINF:-1,Oromar. SD (EC)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304393
 #EXTINF:-1,Rts. HD (EC)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304395
 #EXTINF:-1,TC Television FHD (EC)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304396
-#EXTINF:-1,TC Television. FHD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304397
 #EXTINF:-1,Teleamazonas HD (EC)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304398
-#EXTINF:-1,Teleamazonas. HD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304399
 #EXTINF:-1,Telerama SD (EC)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304400
-#EXTINF:-1,Telerama. SD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304401
 #EXTINF:-1,Asomavisión SD (EC)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304404
 #EXTINF:-1,C9N FHD (PY)
@@ -1821,10 +1769,6 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/304419
 http://hidra.live:80/mnbgcnpi/bcbausa71/304421
 #EXTINF:-1,Tigo Sports Plus SD (PY)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304422
-#EXTINF:-1,Tigo Sports Plus. FHD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304423
-#EXTINF:-1,Tigo Sports. FHD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304424
 #EXTINF:-1,Unicanal SD (PY)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304426
 #EXTINF:-1,Canal 8 Multimedios HD (CR)
@@ -1837,18 +1781,10 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/304493
 http://hidra.live:80/mnbgcnpi/bcbausa71/304494
 #EXTINF:-1,TVN Canal 14 HD (CR)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304502
-#EXTINF:-1,Cable Noticias FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304219
-#EXTINF:-1,Cable Noticias FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304220
 #EXTINF:-1,Cable Noticias SD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304221
 #EXTINF:-1,Cali TV SD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304222
-#EXTINF:-1,Canal 1 FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304223
-#EXTINF:-1,Canal 1 HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304224
 #EXTINF:-1,Canal 1 SD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304225
 #EXTINF:-1,Canal Capital FHD (CO)
@@ -1859,14 +1795,8 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/304229
 http://hidra.live:80/mnbgcnpi/bcbausa71/304231
 #EXTINF:-1,Canal Trece HD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304234
-#EXTINF:-1,Canal Trece FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304235
-#EXTINF:-1,Canal Trece HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304236
 #EXTINF:-1,Canal Trece SD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304237
-#EXTINF:-1,Caracol FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304243
 #EXTINF:-1,Caracol HD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304245
 #EXTINF:-1,Caracol Internacional FHD (CO)
@@ -1889,14 +1819,10 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/304259
 http://hidra.live:80/mnbgcnpi/bcbausa71/304262
 #EXTINF:-1,Señal Colombia SD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304263
-#EXTINF:-1,Señal Colombia FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304264
 #EXTINF:-1,Señal Colombia HD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304265
 #EXTINF:-1,Señal Colombia SD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304266
-#EXTINF:-1,Teleantioquia FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304268
 #EXTINF:-1,Teleantioquia HD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304269
 #EXTINF:-1,Teleantioquia SD (CO)
@@ -1905,20 +1831,12 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/304270
 http://hidra.live:80/mnbgcnpi/bcbausa71/304271
 #EXTINF:-1,Telecafe SD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304273
-#EXTINF:-1,Telecaribe FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304274
 #EXTINF:-1,Telecaribe SD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304276
 #EXTINF:-1,Teleisla FHD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304277
 #EXTINF:-1,Teleisla SD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/304279
-#EXTINF:-1,Telemedellin FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304280
-#EXTINF:-1,Telepacifico FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304281
-#EXTINF:-1,Tvagro FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304285
 #EXTINF:-1,RCN Nuestra Tele Int. SD (CO)
 http://hidra.live:80/mnbgcnpi/bcbausa71/313029
 #EXTINF:-1,RCN Internacional FHD (CO)
@@ -2381,21 +2299,3 @@ http://hidra.live:80/mnbgcnpi/bcbausa71/34510
 http://hidra.live:80/mnbgcnpi/bcbausa71/34511
 #EXTINF:-1,PPV: Cinema 36
 http://hidra.live:80/mnbgcnpi/bcbausa71/34512
-#EXTINF:-1,PPV: Cinema 37
-http://hidra.live:80/mnbgcnpi/bcbausa71/34513
-#EXTINF:-1,PPV: Starz West FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/34517
-#EXTINF:-1,PPV: Starz Comedy FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/34519
-#EXTINF:-1,PPV: Starz Encore Western FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/34524
-#EXTINF:-1,PPV: Starz Encore Suspense HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/34525
-#EXTINF:-1,PPV: Showtime West FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/34531
-#EXTINF:-1,PPV: OuterMax FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/34536
-#EXTINF:-1,PPV: MoviePlex FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/34537
-#EXTINF:-1,PPV: HBO West FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/34541
