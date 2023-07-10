@@ -1,1345 +1,2771 @@
 #EXTM3U
-#EXTINF:-1,Contacto 3865 448130
-http://partyplay.live:8080/exch@grogi/
-#EXTINF:-1,A TV PUBLICA
-http://partyplay.live:8080/exch@grogi/grogi456/11650
-#EXTINF:-1,A EL NUEVE
-http://partyplay.live:8080/exch@grogi/grogi456/11551
-#EXTINF:-1,A EL TRECE
-http://partyplay.live:8080/exch@grogi/grogi456/11548
-#EXTINF:-1,A TELEFE
-http://partyplay.live:8080/exch@grogi/grogi456/11639
-#EXTINF:-1,A TELEMAX
-http://partyplay.live:8080/exch@grogi/grogi456/11640
-#EXTINF:-1,A TN
-http://partyplay.live:8080/exch@grogi/grogi456/11644
-#EXTINF:-1,A C5N
-http://partyplay.live:8080/exch@grogi/grogi456/11668
-#EXTINF:-1,A CRONICA
-http://partyplay.live:8080/exch@grogi/grogi456/11565
-#EXTINF:-1,A CANAL 26
-http://partyplay.live:8080/exch@grogi/grogi456/11550
-#EXTINF:-1,A CANAL DE LA CIUDAD
-http://partyplay.live:8080/exch@grogi/grogi456/11552
-#EXTINF:-1,A Tyc sports Internacional
-http://partyplay.live:8080/exch@grogi/grogi456/397442
-#EXTINF:-1,A MUCH MUSIC
-http://partyplay.live:8080/exch@grogi/grogi456/11619
-#EXTINF:-1,A MUSIC TOP
-http://partyplay.live:8080/exch@grogi/grogi456/11620
+#EXTINF:-1,A A24 HD (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195297
+#EXTINF:-1,A AMERICA (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195298
+#EXTINF:-1,A AMERICA 24 (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195299
+#EXTINF:-1,A AMERICA TV (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195300
+#EXTINF:-1,A TV PUBLICA (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195334
+#EXTINF:-1,A TV PUBLICA SD (AR) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195335
+#EXTINF:-1,A EL NUEVE HD  (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195312
+#EXTINF:-1,A EL NUEVE HD (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195313
+#EXTINF:-1,A CANAL NUEVE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86606
+#EXTINF:-1,A EL TRECE (Argentina) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195314
+#EXTINF:-1,A EL TRECE EN SD (AR) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195315
+#EXTINF:-1,A EL TRECE HD :) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195316
+#EXTINF:-1,  | El Trece
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86651
+#EXTINF:-1,A EL TRECE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86608
+#EXTINF:-1,A TELEFE HD * (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195326
+#EXTINF:-1,A TELEFE SD (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195328
+#EXTINF:-1,  | Telefe
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86650
+#EXTINF:-1,P| TELEFE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149633
+#EXTINF:-1,A TN (Argentina) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195330
+#EXTINF:-1,A TN HD (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195331
+#EXTINF:-1,A TN HD * (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195332
+#EXTINF:-1,A TN NOTICIAS  :)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195333
+#EXTINF:-1,A TN NOTICIAS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86619
+#EXTINF:-1,A C5N (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195304
+#EXTINF:-1,A C5N (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195305
+#EXTINF:-1,A C5N HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86623
+#EXTINF:-1,A CANAL 26 SD (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195307
+#EXTINF:-1,A Cronica (Argentina) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195309
+#EXTINF:-1,A CRONICA. :) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195310
+#EXTINF:-1,A CRONICA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86620
+#EXTINF:-1,  | Cronica TV
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86655
+#EXTINF:-1,  | Canal 26
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86654
+#EXTINF:-1,P| A24 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149625
+#EXTINF:-1,A CANAL 26 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86611
+#EXTINF:-1,A A24 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86612
+#EXTINF:-1,A La Nacion (Argentina) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195321
+#EXTINF:-1,A LN  :) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195322
+#EXTINF:-1,A MULTIVISION CANAL 9 SALTA (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195323
+#EXTINF:-1,A /NOTICIAS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86613
+#EXTINF:-1,A VOLVER HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86615
+#EXTINF:-1,A CANAL TRECE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86616
+#EXTINF:-1,A TIERRAMIA TV
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86618
+#EXTINF:-1,A CONSTRUIR TV
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86621
+#EXTINF:-1,A ENCUENTRO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86624
+#EXTINF:-1,A TNT SPORTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86626
+#EXTINF:-1,A FOX PREMIUN SPORTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86630
+#EXTINF:-1,AR | ESPN Premium HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/170278
+#EXTINF:-1,A ESPN 3 SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86641
+#EXTINF:-1,A ESPN PLUS FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/214259
+#EXTINF:-1,A FOX SPORTS PREMIUN HQ
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/214261
+#EXTINF:-1, A| TNT SPORTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129701
+#EXTINF:-1, A| TNT SPORTS ARGENTINA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129702
+#EXTINF:-1, A| TYC  HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129703
+#EXTINF:-1,A TYC SPORTS LOCAL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/214260
+#EXTINF:-1,A TYC SPORTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86628
+#EXTINF:-1,A DEPORT TV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/214262
 #EXTINF:-1,A QUIERO MUSICA
-http://partyplay.live:8080/exch@grogi/grogi456/11629
-#EXTINF:-1,A BOOMERANG
-http://partyplay.live:8080/exch@grogi/grogi456/11546
-#EXTINF:-1,A CANAL 21
-http://partyplay.live:8080/exch@grogi/grogi456/11549
-#EXTINF:-1,A CINEAR
-http://partyplay.live:8080/exch@grogi/grogi456/11676
-#EXTINF:-1,A CINECANAL
-http://partyplay.live:8080/exch@grogi/grogi456/11556
-#EXTINF:-1,A CINEMAX
-http://partyplay.live:8080/exch@grogi/grogi456/11557
-#EXTINF:-1,A CIUDAD MAGAZINE
-http://partyplay.live:8080/exch@grogi/grogi456/11558
-#EXTINF:-1,A CNN EN ESPANIOL
-http://partyplay.live:8080/exch@grogi/grogi456/11682
-#EXTINF:-1,A CNN
-http://partyplay.live:8080/exch@grogi/grogi456/11560
-#EXTINF:-1,A COMEDY
-http://partyplay.live:8080/exch@grogi/grogi456/11562
-#EXTINF:-1,A DEPORTV
-http://partyplay.live:8080/exch@grogi/grogi456/11566
-#EXTINF:-1,A DISNEY
-http://partyplay.live:8080/exch@grogi/grogi456/11567
-#EXTINF:-1,A DISNEY JUNIOR
-http://partyplay.live:8080/exch@grogi/grogi456/11568
-#EXTINF:-1,A DISNEY XD
-http://partyplay.live:8080/exch@grogi/grogi456/11569
-#EXTINF:-1,A DW
-http://partyplay.live:8080/exch@grogi/grogi456/11570
-#EXTINF:-1,A E!
-http://partyplay.live:8080/exch@grogi/grogi456/11571
-#EXTINF:-1,A ENCUENTRO
-http://partyplay.live:8080/exch@grogi/grogi456/11572
-#EXTINF:-1,A ESPN 2
-http://partyplay.live:8080/exch@grogi/grogi456/11574
-#EXTINF:-1,A ESPN 3
-http://partyplay.live:8080/exch@grogi/grogi456/11575
-#EXTINF:-1,A ESPN
-http://partyplay.live:8080/exch@grogi/grogi456/11573
-#EXTINF:-1,A ESPN+
-http://partyplay.live:8080/exch@grogi/grogi456/11781
-#EXTINF:-1,A ESPN PREMIUM
-http://partyplay.live:8080/exch@grogi/grogi456/386274
-#EXTINF:-1,A TNT SPORTS
-http://partyplay.live:8080/exch@grogi/grogi456/11647
-#EXTINF:-1,A EUROPA
-http://partyplay.live:8080/exch@grogi/grogi456/11576
-#EXTINF:-1,A FILM &AMP; ARTS
-http://partyplay.live:8080/exch@grogi/grogi456/11577
-#EXTINF:-1,A FOX NEWS
-http://partyplay.live:8080/exch@grogi/grogi456/11580
-#EXTINF:-1,A FOX SPORTS PREMIUM
-http://partyplay.live:8080/exch@grogi/grogi456/11593
-#EXTINF:-1,A FX
-http://partyplay.live:8080/exch@grogi/grogi456/11594
-#EXTINF:-1,A GARAGE
-http://partyplay.live:8080/exch@grogi/grogi456/11596
-#EXTINF:-1,A GLITZ
-http://partyplay.live:8080/exch@grogi/grogi456/11597
-#EXTINF:-1,A GOLF CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/11598
-#EXTINF:-1,A GOURMET
-http://partyplay.live:8080/exch@grogi/grogi456/11599
-#EXTINF:-1,A H2
-http://partyplay.live:8080/exch@grogi/grogi456/11600
-#EXTINF:-1,A HBO 2
-http://partyplay.live:8080/exch@grogi/grogi456/11602
-#EXTINF:-1,A HBO FAMILY
-http://partyplay.live:8080/exch@grogi/grogi456/11603
-#EXTINF:-1,A HBO
-http://partyplay.live:8080/exch@grogi/grogi456/11601
-#EXTINF:-1,A HBO SIGNATURE
-http://partyplay.live:8080/exch@grogi/grogi456/11605
-#EXTINF:-1,A HISTORY
-http://partyplay.live:8080/exch@grogi/grogi456/11607
-#EXTINF:-1,A HTV
-http://partyplay.live:8080/exch@grogi/grogi456/11608
-#EXTINF:-1,A LIFETIME
-http://partyplay.live:8080/exch@grogi/grogi456/11610
-#EXTINF:-1,A LN
-http://partyplay.live:8080/exch@grogi/grogi456/11611
-#EXTINF:-1,A MAS CHIC
-http://partyplay.live:8080/exch@grogi/grogi456/11612
-#EXTINF:-1,A HBO Mundi
-http://partyplay.live:8080/exch@grogi/grogi456/11613
-#EXTINF:-1,A HBO XTREME
-http://partyplay.live:8080/exch@grogi/grogi456/11614
-#EXTINF:-1,A MAX UP
-http://partyplay.live:8080/exch@grogi/grogi456/11615
-#EXTINF:-1,A METRO
-http://partyplay.live:8080/exch@grogi/grogi456/11616
-#EXTINF:-1,A MTV
-http://partyplay.live:8080/exch@grogi/grogi456/11617
-#EXTINF:-1,A MTV HITS
-http://partyplay.live:8080/exch@grogi/grogi456/11618
-#EXTINF:-1,A NAT GEO
-http://partyplay.live:8080/exch@grogi/grogi456/11621
-#EXTINF:-1,A NICKELODEON
-http://partyplay.live:8080/exch@grogi/grogi456/11624
-#EXTINF:-1,A NICKELODEON JR
-http://partyplay.live:8080/exch@grogi/grogi456/11625
-#EXTINF:-1,A PAKA PAKA
-http://partyplay.live:8080/exch@grogi/grogi456/11626
-#EXTINF:-1,A PARAMOUNT
-http://partyplay.live:8080/exch@grogi/grogi456/11627
-#EXTINF:-1,A RAI
-http://partyplay.live:8080/exch@grogi/grogi456/11630
-#EXTINF:-1,A RURAL
-http://partyplay.live:8080/exch@grogi/grogi456/11631
-#EXTINF:-1,A SENADO
-http://partyplay.live:8080/exch@grogi/grogi456/11632
-#EXTINF:-1,A SONY
-http://partyplay.live:8080/exch@grogi/grogi456/11633
-#EXTINF:-1,A SPACE
-http://partyplay.live:8080/exch@grogi/grogi456/11634
-#EXTINF:-1,A STUDIO UNIVERSAL
-http://partyplay.live:8080/exch@grogi/grogi456/11635
-#EXTINF:-1,A SYFY
-http://partyplay.live:8080/exch@grogi/grogi456/11636
-#EXTINF:-1,A TBS VERY FUNNY
-http://partyplay.live:8080/exch@grogi/grogi456/11637
-#EXTINF:-1,A TCM
-http://partyplay.live:8080/exch@grogi/grogi456/11638
-#EXTINF:-1,A TELEMUNDO
-http://partyplay.live:8080/exch@grogi/grogi456/11641
-#EXTINF:-1,A TELESUR
-http://partyplay.live:8080/exch@grogi/grogi456/11642
-#EXTINF:-1,A TNT
-http://partyplay.live:8080/exch@grogi/grogi456/11645
-#EXTINF:-1,A TNT SERIES
-http://partyplay.live:8080/exch@grogi/grogi456/11646
-#EXTINF:-1,A TOONCAST
-http://partyplay.live:8080/exch@grogi/grogi456/11648
-#EXTINF:-1,A TRUTV
-http://partyplay.live:8080/exch@grogi/grogi456/11649
-#EXTINF:-1,A TV5 MONDE
-http://partyplay.live:8080/exch@grogi/grogi456/11651
-#EXTINF:-1,A TVE
-http://partyplay.live:8080/exch@grogi/grogi456/11652
-#EXTINF:-1,A TYC SPORTS
-http://partyplay.live:8080/exch@grogi/grogi456/11653
-#EXTINF:-1,A UNIVERSAL
-http://partyplay.live:8080/exch@grogi/grogi456/11654
-#EXTINF:-1,L VIP A MTV
-http://partyplay.live:8080/exch@grogi/grogi456/11655
-#EXTINF:-1,A VOLVER
-http://partyplay.live:8080/exch@grogi/grogi456/11657
-#EXTINF:-1,A WARNER
-http://partyplay.live:8080/exch@grogi/grogi456/11658
-#EXTINF:-1,A A&E
-http://partyplay.live:8080/exch@grogi/grogi456/11539
-#EXTINF:-1,A AMC
-http://partyplay.live:8080/exch@grogi/grogi456/11540
-#EXTINF:-1,A AMERICA TV
-http://partyplay.live:8080/exch@grogi/grogi456/11541
-#EXTINF:-1,A AMERICA 24
-http://partyplay.live:8080/exch@grogi/grogi456/11542
-#EXTINF:-1,A AENTINISIMA
-http://partyplay.live:8080/exch@grogi/grogi456/11543
-#EXTINF:-1,A AXN
-http://partyplay.live:8080/exch@grogi/grogi456/11544
-#EXTINF:-1,A BABY TV
-http://partyplay.live:8080/exch@grogi/grogi456/11545
-#EXTINF:-1,A CANAL 4
-http://partyplay.live:8080/exch@grogi/grogi456/42064
-#EXTINF:-1,A CANAL 9 SALTA
-http://partyplay.live:8080/exch@grogi/grogi456/42060
-#EXTINF:-1,A FOX SPORTS 1
-http://partyplay.live:8080/exch@grogi/grogi456/8037
-#EXTINF:-1,A FOX SPORTS 2
-http://partyplay.live:8080/exch@grogi/grogi456/3910
-#EXTINF:-1,A DIRECTV SPORTS 2
-http://partyplay.live:8080/exch@grogi/grogi456/301497
-#EXTINF:-1,A DIRECTV SPORTS
-http://partyplay.live:8080/exch@grogi/grogi456/301496
-#EXTINF:-1,A FOX SPORTS 3
-http://partyplay.live:8080/exch@grogi/grogi456/301491
-#EXTINF:-1,A TELEVISION PUBLICA
-http://partyplay.live:8080/exch@grogi/grogi456/310848
-#EXTINF:-1,A CANAL 26 NOTICIAS
-http://partyplay.live:8080/exch@grogi/grogi456/310846
-#EXTINF:-1,A DIRECTV SPORTS +
-http://partyplay.live:8080/exch@grogi/grogi456/350259
-#EXTINF:-1,A PX SPORTS
-http://partyplay.live:8080/exch@grogi/grogi456/359387
-#EXTINF:-1,A STAR CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/385974
-#EXTINF:-1,L VIP BR FOX
-http://partyplay.live:8080/exch@grogi/grogi456/410231
-#EXTINF:-1,L CLARO MUSIC
-http://partyplay.live:8080/exch@grogi/grogi456/42154
-#EXTINF:-1,L DISCOVERY CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/17037
-#EXTINF:-1,L 5 STARMAX
-http://partyplay.live:8080/exch@grogi/grogi456/8541
-#EXTINF:-1,L ACTION MAX
-http://partyplay.live:8080/exch@grogi/grogi456/8646
-#EXTINF:-1,L CANAL 13 CHILE
-http://partyplay.live:8080/exch@grogi/grogi456/8466
-#EXTINF:-1,L CARACOL
-http://partyplay.live:8080/exch@grogi/grogi456/8469
-#EXTINF:-1,L CINEMA 28 PPV
-http://partyplay.live:8080/exch@grogi/grogi456/8553
-#EXTINF:-1,L CINEMA 30 PPV
-http://partyplay.live:8080/exch@grogi/grogi456/8551
-#EXTINF:-1,L CINEMA 31 PPV
-http://partyplay.live:8080/exch@grogi/grogi456/8550
-#EXTINF:-1,L CINEMA 33 PPV
-http://partyplay.live:8080/exch@grogi/grogi456/8548
-#EXTINF:-1,L CINEMA 36 PPV
-http://partyplay.live:8080/exch@grogi/grogi456/8545
-#EXTINF:-1,L CINEMA 37 PPV
-http://partyplay.live:8080/exch@grogi/grogi456/8544
-#EXTINF:-1,L CINEMAX ACTION
-http://partyplay.live:8080/exch@grogi/grogi456/8507
-#EXTINF:-1,L CINEMAX EAST
-http://partyplay.live:8080/exch@grogi/grogi456/8508
-#EXTINF:-1,L CINEMAX
-http://partyplay.live:8080/exch@grogi/grogi456/8509
-#EXTINF:-1,L CURACAO_TV DIRECT 13
-http://partyplay.live:8080/exch@grogi/grogi456/8680
-#EXTINF:-1,L DIRECTVSP 1
-http://partyplay.live:8080/exch@grogi/grogi456/8468
-#EXTINF:-1,L DIRECTVSP 2
-http://partyplay.live:8080/exch@grogi/grogi456/8464
-#EXTINF:-1,L DIRECTV SPORTS +
-http://partyplay.live:8080/exch@grogi/grogi456/8465
-#EXTINF:-1,L EC_DIRECTV SPORT
-http://partyplay.live:8080/exch@grogi/grogi456/8650
-#EXTINF:-1,L GOLTV
-http://partyplay.live:8080/exch@grogi/grogi456/8649
-#EXTINF:-1,L STAR SPORT2 CHILE
-http://partyplay.live:8080/exch@grogi/grogi456/8618
-#EXTINF:-1,L HBO 2
-http://partyplay.live:8080/exch@grogi/grogi456/8584
-#EXTINF:-1,L HBO 2 WEST
-http://partyplay.live:8080/exch@grogi/grogi456/8585
-#EXTINF:-1,L HBO FAMILY
-http://partyplay.live:8080/exch@grogi/grogi456/8511
-#EXTINF:-1,L HBO
-http://partyplay.live:8080/exch@grogi/grogi456/8653
-#EXTINF:-1,L HBO PLUS
-http://partyplay.live:8080/exch@grogi/grogi456/8512
-#EXTINF:-1,L HBO SIGNATURE
-http://partyplay.live:8080/exch@grogi/grogi456/8513
-#EXTINF:-1,L HBO WEST
-http://partyplay.live:8080/exch@grogi/grogi456/8514
-#EXTINF:-1,L INDIEPLEX
-http://partyplay.live:8080/exch@grogi/grogi456/8588
-#EXTINF:-1,L MIAMI TV
-http://partyplay.live:8080/exch@grogi/grogi456/8617
-#EXTINF:-1,L MOREMAX
-http://partyplay.live:8080/exch@grogi/grogi456/8589
-#EXTINF:-1,L MOVIEPLEX
-http://partyplay.live:8080/exch@grogi/grogi456/8591
-#EXTINF:-1,L OUTERMAX
-http://partyplay.live:8080/exch@grogi/grogi456/8592
-#EXTINF:-1,L PAN_:TV MAX 9
-http://partyplay.live:8080/exch@grogi/grogi456/8674
-#EXTINF:-1,L PAN_RPC 4
-http://partyplay.live:8080/exch@grogi/grogi456/8673
-#EXTINF:-1,L PAN_SER TV CANAL 11
-http://partyplay.live:8080/exch@grogi/grogi456/8670
-#EXTINF:-1,L PAN TELEMETRO 13
-http://partyplay.live:8080/exch@grogi/grogi456/8672
-#EXTINF:-1,L PAN_TVN 2
-http://partyplay.live:8080/exch@grogi/grogi456/8678
-#EXTINF:-1,L RCN
-http://partyplay.live:8080/exch@grogi/grogi456/8470
-#EXTINF:-1,L RD TELEFUTURO
-http://partyplay.live:8080/exch@grogi/grogi456/8686
-#EXTINF:-1,L SHOWTIME BEYOND
-http://partyplay.live:8080/exch@grogi/grogi456/8521
-#EXTINF:-1,L SHOWTIME EAST
-http://partyplay.live:8080/exch@grogi/grogi456/8522
-#EXTINF:-1,L SHOWTIME
-http://partyplay.live:8080/exch@grogi/grogi456/8523
-#EXTINF:-1,L SHOWTIME WEST
-http://partyplay.live:8080/exch@grogi/grogi456/8594
-#EXTINF:-1,L STARZ CINEMA
-http://partyplay.live:8080/exch@grogi/grogi456/8597
-#EXTINF:-1,L STARZ CINEMA WEST
-http://partyplay.live:8080/exch@grogi/grogi456/8598
-#EXTINF:-1,L STARZ COMEDY
-http://partyplay.live:8080/exch@grogi/grogi456/8599
-#EXTINF:-1,L STARZ EAST
-http://partyplay.live:8080/exch@grogi/grogi456/8600
-#EXTINF:-1,L STARZ ENCORE CLASSIC
-http://partyplay.live:8080/exch@grogi/grogi456/8532
-#EXTINF:-1,L STARZ ENCORE FAMILY
-http://partyplay.live:8080/exch@grogi/grogi456/8608
-#EXTINF:-1,L STARZ
-http://partyplay.live:8080/exch@grogi/grogi456/8606
-#EXTINF:-1,L STARZ KIDS & FAMILY
-http://partyplay.live:8080/exch@grogi/grogi456/8614
-#EXTINF:-1,L SUR_PE_ANT TV
-http://partyplay.live:8080/exch@grogi/grogi456/8616
-#EXTINF:-1,L TELEMUNDO BOSTON
-http://partyplay.live:8080/exch@grogi/grogi456/8619
-#EXTINF:-1,L TELEMUNDO CHICAGO
-http://partyplay.live:8080/exch@grogi/grogi456/8620
-#EXTINF:-1,L TIGO PARAGUAY1
-http://partyplay.live:8080/exch@grogi/grogi456/8676
-#EXTINF:-1,L TIGO PARAGUAY2
-http://partyplay.live:8080/exch@grogi/grogi456/8675
-#EXTINF:-1,L TIGO SPORT CR 1
-http://partyplay.live:8080/exch@grogi/grogi456/8668
-#EXTINF:-1,L TNT SPORTS (A)
-http://partyplay.live:8080/exch@grogi/grogi456/8463
-#EXTINF:-1,L UNIMAS (NEW YORK)
-http://partyplay.live:8080/exch@grogi/grogi456/8639
-#EXTINF:-1,L UNIMAS GEORGIA
-http://partyplay.live:8080/exch@grogi/grogi456/8637
-#EXTINF:-1,L UNIVISION (NEW YORK)
-http://partyplay.live:8080/exch@grogi/grogi456/8641
-#EXTINF:-1,L UNIVISION DALLAS
-http://partyplay.live:8080/exch@grogi/grogi456/8640
-#EXTINF:-1,L UNIVISION TELENOVELAS
-http://partyplay.live:8080/exch@grogi/grogi456/8645
-#EXTINF:-1,L UR_VTV
-http://partyplay.live:8080/exch@grogi/grogi456/8654
-#EXTINF:-1,CO: WIN SPORTS
-http://partyplay.live:8080/exch@grogi/grogi456/8467
-#EXTINF:-1,LA_SD:PAN:SER TV 11
-http://partyplay.live:8080/exch@grogi/grogi456/8671
-#EXTINF:-1,L TELEMUNDO LAMPA
-http://partyplay.live:8080/exch@grogi/grogi456/170300
-#EXTINF:-1,L STAR SPORTS 1
-http://partyplay.live:8080/exch@grogi/grogi456/141767
-#EXTINF:-1,L DISCOVERY CIVILIZATION
-http://partyplay.live:8080/exch@grogi/grogi456/141763
-#EXTINF:-1,L BBC WORLD NEWS
-http://partyplay.live:8080/exch@grogi/grogi456/138299
-#EXTINF:-1,L FUTV (COSTA RICA)
-http://partyplay.live:8080/exch@grogi/grogi456/136617
-#EXTINF:-1,L EL GARAGE TV
-http://partyplay.live:8080/exch@grogi/grogi456/135460
-#EXTINF:-1,L RD TELEMICRO
-http://partyplay.live:8080/exch@grogi/grogi456/54687
-#EXTINF:-1,L UNIMAS ESTE
-http://partyplay.live:8080/exch@grogi/grogi456/54661
-#EXTINF:-1,L GALAVISION
-http://partyplay.live:8080/exch@grogi/grogi456/42188
-#EXTINF:-1,L NTN 24
-http://partyplay.live:8080/exch@grogi/grogi456/42187
-#EXTINF:-1,L SUNDANCE
-http://partyplay.live:8080/exch@grogi/grogi456/42175
-#EXTINF:-1,L NICK 2
-http://partyplay.live:8080/exch@grogi/grogi456/42174
-#EXTINF:-1,L MAX UP
-http://partyplay.live:8080/exch@grogi/grogi456/42173
-#EXTINF:-1,L MASCHIC
-http://partyplay.live:8080/exch@grogi/grogi456/42172
-#EXTINF:-1,L ISAT
-http://partyplay.live:8080/exch@grogi/grogi456/42171
-#EXTINF:-1,L HTV
-http://partyplay.live:8080/exch@grogi/grogi456/42170
-#EXTINF:-1,L DISCOVERY THEATER
-http://partyplay.live:8080/exch@grogi/grogi456/42168
-#EXTINF:-1,L TRU TV
-http://partyplay.live:8080/exch@grogi/grogi456/42167
-#EXTINF:-1,L TELEMUNDO INTERNACIONAL
-http://partyplay.live:8080/exch@grogi/grogi456/42166
-#EXTINF:-1,L TBS
-http://partyplay.live:8080/exch@grogi/grogi456/42164
-#EXTINF:-1,L GOLDEN PREMIER
-http://partyplay.live:8080/exch@grogi/grogi456/42161
-#EXTINF:-1,L GLITZ
-http://partyplay.live:8080/exch@grogi/grogi456/42160
-#EXTINF:-1,L CLARO CINEMA
-http://partyplay.live:8080/exch@grogi/grogi456/42153
-#EXTINF:-1,L CLARO
-http://partyplay.live:8080/exch@grogi/grogi456/42152
-#EXTINF:-1,L WARNER CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/42150
-#EXTINF:-1,L VH1
-http://partyplay.live:8080/exch@grogi/grogi456/42149
-#EXTINF:-1,L TNT SERIES
-http://partyplay.live:8080/exch@grogi/grogi456/42146
-#EXTINF:-1,L TNT
-http://partyplay.live:8080/exch@grogi/grogi456/42145
-#EXTINF:-1,L TCM
-http://partyplay.live:8080/exch@grogi/grogi456/42142
-#EXTINF:-1,L STUDIO UNIVERSAL
-http://partyplay.live:8080/exch@grogi/grogi456/42141
-#EXTINF:-1,L SPACE
-http://partyplay.live:8080/exch@grogi/grogi456/42140
-#EXTINF:-1,L SONY
-http://partyplay.live:8080/exch@grogi/grogi456/42139
-#EXTINF:-1,L CINEMA DINAMITA
-http://partyplay.live:8080/exch@grogi/grogi456/42138
-#EXTINF:-1,L A&E
-http://partyplay.live:8080/exch@grogi/grogi456/42137
-#EXTINF:-1,L PARAMOUNT
-http://partyplay.live:8080/exch@grogi/grogi456/42135
-#EXTINF:-1,L LIFETIME
-http://partyplay.live:8080/exch@grogi/grogi456/42134
-#EXTINF:-1,L GOLDEN
-http://partyplay.live:8080/exch@grogi/grogi456/42131
-#EXTINF:-1,L AXN
-http://partyplay.live:8080/exch@grogi/grogi456/42129
-#EXTINF:-1,L AMC
-http://partyplay.live:8080/exch@grogi/grogi456/42128
-#EXTINF:-1,L FX
-http://partyplay.live:8080/exch@grogi/grogi456/42127
-#EXTINF:-1,L STAR MOVIES
-http://partyplay.live:8080/exch@grogi/grogi456/42126
-#EXTINF:-1,L STAR CLASSIC
-http://partyplay.live:8080/exch@grogi/grogi456/42125
-#EXTINF:-1,L STAR ACTION
-http://partyplay.live:8080/exch@grogi/grogi456/42123
-#EXTINF:-1,L STAR
-http://partyplay.live:8080/exch@grogi/grogi456/42122
-#EXTINF:-1,L ESPN 3
-http://partyplay.live:8080/exch@grogi/grogi456/42120
-#EXTINF:-1,L ESPN 2
-http://partyplay.live:8080/exch@grogi/grogi456/42119
-#EXTINF:-1,L ESPN
-http://partyplay.live:8080/exch@grogi/grogi456/42118
-#EXTINF:-1,L SYFY
-http://partyplay.live:8080/exch@grogi/grogi456/42115
-#EXTINF:-1,L TLC
-http://partyplay.live:8080/exch@grogi/grogi456/42114
-#EXTINF:-1,L H2
-http://partyplay.live:8080/exch@grogi/grogi456/42113
-#EXTINF:-1,L ID
-http://partyplay.live:8080/exch@grogi/grogi456/42112
-#EXTINF:-1,L ANIMAL PLANET
-http://partyplay.live:8080/exch@grogi/grogi456/42110
-#EXTINF:-1,L DISCOVERY TURBO
-http://partyplay.live:8080/exch@grogi/grogi456/42109
-#EXTINF:-1,L DISCOVERY SCIENCE
-http://partyplay.live:8080/exch@grogi/grogi456/42108
-#EXTINF:-1,L DISCOVERY KIDS
-http://partyplay.live:8080/exch@grogi/grogi456/42107
-#EXTINF:-1,L DISCOVERY HOME & HEALTH
-http://partyplay.live:8080/exch@grogi/grogi456/42106
-#EXTINF:-1,L DISCOVERY INVESTIGATION
-http://partyplay.live:8080/exch@grogi/grogi456/42105
-#EXTINF:-1,L NAT GEO WILD
-http://partyplay.live:8080/exch@grogi/grogi456/42104
-#EXTINF:-1,L NAT GEO
-http://partyplay.live:8080/exch@grogi/grogi456/42103
-#EXTINF:-1,L CINE CANAL
-http://partyplay.live:8080/exch@grogi/grogi456/42101
-#EXTINF:-1,ES: CANAL DE LAS ESTRELLAS
-http://partyplay.live:8080/exch@grogi/grogi456/42099
-#EXTINF:-1,L CANAL 11
-http://partyplay.live:8080/exch@grogi/grogi456/42097
-#EXTINF:-1,L BOOMERANG
-http://partyplay.live:8080/exch@grogi/grogi456/42096
-#EXTINF:-1,L COMEDY CENTRAL
-http://partyplay.live:8080/exch@grogi/grogi456/42095
-#EXTINF:-1,L NICKELODEON
-http://partyplay.live:8080/exch@grogi/grogi456/42094
-#EXTINF:-1,L NICK JR
-http://partyplay.live:8080/exch@grogi/grogi456/42093
-#EXTINF:-1,L DISNEY XD
-http://partyplay.live:8080/exch@grogi/grogi456/42092
-#EXTINF:-1,L DISNEY JR
-http://partyplay.live:8080/exch@grogi/grogi456/42091
-#EXTINF:-1,L DISNEY CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/42090
-#EXTINF:-1,L AZTECA CORAZON
-http://partyplay.live:8080/exch@grogi/grogi456/42089
-#EXTINF:-1,L AZTECA CLIC
-http://partyplay.live:8080/exch@grogi/grogi456/42088
-#EXTINF:-1,L AZTECA 7
-http://partyplay.live:8080/exch@grogi/grogi456/42086
-#EXTINF:-1,L UNIVERSAL CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/42082
-#EXTINF:-1,L UNICABLE
-http://partyplay.live:8080/exch@grogi/grogi456/42081
-#EXTINF:-1,L ECO TV
-http://partyplay.live:8080/exch@grogi/grogi456/42053
-#EXTINF:-1,L TELESISTEMA
-http://partyplay.live:8080/exch@grogi/grogi456/42049
-#EXTINF:-1,L UNIMAS
-http://partyplay.live:8080/exch@grogi/grogi456/29444
-#EXTINF:-1,L UNIVISION 23 (DALLAS)
-http://partyplay.live:8080/exch@grogi/grogi456/29437
-#EXTINF:-1,L STAR SPORTS
-http://partyplay.live:8080/exch@grogi/grogi456/29431
-#EXTINF:-1,L UNIVISION
-http://partyplay.live:8080/exch@grogi/grogi456/29419
-#EXTINF:-1,L BABY TV
-http://partyplay.live:8080/exch@grogi/grogi456/29409
-#EXTINF:-1,L BANDAMAX
-http://partyplay.live:8080/exch@grogi/grogi456/29407
-#EXTINF:-1,L FORO TV
-http://partyplay.live:8080/exch@grogi/grogi456/29404
-#EXTINF:-1,L EL GOURMET
-http://partyplay.live:8080/exch@grogi/grogi456/29396
-#EXTINF:-1,L TUDN
-http://partyplay.live:8080/exch@grogi/grogi456/29363
-#EXTINF:-1,L HOLA! TV
-http://partyplay.live:8080/exch@grogi/grogi456/29344
-#EXTINF:-1,L MULTIMEDIOS TELEVISION
-http://partyplay.live:8080/exch@grogi/grogi456/29324
-#EXTINF:-1,L TELEFE
-http://partyplay.live:8080/exch@grogi/grogi456/29316
-#EXTINF:-1,L PASIONES
-http://partyplay.live:8080/exch@grogi/grogi456/29312
-#EXTINF:-1,L STAR SPORTS 3
-http://partyplay.live:8080/exch@grogi/grogi456/3912
-#EXTINF:-1,L STAR SPORTS 2
-http://partyplay.live:8080/exch@grogi/grogi456/3394
-#EXTINF:-1,M AFIZZIONADOS
-http://partyplay.live:8080/exch@grogi/grogi456/406897
-#EXTINF:-1,M A&AMP;E
-http://partyplay.live:8080/exch@grogi/grogi456/8308
-#EXTINF:-1,M A3 SERIES
-http://partyplay.live:8080/exch@grogi/grogi456/8309
-#EXTINF:-1,M ADN 40
-http://partyplay.live:8080/exch@grogi/grogi456/8310
-#EXTINF:-1,M ADRENALINA SPORTS NETWORK
-http://partyplay.live:8080/exch@grogi/grogi456/8454
-#EXTINF:-1,M AMC
-http://partyplay.live:8080/exch@grogi/grogi456/8313
-#EXTINF:-1,M ANIMAL PLANET
-http://partyplay.live:8080/exch@grogi/grogi456/8314
-#EXTINF:-1,M ANTENA 3
-http://partyplay.live:8080/exch@grogi/grogi456/8315
-#EXTINF:-1,M AXN
-http://partyplay.live:8080/exch@grogi/grogi456/8316
-#EXTINF:-1,M AYM SPORTS
-http://partyplay.live:8080/exch@grogi/grogi456/8317
-#EXTINF:-1,M AZ CINEMA
-http://partyplay.live:8080/exch@grogi/grogi456/8318
-#EXTINF:-1,M AZ CLICK
-http://partyplay.live:8080/exch@grogi/grogi456/30048
-#EXTINF:-1,M AZ CORAZON
-http://partyplay.live:8080/exch@grogi/grogi456/8321
-#EXTINF:-1,M AZ MUNDO
-http://partyplay.live:8080/exch@grogi/grogi456/8322
-#EXTINF:-1,M AZTECA UNO
-http://partyplay.live:8080/exch@grogi/grogi456/8436
-#EXTINF:-1,M AZTECA 7
-http://partyplay.live:8080/exch@grogi/grogi456/8323
-#EXTINF:-1,M AZTECA DEPORTES
-http://partyplay.live:8080/exch@grogi/grogi456/8324
-#EXTINF:-1,M BABY FIRST
-http://partyplay.live:8080/exch@grogi/grogi456/30056
-#EXTINF:-1,M BABY TV
-http://partyplay.live:8080/exch@grogi/grogi456/8325
-#EXTINF:-1,M BANDAMAX
-http://partyplay.live:8080/exch@grogi/grogi456/8326
-#EXTINF:-1,M BBC WORLD NEWS
-http://partyplay.live:8080/exch@grogi/grogi456/8327
-#EXTINF:-1,M BLOOMBERG
-http://partyplay.live:8080/exch@grogi/grogi456/8328
-#EXTINF:-1,M BOOMERANG
-http://partyplay.live:8080/exch@grogi/grogi456/8329
-#EXTINF:-1,M CANAL DE LAS ESTRELLAS
-http://partyplay.live:8080/exch@grogi/grogi456/8331
-#EXTINF:-1,M CANAL 4
-http://partyplay.live:8080/exch@grogi/grogi456/8333
-#EXTINF:-1,M CANAL 5
-http://partyplay.live:8080/exch@grogi/grogi456/8334
-#EXTINF:-1,M CANAL 8
-http://partyplay.live:8080/exch@grogi/grogi456/8335
-#EXTINF:-1,M CANAL 26
-http://partyplay.live:8080/exch@grogi/grogi456/8332
-#EXTINF:-1,M CANAL ONCE
-http://partyplay.live:8080/exch@grogi/grogi456/8338
-#EXTINF:-1,M CINECANAL
-http://partyplay.live:8080/exch@grogi/grogi456/8340
-#EXTINF:-1,M CINEMAX
-http://partyplay.live:8080/exch@grogi/grogi456/8341
-#EXTINF:-1,M CNN EN ESPAÑOL
-http://partyplay.live:8080/exch@grogi/grogi456/8342
-#EXTINF:-1,M CNN INT
-http://partyplay.live:8080/exch@grogi/grogi456/30068
-#EXTINF:-1,M COMEDY CENTRAL
-http://partyplay.live:8080/exch@grogi/grogi456/8344
-#EXTINF:-1,M DE PELICULA
-http://partyplay.live:8080/exch@grogi/grogi456/8345
-#EXTINF:-1,M DISCOVERY CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/8347
-#EXTINF:-1,M DISCOVERY CIVILIZATION
-http://partyplay.live:8080/exch@grogi/grogi456/8348
-#EXTINF:-1,M DISCOVERY H&AMP;H
-http://partyplay.live:8080/exch@grogi/grogi456/8349
-#EXTINF:-1,M DISCOVERY KIDS
-http://partyplay.live:8080/exch@grogi/grogi456/8350
-#EXTINF:-1,M DISCOVERY SCIENCE
-http://partyplay.live:8080/exch@grogi/grogi456/8351
-#EXTINF:-1,M DISCOVERY THEATER
-http://partyplay.live:8080/exch@grogi/grogi456/8352
-#EXTINF:-1,M DISCOVERY TURBO
-http://partyplay.live:8080/exch@grogi/grogi456/8353
-#EXTINF:-1,M DISCOVERY WORLD
-http://partyplay.live:8080/exch@grogi/grogi456/8354
-#EXTINF:-1,M DISNEY CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/8355
-#EXTINF:-1,M DISNEY JR
-http://partyplay.live:8080/exch@grogi/grogi456/8356
-#EXTINF:-1,M DISTRITO COMEDIA
-http://partyplay.live:8080/exch@grogi/grogi456/8358
-#EXTINF:-1,M DW
-http://partyplay.live:8080/exch@grogi/grogi456/16632
-#EXTINF:-1,M E! ENTERTAINMENT
-http://partyplay.live:8080/exch@grogi/grogi456/8360
-#EXTINF:-1,M EL GOURMET
-http://partyplay.live:8080/exch@grogi/grogi456/8361
-#EXTINF:-1,M ESPN 2
-http://partyplay.live:8080/exch@grogi/grogi456/8362
-#EXTINF:-1,M ESPN 3
-http://partyplay.live:8080/exch@grogi/grogi456/8363
-#EXTINF:-1,M ESPN
-http://partyplay.live:8080/exch@grogi/grogi456/8364
-#EXTINF:-1,M ESPN EXTRA
-http://partyplay.live:8080/exch@grogi/grogi456/8365
-#EXTINF:-1,M EUROPA EUROPA
-http://partyplay.live:8080/exch@grogi/grogi456/8367
-#EXTINF:-1,M FILM &AMP; ARTS
-http://partyplay.live:8080/exch@grogi/grogi456/8368
-#EXTINF:-1,M FOOD NETWORK
-http://partyplay.live:8080/exch@grogi/grogi456/8369
-#EXTINF:-1,M FORMULA NOTICIAS
-http://partyplay.live:8080/exch@grogi/grogi456/8370
-#EXTINF:-1,M STAR CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/8372
-#EXTINF:-1,M FOX NEWS
-http://partyplay.live:8080/exch@grogi/grogi456/8379
-#EXTINF:-1,M FOX SPORTS 1
-http://partyplay.live:8080/exch@grogi/grogi456/30088
-#EXTINF:-1,M FRANCIA 24
-http://partyplay.live:8080/exch@grogi/grogi456/8384
-#EXTINF:-1,M FX
-http://partyplay.live:8080/exch@grogi/grogi456/8385
-#EXTINF:-1,M GARAGE TV
-http://partyplay.live:8080/exch@grogi/grogi456/8387
-#EXTINF:-1,M GLITZ
-http://partyplay.live:8080/exch@grogi/grogi456/8388
-#EXTINF:-1,M GOLDEN
-http://partyplay.live:8080/exch@grogi/grogi456/8389
-#EXTINF:-1,M GOLDEN EDGE
-http://partyplay.live:8080/exch@grogi/grogi456/8390
-#EXTINF:-1,M GOLDEN PLUS
-http://partyplay.live:8080/exch@grogi/grogi456/8391
-#EXTINF:-1,M GOLF CH
-http://partyplay.live:8080/exch@grogi/grogi456/30092
-#EXTINF:-1,M HISTORY
-http://partyplay.live:8080/exch@grogi/grogi456/8392
-#EXTINF:-1,M HLN
-http://partyplay.live:8080/exch@grogi/grogi456/8393
-#EXTINF:-1,M HOLA TV
-http://partyplay.live:8080/exch@grogi/grogi456/8394
-#EXTINF:-1,M IMAGEN TV
-http://partyplay.live:8080/exch@grogi/grogi456/8395
-#EXTINF:-1,M INGENIO TV
-http://partyplay.live:8080/exch@grogi/grogi456/30096
-#EXTINF:-1,M INVESTIGATION DISCOVERY
-http://partyplay.live:8080/exch@grogi/grogi456/8397
-#EXTINF:-1,M I SAT
-http://partyplay.live:8080/exch@grogi/grogi456/8398
-#EXTINF:-1,M LAS ESTRELLAS
-http://partyplay.live:8080/exch@grogi/grogi456/30100
-#EXTINF:-1,M LIFETIME
-http://partyplay.live:8080/exch@grogi/grogi456/8399
-#EXTINF:-1,M MAS CHIC
-http://partyplay.live:8080/exch@grogi/grogi456/8400
-#EXTINF:-1,M MEXIQUICE
-http://partyplay.live:8080/exch@grogi/grogi456/8401
-#EXTINF:-1,M MILENIO TV
-http://partyplay.live:8080/exch@grogi/grogi456/8459
-#EXTINF:-1,M MTV
-http://partyplay.live:8080/exch@grogi/grogi456/8402
-#EXTINF:-1,M MTV HITS
-http://partyplay.live:8080/exch@grogi/grogi456/8403
-#EXTINF:-1,M MTV LIVE
-http://partyplay.live:8080/exch@grogi/grogi456/8404
-#EXTINF:-1,M MULTIMEDIOS
-http://partyplay.live:8080/exch@grogi/grogi456/8405
-#EXTINF:-1,M MULTIMEDIOS PLUS
-http://partyplay.live:8080/exch@grogi/grogi456/8406
-#EXTINF:-1,M NAT GEO
-http://partyplay.live:8080/exch@grogi/grogi456/8409
-#EXTINF:-1,M NAT GEO WILD
-http://partyplay.live:8080/exch@grogi/grogi456/8408
-#EXTINF:-1,M NICK 2
-http://partyplay.live:8080/exch@grogi/grogi456/8411
-#EXTINF:-1,M NICK JR
-http://partyplay.live:8080/exch@grogi/grogi456/8412
-#EXTINF:-1,M NICKELODEON
-http://partyplay.live:8080/exch@grogi/grogi456/8413
-#EXTINF:-1,M NICKTOONS
-http://partyplay.live:8080/exch@grogi/grogi456/8415
-#EXTINF:-1,M PARAMOUNT CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/8417
-#EXTINF:-1,M RMS
-http://partyplay.live:8080/exch@grogi/grogi456/8418
-#EXTINF:-1,M SONY CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/8422
-#EXTINF:-1,M SPACE
-http://partyplay.live:8080/exch@grogi/grogi456/8423
-#EXTINF:-1,M STAR TVE
-http://partyplay.live:8080/exch@grogi/grogi456/30117
-#EXTINF:-1,M STUDIO UNIVERSAL
-http://partyplay.live:8080/exch@grogi/grogi456/8425
-#EXTINF:-1,M SYFY
-http://partyplay.live:8080/exch@grogi/grogi456/8428
-#EXTINF:-1,M TBS
-http://partyplay.live:8080/exch@grogi/grogi456/8429
-#EXTINF:-1,M TCM
-http://partyplay.live:8080/exch@grogi/grogi456/8430
-#EXTINF:-1,M TDN
-http://partyplay.live:8080/exch@grogi/grogi456/8431
-#EXTINF:-1,M TELEFORMULA
-http://partyplay.live:8080/exch@grogi/grogi456/30120
-#EXTINF:-1,M TELEHIT PLUS
-http://partyplay.live:8080/exch@grogi/grogi456/8432
-#EXTINF:-1,M TELENOVELAS
-http://partyplay.live:8080/exch@grogi/grogi456/8433
-#EXTINF:-1,M TELERITMO
-http://partyplay.live:8080/exch@grogi/grogi456/30123
-#EXTINF:-1,M TELEVISA
-http://partyplay.live:8080/exch@grogi/grogi456/8434
-#EXTINF:-1,M BITME
-http://partyplay.live:8080/exch@grogi/grogi456/8435
-#EXTINF:-1,M TLC
-http://partyplay.live:8080/exch@grogi/grogi456/8437
-#EXTINF:-1,M TLR
-http://partyplay.live:8080/exch@grogi/grogi456/8438
-#EXTINF:-1,M TNT
-http://partyplay.live:8080/exch@grogi/grogi456/8439
-#EXTINF:-1,M TNT SERIES
-http://partyplay.live:8080/exch@grogi/grogi456/8440
-#EXTINF:-1,M TOONCAST
-http://partyplay.live:8080/exch@grogi/grogi456/8441
-#EXTINF:-1,M TRU TV
-http://partyplay.live:8080/exch@grogi/grogi456/8442
-#EXTINF:-1,M TV MAS
-http://partyplay.live:8080/exch@grogi/grogi456/8443
-#EXTINF:-1,M TV5 FRANCIA
-http://partyplay.live:8080/exch@grogi/grogi456/30131
-#EXTINF:-1,M TVC DEPORTES
-http://partyplay.live:8080/exch@grogi/grogi456/8445
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86648
+#EXTINF:-1,A GARAGE TV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86649
+#EXTINF:-1,A ENCUENTRO (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195318
+#EXTINF:-1,A GARAGE. :) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195319
+#EXTINF:-1,A GLITZ  :) (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195320
+#EXTINF:-1,P| TNT SPORTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149627
+#EXTINF:-1,P| ESPN 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149630
+#EXTINF:-1,P| ESPN_HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149631
+#EXTINF:-1,P| ESPN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149632
+#EXTINF:-1,P| ESPN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149634
+#EXTINF:-1,P| FOX SPORTS 3 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149635
+#EXTINF:-1,P| FOX SPORTS 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149636
+#EXTINF:-1,P| HBO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149637
+#EXTINF:-1,P| HBO PLUS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149638
+#EXTINF:-1,P| HBO FAMILY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149640
+#EXTINF:-1,P| HBO SIGNATURE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149641
+#EXTINF:-1,P| CINEMAX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149642
+#EXTINF:-1,P| SPACE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149643
+#EXTINF:-1,P| CINECANAL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149644
+#EXTINF:-1,P| FX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149645
+#EXTINF:-1,P| FOX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149646
+#EXTINF:-1,P| SONY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149647
+#EXTINF:-1,P| WARNER HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149648
+#EXTINF:-1,P| UNIVERSAL CHANNEL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149649
+#EXTINF:-1,P| AXN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149650
+#EXTINF:-1,P| A&E HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149652
+#EXTINF:-1,P| TBS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149653
+#EXTINF:-1,P| AMC HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149654
+#EXTINF:-1,P| SYFY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/149655
+#EXTINF:-1,La NaciÓn +
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/160661
+#EXTINF:-1,A A24 (lt)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/195295
+#EXTINF:-1, L| HISTORY CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86844
+#EXTINF:-1, L| DISCOVERY HOME & HEALT PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86845
+#EXTINF:-1, L| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86846
+#EXTINF:-1, L| DISCOVERY INVESTIGACION PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86847
+#EXTINF:-1, L| AMC CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86848
+#EXTINF:-1, L| AXN CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86849
+#EXTINF:-1, L| CINECANAL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86850
+#EXTINF:-1, L| FX PREMIUN FHD(DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86856
+#EXTINF:-1, L| HBO  PREMIUN FHD ( DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86858
+#EXTINF:-1, L| HBO PLUS PREMIUN FHD ( DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86861
+#EXTINF:-1, L| SONY CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86864
+#EXTINF:-1, L| TNT CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86866
+#EXTINF:-1, L| TNT SERIES PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86867
+#EXTINF:-1, L| STUDIO UNIVERSAL CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86868
+#EXTINF:-1, L| WARNER CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86870
+#EXTINF:-1, L| FILM & ARTS CHANNEL FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86871
+#EXTINF:-1, L| CARTOON NETWORK PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86872
+#EXTINF:-1, L| DISCOVERY KIDS PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86873
+#EXTINF:-1, L| DISNEY CHANNEL PREMIUN FHD ( DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86874
+#EXTINF:-1,AZTECA 7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86966
+#EXTINF:-1,AZTECA CINEMA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86967
+#EXTINF:-1,AZTECA CORAZON
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86968
+#EXTINF:-1,BITME
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86970
+#EXTINF:-1,BOOMERANG
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86971
+#EXTINF:-1,CANAL 5
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86972
+#EXTINF:-1,CINECANAL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86973
+#EXTINF:-1,CINEMAX
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86974
+#EXTINF:-1,DISTRITO COMEDIA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86976
+#EXTINF:-1,E! ENTERTAINMENT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86977
+#EXTINF:-1,ESPN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86978
+#EXTINF:-1,ESPN 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86979
+#EXTINF:-1,ESPN 3 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86980
+#EXTINF:-1,FOX CHANNEL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86982
+#EXTINF:-1,FOX SPORTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86988
+#EXTINF:-1,FOX SPORTS 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86989
+#EXTINF:-1,FX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86990
+#EXTINF:-1,FXM HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86991
+#EXTINF:-1,GOLDEN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86992
+#EXTINF:-1,GOLDEN EDGE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86993
+#EXTINF:-1,HISTORIA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86994
+#EXTINF:-1,IMAGEN TV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86995
+#EXTINF:-1,CANAL DE LAS ESTRELLAS -2HRS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86996
+#EXTINF:-1,LIFETIME HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86997
+#EXTINF:-1,MILENIO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86998
+#EXTINF:-1,MTV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86999
+#EXTINF:-1,NICK HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87002
+#EXTINF:-1,PARAMOUNT HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87004
+#EXTINF:-1,SONY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87005
+#EXTINF:-1,SPACE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87006
+#EXTINF:-1,SYFY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87007
+#EXTINF:-1,TBS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87008
+#EXTINF:-1,TELEHIT HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87009
+#EXTINF:-1,TNT SERIES HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87010
+#EXTINF:-1,TRUTV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87011
+#EXTINF:-1,UNICABLE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87012
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87013
+#EXTINF:-1,WARNER CHANNEL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87014
+#EXTINF:-1,ADN 40 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87015
+#EXTINF:-1,HBO POP HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87016
+#EXTINF:-1,TNT HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87017
+#EXTINF:-1,TUDN USA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87018
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87019
+#EXTINF:-1,FOX SPORTS 3 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87020
+#EXTINF:-1,CANAL DE LAS ESTRELLAS HD CDM
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87021
+#EXTINF:-1,HBO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87022
+#EXTINF:-1,HBO 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87023
+#EXTINF:-1,HBO FAMILY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87024
+#EXTINF:-1,HBO MUNDI HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87025
+#EXTINF:-1,HBO PLUS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87026
+#EXTINF:-1,HBO SIGNATURE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87027
+#EXTINF:-1,HBO EXTREME HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87028
+#EXTINF:-1,M*DISTRITO COMEDIA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87029
+#EXTINF:-1, M| DISCOVERY H&H  HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87030
+#EXTINF:-1, M| ADRENALINA FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87032
+#EXTINF:-1, M| TLC FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87033
+#EXTINF:-1, M| TBS FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87035
+#EXTINF:-1, M| SPACE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87036
+#EXTINF:-1,M|  * H2 MEXICO FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87038
+#EXTINF:-1, M| HBO XTREME HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87041
+#EXTINF:-1, M| HBO FAMILY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87042
+#EXTINF:-1, M| HBO 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87045
+#EXTINF:-1, M| GOLDEN PREMIER HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87048
+#EXTINF:-1, M| FOX SPORTS 3 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87053
+#EXTINF:-1, M| FOX SPORTS 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87054
+#EXTINF:-1, M| FOX SPORTS  1 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87055
+#EXTINF:-1, M| FOX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87062
+#EXTINF:-1, M| ESPN 1 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87067
+#EXTINF:-1, M| ESPN  XTRA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87068
+#EXTINF:-1, M| E ENTERTAIN,MENT HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87069
+#EXTINF:-1, M| COMEDY CENTRAL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87071
+#EXTINF:-1, M| DISCOVERY WORLD HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87072
+#EXTINF:-1, M| DISCOVERY SCIENCE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87074
+#EXTINF:-1, M| DISCOVERY THEATHER HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87076
+#EXTINF:-1, M| DISCOVERY ID HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87077
+#EXTINF:-1, M| CINECANAL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87079
+#EXTINF:-1, M| FORO TV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87080
+#EXTINF:-1, M| CANAL 5 XHGC HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87081
+#EXTINF:-1, M| AZTECA 7 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87083
+#EXTINF:-1, M| AZTECA UNO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87084
+#EXTINF:-1, M| AFIZZIONADOS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87087
+#EXTINF:-1, M| ADN 40 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87088
+#EXTINF:-1, M| TVC DEPORTES FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87090
+#EXTINF:-1, M| TELEHIT FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87092
+#EXTINF:-1, M| MTV FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87094
+#EXTINF:-1, M| MAS CHIC FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87095
+#EXTINF:-1, M| FXM FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87098
+#EXTINF:-1, M| DISCOVERY KIDS FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87101
+#EXTINF:-1, M| BITME FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87102
+#EXTINF:-1, M| UNICABLE FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87104
+#EXTINF:-1, M| TOONCAST HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87106
+#EXTINF:-1, M| TNT SERIES HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87107
+#EXTINF:-1, M| TNT HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87108
+#EXTINF:-1, M| AMC FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87109
+#EXTINF:-1, M| DISCOVERY TLC FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87110
+#EXTINF:-1, M| TUDN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87111
+#EXTINF:-1, M| OUTDOOR HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87113
+#EXTINF:-1, M| NICKTOONS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87114
+#EXTINF:-1, M| iSAT HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87117
+#EXTINF:-1, M| HBO SIGNATURE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87119
+#EXTINF:-1, M| HBO POP HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87120
+#EXTINF:-1, M| HBO PLUS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87121
+#EXTINF:-1, M| COMEDY CENTRAL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87122
+#EXTINF:-1, M| ESTUDIO UNIVERSAL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87123
+#EXTINF:-1, M| CARTOON NETWORK HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87124
+#EXTINF:-1, M| SYFY FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87126
+#EXTINF:-1,  L2m| A&E
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87429
+#EXTINF:-1,  L2m| Antena 3
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87430
+#EXTINF:-1,  L2m| AMC
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87431
+#EXTINF:-1,  L2m| AXN
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87433
+#EXTINF:-1,  L2m| Boomerang
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87434
+#EXTINF:-1,  L2m| Cartoon Network
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87435
+#EXTINF:-1,  L2m| Cinecanal
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87436
+#EXTINF:-1,  L2m| Cinemax
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87437
+#EXTINF:-1,  L2m| Comedy Central
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87438
+#EXTINF:-1,  L2m| De Pelicula
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87439
+#EXTINF:-1,  L2m| DHE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87440
+#EXTINF:-1,  L2m| Discovery Channel
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87441
+#EXTINF:-1,  L2m| Discovery Home & Healt
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87442
+#EXTINF:-1,  L2m| Discovery Turbo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87443
+#EXTINF:-1,  L2m| Disney Junior
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87444
+#EXTINF:-1,  L2m| Disney XD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87445
+#EXTINF:-1,  L2m| ESPN
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87446
+#EXTINF:-1,  L2m| ESPN 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87447
+#EXTINF:-1,  L2m| ESPN 3
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87448
+#EXTINF:-1,  L2m| Fox Channel
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87449
+#EXTINF:-1,  L2m| Fox Life
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87453
+#EXTINF:-1,  L2m| Fox Sports 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87456
+#EXTINF:-1,  L2m| Fox Sports 3
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87457
+#EXTINF:-1,  L2m| FX
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87458
+#EXTINF:-1,  L2m| Golden Edge
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87459
+#EXTINF:-1,  L2m| Golden Premier
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87460
+#EXTINF:-1,  L2m| H2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87461
+#EXTINF:-1,  L2m| HBO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87462
+#EXTINF:-1,  L2m| HBO Plus
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87463
+#EXTINF:-1,  L2m| HBO Signature
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87464
+#EXTINF:-1,  L2m| Investigation Discovery
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87465
+#EXTINF:-1,  L2m| ISAT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87466
+#EXTINF:-1,  L2m| Las Estrellas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87467
+#EXTINF:-1,  L2m| Nickelodeon
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87468
+#EXTINF:-1,  L2m| Space
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87469
+#EXTINF:-1,  L2m| SyFy
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87470
+#EXTINF:-1,  L2m| TNT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87471
+#EXTINF:-1,  L2m| TNT Series
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87472
+#EXTINF:-1,  L2m| Sony
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87473
+#EXTINF:-1,  L2m| Universal Channel
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87474
+#EXTINF:-1,  L2m| Warner Channel
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87475
+#EXTINF:-1,  L2m| Baby First
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87476
+#EXTINF:-1,  L2m| Disney Channel
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87477
+#EXTINF:-1,  L2m| Food Network
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87478
+#EXTINF:-1,  A ESTRENAR FHD **
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87515
+#EXTINF:-1,  ACTION MAX FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87516
+#EXTINF:-1,  AMC HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87518
+#EXTINF:-1,  LIFETIME FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87524
+#EXTINF:-1,  CINE MEXICANO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87526
+#EXTINF:-1,  CINECANAL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87527
+#EXTINF:-1,  CINEMA DINAMITA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87530
+#EXTINF:-1,  CINEMAX EAST FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87533
+#EXTINF:-1,  CINEMAX FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87534
+#EXTINF:-1,  DHE FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87538
+#EXTINF:-1,  ESTUDIO UNIVERSAL FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87540
+#EXTINF:-1,  FILM & ARTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87542
+#EXTINF:-1,  FILM ZONE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87543
+#EXTINF:-1,  FOX  FAMILY PREMIUN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87544
+#EXTINF:-1,  FOX CHANNEL FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87547
+#EXTINF:-1,  FOX LIFE FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87554
+#EXTINF:-1,  FOX SERIES PREMIUN FHD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87562
+#EXTINF:-1,  FX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87565
+#EXTINF:-1,  GOLDEN EDGE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87568
+#EXTINF:-1,  GOLDEN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87569
+#EXTINF:-1,  GOLDEN PLUS FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87570
+#EXTINF:-1,  GOLDEN PREMIER FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87572
+#EXTINF:-1,  MAX PRIME FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87595
+#EXTINF:-1,  MAX UP HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87596
+#EXTINF:-1,  MOREMAX FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87598
+#EXTINF:-1,  MOVIEMAX FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87599
+#EXTINF:-1,  OUTERMAX FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87603
+#EXTINF:-1,  SHOWTIME BEYOND FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87607
+#EXTINF:-1,  SHOWTIME EAST FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87608
+#EXTINF:-1,  SHOWTIME EXTREME LATINO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87609
+#EXTINF:-1,  SHOWTIME HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87610
+#EXTINF:-1,  SHOWTIME LATINO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87611
+#EXTINF:-1,  SONY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87614
+#EXTINF:-1,  STARZ EAST FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87621
+#EXTINF:-1,  STARZ EDGE LATINO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87623
+#EXTINF:-1,  STARZ ENCORE  ACTION HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87624
+#EXTINF:-1,  STARZ ENCORE FAMILY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87626
+#EXTINF:-1,  STARZ ENCORE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87627
+#EXTINF:-1,  STARZ ENCORE WESTERNS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87628
+#EXTINF:-1,  STARZ FAMLY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87629
+#EXTINF:-1,  STARZ LATINO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87631
+#EXTINF:-1,  STARZ ENCORE EN ESPANOL  HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87632
+#EXTINF:-1,  TNT  FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87639
+#EXTINF:-1,  UNIVERSAL CHANNEL FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87643
+#EXTINF:-1,  WARNER FHD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87645
+#EXTINF:-1,    DE PELICULA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90166
+#EXTINF:-1,    GOLDEN EDGE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90167
+#EXTINF:-1,PARAMOUNT_HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/159879
+#EXTINF:-1,NICKELODEON_HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/159880
+#EXTINF:-1,STUDIO_UNIVERSAL_HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/159882
+#EXTINF:-1,SONY_HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/159883
+#EXTINF:-1,UNIVERSAL_REALITY_HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/159885
+#EXTINF:-1,UNIVERSAL_COMEDY_HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/159886
+#EXTINF:-1,UNIVERSAL_PREMIER_HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/159889
+#EXTINF:-1,UNIVERSAL_PREMIER_HD_M
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/159891
+#EXTINF:-1,UNIVERSAL_CRIME_HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/159892
+#EXTINF:-1,GOLDEN_HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/159893
+#EXTINF:-1,M|  De Pelicula Clasico
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90168
+#EXTINF:-1,M|  Golden
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90169
+#EXTINF:-1,M|  AMC
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90170
+#EXTINF:-1,M|  De Pelicula
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90171
+#EXTINF:-1,Cinelatino
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90172
+#EXTINF:-1,M|  Cinemax
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90175
+#EXTINF:-1,M|  D Pelicula Plus
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90176
+#EXTINF:-1,M|  HBO 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90189
+#EXTINF:-1,M|  HBO Extreme
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90190
+#EXTINF:-1,M|  HBO Family
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90191
+#EXTINF:-1,M|  HBO Mundi
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90192
+#EXTINF:-1,M|  HBO Plus
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90193
+#EXTINF:-1,M|  HBO Pop
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90194
+#EXTINF:-1,M|  HBO Signature
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90195
+#EXTINF:-1,M|  SyFy
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90197
+#EXTINF:-1,    HBO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90199
+#EXTINF:-1,    HBO 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90200
+#EXTINF:-1,    Cinecanal
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90203
+#EXTINF:-1,HD | Cinemax
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90204
+#EXTINF:-1,M|  AZ Cinema
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90211
+#EXTINF:-1,BEIN SPORTS ESPANOL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/106373
+#EXTINF:-1,FOX DEPORTES USA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/106374
+#EXTINF:-1,  HBO MAX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/109240
+#EXTINF:-1,M|  Universal Premiere
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/118258
+#EXTINF:-1,M|  Universal Cinema
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/118261
+#EXTINF:-1, L| VIX NOVELAS DE ORO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/118535
+#EXTINF:-1,E| COCINA FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/118537
+#EXTINF:-1, L| DELICIOSO COCINA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/118538
+#EXTINF:-1,  TAQUILLA 4
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/121843
+#EXTINF:-1, L| Imagen
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124057
+#EXTINF:-1, L| Foro TV
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124058
+#EXTINF:-1, L| El Gourmet
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124059
+#EXTINF:-1, L| El Garage
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124060
+#EXTINF:-1, L| AXN
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124061
+#EXTINF:-1, L| AXN White
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124062
+#EXTINF:-1, L| ADN 40
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124063
+#EXTINF:-1, L| FXM
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124064
+#EXTINF:-1, L| Glitz
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124066
+#EXTINF:-1, L| SPACE CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124422
+#EXTINF:-1,CANAL NU9VE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124469
+#EXTINF:-1, M| CLARO SPORTS FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124470
+#EXTINF:-1, M| TCM HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124471
+#EXTINF:-1, M| CNN MEXICO FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124473
+#EXTINF:-1, M| AYM DEPORTES MEXICO  FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124474
+#EXTINF:-1, M| ANTENA SERIES HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124475
+#EXTINF:-1, M| GOURMET HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124477
+#EXTINF:-1, M| ESPN 3 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124484
+#EXTINF:-1, M| ESPN 2  HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124485
+#EXTINF:-1, M| D'PELICULA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124486
+#EXTINF:-1, M| DISCOVERY TURBO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124487
+#EXTINF:-1, M| DISCOVERY CHANNEL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124488
+#EXTINF:-1, M| CINEMAX FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124489
+#EXTINF:-1, M| BANDAMAX FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124490
+#EXTINF:-1, M| AXN SERIES HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124491
+#EXTINF:-1, M| WARNER FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124493
+#EXTINF:-1, M| TRUTV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124494
+#EXTINF:-1, M| SONY FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124495
+#EXTINF:-1, M| HBO MUNDI HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124496
+#EXTINF:-1, M| GOLDEN EDGE FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124497
+#EXTINF:-1, M| UNIVERSAL CHANNEL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124498
+#EXTINF:-1, M| A&E FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124499
+#EXTINF:-1, M| HISTORY CHANNEL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124503
+#EXTINF:-1,Ultra Familia
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128005
+#EXTINF:-1,Universal Crime Este
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128012
+#EXTINF:-1,Universal Premiere
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128013
+#EXTINF:-1,Universal Reality
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128014
+#EXTINF:-1,Universal Cinema
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128015
+#EXTINF:-1,Universal Crime Oeste
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128016
+#EXTINF:-1,  AMC EAST
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130327
+#EXTINF:-1,  GOLDEN
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130335
+#EXTINF:-1,  GOLDEN EDGE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130336
+#EXTINF:-1,  GOLDEN PLUS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130337
+#EXTINF:-1,  GOLDEN PREMIER 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130338
+#EXTINF:-1,  HBO 2 WEST
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130342
+#EXTINF:-1,  HBO SIGNATURE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130345
+#EXTINF:-1,  PARAMOUNT NETWORK 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130348
+#EXTINF:-1,  SONY CHANNEL 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130350
+#EXTINF:-1,  SPACE EAST
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130352
+#EXTINF:-1,  STUDIO UNIVERSAL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130367
+#EXTINF:-1,  TCM
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130368
+#EXTINF:-1,  TNT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130369
+#EXTINF:-1,  TNT SERIES
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130370
+#EXTINF:-1,  UNIVERSAL CHANNEL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130371
+#EXTINF:-1,  WARNER
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130372
+#EXTINF:-1, sd: REPRETEL 6
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131083
+#EXTINF:-1, sd: EL NUEVE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131085
+#EXTINF:-1, sd: A&E
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131086
+#EXTINF:-1, sd: Galavision
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131087
+#EXTINF:-1, sd: Nick 2 | Mexico
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131088
+#EXTINF:-1, sd: UNIMAS.CENTRAL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131089
+#EXTINF:-1, sd: UniMas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131090
+#EXTINF:-1, sd: UniMas.WEST
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131091
+#EXTINF:-1, sd: UNIVISION.WEST
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131093
+#EXTINF:-1, sd: TELEMUNDO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131094
+#EXTINF:-1, sd: Hbo East
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131096
+#EXTINF:-1, sd: Hbo Plus West
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131097
+#EXTINF:-1, sd: Hbo Signature
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131098
+#EXTINF:-1, sd: Hbo West
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131099
+#EXTINF:-1, sd: MoreMax
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131100
+#EXTINF:-1, sd: MovieMax
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131101
+#EXTINF:-1, sd: OuterMax
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131102
+#EXTINF:-1, sd: Retro Plex
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131103
+#EXTINF:-1, sd: Showtime East
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131104
+#EXTINF:-1, sd: Showtime
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131105
+#EXTINF:-1, sd: Showtime West
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131107
+#EXTINF:-1, sd: Starz IN Black
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131108
+#EXTINF:-1, sd: Starz Cinema
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131109
+#EXTINF:-1, sd: Starz Family
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131111
+#EXTINF:-1, sd: Starz
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131114
+#EXTINF:-1, sd: Starz Kids & Family
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131115
+#EXTINF:-1, sd: Fox Family
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131116
+#EXTINF:-1, sd: Hbo Plus
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131117
+#EXTINF:-1, sd: Hbo Family
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131118
+#EXTINF:-1, sd: Cinelatino
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131119
+#EXTINF:-1, sd: Cinemax
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131120
+#EXTINF:-1, sd: Cinecanal
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131121
+#EXTINF:-1, sd: Hbo 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131122
+#EXTINF:-1, sd: Axn
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131123
+#EXTINF:-1, sd: Universal
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131124
+#EXTINF:-1, sd: Sony Channel HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131128
+#EXTINF:-1, sd: Warner HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131129
+#EXTINF:-1, sd: Paramount
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131130
+#EXTINF:-1, sd: Studio Universal
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131131
+#EXTINF:-1, sd: Fox Series
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131133
+#EXTINF:-1, sd: TUDN
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131134
+#EXTINF:-1, sd: TUDN XTRA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131135
+#EXTINF:-1, sd: TUDN XXL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131136
+#EXTINF:-1, sd: Afizzionados Opc 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131137
+#EXTINF:-1, sd: CDF BASICO | Chile
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131139
+#EXTINF:-1, sd: CDF PREMIUM | Chile
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131141
+#EXTINF:-1, sd: CDO PREMIUM
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131143
+#EXTINF:-1, sd: DIRECTV SPORTS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131146
+#EXTINF:-1, sd: DIRECTV SPORTS 1 HD |
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131147
+#EXTINF:-1, sd: DIRECTV SPORTS 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131148
+#EXTINF:-1, sd: DIRECTV SPORTS PLUS | Ecuador
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131149
+#EXTINF:-1, sd: ESPN 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131152
+#EXTINF:-1, sd: ESPN Deportes USA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131155
+#EXTINF:-1, sd: EUROSPORT 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131157
+#EXTINF:-1, sd: EUROSPORT 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131158
+#EXTINF:-1, sd: FOX DEPORTES | USA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131159
+#EXTINF:-1, sd: FOX SPORTS 1 | Sur FXLA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131160
+#EXTINF:-1, sd: FOX SPORTS 1 | Latino America
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131163
+#EXTINF:-1, sd: NBC GOLF
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131164
+#EXTINF:-1, sd: TNT SPORTS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131165
+#EXTINF:-1, sd: TVC
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131166
+#EXTINF:-1, sd: TYC SPORT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131167
+#EXTINF:-1,Telemundo 31
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/136523
+#EXTINF:-1,  EPIX DRIVE IN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/140930
+#EXTINF:-1,  EPIX HITS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/140931
+#EXTINF:-1,  EPIX WEST HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/140932
+#EXTINF:-1,  HBO LATINO DIRECTV
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/140934
+EXTINF:-1,    COMEDY CENTRAL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88208
+#EXTINF:-1,    PARAMOUNT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88209
+#EXTINF:-1,    Distrito Comedia
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88212
+#EXTINF:-1,M|  Food Network
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88213
+#EXTINF:-1,M|  A&E HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88214
+#EXTINF:-1,M|  A3S
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88215
+#EXTINF:-1,M|  AXN
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88216
+#EXTINF:-1,M|  Distrito Comedia
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88218
+#EXTINF:-1,M|  FX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88219
+#EXTINF:-1,M|  HGTV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88220
+#EXTINF:-1,M|  LifeTime
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88221
+#EXTINF:-1,M|  MasChic
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88222
+#EXTINF:-1,M|  Studio Universal
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88223
+#EXTINF:-1,M|  TBS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88224
+#EXTINF:-1,M|  Telemundo Int.
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88225
+#EXTINF:-1,M|  TNT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88226
+#EXTINF:-1,M|  TNT Series
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88227
+#EXTINF:-1,M|  TruTv
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88228
+#EXTINF:-1,M|  Unicable
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88229
+#EXTINF:-1,M|  Universal ChanneL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88230
+#EXTINF:-1,M|  Warner
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88231
+#EXTINF:-1,    FOX
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88232
+#EXTINF:-1,    Space
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88233
+#EXTINF:-1,HD | AMC
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88234
+#EXTINF:-1,HD | AXN
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88235
+#EXTINF:-1,HD | Discovery H&H
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88236
+#EXTINF:-1,HD | E!
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88237
+#EXTINF:-1,HD | FOX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88238
+#EXTINF:-1,HD | Star Life HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88239
+#EXTINF:-1,HD | Investigation Discovery
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88240
+#EXTINF:-1,HD | SONY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88241
+#EXTINF:-1,    TLC
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88242
+#EXTINF:-1,    Warner
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88243
+#EXTINF:-1,M|  TLNovelas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88244
+#EXTINF:-1,FHD | Discovery Home and Health
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90233
+#EXTINF:-1, Distrito Comedia
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/170751
+#EXTINF:-1, A&E LATINO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86185
+#EXTINF:-1, A&E MEXICO FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86186
+#EXTINF:-1, ANIMAL PLANET FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86187
+#EXTINF:-1, DISCOVERY CHANNEL HD*+*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86189
+#EXTINF:-1, DISCOVERY CHANNEL EN ESPANOL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86192
+#EXTINF:-1, DISCOVERY CIVILIZACION FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86193
+#EXTINF:-1, DISCOVERY CIVILIZACION HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86194
+#EXTINF:-1, DISCOVERY FAMILIA FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86195
+#EXTINF:-1, DISCOVERY HOME & HEALTH
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86197
+#EXTINF:-1, HGTV HD***
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86199
+#EXTINF:-1, DISCOVERY ID FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86200
+#EXTINF:-1, INVESTIGATION DISCOVERY HD*+*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86202
+#EXTINF:-1, DISCOVERY INVESTIGATION HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86203
+#EXTINF:-1, DISCOVERY SCIENCIE FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86204
+#EXTINF:-1, DISCOVERY THEATHER FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86206
+#EXTINF:-1,CULT DISCOVERY TURBO FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86209
+#EXTINF:-1, DISCOVERY TURBO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86210
+#EXTINF:-1, DISCOVERY WORLD FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86211
+#EXTINF:-1, H2 FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86213
+#EXTINF:-1, HISTORY CHANNEL FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86216
+#EXTINF:-1, HISTORY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86217
+#EXTINF:-1, INVESTIGATION DISCOVERY FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86218
+#EXTINF:-1, NAT GEO WILD FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86219
+#EXTINF:-1, NATIONAL GEOGRAPHIC HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86221
+#EXTINF:-1, TLC FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86223
+#EXTINF:-1, TRUTV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86226
+#EXTINF:-1, History
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/170743
+#EXTINF:-1, Discovery H&H
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/170746
+#EXTINF:-1,Animal Planet (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192348
+#EXTINF:-1,Discovery Channel (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192349
+#EXTINF:-1,Discovery H&h  (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192350
+#EXTINF:-1,Discovery Science  (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192351
+#EXTINF:-1,Discovery Theater (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192352
+#EXTINF:-1,Discovery TLC (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192353
+#EXTINF:-1,Discovery Turbo (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192354
+#EXTINF:-1,Discovery World (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192355
+#EXTINF:-1,H2 (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192356
+#EXTINF:-1,HGTV (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192357
+#EXTINF:-1,History (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192358
+#EXTINF:-1,NATGEO (SCRP)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/192360
+#EXTINF:-1, PANDA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86389
+#EXTINF:-1, NICKELODEON FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86390
+#EXTINF:-1, NICK HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86392
+#EXTINF:-1, NICK 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86393
+#EXTINF:-1, NICK JR
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86394
+#EXTINF:-1, NICKTOON HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86395
+#EXTINF:-1, DISNEY CHANNEL FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86396
+#EXTINF:-1, DISNEY JR HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86397
+#EXTINF:-1, DISNEY XD FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86398
+#EXTINF:-1, DISCOVERY KIDS FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86399
+#EXTINF:-1, BOOMERAN FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86400
+#EXTINF:-1, BOIN KIDS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86401
+#EXTINF:-1, BABY TV FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86402
+#EXTINF:-1, CARTOON NETWORKS FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86404
+#EXTINF:-1, NICK MUSIC HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86405
+#EXTINF:-1,DTv | NBA-TV (OPC 2)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/70773
+#EXTINF:-1,Sur - Directv Sports 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/79657
+#EXTINF:-1,DIRECTV SPORTS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/79659
+#EXTINF:-1,LAT | DIRECTV SPORTS + (P)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/79660
+#EXTINF:-1,LAT | DIRECTV SPORTS 2 (P)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/79661
+#EXTINF:-1,LAT | DIRECTV SPORTS (P)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/79662
+#EXTINF:-1,Directv Sports 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/79665
+#EXTINF:-1,D| TUDN USA * HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86242
+#EXTINF:-1,D| UNIVISION DEPORTES HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86244
+#EXTINF:-1,D| GOLTV EN ESPANOL  HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86245
+#EXTINF:-1,D| FOX SPORTS 1 HD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86248
+#EXTINF:-1,D| FOX SPORTS 2 HD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86249
+#EXTINF:-1,D| FOX SPORTS 3 HD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86250
+#EXTINF:-1,D| ESPN XTRA MEXICO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86253
+#EXTINF:-1,D| ESPN 1 HD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86254
+#EXTINF:-1,D| ESPN 2 HD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86255
+#EXTINF:-1,D| ESPN 3 HD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86256
+#EXTINF:-1,D| TUDN  HD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86260
+#EXTINF:-1,D| CLARO SPORTS HD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86262
+#EXTINF:-1,D| TVC DEPORTES HD MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86263
+#EXTINF:-1,D| ESPN 1 HD ARGENTINA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86264
+#EXTINF:-1,D| ESPN 2 HD ARGENTINA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86265
+#EXTINF:-1,D| ESPN 3 HD ARGENTINA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86266
+#EXTINF:-1,D| DIRECTV SPORTS  HD ECUADOR
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86283
+#EXTINF:-1,ESPN DEPORTES HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86293
+#EXTINF:-1,ESPN USA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86294
+#EXTINF:-1,TUDN  DEPORTES USA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86296
+#EXTINF:-1,C| DIRECTV SPORTS 1 HD*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86349
+#EXTINF:-1,C| DIRECTV SPORTS 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86350
+#EXTINF:-1,C| DIRECTV SPORTS +
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86351
+#EXTINF:-1,SPORTS| CANAL + SPORTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86457
+#EXTINF:-1,ECUA| DIRECTV SPORTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86539
+#EXTINF:-1,CH| DIRECTV SPORTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86584
+#EXTINF:-1,CH| DIRECTV SPORTS 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86588
+#EXTINF:-1,A DIRECTV SPORTS FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86646
+#EXTINF:-1,A DIRECTV SPORTS PLUS FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86647
+#EXTINF:-1,Ecuador - Directv Sports 2mb
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87686
+#EXTINF:-1, L| UNIVISION DEPORTES HD P
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87981
+#EXTINF:-1, L| TUDN DEPORTES USA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87982
+#EXTINF:-1, L| ESPN DEPORTES HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87983
+#EXTINF:-1, L| FOX DEPORTES HD**
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87985
+#EXTINF:-1, L| GOLTV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87987
+#EXTINF:-1, L| GOLTV USA ENGLISH HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87988
+#EXTINF:-1, L| TYC SPORTS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87989
+#EXTINF:-1, L| ESPN 3 SUR HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87990
+#EXTINF:-1, L| ESPN 2 SUR HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87991
+#EXTINF:-1, L| ESPN SUR HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87992
+#EXTINF:-1, L| FOX SPORTS 1 HD*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87993
+#EXTINF:-1, L| FOX SPORTS 2 HD*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87994
+#EXTINF:-1, L| FOX SPORTS 3 HD*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87995
+#EXTINF:-1,FOX SPORTS 2 HD AR
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90513
+#EXTINF:-1,FOX SPORTS 1 HD AR
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90514
+#EXTINF:-1,D| FOX SPORTS 1 HD M (E)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90515
+#EXTINF:-1,D| FOX SPORTS 3 FHD CO (A)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90516
+#EXTINF:-1,D| FOX SPORTS 2 HD CO (A)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90517
+#EXTINF:-1,D| FOX SPORTS 1 HD CO (A)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90518
+#EXTINF:-1,D| FOX SPORTS 3 FHD AR (E)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/90519
+#EXTINF:-1,ESPN DEPORTES
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128611
+#EXTINF:-1,ESPN LATAM
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128612
+#EXTINF:-1,ESPN 2 LATAM
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128613
+#EXTINF:-1,ESPN M
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128614
+#EXTINF:-1,ESPN 2 M
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128615
+#EXTINF:-1,ESPN 3 LATAM
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128616
+#EXTINF:-1,ESPN U
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128617
+#EXTINF:-1,ESPN NEWS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128618
+#EXTINF:-1,ESPN SUR
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128621
+#EXTINF:-1,ESPN 2 ARGENTINA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128622
+#EXTINF:-1,ESPN3 SUR
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128623
+#EXTINF:-1,ESPN SUR ANDINA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128624
+#EXTINF:-1,ESPN2 COLOMBIA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128625
+#EXTINF:-1,ESPN2 ANDINA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128626
+#EXTINF:-1,ESPN2 PERU
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128627
+#EXTINF:-1,ESPN2 BRAZIL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128628
+#EXTINF:-1,ESPN BRAZIL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128629
+#EXTINF:-1,ESPN EXTRA BRAZIL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128630
+#EXTINF:-1,espn caribbean
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/128631
+#EXTINF:-1,D| FOX SPORTS PREMIUM HD (T)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/144612
+#EXTINF:-1,D| FOX SPORTS PREMIUM M
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/144613
+#EXTINF:-1,PPV - FUBO SPORTS NETWORK  5 HD (LATINO AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/155751
+#EXTINF:-1,DEP HD: DIRECTV SPORTS +
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156536
+#EXTINF:-1,DEP HD: DIRECTV SPORTS 1 (CHI)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156537
+#EXTINF:-1,DEP HD: ESPN 1 (COL)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156539
+#EXTINF:-1,DEP HD: ESPN 1 SUR (CHI)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156541
+#EXTINF:-1,DEP HD: ESPN 2 (CHI)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156543
+#EXTINF:-1,DEP HD: ESPN 2 (MEX)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156545
+#EXTINF:-1,DEP HD: ESPN 3 (MEX)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156548
+#EXTINF:-1,DEP HD: ESPN 4 (ARG)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156549
+#EXTINF:-1,DEP HD: EUROSPORT 2 (OPC 2)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156553
+#EXTINF:-1,DEP HD: EUROSPORTS 1 (OPC 1)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156554
+#EXTINF:-1,DEP HD: FOX SPORTS 1 (ARG)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156557
+#EXTINF:-1,DEP HD: FOX SPORTS 1 (CHI)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156558
+#EXTINF:-1,DEP HD: FOX SPORTS 2 (CHI)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156562
+#EXTINF:-1,DEP HD: FOX SPORTS 3 (CHI)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156566
+#EXTINF:-1,DEP HD: FOX SPORTS PREMIUM MEXICO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156569
+#EXTINF:-1,DEP HD: MOVISTAR LA LIGA (OPC 2)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156575
+#EXTINF:-1,D| BEIN SPORTS Ñ (OPC 2)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156590
+#EXTINF:-1,D| DIRECTV SPORTS + (CHI)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156592
+#EXTINF:-1,D| DIRECTV SPORTS 2 (CHI)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156594
+#EXTINF:-1,D| ESPN 2 (ARG)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156598
+#EXTINF:-1,D| ESPN 2 (COL)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156599
+#EXTINF:-1,D| ESPN 1 (MEX)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156600
+#EXTINF:-1,D| ESPN 3 (ARG)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156601
+#EXTINF:-1,D| ESPN 3 (COL)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156602
+#EXTINF:-1,D| FOX SPORTS 2 (COL)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156608
+#EXTINF:-1,D| FOX SPORTS 1 (MEX)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156609
+#EXTINF:-1,D| FOX SPORTS 2 (MEX)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156611
+#EXTINF:-1,D| FOX SPORTS 3 (ARG)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156612
+#EXTINF:-1,D| FOX SPORTS 3 (COL)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156613
+#EXTINF:-1,D| FOX SPORTS 3 (MEX)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/156614
+#EXTINF:-1,MLB CHANNEL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86297
+#EXTINF:-1,ESTRELLA TV
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87661
+#EXTINF:-1,UNIVISION EAST HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87662
+#EXTINF:-1,TNT USA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87663
+#EXTINF:-1,DOC: SOCIETY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129789
+#EXTINF:-1,DOC: HEALTH
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129790
+#EXTINF:-1,DOC: SEXUALITY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129791
+#EXTINF:-1,DOC: SCIENCE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129792
+#EXTINF:-1,DOC: RELIGION
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129793
+#EXTINF:-1,DOC: POLITICS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129794
+#EXTINF:-1,DOC: PERFORMING ARTS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129795
+#EXTINF:-1,DOC: NATURE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129796
+#EXTINF:-1,DOC: MYSTERY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129797
+#EXTINF:-1,DOC: MILITARY AND WAR
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129798
+#EXTINF:-1,DOC: MEDIA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129799
+#EXTINF:-1,DOC: ENVIRONMENT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129800
+#EXTINF:-1,DOC: ECONOMICS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129801
+#EXTINF:-1,DOC: DRUGS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129802
+#EXTINF:-1,DOC: CONSPIRACY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129804
+#EXTINF:-1,DOC: BIOGRAPHY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129805
+#EXTINF:-1,CINEBOX: WAR
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129806
+#EXTINF:-1,DOC: HISTORY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129807
+#EXTINF:-1,DOC: SPORTS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129808
+#EXTINF:-1,DOC: TECHNOLOGY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129809
+#EXTINF:-1,SKY-SSTV:Tlenovelas SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/107051
+#EXTINF:-1,SSTV-SKY:AZTECA CORAZON
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/107053
+#EXTINF:-1,M: Telenovelas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/107056
+#EXTINF:-1,    AZTECA 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88248
+#EXTINF:-1,M|  ADN40
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88250
+#EXTINF:-1,M|  Azteca 7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88251
+#EXTINF:-1,M|  Azteca Corazon
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88252
+#EXTINF:-1,M|  Azteca Uno
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88253
+#EXTINF:-1,M|  Canal 5
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88254
+#EXTINF:-1,M|  Estrellas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88257
+#EXTINF:-1,M|  Multimedios Mty
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88260
+#EXTINF:-1,M|  A+
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/88266
+#EXTINF:-1,M CANAL DE LAS ESTRELLAS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87130
+#EXTINF:-1,M CANAL DE LAS ESTRELLAS -2HRS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87131
+#EXTINF:-1,M ESTRELLA TV NEWS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87134
+#EXTINF:-1,M UNICABLE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87140
+#EXTINF:-1,M FORO TV HD**
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87143
 #EXTINF:-1,M UNICABLE
-http://partyplay.live:8080/exch@grogi/grogi456/8447
-#EXTINF:-1,M UNIVERSAL CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/30136
-#EXTINF:-1,M VH1 CLASSIC
-http://partyplay.live:8080/exch@grogi/grogi456/16724
-#EXTINF:-1,M VH1
-http://partyplay.live:8080/exch@grogi/grogi456/8450
-#EXTINF:-1,M VTV
-http://partyplay.live:8080/exch@grogi/grogi456/8451
-#EXTINF:-1,M WARNER
-http://partyplay.live:8080/exch@grogi/grogi456/30139
-#EXTINF:-1,M WOBI
-http://partyplay.live:8080/exch@grogi/grogi456/8453
-#EXTINF:-1,M MULTIMEDIOS P
-http://partyplay.live:8080/exch@grogi/grogi456/170843
-#EXTINF:-1,M TELEMUNDO MEXICO
-http://partyplay.live:8080/exch@grogi/grogi456/170301
-#EXTINF:-1,M AL JAZEERA
-http://partyplay.live:8080/exch@grogi/grogi456/41480
-#EXTINF:-1,M FOX SPORTS 2
-http://partyplay.live:8080/exch@grogi/grogi456/384670
-#EXTINF:-1,M Canal VIX lo mejor lega
-http://partyplay.live:8080/exch@grogi/grogi456/410624
-#EXTINF:-1,ES: 13 Tv.
-http://partyplay.live:8080/exch@grogi/grogi456/412034
-#EXTINF:-1,ES: AMC Break
-http://partyplay.live:8080/exch@grogi/grogi456/412027
-#EXTINF:-1,ES: AMC Crime
-http://partyplay.live:8080/exch@grogi/grogi456/412026
-#EXTINF:-1,ES: ANTENA 3
-http://partyplay.live:8080/exch@grogi/grogi456/412022
-#EXTINF:-1,ES: Aragón TV
-http://partyplay.live:8080/exch@grogi/grogi456/412012
-#EXTINF:-1,ES: BE MAD
-http://partyplay.live:8080/exch@grogi/grogi456/412010
-#EXTINF:-1,ES: BREAK
-http://partyplay.live:8080/exch@grogi/grogi456/412004
-#EXTINF:-1,ES: CAZA Y PESCA
-http://partyplay.live:8080/exch@grogi/grogi456/411996
-#EXTINF:-1,ES: Canal Sur
-http://partyplay.live:8080/exch@grogi/grogi456/411977
-#EXTINF:-1,ES: DAZN 1
-http://partyplay.live:8080/exch@grogi/grogi456/411972
-#EXTINF:-1,ES: DAZN 4
-http://partyplay.live:8080/exch@grogi/grogi456/411963
-#EXTINF:-1,ES: DAZN LaLiga
-http://partyplay.live:8080/exch@grogi/grogi456/411958
-#EXTINF:-1,ES: DREAMWORKS
-http://partyplay.live:8080/exch@grogi/grogi456/411948
-#EXTINF:-1,ES: Discovery Channel
-http://partyplay.live:8080/exch@grogi/grogi456/411943
-#EXTINF:-1,ES: EL TORO
-http://partyplay.live:8080/exch@grogi/grogi456/411941
-#EXTINF:-1,ES: HISTORIA
-http://partyplay.live:8080/exch@grogi/grogi456/411924
-#EXTINF:-1,ES: Horse TV
-http://partyplay.live:8080/exch@grogi/grogi456/411919
-#EXTINF:-1,ES: IB3
-http://partyplay.live:8080/exch@grogi/grogi456/411918
-#EXTINF:-1,ES: M+ #VAMOS
-http://partyplay.live:8080/exch@grogi/grogi456/411905
-#EXTINF:-1,ES: M+ CLASICOS
-http://partyplay.live:8080/exch@grogi/grogi456/411900
-#EXTINF:-1,ES: M+ Cracks
-http://partyplay.live:8080/exch@grogi/grogi456/411898
-#EXTINF:-1,ES: M+ DEPORTES 6
-http://partyplay.live:8080/exch@grogi/grogi456/411883
-#EXTINF:-1,ES: M+ DEPORTES 8
-http://partyplay.live:8080/exch@grogi/grogi456/411880
-#EXTINF:-1,ES: M+ LaLiga 123 Tv
-http://partyplay.live:8080/exch@grogi/grogi456/411857
-#EXTINF:-1,ES: M+ LaLiga Bar Tv
-http://partyplay.live:8080/exch@grogi/grogi456/411855
-#EXTINF:-1,ES: M+ LaLiga SmartBank Tv 2
-http://partyplay.live:8080/exch@grogi/grogi456/411854
-#EXTINF:-1,ES: M+ LaLiga SmartBank Tv
-http://partyplay.live:8080/exch@grogi/grogi456/411852
-#EXTINF:-1,ES: M+ LaLiga Tv
-http://partyplay.live:8080/exch@grogi/grogi456/411826
-#EXTINF:-1,ES: M+ Liga De Campeones 2
-http://partyplay.live:8080/exch@grogi/grogi456/411825
-#EXTINF:-1,ES: M+ Liga De Campeones 4
-http://partyplay.live:8080/exch@grogi/grogi456/411823
-#EXTINF:-1,ES: M+ Liga de Campeones 10
-http://partyplay.live:8080/exch@grogi/grogi456/411813
-#EXTINF:-1,ES: M+ Liga de Campeones 11
-http://partyplay.live:8080/exch@grogi/grogi456/411812
-#EXTINF:-1,ES: M+ Liga de Campeones 12
-http://partyplay.live:8080/exch@grogi/grogi456/411811
-#EXTINF:-1,ES: M+ Liga de Campeones 13
-http://partyplay.live:8080/exch@grogi/grogi456/411810
-#EXTINF:-1,ES: M+ SERIES 2
-http://partyplay.live:8080/exch@grogi/grogi456/411796
-#EXTINF:-1,ES: M+ SERIES
-http://partyplay.live:8080/exch@grogi/grogi456/411793
-#EXTINF:-1,ES: M+ Sagas
-http://partyplay.live:8080/exch@grogi/grogi456/411791
-#EXTINF:-1,ES: MEGA
-http://partyplay.live:8080/exch@grogi/grogi456/411789
-#EXTINF:-1,ES: MEZZO LIVE
-http://partyplay.live:8080/exch@grogi/grogi456/411786
-#EXTINF:-1,ES: MEZZO
-http://partyplay.live:8080/exch@grogi/grogi456/411785
-#EXTINF:-1,ES: MOVISTAR PARTIDAZO
-http://partyplay.live:8080/exch@grogi/grogi456/411770
-#EXTINF:-1,ES: MTV 00s
-http://partyplay.live:8080/exch@grogi/grogi456/411768
-#EXTINF:-1,ES: MTV ROCKS
-http://partyplay.live:8080/exch@grogi/grogi456/411766
-#EXTINF:-1,ES: MTV
-http://partyplay.live:8080/exch@grogi/grogi456/411765
-#EXTINF:-1,ES: Movistar Futbol 2
-http://partyplay.live:8080/exch@grogi/grogi456/411761
-#EXTINF:-1,ES: Movistar Futbol 3
-http://partyplay.live:8080/exch@grogi/grogi456/411760
-#EXTINF:-1,ES: Movistar Futbol 4
-http://partyplay.live:8080/exch@grogi/grogi456/411759
-#EXTINF:-1,ES: NAT GEO WILD
-http://partyplay.live:8080/exch@grogi/grogi456/411758
-#EXTINF:-1,ES: NAT GEO
-http://partyplay.live:8080/exch@grogi/grogi456/411756
-#EXTINF:-1,ES: NICK JR
-http://partyplay.live:8080/exch@grogi/grogi456/411753
-#EXTINF:-1,ES: NICKELODEON
-http://partyplay.live:8080/exch@grogi/grogi456/411752
-#EXTINF:-1,ES: NOVA
-http://partyplay.live:8080/exch@grogi/grogi456/411749
-#EXTINF:-1,ES: Negocios TV
-http://partyplay.live:8080/exch@grogi/grogi456/411745
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/411741
-#EXTINF:-1,ES: SUNDANCE TV
-http://partyplay.live:8080/exch@grogi/grogi456/411738
-#EXTINF:-1,ES: Sol Música
-http://partyplay.live:8080/exch@grogi/grogi456/411734
-#EXTINF:-1,ES: Somos
-http://partyplay.live:8080/exch@grogi/grogi456/411733
-#EXTINF:-1,ES: TELESUR
-http://partyplay.live:8080/exch@grogi/grogi456/411723
-#EXTINF:-1,ES: TOROS
-http://partyplay.live:8080/exch@grogi/grogi456/411717
-#EXTINF:-1,ES: TV 3
-http://partyplay.live:8080/exch@grogi/grogi456/411714
-#EXTINF:-1,ES: TV Canaria
-http://partyplay.live:8080/exch@grogi/grogi456/411713
-#EXTINF:-1,ES: Ubeat
-http://partyplay.live:8080/exch@grogi/grogi456/411706
-#EXTINF:-1,ES: i24 NEWS
-http://partyplay.live:8080/exch@grogi/grogi456/411702
-#EXTINF:-1,ES: M+ liga de campeones B2
-http://partyplay.live:8080/exch@grogi/grogi456/410242
-#EXTINF:-1,ES: LIGA DE CAMPEONES 1 B1
-http://partyplay.live:8080/exch@grogi/grogi456/410241
-#EXTINF:-1,ES: M+ LaLiga 1
-http://partyplay.live:8080/exch@grogi/grogi456/410240
-#EXTINF:-1,ES: M+ LALIGA B2
-http://partyplay.live:8080/exch@grogi/grogi456/410239
-#EXTINF:-1,ES: M+ LALIGA B1
-http://partyplay.live:8080/exch@grogi/grogi456/410238
-#EXTINF:-1,ES: DAZN LaLiga B1
-http://partyplay.live:8080/exch@grogi/grogi456/410235
-#EXTINF:-1,ES: DAZN F1
-http://partyplay.live:8080/exch@grogi/grogi456/408577
-#EXTINF:-1,ES: NAUTICAL CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/408383
-#EXTINF:-1,ES: GOL PLAY TV
-http://partyplay.live:8080/exch@grogi/grogi456/406705
-#EXTINF:-1,ES: Gol Mundial
-http://partyplay.live:8080/exch@grogi/grogi456/397322
-#EXTINF:-1,ES: 25 TV
-http://partyplay.live:8080/exch@grogi/grogi456/395452
-#EXTINF:-1,ES: Bailen TV
-http://partyplay.live:8080/exch@grogi/grogi456/395451
-#EXTINF:-1,ES: Garage TV
-http://partyplay.live:8080/exch@grogi/grogi456/395450
-#EXTINF:-1,ES: Netflix Action
-http://partyplay.live:8080/exch@grogi/grogi456/395448
-#EXTINF:-1,ES: Netflix Action 2
-http://partyplay.live:8080/exch@grogi/grogi456/395447
-#EXTINF:-1,ES: Netflix Box Office
-http://partyplay.live:8080/exch@grogi/grogi456/395446
-#EXTINF:-1,ES: Netflix Box Office 2
-http://partyplay.live:8080/exch@grogi/grogi456/395445
-#EXTINF:-1,ES: Netflix Comedy
-http://partyplay.live:8080/exch@grogi/grogi456/395444
-#EXTINF:-1,ES: Netflix Comedy 2
-http://partyplay.live:8080/exch@grogi/grogi456/395443
-#EXTINF:-1,ES: Netflix Discovery
-http://partyplay.live:8080/exch@grogi/grogi456/395442
-#EXTINF:-1,ES: Netflix Drama
-http://partyplay.live:8080/exch@grogi/grogi456/395441
-#EXTINF:-1,ES: Netflix Horror
-http://partyplay.live:8080/exch@grogi/grogi456/395440
-#EXTINF:-1,ES: Netflix Horror 2
-http://partyplay.live:8080/exch@grogi/grogi456/395439
-#EXTINF:-1,ES: Netflix Kids
-http://partyplay.live:8080/exch@grogi/grogi456/395438
-#EXTINF:-1,ES: Netflix Kids 2
-http://partyplay.live:8080/exch@grogi/grogi456/395437
-#EXTINF:-1,ES: Netflix Movies
-http://partyplay.live:8080/exch@grogi/grogi456/395436
-#EXTINF:-1,ES: Netflix Movies 2
-http://partyplay.live:8080/exch@grogi/grogi456/395435
-#EXTINF:-1,ES: Netflix Thriller
-http://partyplay.live:8080/exch@grogi/grogi456/395434
-#EXTINF:-1,ES: Netflix Thriller 2
-http://partyplay.live:8080/exch@grogi/grogi456/395433
-#EXTINF:-1,ES: TAQUILLA 1
-http://partyplay.live:8080/exch@grogi/grogi456/395407
-#EXTINF:-1,ES: TAQUILLA 2
-http://partyplay.live:8080/exch@grogi/grogi456/395406
-#EXTINF:-1,ES: TAQUILLA 3
-http://partyplay.live:8080/exch@grogi/grogi456/395405
-#EXTINF:-1,ES: TAQUILLA 4
-http://partyplay.live:8080/exch@grogi/grogi456/395404
-#EXTINF:-1,ES: TAQUILLA 5
-http://partyplay.live:8080/exch@grogi/grogi456/395403
-#EXTINF:-1,ES: TAQUILLA 6
-http://partyplay.live:8080/exch@grogi/grogi456/395402
-#EXTINF:-1,ES: BEIN SPORTS ESPANAA
-http://partyplay.live:8080/exch@grogi/grogi456/45454
-#EXTINF:-1,ES: PPV 5 (LIVE EVENT)
-http://partyplay.live:8080/exch@grogi/grogi456/175073
-#EXTINF:-1,ES: PPV 4 (LIVE EVENT)
-http://partyplay.live:8080/exch@grogi/grogi456/175072
-#EXTINF:-1,ES: PPV 3 (LIVE EVENT)
-http://partyplay.live:8080/exch@grogi/grogi456/175071
-#EXTINF:-1,ES: PPV 1 (LIVE EVENT)
-http://partyplay.live:8080/exch@grogi/grogi456/175069
-#EXTINF:-1,ES: PPV 2 (LIVE EVENT)
-http://partyplay.live:8080/exch@grogi/grogi456/353102
-#EXTINF:-1,ES: M+ ELLAS #V
-http://partyplay.live:8080/exch@grogi/grogi456/385997
-#EXTINF:-1,ES: #0
-http://partyplay.live:8080/exch@grogi/grogi456/22101
-#EXTINF:-1,ES: 7RM
-http://partyplay.live:8080/exch@grogi/grogi456/30148
-#EXTINF:-1,ES: A&E
-http://partyplay.live:8080/exch@grogi/grogi456/22099
-#EXTINF:-1,ES: A3SERIES
-http://partyplay.live:8080/exch@grogi/grogi456/319293
-#EXTINF:-1,ES: AMC
-http://partyplay.live:8080/exch@grogi/grogi456/1068
-#EXTINF:-1,ES: ANDALUCIA TV
-http://partyplay.live:8080/exch@grogi/grogi456/22694
-#EXTINF:-1,ES: AXN
-http://partyplay.live:8080/exch@grogi/grogi456/1060
-#EXTINF:-1,ES: AXN WHITE
-http://partyplay.live:8080/exch@grogi/grogi456/1061
-#EXTINF:-1,ES: BABY TV
-http://partyplay.live:8080/exch@grogi/grogi456/1059
-#EXTINF:-1,ES: BARCA TV
-http://partyplay.live:8080/exch@grogi/grogi456/1058
-#EXTINF:-1,ES: BLAZE
-http://partyplay.live:8080/exch@grogi/grogi456/1053
-#EXTINF:-1,ES: BOING
-http://partyplay.live:8080/exch@grogi/grogi456/1051
-#EXTINF:-1,ES: BOM CINE
-http://partyplay.live:8080/exch@grogi/grogi456/1050
-#EXTINF:-1,ES: CALLE 13
-http://partyplay.live:8080/exch@grogi/grogi456/1047
-#EXTINF:-1,ES: 24H
-http://partyplay.live:8080/exch@grogi/grogi456/45464
-#EXTINF:-1,ES: CANAL 26
-http://partyplay.live:8080/exch@grogi/grogi456/45495
-#EXTINF:-1,ES: CANAL COCINA
-http://partyplay.live:8080/exch@grogi/grogi456/1045
-#EXTINF:-1,ES: DECASA
-http://partyplay.live:8080/exch@grogi/grogi456/1043
-#EXTINF:-1,ES: CANAL PANDA
-http://partyplay.live:8080/exch@grogi/grogi456/1041
-#EXTINF:-1,ES: CLAN
-http://partyplay.live:8080/exch@grogi/grogi456/1036
-#EXTINF:-1,ES: CLASSICA
-http://partyplay.live:8080/exch@grogi/grogi456/25647
-#EXTINF:-1,ES: COMEDY CENTRAL
-http://partyplay.live:8080/exch@grogi/grogi456/1033
-#EXTINF:-1,ES: COSMO
-http://partyplay.live:8080/exch@grogi/grogi456/1031
-#EXTINF:-1,ES: CRIME & INVESTIGATION
-http://partyplay.live:8080/exch@grogi/grogi456/22662
-#EXTINF:-1,ES: CUATRO
-http://partyplay.live:8080/exch@grogi/grogi456/1027
-#EXTINF:-1,ES: DAZN 2
-http://partyplay.live:8080/exch@grogi/grogi456/310857
-#EXTINF:-1,ES: DAZN 3
-http://partyplay.live:8080/exch@grogi/grogi456/310858
-#EXTINF:-1,ES: DISNEY CHANNEL
-http://partyplay.live:8080/exch@grogi/grogi456/22093
-#EXTINF:-1,ES: DISNEY JR
-http://partyplay.live:8080/exch@grogi/grogi456/1020
-#EXTINF:-1,ES: DISNEY XD
-http://partyplay.live:8080/exch@grogi/grogi456/1019
-#EXTINF:-1,ES: DIVINITY
-http://partyplay.live:8080/exch@grogi/grogi456/1018
-#EXTINF:-1,ES: DKISS
-http://partyplay.live:8080/exch@grogi/grogi456/1017
-#EXTINF:-1,ES: DMAX
-http://partyplay.live:8080/exch@grogi/grogi456/1016
-#EXTINF:-1,ES: ENERGY
-http://partyplay.live:8080/exch@grogi/grogi456/1014
-#EXTINF:-1,ES: ESPN DEPORTES
-http://partyplay.live:8080/exch@grogi/grogi456/45494
-#EXTINF:-1,ES: ESPERANZA TV
-http://partyplay.live:8080/exch@grogi/grogi456/22695
-#EXTINF:-1,ES: EUROSPORT 1
-http://partyplay.live:8080/exch@grogi/grogi456/310854
-#EXTINF:-1,ES: EUROSPORT 2
-http://partyplay.live:8080/exch@grogi/grogi456/310855
-#EXTINF:-1,ES: EXTREMADURA TV
-http://partyplay.live:8080/exch@grogi/grogi456/30189
-#EXTINF:-1,ES: FDF
-http://partyplay.live:8080/exch@grogi/grogi456/1005
-#EXTINF:-1,ES: FOX
-http://partyplay.live:8080/exch@grogi/grogi456/998
-#EXTINF:-1,ES: GALICIA TV
-http://partyplay.live:8080/exch@grogi/grogi456/22658
-#EXTINF:-1,ES: GOL TV
-http://partyplay.live:8080/exch@grogi/grogi456/989
-#EXTINF:-1,ES: HOLLYWOOD
-http://partyplay.live:8080/exch@grogi/grogi456/984
-#EXTINF:-1,ES: IBERALIA TV
-http://partyplay.live:8080/exch@grogi/grogi456/978
-#EXTINF:-1,ES: LA 1
-http://partyplay.live:8080/exch@grogi/grogi456/976
-#EXTINF:-1,ES: LA 2
-http://partyplay.live:8080/exch@grogi/grogi456/974
-#EXTINF:-1,ES: M+ LALIGA TV BAR
-http://partyplay.live:8080/exch@grogi/grogi456/970
-#EXTINF:-1,ES: LA SEXTA
-http://partyplay.live:8080/exch@grogi/grogi456/972
-#EXTINF:-1,ES: M+ ACCION
-http://partyplay.live:8080/exch@grogi/grogi456/965
-#EXTINF:-1,ES: M+ FEST
-http://partyplay.live:8080/exch@grogi/grogi456/22088
-#EXTINF:-1,ES: M+ ESTRENOS 2
-http://partyplay.live:8080/exch@grogi/grogi456/950
-#EXTINF:-1,ES: M+ LIGA DE CAMPEONES
-http://partyplay.live:8080/exch@grogi/grogi456/949
-#EXTINF:-1,ES: M+ DEPORTES 2
-http://partyplay.live:8080/exch@grogi/grogi456/948
-#EXTINF:-1,ES: M+ DRAMA
-http://partyplay.live:8080/exch@grogi/grogi456/939
-#EXTINF:-1,ES: M+ ESTRENOS
-http://partyplay.live:8080/exch@grogi/grogi456/937
-#EXTINF:-1,ES: M+ GOLF
-http://partyplay.live:8080/exch@grogi/grogi456/933
-#EXTINF:-1,ES: M+ LALIGA 2
-http://partyplay.live:8080/exch@grogi/grogi456/30227
-#EXTINF:-1,ES: M+ LALIGA 4
-http://partyplay.live:8080/exch@grogi/grogi456/30230
-#EXTINF:-1,ES: M+ LIGA DE CAMPEONES 3
-http://partyplay.live:8080/exch@grogi/grogi456/911
-#EXTINF:-1,ES: MOVISTAR ALQUILER 1
-http://partyplay.live:8080/exch@grogi/grogi456/964
-#EXTINF:-1,ES: MOVISTAR ALQUILER 2
-http://partyplay.live:8080/exch@grogi/grogi456/963
-#EXTINF:-1,ES: MOVISTAR ALQUILER 3
-http://partyplay.live:8080/exch@grogi/grogi456/962
-#EXTINF:-1,ES: MOVISTAR ALQUILER 4
-http://partyplay.live:8080/exch@grogi/grogi456/961
-#EXTINF:-1,ES: MOVISTAR ALQUILER 5
-http://partyplay.live:8080/exch@grogi/grogi456/960
-#EXTINF:-1,ES: MOVISTAR ALQUILER 7
-http://partyplay.live:8080/exch@grogi/grogi456/30158
-#EXTINF:-1,ES: MOVISTAR ALQUILER 8
-http://partyplay.live:8080/exch@grogi/grogi456/30159
-#EXTINF:-1,ES: MOVISTAR ALQUILER 9
-http://partyplay.live:8080/exch@grogi/grogi456/30160
-#EXTINF:-1,ES: MOVISTAR ALQUILER 10
-http://partyplay.live:8080/exch@grogi/grogi456/30142
-#EXTINF:-1,ES: ODISEA
-http://partyplay.live:8080/exch@grogi/grogi456/956
-#EXTINF:-1,ES: MULTIDEPORTE
-http://partyplay.live:8080/exch@grogi/grogi456/884
-#EXTINF:-1,ES: NEOX
-http://partyplay.live:8080/exch@grogi/grogi456/878
-#EXTINF:-1,ES: NON STOP PEOPLE
-http://partyplay.live:8080/exch@grogi/grogi456/25611
-#EXTINF:-1,ES: ORBE 21
-http://partyplay.live:8080/exch@grogi/grogi456/30262
-#EXTINF:-1,ES: POPULAR TV
-http://partyplay.live:8080/exch@grogi/grogi456/319391
-#EXTINF:-1,ES: REAL MADRID TV
-http://partyplay.live:8080/exch@grogi/grogi456/864
-#EXTINF:-1,ES: SUNDANCE
-http://partyplay.live:8080/exch@grogi/grogi456/854
-#EXTINF:-1,ES: SYFY
-http://partyplay.live:8080/exch@grogi/grogi456/852
-#EXTINF:-1,ES: TCM
-http://partyplay.live:8080/exch@grogi/grogi456/849
-#EXTINF:-1,ES: TELECINCO
-http://partyplay.live:8080/exch@grogi/grogi456/847
-#EXTINF:-1,ES: TELEDEPORTE
-http://partyplay.live:8080/exch@grogi/grogi456/845
-#EXTINF:-1,ES: TELEMADRID
-http://partyplay.live:8080/exch@grogi/grogi456/844
-#EXTINF:-1,ES: TEN
-http://partyplay.live:8080/exch@grogi/grogi456/842
-#EXTINF:-1,ES: TNT
-http://partyplay.live:8080/exch@grogi/grogi456/840
-#EXTINF:-1,ES: TRECE
-http://partyplay.live:8080/exch@grogi/grogi456/1081
-#EXTINF:-1,ES: TV GALICIA
-http://partyplay.live:8080/exch@grogi/grogi456/30273
-#EXTINF:-1,ES: TV3 CATALUNYA
-http://partyplay.live:8080/exch@grogi/grogi456/25605
-#EXTINF:-1,ES: TVE INTERNACIONAL
-http://partyplay.live:8080/exch@grogi/grogi456/1080
-#EXTINF:-1,ES: VIAJAR
-http://partyplay.live:8080/exch@grogi/grogi456/1078
-#EXTINF:-1,ES: XTRM
-http://partyplay.live:8080/exch@grogi/grogi456/1073
-#EXTINF:-1,ES: ETB 2
-http://partyplay.live:8080/exch@grogi/grogi456/342793
-#EXTINF:-1,ES: ETB 1
-http://partyplay.live:8080/exch@grogi/grogi456/342792
-#EXTINF:-1,ES: MOVISTAR ALQUILER 12
-http://partyplay.live:8080/exch@grogi/grogi456/308512
-#EXTINF:-1,ES: MOVISTAR ALQUILER 18
-http://partyplay.live:8080/exch@grogi/grogi456/308506
-#EXTINF:-1,ES: M+ LALIGA 5
-http://partyplay.live:8080/exch@grogi/grogi456/385995
-#EXTINF:-1,ES: CANAL SUR 2
-http://partyplay.live:8080/exch@grogi/grogi456/385989
-#EXTINF:-1,ES: A PUNT
-http://partyplay.live:8080/exch@grogi/grogi456/386225
-#EXTINF:-1,ES: BETEVE
-http://partyplay.live:8080/exch@grogi/grogi456/386222
-#EXTINF:-1,ES: CASTILLA LA MANCHA
-http://partyplay.live:8080/exch@grogi/grogi456/386221
-#EXTINF:-1,ES: DARK
-http://partyplay.live:8080/exch@grogi/grogi456/386220
-#EXTINF:-1,ES: ESPORT 3 CAT
-http://partyplay.live:8080/exch@grogi/grogi456/386217
-#EXTINF:-1,ES: EURONEWS
-http://partyplay.live:8080/exch@grogi/grogi456/386215
-#EXTINF:-1,ES: LA 7
-http://partyplay.live:8080/exch@grogi/grogi456/386213
-#EXTINF:-1,ES: LA RESISTENCIA
-http://partyplay.live:8080/exch@grogi/grogi456/386212
-#EXTINF:-1,ES: LA OTRA
-http://partyplay.live:8080/exch@grogi/grogi456/386211
-#EXTINF:-1,ES: M+ DEPORTES
-http://partyplay.live:8080/exch@grogi/grogi456/386207
-#EXTINF:-1,ES: M+ DEPORTES 3
-http://partyplay.live:8080/exch@grogi/grogi456/386206
-#EXTINF:-1,ES: M+ DEPORTES 7
-http://partyplay.live:8080/exch@grogi/grogi456/386205
-#EXTINF:-1,ES: M+ DEPORTES 5
-http://partyplay.live:8080/exch@grogi/grogi456/386203
-#EXTINF:-1,ES: M+ DEPORTES 4
-http://partyplay.live:8080/exch@grogi/grogi456/386202
-#EXTINF:-1,ES: M+ LALIGA 9
-http://partyplay.live:8080/exch@grogi/grogi456/386201
-#EXTINF:-1,ES: M+ LALIGA 8
-http://partyplay.live:8080/exch@grogi/grogi456/386200
-#EXTINF:-1,ES: M+ LALIGA 7
-http://partyplay.live:8080/exch@grogi/grogi456/386199
-#EXTINF:-1,ES: M+ LALIGA 6
-http://partyplay.live:8080/exch@grogi/grogi456/386198
-#EXTINF:-1,ES: M+ LALIGA 10
-http://partyplay.live:8080/exch@grogi/grogi456/386197
-#EXTINF:-1,ES: M+ LIGA DE CAMPEONES 16
-http://partyplay.live:8080/exch@grogi/grogi456/386190
-#EXTINF:-1,ES: M+ LIGA DE CAMPEONES 15
-http://partyplay.live:8080/exch@grogi/grogi456/386189
-#EXTINF:-1,ES: M+ LIGA DE CAMPEONES 14
-http://partyplay.live:8080/exch@grogi/grogi456/386188
-#EXTINF:-1,ES: TELE SUR
-http://partyplay.live:8080/exch@grogi/grogi456/386181
-#EXTINF:-1,ES: TVG MUSIGAL
-http://partyplay.live:8080/exch@grogi/grogi456/386180
-#EXTINF:-1,ES: TVG MOMENTOS G
-http://partyplay.live:8080/exch@grogi/grogi456/386179
-#EXTINF:-1,ES: TVG INFANTIL
-http://partyplay.live:8080/exch@grogi/grogi456/386178
-#EXTINF:-1,ES: TVG EVENTOS 2
-http://partyplay.live:8080/exch@grogi/grogi456/386177
-#EXTINF:-1,ES: TVG EVENTOS 1
-http://partyplay.live:8080/exch@grogi/grogi456/386176
-#EXTINF:-1,ES: TVG CULTURA
-http://partyplay.live:8080/exch@grogi/grogi456/386175
-#EXTINF:-1,ES: TVG AMERICA
-http://partyplay.live:8080/exch@grogi/grogi456/386174
-#EXTINF:-1,ES: TELE ONUBA TV
-http://partyplay.live:8080/exch@grogi/grogi456/386356
-#EXTINF:-1,ES: STAR TVE
-http://partyplay.live:8080/exch@grogi/grogi456/386354
-#EXTINF:-1,ES: SOFY TV
-http://partyplay.live:8080/exch@grogi/grogi456/386353
-#EXTINF:-1,ES: SEVILLA FC
-http://partyplay.live:8080/exch@grogi/grogi456/386352
-#EXTINF:-1,ES: PEQUERADIO TV
-http://partyplay.live:8080/exch@grogi/grogi456/386348
-#EXTINF:-1,ES: PTV SEVILLA
-http://partyplay.live:8080/exch@grogi/grogi456/386347
-#EXTINF:-1,ES: PTV MÁLAGA
-http://partyplay.live:8080/exch@grogi/grogi456/386346
-#EXTINF:-1,ES: PTV GRANADA
-http://partyplay.live:8080/exch@grogi/grogi456/386345
-#EXTINF:-1,ES: ONDA ALGECIRAS TV
-http://partyplay.live:8080/exch@grogi/grogi456/386344
-#EXTINF:-1,ES: NORTEVISION
-http://partyplay.live:8080/exch@grogi/grogi456/386343
-#EXTINF:-1,ES: MYTIME MOVIE NETWORK
-http://partyplay.live:8080/exch@grogi/grogi456/386342
-#EXTINF:-1,ES: MOLAHITS TV
-http://partyplay.live:8080/exch@grogi/grogi456/386341
-#EXTINF:-1,ES: HISPAN TV
-http://partyplay.live:8080/exch@grogi/grogi456/386337
-#EXTINF:-1,ES: COMEDY DYNAMICS
-http://partyplay.live:8080/exch@grogi/grogi456/386334
-#EXTINF:-1,ES: CAZAVISIÓN
-http://partyplay.live:8080/exch@grogi/grogi456/386333
-#EXTINF:-1,ES: CANAL MÁLAGA
-http://partyplay.live:8080/exch@grogi/grogi456/386332
-#EXTINF:-1,ES: CANAL COSTA TV
-http://partyplay.live:8080/exch@grogi/grogi456/386330
-#EXTINF:-1,ES: BON DIA TV
-http://partyplay.live:8080/exch@grogi/grogi456/386329
-#EXTINF:-1,ES: ALCARRIA TV
-http://partyplay.live:8080/exch@grogi/grogi456/386328
-#EXTINF:-1,ES: 091 ALERTA POLICIA 24/7
-http://partyplay.live:8080/exch@grogi/grogi456/386327
-#EXTINF:-1,ES: Movistar Formula 1
-http://partyplay.live:8080/exch@grogi/grogi456/410246
-#EXTINF:-1,ES: Levante TV
-http://partyplay.live:8080/exch@grogi/grogi456/410263
-#EXTINF:-1,ES: Movistar Futbol
-http://partyplay.live:8080/exch@grogi/grogi456/410262
-#EXTINF:-1,ES: ETB Basque
-http://partyplay.live:8080/exch@grogi/grogi456/410261
-#EXTINF:-1,ES: TVE LA 2
-http://partyplay.live:8080/exch@grogi/grogi456/410260
-#EXTINF:-1,ES: BEIN Sport LALIGA
-http://partyplay.live:8080/exch@grogi/grogi456/410259
-#EXTINF:-1,ES: MOVISTAR CINE
-http://partyplay.live:8080/exch@grogi/grogi456/410258
-#EXTINF:-1,ES: Canal de casa
-http://partyplay.live:8080/exch@grogi/grogi456/410257
-#EXTINF:-1,ES: Movistar Comedia
-http://partyplay.live:8080/exch@grogi/grogi456/410256
-#EXTINF:-1,ES: Fox Life
-http://partyplay.live:8080/exch@grogi/grogi456/410255
-#EXTINF:-1,ES: Movistar MotoGP
-http://partyplay.live:8080/exch@grogi/grogi456/410254
-#EXTINF:-1,ES: Movistar Xtra
-http://partyplay.live:8080/exch@grogi/grogi456/410252
-#EXTINF:-1,ES: MOVISTAR SERIES 2
-http://partyplay.live:8080/exch@grogi/grogi456/410251
-#EXTINF:-1,ES: MOVISTAR SERIES
-http://partyplay.live:8080/exch@grogi/grogi456/410250
-#EXTINF:-1,ES: Movistar Golf
-http://partyplay.live:8080/exch@grogi/grogi456/410249
-#EXTINF:-1,ES: Movistar Accion
-http://partyplay.live:8080/exch@grogi/grogi456/410248
-#EXTINF:-1,ES: MOVISTAR DRAMA
-http://partyplay.live:8080/exch@grogi/grogi456/410247
-#EXTINF:-1,ES: M+ Liga de Campeones 5
-http://partyplay.live:8080/exch@grogi/grogi456/408611
-#EXTINF:-1,ES: M+ Liga de Campeones 7
-http://partyplay.live:8080/exch@grogi/grogi456/408609
-#EXTINF:-1,ES: M+ Liga de Campeones 6
-http://partyplay.live:8080/exch@grogi/grogi456/408610
-#EXTINF:-1,ES: M+ Liga de Campeones 9
-http://partyplay.live:8080/exch@grogi/grogi456/408607
-#EXTINF:-1,ES: M+ Liga de Campeones 8
-http://partyplay.live:8080/exch@grogi/grogi456/408608
-#EXTINF:-1,ES: M+ LaLiga 3
-http://partyplay.live:8080/exch@grogi/grogi456/408620
-#EXTINF:-1,ES: LaLiga Smart bank TV m1
-http://partyplay.live:8080/exch@grogi/grogi456/408631
-#EXTINF:-1,ES: DAZN LaLiga 2
-http://partyplay.live:8080/exch@grogi/grogi456/408635
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87145
+#EXTINF:-1,M AZTECA 7 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87147
+#EXTINF:-1,M AZTECA 7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87148
+#EXTINF:-1,M BITME FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87149
+#EXTINF:-1,M CANAL 5 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87152
+#EXTINF:-1,M ADN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87153
+#EXTINF:-1,M ADN SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87154
+#EXTINF:-1,M AZTECA CORAZON HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87155
+#EXTINF:-1,M GALA TV HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87158
+#EXTINF:-1,M TL NOVELAS MEXICO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87159
+#EXTINF:-1,M TELEVISA MONTERREY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87161
+#EXTINF:-1,M CANAL 8 MONTERREY HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87163
+#EXTINF:-1,M E! ENTRETENIMIENTO HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87164
+#EXTINF:-1,M MEXIQUICE TV FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87167
+#EXTINF:-1,M CANAL ONCE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87170
+#EXTINF:-1,M MULTIMEDIOS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87173
+#EXTINF:-1,M TUDN FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87179
+#EXTINF:-1,M TUDN HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87180
+#EXTINF:-1,M FOX SPORTS 3 HD*+*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87186
+#EXTINF:-1,M ESPN XTRA HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87187
+#EXTINF:-1,M DISTRITO COMEDIA FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87191
+#EXTINF:-1,M BANDAMAX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87193
+#EXTINF:-1,M MTV HITS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87194
+#EXTINF:-1,M GLITZ HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87196
+#EXTINF:-1,M  Canal 5 Televisa
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87198
+#EXTINF:-1,M  Azteca 7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87199
+#EXTINF:-1,M  Azteca Cinema
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87200
+#EXTINF:-1,M  Tl Novelas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87202
+#EXTINF:-1,M  HBO Family
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87212
+#EXTINF:-1,M  HBO Signature
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87213
+#EXTINF:-1,M  Golden
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87214
+#EXTINF:-1,M  Golden Plus
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87215
+#EXTINF:-1,M  Golden Edge
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87216
+#EXTINF:-1,M  TNT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87218
+#EXTINF:-1,M  AMC
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87220
+#EXTINF:-1,M  TCM
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87221
+#EXTINF:-1,M  FX
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87223
+#EXTINF:-1,M  Space
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87224
+#EXTINF:-1,M  Comedy Central
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87225
+#EXTINF:-1,M  Paramount Channel
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87226
+#EXTINF:-1,M  Sony
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87227
+#EXTINF:-1,M  Distrito Comedia
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87229
+#EXTINF:-1,M  Nick Toons
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87232
+#EXTINF:-1,M  Tooncast
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87233
+#EXTINF:-1,M  Discovery Theater
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87236
+#EXTINF:-1,M  Discovery Investigation
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87237
+#EXTINF:-1,M  NatGeo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87240
+#EXTINF:-1,M  History 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87241
+#EXTINF:-1,M  Animal Planet
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87243
+#EXTINF:-1,M TELEMAX HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87246
+#EXTINF:-1,M|  FX
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163299
+#EXTINF:-1,M|  Disney jr
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163300
+#EXTINF:-1,M|  AXN
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163301
+#EXTINF:-1,M|  Cartoon Network
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163302
+#EXTINF:-1,M|  Bandamax
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163303
+#EXTINF:-1,M|  A&E
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163304
+#EXTINF:-1,M|  Azteca 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163306
+#EXTINF:-1,M|  Las Estrellas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163307
+#EXTINF:-1,M|  Azteca 7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163308
+#EXTINF:-1,C| Tv Chile
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163309
+#EXTINF:-1,M|  Telehit
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163310
+#EXTINF:-1,M|  A3 Series
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163311
+#EXTINF:-1,M|  HBO Pop
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163312
+#EXTINF:-1,M|  Fox Sports 3
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163313
+#EXTINF:-1,M|  Disney channel
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163314
+#EXTINF:-1,M|  Nick
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163315
+#EXTINF:-1,M|  Investigacion Discovery
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163316
+#EXTINF:-1,M|  Animal planet
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163317
+#EXTINF:-1,M|  Discovery Channel
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163318
+#EXTINF:-1,M|  TBS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163319
+#EXTINF:-1,M|  Distrito Comedia
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163320
+#EXTINF:-1,M|  Golden EDGE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163321
+#EXTINF:-1,M|  Golden
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163322
+#EXTINF:-1,M|  Food Network
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163323
+#EXTINF:-1,M|  ESPN +
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163324
+#EXTINF:-1,M|  TNT Series
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163325
+#EXTINF:-1,M|  Unicable
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163326
+#EXTINF:-1,M|  HBO Mundi
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163327
+#EXTINF:-1,M|  HBO Signature
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163328
+#EXTINF:-1,M|  Canal 5
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163329
+#EXTINF:-1,M|  History 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163330
+#EXTINF:-1,M|  HBO 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163331
+#EXTINF:-1,M|  Telehit Musica
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163332
+#EXTINF:-1,M|  /
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163333
+#EXTINF:-1,M|  ESPN 3
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163334
+#EXTINF:-1,M|  A+
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163335
+#EXTINF:-1,M|  Univision
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163336
+#EXTINF:-1,M|  Htv
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163337
+#EXTINF:-1,M|  Tlnovelas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163338
+#EXTINF:-1,M|  Canal 6 Mty
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163339
+#EXTINF:-1,M|  Cine Latino
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163340
+#EXTINF:-1,M|  MTV 00´S
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163341
+#EXTINF:-1,M|  bitME
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163343
+#EXTINF:-1,M|  Las Estrellas -2 Hrs
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163345
+#EXTINF:-1,M|  ADN 40
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163346
+#EXTINF:-1,M|  Antena 3
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163347
+#EXTINF:-1,M|  CNN ES
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163348
+#EXTINF:-1,M|  Canal Once
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163349
+#EXTINF:-1,M|  Baby Tv
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163350
+#EXTINF:-1,M|  NickMusic
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163351
+#EXTINF:-1,M|  DW
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163352
+#EXTINF:-1,M|  Imagen
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163353
+#EXTINF:-1,M|  MTV 80s
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163354
+#EXTINF:-1,M|  RT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163355
+#EXTINF:-1,M|  De Pelicula
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163356
+#EXTINF:-1,M|  Milenio
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163359
+#EXTINF:-1,M|  Ingenio Tv
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163360
+#EXTINF:-1,M|  Canal 28 Mty
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163363
+#EXTINF:-1,M|  E!
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163364
+#EXTINF:-1,M|  Mas Chic
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163365
+#EXTINF:-1,M|  Red Católica Mundial | EWTN
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163366
+#EXTINF:-1,M|  AZ Cinema
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163368
+#EXTINF:-1,M|  AZ Corazon
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163369
+#EXTINF:-1,M|  AZ Mundo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163370
+#EXTINF:-1,M|  Golden Plus
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163371
+#EXTINF:-1,M|  Dreamworks
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163373
+#EXTINF:-1,M|  Sony Movies
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163374
+#EXTINF:-1,M|  Fox Sports Premium
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163375
+#EXTINF:-1,M|  Multimedios Plus
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163376
+#EXTINF:-1,M|  Golden Premier 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163377
+#EXTINF:-1,M|  Universal Premiere
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163378
+#EXTINF:-1,M|  Universal Reality
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163379
+#EXTINF:-1,M|  Universal Crime
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163380
+#EXTINF:-1,M|  Universal Cinema
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163381
+#EXTINF:-1,M|  Universal Comedy
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/163382
+#EXTINF:-1,NBC UNIVERSO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/142991
+#EXTINF:-1,DOC: CRIME
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129803
+#EXTINF:-1,Ultra Kidz
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/204850
+#EXTINF:-1,Ultra Cine
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/204851
+#EXTINF:-1,Ultra Misterio
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/204852
+#EXTINF:-1,HISTORY 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/207556
+#EXTINF:-1,NAT GEO MUNDO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/207557
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212097
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212098
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212100
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212101
+#EXTINF:-1,UNIVERSAL CINEMA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212102
+#EXTINF:-1,UNIVERSAL CINEMA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212103
+#EXTINF:-1,UNIVERSAL COMEDY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212104
+#EXTINF:-1,UNIVERSAL CRIME
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212105
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212106
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212107
+#EXTINF:-1,UNIVERSAL REALITY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212108
+#EXTINF:-1,UNIVERSAL REALITY
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/212109
+#EXTINF:-1,/AVENGERS FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87700
+#EXTINF:-1,/CINEMA DISNEY PIXAR 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87708
+#EXTINF:-1,/CINEMA DREAMWORKS 1 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87709
+#EXTINF:-1,/DRAGON BALL Z
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87715
+#EXTINF:-1,/EL CHAVO DEL 8
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87719
+#EXTINF:-1,/LOS PICAPIEDRAS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87724
+#EXTINF:-1,/PAW PATROL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87726
+#EXTINF:-1,/PINKI & CEREBRO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87730
+#EXTINF:-1,/ CINEMA SCARY MOVIE HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87738
+#EXTINF:-1,/CANTINFLAS HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87740
+#EXTINF:-1,/PEDRO INFANTE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87745
+#EXTINF:-1,/ Cinema Toy Story
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114270
+#EXTINF:-1,/ Cinema Disney Pixar #2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114271
+#EXTINF:-1,/ La casa de Mickey Mouse
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114272
+#EXTINF:-1,/ Cinema Horror
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114273
+#EXTINF:-1,/ Cinema Navidad
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114274
+#EXTINF:-1,/ Cinema Lego Movies
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114275
+#EXTINF:-1,/ Cinema Artes Marciales
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114276
+#EXTINF:-1,/ Cinema Happy Madison
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114278
+#EXTINF:-1,/ Cinema Halloween
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114279
+#EXTINF:-1,/ Cinema Actividad paranormal
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114280
+#EXTINF:-1,/ Cinema Keanu Reeves
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114281
+#EXTINF:-1,/ Cinema Disney Live Action
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114282
+#EXTINF:-1,/ Cinema Accion Classics
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114283
+#EXTINF:-1,/ Cinema Mad Max
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114284
+#EXTINF:-1,/ Cinema Señor de los Anillos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114286
+#EXTINF:-1,/ Cinema Los Juegos del Hambre
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114289
+#EXTINF:-1,/ Cinema Ocean's Eleven
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114291
+#EXTINF:-1,/ Cinema Rocky
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114293
+#EXTINF:-1,/ Cinema Duro de Matar
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114294
+#EXTINF:-1,/ Cinema Cincuenta Sombras
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114295
+#EXTINF:-1,/ Cinema Blade
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114296
+#EXTINF:-1,/ Cinema El Padrino
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114297
+#EXTINF:-1,/ Cinema Esta Abuela es un Peligro
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114298
+#EXTINF:-1,/ Cinema Especies
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114302
+#EXTINF:-1,/ Cinema Búsqueda implacable
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/114303
+#EXTINF:-1,/Chernobyl
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130489
+#EXTINF:-1,/El Chavo del Ocho
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130495
+#EXTINF:-1,/ Dragon Ball Super
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130501
+#EXTINF:-1,/ Cantinflas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130505
+#EXTINF:-1,/ Dragon Ball GT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130517
+#EXTINF:-1,VACA Y POLLITO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130518
+#EXTINF:-1,/ Batman
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130519
+#EXTINF:-1,/Batman del Futuro
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130565
+#EXTINF:-1,/KUNFU PANDA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130567
+#EXTINF:-1,/Ben 10 Fuerza Alienigena
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130570
+#EXTINF:-1,LOS CABALLEROS DEL ZODIACO (LA LEYENDA) 24-7 
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130571
+#EXTINF:-1,/|HEY ARNOLD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130572
+#EXTINF:-1,/Birdman
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130573
+#EXTINF:-1,/Blanca Nieves
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130574
+#EXTINF:-1,/Bob Esponja 1-6
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130575
+#EXTINF:-1,/Bob Esponja 7 -12
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130576
+#EXTINF:-1,/Bugs Bunny - looney Tunes
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130577
+#EXTINF:-1,/Buzz LigthYear: Comando Estelar
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130578
+#EXTINF:-1,/Canuto y Canito
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130579
+#EXTINF:-1,/Capitan America 1966
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130580
+#EXTINF:-1,/Capitan Centella
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130581
+#EXTINF:-1,/Capitan Cavernicola
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130582
+#EXTINF:-1,/Casa Dibujos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130583
+#EXTINF:-1,/CatDog
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130584
+#EXTINF:-1,/NARUTO 
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130605
+#EXTINF:-1,/PEPA PIG 24
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130632
+#EXTINF:-1,/PINKY Y CEREBRO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130633
+#EXTINF:-1,/cartoons
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130634
+#EXTINF:-1,/El pajaro loco
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130635
+#EXTINF:-1,/El show de Ren y stimpy
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130636
+#EXTINF:-1,/El show de Scooby-Doo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130637
+#EXTINF:-1,/El Superveloz Buggy Buggy
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130638
+#EXTINF:-1,/El Zorro
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130640
+#EXTINF:-1,/Erase una vez el Espacio
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130641
+#EXTINF:-1,/Escuela de Héroes
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130642
+#EXTINF:-1,/Fantasma del Espacio
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130643
+#EXTINF:-1,/Felix el Gato
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130644
+#EXTINF:-1,/Fenomenoide
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130645
+#EXTINF:-1,/Foofur
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130646
+#EXTINF:-1,/Frankenstein Jr
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130647
+#EXTINF:-1,/Futurama
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130648
+#EXTINF:-1,/Garfield y sus amigos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130649
+#EXTINF:-1,/ Gasparin
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130650
+#EXTINF:-1,/ POPEYE 
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130651
+#EXTINF:-1,/ Gi Joe
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130653
+#EXTINF:-1,/ Gintama
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130654
+#EXTINF:-1,/ Godzilla
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130655
+#EXTINF:-1,/ Archivos Forenses
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130656
+#EXTINF:-1,/ / LOS SIMPSONS 1-5
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130706
+#EXTINF:-1,/ LOS SIMPSONS 12-17
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130709
+#EXTINF:-1,/ LOS SIMPSONS 18-21
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130710
+#EXTINF:-1,/ los simpson temporada 22
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130711
+#EXTINF:-1,/ Lindo Pulgoso
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130712
+#EXTINF:-1,/ Looney Tunes 1936
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130714
+#EXTINF:-1,/ SUPER CAMPEONES 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130715
+#EXTINF:-1,/ WALKING DEAD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130716
+#EXTINF:-1,/ Los Autos Locos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130717
+#EXTINF:-1,/ Los Centuriones
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130718
+#EXTINF:-1,/ Los Dragon BALL Z
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130719
+#EXTINF:-1,/ EL PAJARO LOCO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130720
+#EXTINF:-1,/ CHERNOBYL
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130721
+#EXTINF:-1,CINEMA NETFLIX 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130722
+#EXTINF:-1,/ BATMAN DC
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130723
+#EXTINF:-1,/ Los padrinos mágicos 6 TEMPORADA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130724
+#EXTINF:-1,/ CHESPIRITO 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130725
+#EXTINF:-1,/ Los pequeños Looney Tunes
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130726
+#EXTINF:-1,/ Los pequeños Picapiedra
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130727
+#EXTINF:-1,/ El principe del Rap
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130728
+#EXTINF:-1,/DRAGON BALL SUPER 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130745
+#EXTINF:-1,BOB ESPONJA 24-7 TEMP 7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130783
+#EXTINF:-1,/DISNEY MOVIES
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130784
+#EXTINF:-1,/ Un cachorro llamado Scooby-Doo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130785
+#EXTINF:-1,/ PINK PANTER
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130786
+#EXTINF:-1,/CORRE CAMINOS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130787
+#EXTINF:-1,/ CHESPIRITO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130788
+#EXTINF:-1,/ EL PAYASO PLIM PLIM
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130789
+#EXTINF:-1,/ PICAPIEDRA
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130790
+#EXTINF:-1,/ REBELDE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130793
+#EXTINF:-1,/ Karate Kid
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130794
+#EXTINF:-1,/ el principe del rap
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130795
+#EXTINF:-1,/ Rambo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130796
+#EXTINF:-1,/ Rocky Balboa
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130797
+#EXTINF:-1,/ Harry Potter
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130799
+#EXTINF:-1,/ la familia peluche
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130800
+#EXTINF:-1,/ Cinema Disney
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130801
+#EXTINF:-1,/ Kids | Don gato y su Pandilla
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130802
+#EXTINF:-1,/El Show de Scooby Doo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130803
+#EXTINF:-1,/Los padrinos mágicos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130804
+#EXTINF:-1,/ PANTERA ROSA 3
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130805
+#EXTINF:-1,/ TOM Y JERRI
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130806
+#EXTINF:-1,/ Estrellas de Acción
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130807
+#EXTINF:-1,/ Canal forense
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130808
+#EXTINF:-1,Los Simpson 24-7 temp 1 a 5
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/162336
+#EXTINF:-1,Los Simpson 24-7 temp 5-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/162337
+#EXTINF:-1,Los Simpson 24-7 temp 12-17
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/162338
+#EXTINF:-1,LOSPICAPIEDRAS24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176727
+#EXTINF:-1,BOB ESPONJA 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176728
+#EXTINF:-1,CAT DOG 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176729
+#EXTINF:-1,BEN 10
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176730
+#EXTINF:-1,DISNEY 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176731
+#EXTINF:-1,DRAGON BALL GT 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176732
+#EXTINF:-1,DRAGON BALL Z
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176733
+#EXTINF:-1,EL CHAVO DEL 8
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176734
+#EXTINF:-1,EL PAJARO LOCO 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176735
+#EXTINF:-1,LA FAMILIA ROBINSON 27-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176736
+#EXTINF:-1,GRAVITY 24-7 FALLS
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176737
+#EXTINF:-1,HEY ARNOLD 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176738
+#EXTINF:-1,KUNFU PANDA 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176739
+#EXTINF:-1,LA CASA DE MICKEY MOUSE
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176740
+#EXTINF:-1,LA PANTERA ROSA 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176741
+#EXTINF:-1,LOS PITUFOS 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176742
+#EXTINF:-1,LOS SIMPSON TEM 1-2 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176743
+#EXTINF:-1,NARUTO 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176744
+#EXTINF:-1,CINEMA NETFLIX 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176745
+#EXTINF:-1,PEPA PIG 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176746
+#EXTINF:-1,PINKY Y CEREBRO 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176747
+#EXTINF:-1,POKEMON TEMP 1-2 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176748
+#EXTINF:-1,POPEYE 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176749
+#EXTINF:-1,REBELDE 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176750
+#EXTINF:-1,SCOOBY DOO 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176751
+#EXTINF:-1,SPIDERMAN 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176752
+#EXTINF:-1,SUPER CAMPEONES 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176753
+#EXTINF:-1,TOM Y JERRY 24-7
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176754
+#EXTINF:-1,VACA Y POLLITO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/176755
+#EXTINF:-1,  CINEBOX 4 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87669
+#EXTINF:-1,  CINEBOX 5 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87670
+#EXTINF:-1,  CINEBOX 6 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87671
+#EXTINF:-1,  CINEBOX 7 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87672
+#EXTINF:-1,  CINEBOX 8 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87673
+#EXTINF:-1,  CINEBOX 9 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87674
+#EXTINF:-1,  CINEBOX 10 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87675
+#EXTINF:-1,  CINEBOX 11 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87676
+#EXTINF:-1,  CINEBOX 12 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87677
+#EXTINF:-1,NETFLIX 22
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124815
+#EXTINF:-1,NETFLIX 21
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124816
+#EXTINF:-1,NETFLIX 20
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124817
+#EXTINF:-1,NETFLIX 19
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124818
+#EXTINF:-1,NETFLIX 18
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124819
+#EXTINF:-1,NETFLIX 17
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124820
+#EXTINF:-1,NETFLIX 16
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124821
+#EXTINF:-1,NETFLIX 15
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124822
+#EXTINF:-1,NETFLIX 14
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/124823
+#EXTINF:-1,NETFLIX TV 01
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/126316
+#EXTINF:-1,NETFLIX TV 05
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/126320
+#EXTINF:-1,NETFLIX TV 15
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/126330
+#EXTINF:-1,NETFLIX TV  01
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/126344
+#EXTINF:-1,NETFLIX TV 18
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/126361
+#EXTINF:-1,ALQUILER 3 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130137
+#EXTINF:-1,ALQUILER 4 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130138
+#EXTINF:-1,ALQUILER 8 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130142
+#EXTINF:-1,ALQUILER 10 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/130144
+#EXTINF:-1,MARVEL| STUDIO CHANNEL 2 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/155980
+#EXTINF:-1,MARVEL| STUDIO CHANNEL 3 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/155981
+#EXTINF:-1,MARVEL| STUDIO CHANNEL 4 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/155982
+#EXTINF:-1,MARVEL| STUDIO CHANNEL 5 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/155983
+#EXTINF:-1,MARVEL| STUDIO CHANNEL 6 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/155984
+#EXTINF:-1,MARVEL| STUDIO CHANNEL 7 HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/155985
+#EXTINF:-1,PPV - CINEMA 16 FHD (ES).
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/179052
+#EXTINF:-1,||ES|| TAQUILLA 5
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/179078
+#EXTINF:-1,/CASO CERRADO
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/210489
+#EXTINF:-1,/ peliculas estrenos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/214067
+#EXTINF:-1,/Pedro Infante
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/214068
+#EXTINF:-1,/La Familia Peluche
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253084
+#EXTINF:-1,/La Familia Peluche HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253085
+#EXTINF:-1,/Una Familia de Diez
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253086
+#EXTINF:-1,/Una Familia de Diez HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253087
+#EXTINF:-1,/La Hora Pico
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253088
+#EXTINF:-1,/Vecinos Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253089
+#EXTINF:-1,/Vecinos Temp 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253090
+#EXTINF:-1,/Vecinos Temp 3
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253091
+#EXTINF:-1,/Vecinos Temp 4
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253092
+#EXTINF:-1,/Vecinos Temp 5
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253093
+#EXTINF:-1,/Paso A Paso Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253094
+#EXTINF:-1,/Cantinflas Parte 1 (18 Peliculas)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253095
+#EXTINF:-1,/Cantinflas Parte 2 (19 Peliculas)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253096
+#EXTINF:-1,/La India Maria
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253097
+#EXTINF:-1,/Mr Bean
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253098
+#EXTINF:-1,/Pedro Infante
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253099
+#EXTINF:-1,/Porcel Y Olmedo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253100
+#EXTINF:-1,/Los 3 Chiflados
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253101
+#EXTINF:-1,/Friends SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253102
+#EXTINF:-1,/Full House SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253103
+#EXTINF:-1,/Hannah Montana
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253104
+#EXTINF:-1,/Hechizada SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253105
+#EXTINF:-1,/Mi Bella Genio Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253106
+#EXTINF:-1,/La Nira Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253107
+#EXTINF:-1,/Lo Mejor de Videomatch
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253108
+#EXTINF:-1,/Malcolm el de en medio SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253109
+#EXTINF:-1,/Sabrina la bruja adolescente Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253110
+#EXTINF:-1,/Chespirito (1970)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253111
+#EXTINF:-1,/Chespirito (1980)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253112
+#EXTINF:-1,/Chespirito (1981)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253113
+#EXTINF:-1,/The Big Bang Theory
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253114
+#EXTINF:-1,/Los Tres Chiflados
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253115
+#EXTINF:-1,/Puro Teatro
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253116
+#EXTINF:-1,/La familia Monster
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253117
+#EXTINF:-1,/El Chavo del 8
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253118
+#EXTINF:-1,/El Chapulin Colorado
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253119
+#EXTINF:-1,/ALF SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253120
+#EXTINF:-1,/Chespirito (1982)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253121
+#EXTINF:-1,/Chespirito (1984)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253122
+#EXTINF:-1,/Chespirito (1985)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253123
+#EXTINF:-1,/Chespirito (1986)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253124
+#EXTINF:-1,/Chespirito (1987)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253125
+#EXTINF:-1,/Chespirito (1988)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253126
+#EXTINF:-1,/Chespirito (1989)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253127
+#EXTINF:-1,/Chespirito (1991)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253128
+#EXTINF:-1,/Chespirito (1992)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253129
+#EXTINF:-1,/Chespirito (1993)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253130
+#EXTINF:-1,/Chespirito (1994)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253131
+#EXTINF:-1,/Chespirito (1995)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253132
+#EXTINF:-1,/El Principe del Rap SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253133
+#EXTINF:-1,/El Principe del Rap HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253134
+#EXTINF:-1,/El Principe del Rap FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253135
+#EXTINF:-1,/Los locos Addams (1964)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253136
+#EXTINF:-1,/Lazy Town SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253137
+#EXTINF:-1,/La Doctora Juguete
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253138
+#EXTINF:-1,/Autobus Magico
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253139
+#EXTINF:-1,/Dora y sus Amigos en la Ciudad
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253140
+#EXTINF:-1,/Animaniacs
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253141
+#EXTINF:-1,/El Agente Oso
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253142
+#EXTINF:-1,/Bubble Guppies
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253143
+#EXTINF:-1,/El Bebe Jefazo Vuelta al Curro
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253144
+#EXTINF:-1,/Los Picapiedras
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253145
+#EXTINF:-1,/Los Simpsons Noche de Brujas SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253146
+#EXTINF:-1,/Coraje el Perro Cobarde
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253147
+#EXTINF:-1,/Donde esta Wally
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253148
+#EXTINF:-1,/El Laboratorio de Dexter
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253149
+#EXTINF:-1,/Transformers Mastersforce (1988)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253150
+#EXTINF:-1,/Digimon Adventure 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253151
+#EXTINF:-1,/Equipo Umizoomi
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253152
+#EXTINF:-1,/La Casa de Mickey Mouse
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253153
+#EXTINF:-1,/Futurama
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253154
+#EXTINF:-1,/Fabulas de Esopo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253155
+#EXTINF:-1,/Barney y sus Amigos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253156
+#EXTINF:-1,/Los Simpsons Temp 1-5
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253157
+#EXTINF:-1,/La Pantera Rosa
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253158
+#EXTINF:-1,/Las Pistas de Blue
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253159
+#EXTINF:-1,/Peppa Pig
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253160
+#EXTINF:-1,/Paw Patroll
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253161
+#EXTINF:-1,/Garfield
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253162
+#EXTINF:-1,/El Chavo del 8 Serie Animada
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253163
+#EXTINF:-1,/Hey Arnold
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253164
+#EXTINF:-1,/Hombres de Negro Serie Animada
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253165
+#EXTINF:-1,/Los Pitufos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253166
+#EXTINF:-1,/Dragon Ball (Vers Extendida)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253167
+#EXTINF:-1,/She-Ra La Princesa del Poder
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253168
+#EXTINF:-1,/Capitan America y Los Planetarios
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253169
+#EXTINF:-1,/Tom Y Jerry
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253170
+#EXTINF:-1,/Tom Y Jerry Kids
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253171
+#EXTINF:-1,/Pato Aventura
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253172
+#EXTINF:-1,/Sailor Moon (001-046)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253173
+#EXTINF:-1,/Las Tortugas Ninja
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253174
+#EXTINF:-1,/Angry Birds Toons
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253175
+#EXTINF:-1,/Aladino
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253176
+#EXTINF:-1,/Birdman
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253177
+#EXTINF:-1,/Gargolas Heroes Goticos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253178
+#EXTINF:-1,/Spiderman
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253179
+#EXTINF:-1,/Super Mario Bross 3
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253180
+#EXTINF:-1,/Super Campeones (Captain Tsubasa)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253181
+#EXTINF:-1,/Los Castores Cascarrabias
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253182
+#EXTINF:-1,/Saint Seiya Torneo Galactico (1-40)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253183
+#EXTINF:-1,/Saint Seiya Las 12 Casas (41-73)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253184
+#EXTINF:-1,/Saint Seiya Asgard (74-99)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253185
+#EXTINF:-1,/Saint Seiya Poseidon (100-114)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253186
+#EXTINF:-1,/Saint Seiya Hades (115-145)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253187
+#EXTINF:-1,/Gi Joe
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253188
+#EXTINF:-1,/He-Man y los Masters del Universo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253189
+#EXTINF:-1,/Jhonny Bravo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253190
+#EXTINF:-1,/Rugrats Aventura en Pales
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253191
+#EXTINF:-1,/Dragon Ball Z Freezer
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253192
+#EXTINF:-1,/Las Chicas Superpoderosas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253193
+#EXTINF:-1,/Las Guerreras Magicas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253194
+#EXTINF:-1,/Dragon Ball Z Cell
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253195
+#EXTINF:-1,/La Vaca y el Pollito
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253196
+#EXTINF:-1,/South Park Temp 1-5
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253197
+#EXTINF:-1,/Padre de Familia Temp 1-5
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253198
+#EXTINF:-1,/Scooby Doo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253199
+#EXTINF:-1,/Don Gato y su Pandilla
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253200
+#EXTINF:-1,/Gasparin y sus Amigos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253201
+#EXTINF:-1,/Las Aventuras de Tin Tin
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253202
+#EXTINF:-1,/Los Supersonicos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253203
+#EXTINF:-1,/Inspector Gadget
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253204
+#EXTINF:-1,/Candy Candy
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253205
+#EXTINF:-1,/La Familia Meque
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253206
+#EXTINF:-1,/Gravity Falls
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253207
+#EXTINF:-1,/Hannah Montana Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253208
+#EXTINF:-1,/La Peque Lulu
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253209
+#EXTINF:-1,/Los Vengadores (Unidos)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253210
+#EXTINF:-1,/Brickleberry +15
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253211
+#EXTINF:-1,/El Reto de los Super Amigos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253212
+#EXTINF:-1,/El Oso Yogui
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253213
+#EXTINF:-1,/Los Muppet Babys
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253214
+#EXTINF:-1,/Beast Wars
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253215
+#EXTINF:-1,/Beast Wars Machines
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253216
+#EXTINF:-1,/Mr Pickles
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253217
+#EXTINF:-1,/Los 7 Pecados Capitales
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253218
+#EXTINF:-1,/Pinguinos de Madagascar
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253219
+#EXTINF:-1,/Fenomenoide
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253220
+#EXTINF:-1,/El Pais de Donkey Kong
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253221
+#EXTINF:-1,/La Hormiga y el Oso Hormiguero
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253222
+#EXTINF:-1,/Timon & Pumbaa
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253223
+#EXTINF:-1,/La Casa de los Dibujos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253224
+#EXTINF:-1,/El Gallo Claudio
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253225
+#EXTINF:-1,/Halcones Galacticos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253226
+#EXTINF:-1,/Rapido y Furioso (Espias a todo gas)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253227
+#EXTINF:-1,/Pinky y Cerebro
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253228
+#EXTINF:-1,/Dora la Exploradora
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253229
+#EXTINF:-1,/Heathcliff
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253230
+#EXTINF:-1,/Cantinflas (Animada)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253231
+#EXTINF:-1,/Jackie Chan (Animada)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253232
+#EXTINF:-1,/La Tonta Bruja
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253233
+#EXTINF:-1,/Beetlejuice
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253234
+#EXTINF:-1,/Street Sharks
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253235
+#EXTINF:-1,/Samurai Jack
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253236
+#EXTINF:-1,/Sonic X
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253237
+#EXTINF:-1,/Generador Rex
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253238
+#EXTINF:-1,/Dragones de Berck
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253239
+#EXTINF:-1,/Los Picapiedras (Peques)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253240
+#EXTINF:-1,/Los Gatos Samurai
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253241
+#EXTINF:-1,/Sakura Card Captor
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253242
+#EXTINF:-1,/Los Osos Gummi
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253243
+#EXTINF:-1,/La Liga del Dragon VHSRip
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253244
+#EXTINF:-1,/Megaman NT Warrior
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253245
+#EXTINF:-1,/Paradise PD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253246
+#EXTINF:-1,/Los Padrinos Magicos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253247
+#EXTINF:-1,/La Casa de Mickey Mouse FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253248
+#EXTINF:-1,/ThunderCats
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253249
+#EXTINF:-1,/Tarzan Animado
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253250
+#EXTINF:-1,/Samurai X
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253251
+#EXTINF:-1,/Mighty Ducks
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253252
+#EXTINF:-1,/Cuentos de la Cripta Animada
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253253
+#EXTINF:-1,/101 Dalmatas Animada
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253254
+#EXTINF:-1,/Guardianes de la Galaxia (Animado)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253255
+#EXTINF:-1,/Los Backyardigans
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253256
+#EXTINF:-1,/Robotech
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253257
+#EXTINF:-1,/Los Simpsons HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253258
+#EXTINF:-1,/Futurama HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253259
+#EXTINF:-1,/Pocoyo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253260
+#EXTINF:-1,/Clasicos de Disney (Latino)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253261
+#EXTINF:-1,/Los Simpsons Noche de Brujas HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253262
+#EXTINF:-1,/Los Simpsons Noche de Brujas FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253263
+#EXTINF:-1,/Super Mario World
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253264
+#EXTINF:-1,/Transformers Armada
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253265
+#EXTINF:-1,/Transformers Cybertron
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253266
+#EXTINF:-1,/Transformers Energon
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253267
+#EXTINF:-1,/Transformers G1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253268
+#EXTINF:-1,/Transformers Headmasters
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253269
+#EXTINF:-1,/Digimon Adventure 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253270
+#EXTINF:-1,/El Inspector
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253271
+#EXTINF:-1,/El Inspector Ardilla
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253272
+#EXTINF:-1,/El Show del Pajaro Loco
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253273
+#EXTINF:-1,/En el Valle de los Dinosaurios
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253274
+#EXTINF:-1,/Sailor Moon R (047-089)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253275
+#EXTINF:-1,/Sailor Moon S (090-127)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253276
+#EXTINF:-1,/Sailor Moon SuperS (128-166)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253277
+#EXTINF:-1,/Sailor Moon Sailor Stars (167-200)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253278
+#EXTINF:-1,/Ghostbuster Filmation
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253279
+#EXTINF:-1,/Jumanji Serie Animada
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253280
+#EXTINF:-1,/Justicia Joven
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253281
+#EXTINF:-1,/La Leyenda de Zelda
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253282
+#EXTINF:-1,/La Mascara Animado SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253283
+#EXTINF:-1,/Las Aventuras de Fly
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253284
+#EXTINF:-1,/Las Nuevas Aventuras de Batman
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253285
+#EXTINF:-1,/Los Cazafantasmas (1986)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253286
+#EXTINF:-1,/Naruto
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253287
+#EXTINF:-1,/Grandes Hoes y Leyendas de la Biblia
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253288
+#EXTINF:-1,/Rick Y Morty
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253289
+#EXTINF:-1,/Bob Zoom
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253290
+#EXTINF:-1,/Spiderwoman
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253291
+#EXTINF:-1,/X-Men (Animada)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253292
+#EXTINF:-1,/Digimon Adventure 1 FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253293
+#EXTINF:-1,/Ben 10
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253294
+#EXTINF:-1,/Ben 10 FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253295
+#EXTINF:-1,/Samurai Jack FHD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253296
+#EXTINF:-1,/Los Simpsons Temp 6-10
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253297
+#EXTINF:-1,/Los Simpsons Temp 11-15
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253298
+#EXTINF:-1,/Ataque a los Titanes SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253299
+#EXTINF:-1,/La Familia del Barrio
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253300
+#EXTINF:-1,/ThunderCats (2011)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253301
+#EXTINF:-1,/PJ Masks: Heroes en pijamas SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253302
+#EXTINF:-1,/PJ Masks: Heroes en pijamas HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253303
+#EXTINF:-1,/Los Reyes de la Colina SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253304
+#EXTINF:-1,/Los Reyes de la Colina HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253305
+#EXTINF:-1,/Bobs Burgers SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253306
+#EXTINF:-1,/Bobs Burgers HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253307
+#EXTINF:-1,/Remi el ni de nadie (1977)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253308
+#EXTINF:-1,/La Casa de los Dibujos HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253309
+#EXTINF:-1,/El Gladiador (1976)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253310
+#EXTINF:-1,/Hercules (1998)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253311
+#EXTINF:-1,/Mi Peque Pony
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253312
+#EXTINF:-1,/El Super Libro 3D
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253313
+#EXTINF:-1,/Dinosaurios
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253314
+#EXTINF:-1,/Micas aventuras de Quasimodo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253315
+#EXTINF:-1,/La Mascara Animado HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253316
+#EXTINF:-1,/Dragon Ball
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253317
+#EXTINF:-1,/Dragon Ball Z Los Saiyajin
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253318
+#EXTINF:-1,/Dragon Ball Super HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253319
+#EXTINF:-1,/Dragon Ball Z Majin Boo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253320
+#EXTINF:-1,/Dragon Ball GT
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253321
+#EXTINF:-1,/Brujilda
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253322
+#EXTINF:-1,/Avatar
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253323
+#EXTINF:-1,/El Nuevo Show de Popeye (1978) SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253324
+#EXTINF:-1,/El Nuevo Show de Popeye (1978) HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253325
+#EXTINF:-1,/Quhay de nuevo Scooby-Doo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253326
+#EXTINF:-1,/Los 3 de abajo: Relatos de Arcadia
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253327
+#EXTINF:-1,/Patoaventuras (2007)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253328
+#EXTINF:-1,/Los Intrepidos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253329
+#EXTINF:-1,/ThunderCats Roar
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253330
+#EXTINF:-1,/Alien TV
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253331
+#EXTINF:-1,/Almendrita (1992)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253332
+#EXTINF:-1,/Aquaman (1968)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253333
+#EXTINF:-1,/Astro Boy (1980)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253334
+#EXTINF:-1,/Baby Looney Tunes
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253335
+#EXTINF:-1,/Batman Serie Animada (1992)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253336
+#EXTINF:-1,/Doramen
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253337
+#EXTINF:-1,/Stanger Things
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253338
+#EXTINF:-1,/Las Aventuras Del Gato Con Botas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253339
+#EXTINF:-1,/Beta X
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253340
+#EXTINF:-1,/Beware the Batman (2013)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253341
+#EXTINF:-1,/Bayblade
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253342
+#EXTINF:-1,/Birdman y el Tr Galaxia
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253343
+#EXTINF:-1,/Black Clover
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253344
+#EXTINF:-1,/Capitan Sentella
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253345
+#EXTINF:-1,/Blaze y los Monster Machine SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253346
+#EXTINF:-1,/Blaze y los Monster Machine HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253347
+#EXTINF:-1,/Go Diego Go
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253348
+#EXTINF:-1,/Las Aventuras de Paddington SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253349
+#EXTINF:-1,/Alerta Aeropuerto SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253350
+#EXTINF:-1,/Alerta Aeropuerto HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253351
+#EXTINF:-1,/Humor es... los Comediantes SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253352
+#EXTINF:-1,/1000 Maneras de Morir
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253353
+#EXTINF:-1,/Mayday Catastrofes Aereas
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253354
+#EXTINF:-1,/El Mundo De Beakman SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253355
+#EXTINF:-1,/Caso Cerrado Inmigracion
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253356
+#EXTINF:-1,/Caso Cerrado La Familia 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253357
+#EXTINF:-1,/Caso Cerrado La Familia 2
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253358
+#EXTINF:-1,/Caso Cerrado La Familia 3
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253359
+#EXTINF:-1,/Laura Bozzo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253360
+#EXTINF:-1,/Exponiendo Infieles
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253361
+#EXTINF:-1,/Cero en Conducta SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253362
+#EXTINF:-1,/Cero en Conducta HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253363
+#EXTINF:-1,/Lo Que Callamos Las Mujeres
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253364
+#EXTINF:-1,/La Rosa de Guadalupe HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253365
+#EXTINF:-1,/Just for Laughs
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253366
+#EXTINF:-1,/El Super Libro
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253367
+#EXTINF:-1,/Historias de la Biblia
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253368
+#EXTINF:-1,/La Biblia Serie
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253369
+#EXTINF:-1,/Alienigenas Ancestrales
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253370
+#EXTINF:-1,/Grandes Batallas de la Historia SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253371
+#EXTINF:-1,/La Gallina Pintadita
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253372
+#EXTINF:-1,/Cantando Aprendo a hablar
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253373
+#EXTINF:-1,/Hej Kids
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253374
+#EXTINF:-1,/Luisito Comunica (Mexico) HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253375
+#EXTINF:-1,/Malcolm el de en medio HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253376
+#EXTINF:-1,/Vulgarcito +18
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253377
+#EXTINF:-1,/El Mono Mario +18
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253378
+#EXTINF:-1,/Historias de Fantasmas SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253379
+#EXTINF:-1,/Oxlack Investigador Paranormal
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253380
+#EXTINF:-1,/Contacto Extranormal
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253381
+#EXTINF:-1,/Historias de Ultratumba
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253382
+#EXTINF:-1,/Lo que la gente cuenta SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253383
+#EXTINF:-1,/Lo que la gente cuenta HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253384
+#EXTINF:-1,/ER Sala de Urgencias SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253385
+#EXTINF:-1,/Los As Maravillosos SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253386
+#EXTINF:-1,/La Familia Ingalls
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253387
+#EXTINF:-1,/La Familia Ingalls HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253388
+#EXTINF:-1,/Cobra Kai SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253389
+#EXTINF:-1,/El Buen Doctor SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253390
+#EXTINF:-1,/El Buen Doctor HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253391
+#EXTINF:-1,/Castle SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253392
+#EXTINF:-1,/FBI Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253393
+#EXTINF:-1,/Mentes Criminales Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253394
+#EXTINF:-1,/NCIS Los Angeles Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253395
+#EXTINF:-1,/Hawaii 5-0 SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253396
+#EXTINF:-1,/Entre Fantasmas Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253397
+#EXTINF:-1,/Stranger Things
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253398
+#EXTINF:-1,/El Narrador de Cuentos
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253399
+#EXTINF:-1,/Xena La Princesa Guerrera SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253400
+#EXTINF:-1,/Hercules Los Viajes Legendarios SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253401
+#EXTINF:-1,/Automan
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253402
+#EXTINF:-1,/La Isla Misteriosa
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253403
+#EXTINF:-1,/Liveman
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253404
+#EXTINF:-1,/Expedientes X SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253405
+#EXTINF:-1,/Expedientes X HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253406
+#EXTINF:-1,/El Narrador de Cuentos HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253407
+#EXTINF:-1,/Highlander SD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253408
+#EXTINF:-1,/Tierra de Gigantes
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253409
+#EXTINF:-1,/El Tel del Tiempo
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253410
+#EXTINF:-1,/El Auto Fantastico Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253411
+#EXTINF:-1,/El Auto Fantastico (2008)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253412
+#EXTINF:-1,/Los Magnificos Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253413
+#EXTINF:-1,/MacGiver (2016) Temp 1
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253414
+#EXTINF:-1,/Baywatch
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253415
+#EXTINF:-1,/El Zorro SD (1956)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253416
+#EXTINF:-1,/MacGyver
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253417
+#EXTINF:-1,/Movies Jackie Chan
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253418
+#EXTINF:-1,/Movies Jim Carrey
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253419
+#EXTINF:-1,/Movies Steven Seagal
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253420
+#EXTINF:-1,/Movies Tom Cruise
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/253421
