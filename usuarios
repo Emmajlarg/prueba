@@ -1,16 +1,16 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Mexico", ADN 40 
+#EXTINF:-1, tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Mexico", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VZdwHbttDos/Xzgor6TjGYI/AAAAAAAA4ak/BIlD0jyTAE4A4uDQSWit8eEw20noJbW0wCK8BGAsYHg/s0/2020-08-15.png", Canal Once 
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-VZdwHbttDos/Xzgor6TjGYI/AAAAAAAA4ak/BIlD0jyTAE4A4uDQSWit8eEw20noJbW0wCK8BGAsYHg/s0/2020-08-15.png", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qjB3qbIAv50/XzgmYBza-8I/AAAAAAAA4Zs/HJvLB653vUsZhdzVWpX1ClIAVV7P9KexQCK8BGAsYHg/s0/2020-08-15.png", 15TV Sabinas
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-qjB3qbIAv50/XzgmYBza-8I/AAAAAAAA4Zs/HJvLB653vUsZhdzVWpX1ClIAVV7P9KexQCK8BGAsYHg/s0/2020-08-15.png", 15TV Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FSCFpjN9i3A/XznRQfPjIBI/AAAAAAAA4jc/QZb2eSQarKoBIJg71LSUYs3tcRELs48IwCK8BGAsYHg/s0/2020-08-16.png", 8 NTV 
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-FSCFpjN9i3A/XznRQfPjIBI/AAAAAAAA4jc/QZb2eSQarKoBIJg71LSUYs3tcRELs48IwCK8BGAsYHg/s0/2020-08-16.png", 8 NTV 
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/69bf76340322a596b235d69c0f189278.png", Canal 10 Cancun 
+#EXTINF:-1, tvg-logo="https://i2.paste.pics/69bf76340322a596b235d69c0f189278.png", Canal 10 Cancun 
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/5b5b76f51f668dce9998af7d0aa25f28.png", Canal 10 Chiapas
