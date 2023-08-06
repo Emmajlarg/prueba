@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="CHILE | 24 Horas HD" tvg-logo="http://71.105.189.194:3535/iptv/canales/512.fw.png" group-title="",INFO ATLANTIS
 http://71.105.189.194:3535/iptv/COMERCIAL%20-%20ATLANTIS%20TVGO%20VER%2030SEG.mp4
 #EXTINF:-1 tvg-id="~ HD A&E" tvg-name="Premium | A&E (MX) HD" tvg-logo="https://yt3.ggpht.com/LWHuZKD8w4lncIe7zBjCT8x3gBPveOg7OYjCdOTD4X-aVodzdtvm4MsdRmcyslRBQOa5cDyK=s900-c-k-c0x00ffffff-no-rj" group-title="VARIEDAD",A&E
