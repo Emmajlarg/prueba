@@ -1,51 +1,6 @@
 #EXTM3U
-#EXTINF:-1, tvg-
-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15
-.png" group-title="CINE", Universal Channel
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-
-title="CINE", Fox Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:-1 tvg-
-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-
-hd.png" group-title="CINE", Fox Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-
-2.gif" group-title="CINE", HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1,LISTA DE ELIEZER CASTAÑEDA GRATIS.
-http://ELIEZER CASTAÑEDA 
-https://c1.staticflickr.com/5/4033/4338999747_916010ff6c_b.jpg
-#EXTINF:-1, FOX ACTION
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=753994&f=.m3u8
-#EXTINF:-1, SPACE
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762211&f=.m3u8
-#EXTINF:-1, TELEMUNDO INT.
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762212&f=.m3u8
-#EXTINF:-1, DHE
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762213&f=.m3u8
-#EXTINF:-1, FOX COMEDY
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762214&f=.m3u8
-#EXTINF:-1, GOLDEN PLUS
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762230&f=.m3u8
-#EXTINF:-1, GOLDEN PREMIER
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762231&f=.m3u8
-#EXTINF:-1, FOX MOVIES
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762232&f=.m3u8
-#EXTINF:-1, NICK
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762233&f=.m3u8
-#EXTINF:-1, CLARO CINEMA
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762234&f=.m3u8
-#EXTINF:-1, HBO FAMILY
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762235&f=.m3u8
-#EXTINF:-1, FX
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762236&f=.m3u8
-#EXTINF:-1, TNT SERIES
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762237&f=.m3u8
-#EXTINF:-1, CINE LATINO
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762242&f=.m3u8
-#EXTINF:-1, FOX LIFE
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762243&f=.m3u8
-#EXTINF:-1, NAT GEO WILD
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762245&f=.m3u8
-#EXTINF:-1, WARNER
+
+#EXTINF:-1, CINECANAL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762252&f=.m3u8
+#EXTINF:-1, TNT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762262&f=.m3u8
