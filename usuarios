@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
 https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-audio_0=64000-video=2000000.m3u8
