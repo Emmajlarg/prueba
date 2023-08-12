@@ -1,2317 +1,734 @@
 #EXTM3U
-#EXTINF:-1,>CONTACTO 3865 448130<
-ar.Emmajl.Social
-#EXTINF:-1 tvg-name=" NEO TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="NACIONAL", NEO TV  http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv1MpkuA-yo59mjqY_VK5DKg/ts
-#EXTINF:-1,America TV SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43319
-#EXTINF:-1,America TV HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43320
-#EXTINF:-1,America TV FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43321
-#EXTINF:-1,Television Publica HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43308
-#EXTINF:-1,El Nueve SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43316
-#EXTINF:-1,El Nueve HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43317
-#EXTINF:-1,El Nueve FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43318
-#EXTINF:-1,Telefe HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302726
-#EXTINF:-1,Telefe SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43310
-#EXTINF:-1,Telefe HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43311
-#EXTINF:-1,Telefe FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43312
-#EXTINF:-1,El Trece HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43314
-#EXTINF:-1,Todo Noticias TN FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43345
-#EXTINF:-1,C5N HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43344
-#EXTINF:-1,Cronica HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123877
-#EXTINF:-1,A24 FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43322
-#EXTINF:-1,A24 HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43323
-#EXTINF:-1,Canal 26 HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43343
-#EXTINF:-1,La Nacion SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43347
-#EXTINF:-1,Net TV HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43327
-#EXTINF:-1,Encuentro HQ (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43339
-#EXTINF:-1,Cine AR SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43342
-#EXTINF:-1,Volver SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43346
-#EXTINF:-1,Garage TV SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43357
-#EXTINF:-1,Quiero Musica HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43361
-#EXTINF:-1,Ciudad Magazine HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123876
-#EXTINF:-1,PL ESPN Premium HD
-http://playhispano.org:8080/67854332/7658943/170278
-#EXTINF:-1,PL TNT SPORTS
-http://playhispano.org:8080/67854332/7658943/131165
-#EXTINF:-1, PL TNT SPORTS HD
-http://playhispano.org:8080/67854332/7658943/129701
-#EXTINF:-1,K: ESPN Premium
-http://kuchini.site:8080/7abb81c7/e9c0e4445d/298158
-#EXTINF:-1,K: TNT Sports
-http://kuchini.site:8080/7abb81c7/e9c0e4445d/3204
-#EXTINF:-1, Hi ESPN Premium SD (ARG)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312847
-#EXTINF:-1,Hi ESPN Premium HD (ARG)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/123874
-#EXTINF:-1,Hi TNT Sports HD (ARG)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34683#EXTINF:-1,Adrenalina Sport Network HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302603
-#EXTINF:-1,Amas HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302604
-#EXTINF:-1,AMC HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302605
-#EXTINF:-1,Animal Planet HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302606
-#EXTINF:-1,Antena 3 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302607
-#EXTINF:-1,A3 Series HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302608
-#EXTINF:-1,Aprende TV Primaria
-http://hidra.live:80/mnbgcnpi/bcbausa71/302610
-#EXTINF:-1,AXN HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302611
-#EXTINF:-1,A&E HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302612
-#EXTINF:-1,Aym Sports HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302613
-#EXTINF:-1,Bandamax HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302616
-#EXTINF:-1,Bitme HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302617
-#EXTINF:-1,Cartoon Network HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302621
-#EXTINF:-1,Cinemax HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302623
-#EXTINF:-1,CNN HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302624
-#EXTINF:-1,CineCanal HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302689
-#EXTINF:-1,Claro Sports HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302690
-#EXTINF:-1,CNN Español HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302691
-#EXTINF:-1,Comedy Central HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302692
-#EXTINF:-1,Discovery H&H HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302693
-#EXTINF:-1,Discovery ID HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302674
-#EXTINF:-1,Discovery Kids HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302625
-#EXTINF:-1,Discovery Theater HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302626
-#EXTINF:-1,Discovery Channel HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302627
-#EXTINF:-1,Discovery SCI HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302628
-#EXTINF:-1,Discovery Turbo HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302629
-#EXTINF:-1,Discovery World HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302630
-#EXTINF:-1,Disney Channel HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302631
-#EXTINF:-1,DisneyJR HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302632
-#EXTINF:-1,DreamWorks HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302633
-#EXTINF:-1,Distrito Comedia HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302634
-#EXTINF:-1,De Pelicula HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302635
-#EXTINF:-1,E! Entertainment HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302636
-#EXTINF:-1,ESPN Plus HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302637
-#EXTINF:-1,ESPN HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302638
-#EXTINF:-1,ESPN 2 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302639
-#EXTINF:-1,ESPN 3 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302640
-#EXTINF:-1,Las Estrellas HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302641
-#EXTINF:-1,Food Network HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302644
-#EXTINF:-1,Star Channel HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302645
-#EXTINF:-1,Fox News HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302646
-#EXTINF:-1,Imagen TV HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302650
-#EXTINF:-1,Futv FHD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302697
-#EXTINF:-1,Fox Sport 3 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302698
-#EXTINF:-1,Fox Sports HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302652
-#EXTINF:-1,Fox Sports 2 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302653
-#EXTINF:-1,FX HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302655
-#EXTINF:-1,Golden Premier 2 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302699
-#EXTINF:-1,Golden Edge HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302657
-#EXTINF:-1,Golden  HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302658
-#EXTINF:-1,Golden Plus HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302659
-#EXTINF:-1,Golden Premier HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302660
-#EXTINF:-1,Gourmet HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302661
-#EXTINF:-1,H2 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302662
-#EXTINF:-1,HBO Mundi HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302663
-#EXTINF:-1,HBO HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302664
-#EXTINF:-1,HBO 2 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302665
-#EXTINF:-1,HBO EXTREME HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302666
-#EXTINF:-1,HBO Family HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302667
-#EXTINF:-1,HBO Plus HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302668
-#EXTINF:-1,HBO POP HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302669
-#EXTINF:-1,HBO Signature HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302670
-#EXTINF:-1,Heraldo HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302671
-#EXTINF:-1,HGTV
-http://hidra.live:80/mnbgcnpi/bcbausa71/302672
-#EXTINF:-1,History Channel HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302673
-#EXTINF:-1,iSat HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302676
-#EXTINF:-1,La Octava HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302677
-#EXTINF:-1,LifeTime HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302678
-#EXTINF:-1,Las Estrellas HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302700
-#EXTINF:-1,MTV HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302703
-#EXTINF:-1,National Geographic HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302706
-#EXTINF:-1,Nick HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302710
-#EXTINF:-1,NickJr HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302712
-#EXTINF:-1,NickMusic HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302713
-#EXTINF:-1,Outdoor HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302715
-#EXTINF:-1,Paramount HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302716
-#EXTINF:-1,Sony HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302718
-#EXTINF:-1,Space HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302719
-#EXTINF:-1,StarTV HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302720
-#EXTINF:-1,Studio Universal HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302721
-#EXTINF:-1,SyFy HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302722
-#EXTINF:-1,TBS HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302723
-#EXTINF:-1,TCM HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302724
-#EXTINF:-1,Tele Hit HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302727
-#EXTINF:-1,Telemundo Internacional HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302728
-#EXTINF:-1,TLC HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302730
-#EXTINF:-1,TNT HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302733
-#EXTINF:-1,TNT Series HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302734
-#EXTINF:-1,Toon Cast HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302735
-#EXTINF:-1,Tru TV HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302736
-#EXTINF:-1,TVC Deportes HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302737
-#EXTINF:-1,Univision TLNovelas HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302732
-#EXTINF:-1,Unicable HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302738
-#EXTINF:-1,Universal Channel HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302739
-#EXTINF:-1,Universal Cinema HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302740
-#EXTINF:-1,Universal Comedy SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34854
-#EXTINF:-1,Universal Comedy HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34855
-#EXTINF:-1,Universal Crime HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302741
-#EXTINF:-1,Universal Premier HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302742
-#EXTINF:-1,Universal Reality HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302743
-#EXTINF:-1,Warner Channel HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302746
-#EXTINF:-1,Affiz HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304505
-#EXTINF:-1,DreamWorks HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304507
-#EXTINF:-1,Universal Comedy HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304508
-#EXTINF:-1,Sony Movies HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304509
-#EXTINF:-1,TUDN HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304510
-#EXTINF:-1,Hi Sports (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313025
-#EXTINF:-1,Meganoticias (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313026
-#EXTINF:-1,NFL Network (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313027
-#EXTINF:-1,TeenNick (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313028
-#EXTINF:-1,A&E  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313032
-#EXTINF:-1,AMC  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313033
-#EXTINF:-1,AXN  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313034
-#EXTINF:-1,Cinecanal  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313035
-#EXTINF:-1,Cinemax  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313036
-#EXTINF:-1,DHE FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313037
-#EXTINF:-1,FX  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313038
-#EXTINF:-1,Golden  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313039
-#EXTINF:-1,HBO FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313040
-#EXTINF:-1,Paramount  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313041
-#EXTINF:-1,Star Channel FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313042
-#EXTINF:-1,Sony  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313043
-#EXTINF:-1,Space  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313044
-#EXTINF:-1,Studio Universal FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313045
-#EXTINF:-1,Sun Channel FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313046
-#EXTINF:-1,TNT  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313047
-#EXTINF:-1,TNT Series  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313048
-#EXTINF:-1,UNIVERSAL CHANNEL FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313049
-#EXTINF:-1,Warner Channel FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313050
-#EXTINF:-1,HBO Family  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313051
-#EXTINF:-1,HBO 2 FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313052
-#EXTINF:-1,HBO Xtreme FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313053
-#EXTINF:-1,CLOVER  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313054
-#EXTINF:-1,Kanal D Drama  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313055
-#EXTINF:-1,A3 Series FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313057
-#EXTINF:-1,HBO POP  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313058
-#EXTINF:-1,TBS Very Funny FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313059
-#EXTINF:-1,TNT  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313063
-#EXTINF:-1,Star Channel  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313066
-#EXTINF:-1,Warner Channel SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313067
-#EXTINF:-1,Universal  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313068
-#EXTINF:-1,Sony  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313069
-#EXTINF:-1,Space  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313070
-#EXTINF:-1,I-sat  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313072
-#EXTINF:-1,AXN  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313073
-#EXTINF:-1,TBS  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313074
-#EXTINF:-1,SYFY  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313076
-#EXTINF:-1,Tnt Series  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313077
-#EXTINF:-1,FX SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313079
-#EXTINF:-1,Cinecanal  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313081
-#EXTINF:-1,Cinemax  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313082
-#EXTINF:-1,TCM  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313088
-#EXTINF:-1,EWTV  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313092
-#EXTINF:-1,Golden  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313093
-#EXTINF:-1,HBO  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313095
-#EXTINF:-1,HBO Mundi SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313096
-#EXTINF:-1,HBO Signature  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313097
-#EXTINF:-1,HBO 2  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313098
-#EXTINF:-1,Hola TV SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313099
-#EXTINF:-1,Lifetime  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313102
-#EXTINF:-1,Paramount  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313104
-#EXTINF:-1,Univision TLNovelas SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313105
-#EXTINF:-1,Studio Universal  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313106
-#EXTINF:-1,A&E SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313107
-#EXTINF:-1,HBO Family SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313108
-#EXTINF:-1,HBO Plus SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313109
-#EXTINF:-1,De Pelicula SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313113
-#EXTINF:-1,HBO POP  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313114
-#EXTINF:-1,HBO Xtreme SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313116
-#EXTINF:-1,Kanal D Drama  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313117
-#EXTINF:-1,Universal Comedy SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313118
-#EXTINF:-1,Universal Premiere  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313119
-#EXTINF:-1,Mas Chic  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313120
-#EXTINF:-1,Sun Channel  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313121
-#EXTINF:-1,AMC  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313122
-#EXTINF:-1,Universal Cinema SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313124
-#EXTINF:-1,Clover SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313126
-#EXTINF:-1,Animal Planet SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313127
-#EXTINF:-1,Discovery H&H FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313128
-#EXTINF:-1,Discovery Channel SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313129
-#EXTINF:-1,Discovery Theater SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313130
-#EXTINF:-1,Discovery World FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313131
-#EXTINF:-1,H2 FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313132
-#EXTINF:-1,History Channel FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313133
-#EXTINF:-1,Discovery ID FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313134
-#EXTINF:-1,National Geographic FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313135
-#EXTINF:-1,TRUTV FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313136
-#EXTINF:-1,Love Nature FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313137
-#EXTINF:-1,DISCOVERY TURBO FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313138
-#EXTINF:-1,Love Nature SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313139
-#EXTINF:-1,National Geographic SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313140
-#EXTINF:-1,Discovery H&H SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313141
-#EXTINF:-1,Discovery Channel FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313142
-#EXTINF:-1,Discovery ID SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313143
-#EXTINF:-1,Animal Planet FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313144
-#EXTINF:-1,History Channel SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313145
-#EXTINF:-1,TLC FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313146
-#EXTINF:-1,Discovery Science FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313147
-#EXTINF:-1,H2 SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313148
-#EXTINF:-1,HGTV FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313149
-#EXTINF:-1,Cartoon Network FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313150
-#EXTINF:-1,Discovery Kids FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313151
-#EXTINF:-1,Disney Channel FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313152
-#EXTINF:-1,Nickelodeon FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313153
-#EXTINF:-1,Cartoonito SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313154
-#EXTINF:-1,Nick JR SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313155
-#EXTINF:-1,Discovery Kids SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313156
-#EXTINF:-1,Disney Channel SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313157
-#EXTINF:-1,Disney Junior SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313158
-#EXTINF:-1,Cartoon Network  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313159
-#EXTINF:-1,Baby TV SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313160
-#EXTINF:-1,Tooncast  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313161
-#EXTINF:-1,ETC TV  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313162
-#EXTINF:-1,Nickelodeon SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313163
-#EXTINF:-1,EnerGeek  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313164
-#EXTINF:-1,EnerGeek Fanpop  FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313165
-#EXTINF:-1,EnerGeek Wowly  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313166
-#EXTINF:-1,Lolly Kids  SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313167
-#EXTINF:-1,Teen Nick SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313168
-#EXTINF:-1,Baby First SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313169
-#EXTINF:-1,Comedy Central FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313170
-#EXTINF:-1,E! Entertainment FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313171
-#EXTINF:-1,Hola TV FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313172
-#EXTINF:-1,Las Estrellas FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313173
-#EXTINF:-1,E! Entertainment FHD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313174
-#EXTINF:-1,A3 Series SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313175
-#EXTINF:-1,Antena 3 SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313176
-#EXTINF:-1,BBC World SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313177
-#EXTINF:-1,Distrito Comedia SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313178
-#EXTINF:-1,DW (Deutsch +) SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313179
-#EXTINF:-1,El Gourmet SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313180
-#EXTINF:-1,Eurochannel SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313181
-#EXTINF:-1,Fox News SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313183
-#EXTINF:-1,France 24 SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313184
-#EXTINF:-1,Glitz SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313186
-#EXTINF:-1,RAI SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313189
-#EXTINF:-1,Tru TV SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313192
-#EXTINF:-1,Comedy Central SD (CL*)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313195
-#EXTINF:-1,Eventos
-http://hidra.live:80/mnbgcnpi/bcbausa71/313197
-#EXTINF:-1,Animal Planet FHD (CO) (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35195
-#EXTINF:-1,History Channel FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35197
-#EXTINF:-1,Hola! TV FHD (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35199
-#EXTINF:-1,Glitz SD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35200
-#EXTINF:-1,Discovery Science FHD (CO.) (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/46563
-#EXTINF:-1,Discovery Channel FHD (CO) (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35204
-#EXTINF:-1,Discovery ID FHD (CO) (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/46562
-#EXTINF:-1,Discovery H&H FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35205
-#EXTINF:-1,Discovery Theater FHD (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35206
-#EXTINF:-1,Discovery World FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35207
-#EXTINF:-1,Cartoon Network FHD (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35222
-#EXTINF:-1,Nickelodeon FHD (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35224
-#EXTINF:-1,Disney Channel FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35228
-#EXTINF:-1,Cinecanal FHD (CO.) (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35235
-#EXTINF:-1,AXN FHD (CO) (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35239
-#EXTINF:-1,AMC FHD (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35241
-#EXTINF:-1,DHE FHD (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35245
-#EXTINF:-1,Paramount Channel FHD (CO.) (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35246
-#EXTINF:-1,Universal Channel SD (CO.) (E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35265
-#EXTINF:-1,Universal Channel FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35266
-#EXTINF:-1,Studio Universal FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35267
-#EXTINF:-1,HBO FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35286
-#EXTINF:-1,HBO 2 FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35288
-#EXTINF:-1,HBO Plus FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35290
-#EXTINF:-1,HBO Family FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35292
-#EXTINF:-1,HBO Xtreme FHD (MX E)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35258
-#EXTINF:-1,Universal Channel HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312892
-#EXTINF:-1,TNT Series HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312893
-#EXTINF:-1,Caracol TV HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312895
-#EXTINF:-1,TBS HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312896
-#EXTINF:-1,Studio Universal HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312897
-#EXTINF:-1,Space HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312898
-#EXTINF:-1,Sony HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312899
-#EXTINF:-1,Paramount Network HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312900
-#EXTINF:-1,Natgeo HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312903
-#EXTINF:-1,History Channel HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312906
-#EXTINF:-1,HBO Signature HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312907
-#EXTINF:-1,HBO Family HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312908
-#EXTINF:-1,History 2 HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312909
-#EXTINF:-1,Star Channel HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312910
-#EXTINF:-1,Universal Premiere HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312912
-#EXTINF:-1,Discovery World HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312913
-#EXTINF:-1,Discovery Theater HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312914
-#EXTINF:-1,Discovery Home & Health HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312916
-#EXTINF:-1,Discovery Channel HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312917
-#EXTINF:-1,HBO Pop HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312919
-#EXTINF:-1,Cinecanal HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312920
-#EXTINF:-1,AXN HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312922
-#EXTINF:-1,Animal Planet HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312923
-#EXTINF:-1,AMC HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312924
-#EXTINF:-1,FX HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312926
-#EXTINF:-1,Discovery TLC HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312927
-#EXTINF:-1,Disney Channel HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312928
-#EXTINF:-1,Syfy HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312930
-#EXTINF:-1,Sony HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312933
-#EXTINF:-1,Universal Premiere HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312947
-#EXTINF:-1,Universal Cinema HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312948
-#EXTINF:-1,Disney Junior HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312949
-#EXTINF:-1,Discovery Turbo HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312950
-#EXTINF:-1,FX HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312954
-#EXTINF:-1,A&E HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312957
-#EXTINF:-1,VH1+ HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312959
-#EXTINF:-1,Star TVE HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312960
-#EXTINF:-1,E! Entertainment HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312962
-#EXTINF:-1,MTV HD (LAT)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312963
-#EXTINF:-1,Directv Sports HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123872
-#EXTINF:-1,Directv Sports FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/121857
-#EXTINF:-1,Directv Sports + FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/121856
-#EXTINF:-1,Directv Sports 2 FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/187724
-#EXTINF:-1,Directv Sports 2 HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34612
-#EXTINF:-1,Directv Sports + HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123871
-#EXTINF:-1,Directv Sports + FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34616
-#EXTINF:-1,Directv Sports HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43430
-#EXTINF:-1,Directv Sports 2 HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43431
-#EXTINF:-1,Directv Sports + HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123885
-#EXTINF:-1,Claro Sports SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34617
-#EXTINF:-1,Claro Sports FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34618
-#EXTINF:-1,Fox Sports SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34621
-#EXTINF:-1,Fox Sports FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34622
-#EXTINF:-1,Fox Sports 2 SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34623
-#EXTINF:-1,Fox Sports 2 FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34624
-#EXTINF:-1,Fox Sports 3 SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34625
-#EXTINF:-1,Fox Sports 3 FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34626
-#EXTINF:-1,Fox Sports 1 SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34630
-#EXTINF:-1,Fox Sports 1 HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34631
-#EXTINF:-1,Fox Sports 1 FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34632
-#EXTINF:-1,Fox Sports 2 SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34633
-#EXTINF:-1,Fox Sports 2 HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34634
-#EXTINF:-1,Fox Sports 2 FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34635
-#EXTINF:-1,Fox Sports 3 SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34636
-#EXTINF:-1,Fox Sports 3 HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34637
-#EXTINF:-1,Fox Sports 3 FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34638
-#EXTINF:-1,Fox Sports SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34639
-#EXTINF:-1,Fox Sports HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34640
-#EXTINF:-1,Fox Sports FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34641
-#EXTINF:-1,Fox Sports 2 SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34642
-#EXTINF:-1,Fox Sports 2 HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34643
-#EXTINF:-1,Fox Sports 2 FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34644
-#EXTINF:-1,Fox Sports 3 SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34645
-#EXTINF:-1,Fox Sports 3 HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34646
-#EXTINF:-1,Fox Sports 3 FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34647
-#EXTINF:-1,Fox Sports 1 HD (US)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34649
-#EXTINF:-1,Fox Sports 2 HD (US)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34650
-#EXTINF:-1,ESPN SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/157048
-#EXTINF:-1,ESPN HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123652
-#EXTINF:-1,ESPN 2 HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123653
-#EXTINF:-1,ESPN 3 HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123654
-#EXTINF:-1,ESPN SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34652
-#EXTINF:-1,ESPN FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34653
-#EXTINF:-1,ESPN Extra FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34654
-#EXTINF:-1,ESPN 2 SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34655
-#EXTINF:-1,ESPN 2 FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34656
-#EXTINF:-1,ESPN 3 SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34657
-#EXTINF:-1,ESPN 3 FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34658
-#EXTINF:-1,ESPN SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34659
-#EXTINF:-1,ESPN HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34660
-#EXTINF:-1,ESPN FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34661
-#EXTINF:-1,ESPN Premium HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123874
-#EXTINF:-1,ESPN Premium FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34648
-#EXTINF:-1,ESPN 2 SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34662
-#EXTINF:-1,ESPN 2 HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34663
-#EXTINF:-1,ESPN 2 FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34664
-#EXTINF:-1,ESPN 3 SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34665
-#EXTINF:-1,ESPN 3 HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34666
-#EXTINF:-1,ESPN 3 FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34667
-#EXTINF:-1,TNT Sports HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34675
-#EXTINF:-1,TNT Sports FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34676
-#EXTINF:-1,TNT Sports 2 SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34674
-#EXTINF:-1,TNT Sports 2 HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/124014
-#EXTINF:-1,TNT Sports 3 SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123886
-#EXTINF:-1,TNT Sports 3 HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123887
-#EXTINF:-1,TNT Sports HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34683
-#EXTINF:-1,TNT Sports FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34684
-#EXTINF:-1,CDO Basico SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34678
-#EXTINF:-1,CDO Premium SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34679
-#EXTINF:-1,CDO Premium HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/121890
-#EXTINF:-1,Teletrak HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34680
-#EXTINF:-1,Sporting HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34681
-#EXTINF:-1,TyC Sports  SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34685
-#EXTINF:-1,TyC Sports HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34686
-#EXTINF:-1,TyC Sports SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34687
-#EXTINF:-1,TyC Sports Internacional HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34688
-#EXTINF:-1,Win Sports SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34689
-#EXTINF:-1,Win Sports FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34690
-#EXTINF:-1,Win Sports + FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34691
-#EXTINF:-1,Gol TV HD (ECU)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34693
-#EXTINF:-1,Golf Channel SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34695
-#EXTINF:-1,Golf Channel FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34696
-#EXTINF:-1,AYM Sports SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34697
-#EXTINF:-1,Adrenalina Sport Network FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34699
-#EXTINF:-1,TVC Deportes SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34700
-#EXTINF:-1,Canal F1 FHD (ES)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34701
-#EXTINF:-1,Barca TV SD (ES)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34702
-#EXTINF:-1,b31N LA Liga FHD (ES)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34703
-#EXTINF:-1,Movistar Deportes FHD (ES)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34704
-#EXTINF:-1,NFL Network HD (US)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34705
-#EXTINF:-1,Real Madrid TV FHD (ES)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34706
-#EXTINF:-1,EuroSport 1 HQ (ES)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34709
-#EXTINF:-1,EuroSport 2 HQ (ES)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34710
-#EXTINF:-1,b31N Sports Ñ HQ (ES)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34717
-#EXTINF:-1,DeporTV HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34740
-#EXTINF:-1,Movistar Deportes (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34743
-#EXTINF:-1,GolPeru SD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34744
-#EXTINF:-1,GolPeru FHD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34745
-#EXTINF:-1,DeporTV FHD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123873
-#EXTINF:-1,Fox Sports Premium (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304554
-#EXTINF:-1,ESPN Extra SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312828
-#EXTINF:-1,ESPN FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312829
-#EXTINF:-1,ESPN HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312830
-#EXTINF:-1,ESPN SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312831
-#EXTINF:-1,ESPN 2 FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312832
-#EXTINF:-1,ESPN 2 HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312833
-#EXTINF:-1,ESPN 2 SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312834
-#EXTINF:-1,ESPN 3 FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312835
-#EXTINF:-1,ESPN 3 HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312836
-#EXTINF:-1,ESPN 4 FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312838
-#EXTINF:-1,ESPN 4 HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312839
-#EXTINF:-1,ESPN Extra FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312841
-#EXTINF:-1,ESPN Extra SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312843
-#EXTINF:-1,Espn Extra FHD (ARG)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312844
-#EXTINF:-1,Espn Extra HD (ARG)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312845
-#EXTINF:-1,Espn Extra SD (ARG)*
-http://hidra.live:80/mnbgcnpi/bcbausa71/312846
-#EXTINF:-1,ESPN Premium SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312847
-#EXTINF:-1,ESPN HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312849
-#EXTINF:-1,ESPN 2 SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312850
-#EXTINF:-1,ESPN 4 (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312851
-#EXTINF:-1,ESPN Deportes HD (US)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312852
-#EXTINF:-1,ESPN FHD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312853
-#EXTINF:-1,ESPN HD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312854
-#EXTINF:-1,ESPN SD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312855
-#EXTINF:-1,ESPN 2 FHD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312856
-#EXTINF:-1,ESPN 2 HD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312857
-#EXTINF:-1,ESPN 2 SD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312858
-#EXTINF:-1,ESPN 3 FHD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312859
-#EXTINF:-1,ESPN 3 HD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312860
-#EXTINF:-1,ESPN 3 SD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312861
-#EXTINF:-1,ESPN Extra FHD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312862
-#EXTINF:-1,ESPN Extra SD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312863
-#EXTINF:-1,ESPN Extra HD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312864
-#EXTINF:-1,ESPN 4 FHD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312865
-#EXTINF:-1,ESPN 4 HD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312866
-#EXTINF:-1,ESPN 4 SD (CENTRO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312867
-#EXTINF:-1,Directv Sports FHD (ECU)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312882
-#EXTINF:-1,Directv Sports + FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312886
-#EXTINF:-1,Directv Sports 2 HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312890
-#EXTINF:-1,Star + Eventos
-http://hidra.live:80/mnbgcnpi/bcbausa71/313196
-#EXTINF:-1,Cartoon Network SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34752
-#EXTINF:-1,Cartoon Network FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34753
-#EXTINF:-1,Cartoon Network SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34754
-#EXTINF:-1,Cartoon Network HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34755
-#EXTINF:-1,Cartoon Network FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34756
-#EXTINF:-1,Disney Channel SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34757
-#EXTINF:-1,Disney Channel FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34758
-#EXTINF:-1,Disney Channel SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34759
-#EXTINF:-1,Disney Channel HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34760
-#EXTINF:-1,Disney Channel FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34761
-#EXTINF:-1,Disney Junior SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34765
-#EXTINF:-1,Disney Junior FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34766
-#EXTINF:-1,Disney Junior SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34767
-#EXTINF:-1,Nickelodeon SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34768
-#EXTINF:-1,Nickelodeon FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34769
-#EXTINF:-1,Nickelodeon SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34770
-#EXTINF:-1,Nickelodeon HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34771
-#EXTINF:-1,Nickelodeon FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34772
-#EXTINF:-1,Nick 2 SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34773
-#EXTINF:-1,Nick 2 FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34774
-#EXTINF:-1,TeenNick HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34776
-#EXTINF:-1,TeenNick FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34777
-#EXTINF:-1,Nick JR SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34778
-#EXTINF:-1,Nick JR FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34779
-#EXTINF:-1,NickToons SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34780
-#EXTINF:-1,Discovery Kids SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34781
-#EXTINF:-1,Discovery Kids FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34782
-#EXTINF:-1,Discovery Kids FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34784
-#EXTINF:-1,Discovery Kids HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34785
-#EXTINF:-1,Baby First FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34792
-#EXTINF:-1,Baby First SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34793
-#EXTINF:-1,Paka Paka SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34795
-#EXTINF:-1,Tooncast SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34796
-#EXTINF:-1,Bitme FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34797
-#EXTINF:-1,ETC TV SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34798
-#EXTINF:-1,Cartoonito FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312751
-#EXTINF:-1,Cartoonito HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312752
-#EXTINF:-1,Cartoonito SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312753
-#EXTINF:-1,Nick JR HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312754
-#EXTINF:-1,Baby TV SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312755
-#EXTINF:-1,Nick Music SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312756
-#EXTINF:-1,ZooMoo FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312760
-#EXTINF:-1,ZooMoo HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312761
-#EXTINF:-1,Disney Junior HD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312763
-#EXTINF:-1,A3 Series SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35080
-#EXTINF:-1,A3 Series FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35081
-#EXTINF:-1,Antena 3 SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35082
-#EXTINF:-1,Antena 3 FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35083
-#EXTINF:-1,Rai Italia SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35085
-#EXTINF:-1,Deutsche Welle SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35086
-#EXTINF:-1,Deutsche Welle America SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35087
-#EXTINF:-1,Telemundo Internacional FHD (US)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35088
-#EXTINF:-1,Star TVE SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35168
-#EXTINF:-1,24 Horas SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35170
-#EXTINF:-1,24 Horas HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35171
-#EXTINF:-1,24 Horas Play HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35172
-#EXTINF:-1,Aljazeera FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35174
-#EXTINF:-1,BBC World News FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35175
-#EXTINF:-1,Bloomberg SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35176
-#EXTINF:-1,Bloomberg FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35177
-#EXTINF:-1,Cable Noticias HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35178
-#EXTINF:-1,CNN Chile FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35180
-#EXTINF:-1,CNN Español SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35181
-#EXTINF:-1,CNN Internacional SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35182
-#EXTINF:-1,Fox News SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35183
-#EXTINF:-1,Fox News FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35184
-#EXTINF:-1,France 24 FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35185
-#EXTINF:-1,NTN 24 SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35189
-#EXTINF:-1,RT en Español FHD (LAT.)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35191
-#EXTINF:-1,CNN Chile SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123888
-#EXTINF:-1,24 Horas FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/158787
-#EXTINF:-1,CNN en español SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312871
-#EXTINF:-1,DW Amerika SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312873
-#EXTINF:-1,France 24 HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312875
-#EXTINF:-1,CNN Int. FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312879
-#EXTINF:-1,Las Estrellas SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35036
-#EXTINF:-1,Las Estrellas FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35037
-#EXTINF:-1,Lifetime SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35038
-#EXTINF:-1,Lifetime FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35039
-#EXTINF:-1,E! SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35040
-#EXTINF:-1,E! FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35041
-#EXTINF:-1,Hola TV SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35042
-#EXTINF:-1,Hola TV FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35044
-#EXTINF:-1,El Gourmet SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35045
-#EXTINF:-1,El Gourmet HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35046
-#EXTINF:-1,El Gourmet FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35047
-#EXTINF:-1,Food Network SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35048
-#EXTINF:-1,Food Network FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35049
-#EXTINF:-1,Garage TV FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35051
-#EXTINF:-1,Glitz SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35052
-#EXTINF:-1,Distrito Comedia SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35053
-#EXTINF:-1,Mas Chic SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35055
-#EXTINF:-1,Mas Chic  HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35056
-#EXTINF:-1,Mas Chic FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35057
-#EXTINF:-1,Pasiones SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35058
-#EXTINF:-1,Pasiones HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35059
-#EXTINF:-1,Pasiones FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35060
-#EXTINF:-1,TbS SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35062
-#EXTINF:-1,TruTV FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35066
-#EXTINF:-1,Unicable SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35077
-#EXTINF:-1,Unicable FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35078
-#EXTINF:-1,Telenovelas SD (MX L)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35079
-#EXTINF:-1,Tl Novelas SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312825
-#EXTINF:-1,Lifetime FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312814
-#EXTINF:-1,Food Network HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312813
-#EXTINF:-1,Animal Planet SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34799
-#EXTINF:-1,Animal Planet FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34800
-#EXTINF:-1,Animal Planet SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34801
-#EXTINF:-1,Animal Planet HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34802
-#EXTINF:-1,Animal Planet FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34803
-#EXTINF:-1,Wobi SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34804
-#EXTINF:-1,Discovery Channel SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34806
-#EXTINF:-1,Discovery Channel FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34807
-#EXTINF:-1,Discovery Channel SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34808
-#EXTINF:-1,Discovery Channel HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34809
-#EXTINF:-1,Discovery Channel FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34810
-#EXTINF:-1,Discovery Civilization SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34811
-#EXTINF:-1,Discovery H&H SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34812
-#EXTINF:-1,Discovery H&H FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34813
-#EXTINF:-1,Discovery H&H SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34814
-#EXTINF:-1,Discovery H&H HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34815
-#EXTINF:-1,Discovery H&H FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34816
-#EXTINF:-1,Discovery Science SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34817
-#EXTINF:-1,Discovery Theater SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34818
-#EXTINF:-1,Discovery Theater FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34819
-#EXTINF:-1,Discovery TLC SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34820
-#EXTINF:-1,Discovery TLC FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34821
-#EXTINF:-1,Discovery TLC SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34822
-#EXTINF:-1,Discovery TLC HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34823
-#EXTINF:-1,Discovery TLC FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34824
-#EXTINF:-1,Discovery Turbo SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34825
-#EXTINF:-1,Discovery Turbo FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34826
-#EXTINF:-1,Discovery World SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34827
-#EXTINF:-1,Discovery World FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34828
-#EXTINF:-1,History Channel SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34829
-#EXTINF:-1,History Channel FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34830
-#EXTINF:-1,History Channel SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34831
-#EXTINF:-1,History Channel HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34832
-#EXTINF:-1,History Channel FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34833
-#EXTINF:-1,H2 HD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34834
-#EXTINF:-1,Investigation Discovery SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34836
-#EXTINF:-1,Investigation Discovery FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34837
-#EXTINF:-1,Investigation Discovery SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34838
-#EXTINF:-1,Investigation Discovery HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34839
-#EXTINF:-1,Investigation Discovery FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34840
-#EXTINF:-1,National Geographic SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34844
-#EXTINF:-1,National Geographic FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34845
-#EXTINF:-1,National Geographic SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34846
-#EXTINF:-1,National Geographic HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34847
-#EXTINF:-1,National Geographic FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34848
-#EXTINF:-1,Antena 3 Int. FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312804
-#EXTINF:-1,Discovery Science FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312807
-#EXTINF:-1,Discovery Science HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312808
-#EXTINF:-1,Discovery Theater HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312809
-#EXTINF:-1,Discovery World HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312811
-#EXTINF:-1,E! HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312812
-#EXTINF:-1,History 2 -H2- FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312816
-#EXTINF:-1,History 2 -H2- SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312817
-#EXTINF:-1,HGTV FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312818
-#EXTINF:-1,HGTV HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312819
-#EXTINF:-1,HGTV SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312820
-#EXTINF:-1,AMC SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34915
-#EXTINF:-1,AMC FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34916
-#EXTINF:-1,AMC SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34917
-#EXTINF:-1,AMC HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34918
-#EXTINF:-1,AMC FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34919
-#EXTINF:-1,Warner Channel SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34920
-#EXTINF:-1,Warner Channel FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34921
-#EXTINF:-1,Warner Channel SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34922
-#EXTINF:-1,Warner Channel FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34923
-#EXTINF:-1,Fox SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34924
-#EXTINF:-1,Star Channel FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34925
-#EXTINF:-1,Star Channel SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34926
-#EXTINF:-1,Star Channel HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34927
-#EXTINF:-1,Star Channel FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34928
-#EXTINF:-1,Sony Entertainment SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34934
-#EXTINF:-1,Sony Entertainment FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34935
-#EXTINF:-1,Sony Entertainment SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34936
-#EXTINF:-1,Sony Entertainment HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34937
-#EXTINF:-1,Sony Entertainment FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34938
-#EXTINF:-1,AXN SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34939
-#EXTINF:-1,AXN FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34940
-#EXTINF:-1,AXN SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34941
-#EXTINF:-1,AXN HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34942
-#EXTINF:-1,AXN FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34943
-#EXTINF:-1,A&E SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34944
-#EXTINF:-1,A&E FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34945
-#EXTINF:-1,A&E SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34946
-#EXTINF:-1,A&E HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34947
-#EXTINF:-1,A&E FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34948
-#EXTINF:-1,Comedy Central SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34949
-#EXTINF:-1,Comedy Central FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34950
-#EXTINF:-1,Comedy Central SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34951
-#EXTINF:-1,Comedy Central HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34952
-#EXTINF:-1,Comedy Central FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34953
-#EXTINF:-1,Universal Channel SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34954
-#EXTINF:-1,Universal Channel FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34955
-#EXTINF:-1,Universal Channel SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34956
-#EXTINF:-1,TNT SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34957
-#EXTINF:-1,TNT HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34958
-#EXTINF:-1,TNT FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34959
-#EXTINF:-1,TNT Series SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34960
-#EXTINF:-1,TNT Series FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34961
-#EXTINF:-1,TNT Series SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34962
-#EXTINF:-1,TNT Series HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34963
-#EXTINF:-1,TNT Series FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34964
-#EXTINF:-1,Studio Universal SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34965
-#EXTINF:-1,Studio Universal FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34966
-#EXTINF:-1,TCM SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34967
-#EXTINF:-1,Space SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34968
-#EXTINF:-1,Space FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34969
-#EXTINF:-1,Space HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34970
-#EXTINF:-1,Space FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34971
-#EXTINF:-1,I-Sat SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34972
-#EXTINF:-1,FX SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34973
-#EXTINF:-1,FX FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34974
-#EXTINF:-1,FX SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34975
-#EXTINF:-1,FX FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34976
-#EXTINF:-1,Paramount Channel SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34980
-#EXTINF:-1,Paramount Channel FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34981
-#EXTINF:-1,Paramount Channel SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34982
-#EXTINF:-1,Paramount Channel HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34983
-#EXTINF:-1,Paramount Channel FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34984
-#EXTINF:-1,Golden SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34985
-#EXTINF:-1,Golden Edge SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34986
-#EXTINF:-1,Golden Plus SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34987
-#EXTINF:-1,Golden Plus FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34989
-#EXTINF:-1,Cinecanal SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34990
-#EXTINF:-1,Cinecanal FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34991
-#EXTINF:-1,Cinecanal SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34992
-#EXTINF:-1,Cinecanal HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34993
-#EXTINF:-1,Cinecanal FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34994
-#EXTINF:-1,Cinemax SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34995
-#EXTINF:-1,Cinemax FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34996
-#EXTINF:-1,Cinemax SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34997
-#EXTINF:-1,Cine Latino SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34998
-#EXTINF:-1,De Pelicula Plus SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35000
-#EXTINF:-1,Europa Europa SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35001
-#EXTINF:-1,Film & Art SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35002
-#EXTINF:-1,Multipremier SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35003
-#EXTINF:-1,DHE SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35004
-#EXTINF:-1,DHE FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35006
-#EXTINF:-1,SyFy SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35010
-#EXTINF:-1,SyFy FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35011
-#EXTINF:-1,Europa Europa FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/177210
-#EXTINF:-1,Eurochannel SD (LAT.)
-http://hidra.live:80/mnbgcnpi/bcbausa71/177211
-#EXTINF:-1,Studio Universal HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312777
-#EXTINF:-1,Universal Channel HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312778
-#EXTINF:-1,A3Series Int. FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312779
-#EXTINF:-1,A3Series Int. SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312781
-#EXTINF:-1,Cinemax HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312782
-#EXTINF:-1,De Pelicula FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312786
-#EXTINF:-1,Film & Arts FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312789
-#EXTINF:-1,Star TVE Int FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312792
-#EXTINF:-1,SYFY FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312795
-#EXTINF:-1,SYFY HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312796
-#EXTINF:-1,TBS FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312798
-#EXTINF:-1,TBS HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312799
-#EXTINF:-1,Universal Crime SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34851
-#EXTINF:-1,Universal Crime HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34852
-#EXTINF:-1,Universal Crime FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34853
-#EXTINF:-1,Universal Comedy SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34854
-#EXTINF:-1,Universal Comedy HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34855
-#EXTINF:-1,Universal Comedy FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34856
-#EXTINF:-1,Universal Reality SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34862
-#EXTINF:-1,Universal Reality HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34863
-#EXTINF:-1,Universal Reality FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34864
-#EXTINF:-1,Universal Cinema SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34869
-#EXTINF:-1,Universal Cinema HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34870
-#EXTINF:-1,Universal Cinema FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34871
-#EXTINF:-1,Universal Premiere SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34873
-#EXTINF:-1,Universal Premiere HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34874
-#EXTINF:-1,Universal Premiere FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34875
-#EXTINF:-1,HBO FHD (MX Dual)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34880
-#EXTINF:-1,HBO SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34881
-#EXTINF:-1,HBO HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34882
-#EXTINF:-1,HBO FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34883
-#EXTINF:-1,HBO Mundi FHD (MX Dual)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43222
-#EXTINF:-1,HBO Pop FHD (MX Dual)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43223
-#EXTINF:-1,HBO Xtreme FHD (MX Dual)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43224
-#EXTINF:-1,HBO 2 FHD (MX Dual)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34887
-#EXTINF:-1,HBO 2 FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34888
-#EXTINF:-1,HBO 2 HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34889
-#EXTINF:-1,HBO 2 SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34890
-#EXTINF:-1,HBO Plus FHD (MX Dual)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34891
-#EXTINF:-1,HBO Plus SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34892
-#EXTINF:-1,HBO Plus HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34893
-#EXTINF:-1,HBO Plus FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34894
-#EXTINF:-1,HBO Family SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34895
-#EXTINF:-1,HBO Family HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34896
-#EXTINF:-1,HBO Family FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34897
-#EXTINF:-1,HBO Family FHD (MX Dual)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34898
-#EXTINF:-1,HBO Signature SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34899
-#EXTINF:-1,HBO Signature HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34900
-#EXTINF:-1,HBO Signature FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34901
-#EXTINF:-1,HBO Signature FHD (MX Dual)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34902
-#EXTINF:-1,Golden Premier SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34910
-#EXTINF:-1,Golden Premier HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34911
-#EXTINF:-1,Golden Premier FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34912
-#EXTINF:-1,Golden Premier FHD (MX Dual)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34913
-#EXTINF:-1,Golden Premier 2 FHD (MX Dual)
-http://hidra.live:80/mnbgcnpi/bcbausa71/34914
-#EXTINF:-1,HBO Mundi FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312764
-#EXTINF:-1,HBO Mundi HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312765
-#EXTINF:-1,HBO Mundi SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312766
-#EXTINF:-1,HBO POP HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312767
-#EXTINF:-1,HBO Xtreme HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312769
-#EXTINF:-1,HBO Xtreme SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312770
-#EXTINF:-1,Universal Crime Oeste HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312772
-#EXTINF:-1,Universal Premiere Oeste FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312774
-#EXTINF:-1,Universal Premiere Oeste HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312775
-#EXTINF:-1,Universal Premiere Oeste SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/312776
-#EXTINF:-1,Zona Latina SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35012
-#EXTINF:-1,MTV FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35015
-#EXTINF:-1,MTV HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35017
-#EXTINF:-1,MTV FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35018
-#EXTINF:-1,MTV Hits SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35019
-#EXTINF:-1,MTV Live SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35020
-#EXTINF:-1,MTV Live FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35021
-#EXTINF:-1,Concert Channel SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35022
-#EXTINF:-1,Concert Channel FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35023
-#EXTINF:-1,Concert Channel HD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35024
-#EXTINF:-1,HTV SD (ARG)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35025
-#EXTINF:-1,Portal Foxmix SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35028
-#EXTINF:-1,Telehit SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35030
-#EXTINF:-1,Telehit FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35031
-#EXTINF:-1,MTV 00S SD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35033
-#EXTINF:-1,MTV 80s (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35034
-#EXTINF:-1,MTV 00S FHD (LAT)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35035
-#EXTINF:-1,TVN SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35294
-#EXTINF:-1,TVN HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35295
-#EXTINF:-1,TVN FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35296
-#EXTINF:-1,Mega SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35297
-#EXTINF:-1,Mega HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35298
-#EXTINF:-1,Mega FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35299
-#EXTINF:-1,Chilevision SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35300
-#EXTINF:-1,Chilevision HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35301
-#EXTINF:-1,Chilevision FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35302
-#EXTINF:-1,Canal 13 SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35303
-#EXTINF:-1,Canal 13 HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35304
-#EXTINF:-1,Canal 13 FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35305
-#EXTINF:-1,TV+ SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35306
-#EXTINF:-1,La Red SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35311
-#EXTINF:-1,La Red HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35310
-#EXTINF:-1,La Red FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35309
-#EXTINF:-1,13C SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35312
-#EXTINF:-1,ADN TV (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35316
-#EXTINF:-1,Bio-Bio Chile TV HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35317
-#EXTINF:-1,Canal 9 Bío Bío HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/172729
-#EXTINF:-1,Carolina TV HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35318
-#EXTINF:-1,Rec TV SD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35320
-#EXTINF:-1,TV Chile FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35321
-#EXTINF:-1,UCV 2 HD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/35322
-#EXTINF:-1,TV Educa Chile FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/47913
-#EXTINF:-1,TV+ FHD (CL)
-http://hidra.live:80/mnbgcnpi/bcbausa71/123889
-#EXTINF:-1,America TV HD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304290
-#EXTINF:-1,America TV. SD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304291
-#EXTINF:-1,Antares TV HD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304292
-#EXTINF:-1,ATV SD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304293
-#EXTINF:-1,ATV + SD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304294
-#EXTINF:-1,ATV. SD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304295
-#EXTINF:-1,Exitosa HD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304296
-#EXTINF:-1,Gol Peru. SD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304300
-#EXTINF:-1,Movistar Deportes FHD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304302
-#EXTINF:-1,Movistar Plus SD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304304
-#EXTINF:-1,Panamericana FHD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304306
-#EXTINF:-1,Peru Magico HD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304308
-#EXTINF:-1,TV Peru SD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304309
-#EXTINF:-1,TV Peru Noticias HD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304310
-#EXTINF:-1,Willax HD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304311
-#EXTINF:-1,Canal N HD (PE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304313
-#EXTINF:-1,ATB HD (BO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304314
-#EXTINF:-1,Bolivision SD (BO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304317
-#EXTINF:-1,Bolivision. HD (BO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304318
-#EXTINF:-1,Cadena A  SD (BO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304319
-#EXTINF:-1,Mega TV HD (BO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304322
-#EXTINF:-1,Tigo Sports 3. (BO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304331
-#EXTINF:-1,Unitel.(BO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304335
-#EXTINF:-1,Canal 10 HD. (UY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304342
-#EXTINF:-1,Canal 12 FHD (UY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304346
-#EXTINF:-1,Canal 12. HD (UY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304347
-#EXTINF:-1,Canal 4. HD (UY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304353
-#EXTINF:-1,Canal 7 Punta HD (UY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304358
-#EXTINF:-1,Canal M HD  (UY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304364
-#EXTINF:-1,La Red HD (UY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304372
-#EXTINF:-1,VTV SD (UY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304373
-#EXTINF:-1,VTV Plus HD (UY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304376
-#EXTINF:-1,VTV Plus. HD (UY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304377
-#EXTINF:-1,Canela TV HD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304380
-#EXTINF:-1,Ecuador TV SD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304381
-#EXTINF:-1,Ecuador TV. FHD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304382
-#EXTINF:-1,Ecuavisa SD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304383
-#EXTINF:-1,Ecuavisa FHD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304384
-#EXTINF:-1,Ecuavisa Int. HD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304385
-#EXTINF:-1,El Canal Del Futbol FHD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304386
-#EXTINF:-1,El Canal Del Futbol. FHD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304387
-#EXTINF:-1,Gamavision SD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304388
-#EXTINF:-1,Gamavision. SD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304389
-#EXTINF:-1,Gol TV SD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304390
-#EXTINF:-1,Oromar. SD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304393
-#EXTINF:-1,Rts. HD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304395
-#EXTINF:-1,TC Television FHD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304396
-#EXTINF:-1,Teleamazonas HD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304398
-#EXTINF:-1,Telerama SD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304400
-#EXTINF:-1,Asomavisión SD (EC)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304404
-#EXTINF:-1,C9N FHD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304405
-#EXTINF:-1,Canal Trece HD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304406
-#EXTINF:-1,Noticias PY HD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304412
-#EXTINF:-1,Paraguay TV SD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304413
-#EXTINF:-1,Paravision SD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304415
-#EXTINF:-1,RCC TV HD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304416
-#EXTINF:-1,Telefuturo FHD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304419
-#EXTINF:-1,Tigo Sports SD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304421
-#EXTINF:-1,Tigo Sports Plus SD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304422
-#EXTINF:-1,Unicanal SD (PY)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304426
-#EXTINF:-1,Canal 8 Multimedios HD (CR)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304479
-#EXTINF:-1,Colosal HD (CR)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304480
-#EXTINF:-1,Telered SD (CR)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304493
-#EXTINF:-1,TeleSistema SD (CR)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304494
-#EXTINF:-1,TVN Canal 14 HD (CR)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304502
-#EXTINF:-1,Cable Noticias SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304221
-#EXTINF:-1,Cali TV SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304222
-#EXTINF:-1,Canal 1 SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304225
-#EXTINF:-1,Canal Capital FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304226
-#EXTINF:-1,Canal Congreso SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304229
-#EXTINF:-1,Canal Institucional FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304231
-#EXTINF:-1,Canal Trece HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304234
-#EXTINF:-1,Canal Trece SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304237
-#EXTINF:-1,Caracol HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304245
-#EXTINF:-1,Caracol Internacional FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304247
-#EXTINF:-1,Caracol SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304248
-#EXTINF:-1,City TV SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304249
-#EXTINF:-1,Cosmovisión SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304251
-#EXTINF:-1,NTN24 SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304255
-#EXTINF:-1,RCN FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304257
-#EXTINF:-1,RCN SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304258
-#EXTINF:-1,RCN HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304259
-#EXTINF:-1,RCN Telenovelas SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304262
-#EXTINF:-1,Señal Colombia SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304263
-#EXTINF:-1,Señal Colombia HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304265
-#EXTINF:-1,Señal Colombia SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304266
-#EXTINF:-1,Teleantioquia HD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304269
-#EXTINF:-1,Teleantioquia SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304270
-#EXTINF:-1,Telecafe FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304271
-#EXTINF:-1,Telecafe SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304273
-#EXTINF:-1,Telecaribe SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304276
-#EXTINF:-1,Teleisla FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304277
-#EXTINF:-1,Teleisla SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304279
-#EXTINF:-1,RCN Nuestra Tele Int. SD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313029
-#EXTINF:-1,RCN Internacional FHD (CO)
-http://hidra.live:80/mnbgcnpi/bcbausa71/313031
-#EXTINF:-1,Telesur SD (VE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43554
-#EXTINF:-1,Televen SD (VE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43561
-#EXTINF:-1,Vale TV HD (VE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43562
-#EXTINF:-1,Venevision HD (VE)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43563
-#EXTINF:-1,AZ Clic FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43599
-#EXTINF:-1,AZ Click SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43600
-#EXTINF:-1,AZ Cinema FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43601
-#EXTINF:-1,AZ Corazon FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43602
-#EXTINF:-1,AZ Mundo FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43603
-#EXTINF:-1,Azteca 7 FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43605
-#EXTINF:-1,Foro TV FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43608
-#EXTINF:-1,Imagen TV FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43609
-#EXTINF:-1,Ingenio TV SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43612
-#EXTINF:-1,Azteca 1 SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43613
-#EXTINF:-1,Azteca Mundo SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43616
-#EXTINF:-1,ADN40 FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43619
-#EXTINF:-1,TVO FHD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43620
-#EXTINF:-1,Canal 5 SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43626
-#EXTINF:-1,Mexiquice SD (MX)
-http://hidra.live:80/mnbgcnpi/bcbausa71/43631
-#EXTINF:-1,Azteca 7  2 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302683
-#EXTINF:-1,Azteca Corazon HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302681
-#EXTINF:-1,Azteca Uno HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302682
-#EXTINF:-1,Aztecamenos 1 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302685
-#EXTINF:-1,AZ1 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302614
-#EXTINF:-1,AZ Cinema HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302615
-#EXTINF:-1,AZ Mundo FHD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302680
-#EXTINF:-1,Canal Once HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/304506
-#EXTINF:-1,MTY Canal 8 Televisa HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302688
-#EXTINF:-1,MTY Canal 4 Televisa HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302687
-#EXTINF:-1,ForoTV HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302620
-#EXTINF:-1,Canal 5 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302619
-#EXTINF:-1,Imagen HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302675
-#EXTINF:-1,ADN40 HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302602
-#EXTINF:-1,Milenio TV HD (MX VIP)
-http://hidra.live:80/mnbgcnpi/bcbausa71/302702
-#EXTINF:-1,24/7 VIP Cinema Accion Classics FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50572
-#EXTINF:-1,24/7 VIP Cinema Horror Classics HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50574
-#EXTINF:-1,24/7 VIP Cinema Comedia FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50575
-#EXTINF:-1,24/7 VIP Cinema DC Comics FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50576
-#EXTINF:-1,24/7 VIP Cinema DC Universe HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50577
-#EXTINF:-1,24/7 VIP Cinema Disney Family FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50578
-#EXTINF:-1,24/7 VIP Cinema Disney Pixar FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50579
-#EXTINF:-1,24/7 VIP Cinema Dreamworks FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50580
-#EXTINF:-1,24/7 VIP Cinema Familia FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50581
-#EXTINF:-1,24/7 VIP Cinema Happy Madison FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50582
-#EXTINF:-1,24/7 VIP Cinema Horror FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50583
-#EXTINF:-1,24/7 VIP Cinema Lego Movies FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50584
-#EXTINF:-1,24/7 VIP Cinema Marvel Animated FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50585
-#EXTINF:-1,24/7 VIP Cinema Marvel Studios FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50586
-#EXTINF:-1,24/7 VIP Cocina Abierta FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50588
-#EXTINF:-1,24/7 VIP Cuentos de la Cripta SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50589
-#EXTINF:-1,24/7 VIP Death Note HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50592
-#EXTINF:-1,24/7 VIP Detective Conan SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50593
-#EXTINF:-1,24/7 VIP Disney Live Action FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50595
-#EXTINF:-1,24/7 VIP Disney Princess FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50596
-#EXTINF:-1,24/7 VIP Dragon Ball Z Movies FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50597
-#EXTINF:-1,24/7 VIP El Laboratorio de Dexter SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50598
-#EXTINF:-1,24/7 VIP Futurama HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50599
-#EXTINF:-1,24/7 VIP Happy tree friends FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50601
-#EXTINF:-1,24/7 VIP Jimmy Neutron SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50604
-#EXTINF:-1,24/7 VIP Kung Fu Panda HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50606
-#EXTINF:-1,24/7 VIP La Casa de Mickey Mouse HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50607
-#EXTINF:-1,24/7 VIP La Tropa Goofy HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50610
-#EXTINF:-1,24/7 VIP Lilo & Stitch SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50611
-#EXTINF:-1,24/7 VIP Lo Mejor de Donald SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50612
-#EXTINF:-1,24/7 VIP Los Locos Adams
-http://hidra.live:80/mnbgcnpi/bcbausa71/50615
-#EXTINF:-1,24/7 VIP Los Simpsons FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50616
-#EXTINF:-1,24/7 VIP Los Simpsons Horror HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50617
-#EXTINF:-1,24/7 VIP Los Simpsons Retro SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50618
-#EXTINF:-1,24/7 VIP Masha y el Oso HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50620
-#EXTINF:-1,24/7 VIP Moviecenter Kids FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50622
-#EXTINF:-1,24/7 VIP Moviecenter Premium FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50623
-#EXTINF:-1,24/7 VIP Moviecenter Premium Este FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50624
-#EXTINF:-1,24/7 VIP Moviecenter Premium Oeste FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50625
-#EXTINF:-1,24/7 VIP Paw Patrol FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50626
-#EXTINF:-1,24/7 VIP Peppa Pig FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50627
-#EXTINF:-1,24/7 VIP Pinguinos de Madagascar HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50628
-#EXTINF:-1,24/7 VIP Pocoyo FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50630
-#EXTINF:-1,24/7 VIP Rick y Morty FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50631
-#EXTINF:-1,24/7 VIP South Park FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50632
-#EXTINF:-1,24/7 VIP Talking Tom FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50633
-#EXTINF:-1,24/7 VIP 31 Minutos HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50635
-#EXTINF:-1,24/7 VIP Sailor Moon SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50636
-#EXTINF:-1,24/7 VIP Tiny Toons SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/50642
-#EXTINF:-1,24/7 Pantera Rosa OLD SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/34443
-#EXTINF:-1,24/7 Dragon Ball Z
-http://hidra.live:80/mnbgcnpi/bcbausa71/35448
-#EXTINF:-1,24/7 Peppa Pig HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35480
-#EXTINF:-1,24/7 Tom y Jerry SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35484
-#EXTINF:-1,24/7 Hi-Man SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35486
-#EXTINF:-1,24/7 Thundercat SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35490
-#EXTINF:-1,24/7 Star Trek 
-http://hidra.live:80/mnbgcnpi/bcbausa71/35491
-#EXTINF:-1,24/7 Sony Y Su Banda SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35492
-#EXTINF:-1,24/7 Scooby Doo: Dónde estás? SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35493
-#EXTINF:-1,24/7 Robotech SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35494
-#EXTINF:-1,24/7 La Pequeña LuLú SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35501
-#EXTINF:-1,24/7 South Park HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35509
-#EXTINF:-1,24/7 Phineas Y Ferb HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35510
-#EXTINF:-1,24/7 Patoaventura 2017 HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35511
-#EXTINF:-1,24/7 Padre De Familia HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35512
-#EXTINF:-1,24/7 Gravity falls HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35515
-#EXTINF:-1,24/7 Bob Esponja HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35517
-#EXTINF:-1,24/7 PatoAventuras 1987 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35518
-#EXTINF:-1,24/7 Malcolm HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35523
-#EXTINF:-1,24/7 Los Caballeros Del Zodiaco HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35524
-#EXTINF:-1,24/7 Hey Arnold SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35525
-#EXTINF:-1,24/7 El Show De Looney Tunes HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35526
-#EXTINF:-1,24/7 Dragon ball Super HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35528
-#EXTINF:-1,24/7 Dragon ball  Gt HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35529
-#EXTINF:-1,24/7 Digimo Adventure SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35530
-#EXTINF:-1,24/7 Ben 10 HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35531
-#EXTINF:-1,24/7  Scooby Doo HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35533
-#EXTINF:-1,24/7 Ranma 1/2 HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35534
-#EXTINF:-1,24/7 Halcones Galáctico SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/35535
-#EXTINF:-1,24/7 Caso Cerrado Inmigracion SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49159
-#EXTINF:-1,24/7 Caso Cerrado La Familia 1 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49160
-#EXTINF:-1,24/7 Caso Cerrado La Familia 3 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49162
-#EXTINF:-1,24/7 Laura Bozzo SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49163
-#EXTINF:-1,24/7 Miguelito SD (Chile)
-http://hidra.live:80/mnbgcnpi/bcbausa71/49164
-#EXTINF:-1,24/7 Mayday Catastrofes Aereas SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49166
-#EXTINF:-1,24/7 El Mundo De Beakman Temp 1 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49168
-#EXTINF:-1,24/7 NCIS Los Angeles SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49181
-#EXTINF:-1,24/7 Los Magnificos Temp 1 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49182
-#EXTINF:-1,24/7 MacGiver (2016) Temp 1 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49186
-#EXTINF:-1,24/7 ER Sala de Urgencias SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49188
-#EXTINF:-1,24/7 Los 3 Chiflados SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49190
-#EXTINF:-1,24/7 Hechizada Temp 1 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49192
-#EXTINF:-1,24/7 La Niñera Temp 1 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49198
-#EXTINF:-1,24/7 Friends Temp 1 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49199
-#EXTINF:-1,24/7 Paso A Paso SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49203
-#EXTINF:-1,24/7 Vecinos Temp 2 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49208
-#EXTINF:-1,24/7 Vecinos Temp 3 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49209
-#EXTINF:-1,24/7 Vecinos Temp 4 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49210
-#EXTINF:-1,24/7 Paradise PD SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49214
-#EXTINF:-1,24/7 Brickleberry SD (+15)
-http://hidra.live:80/mnbgcnpi/bcbausa71/49217
-#EXTINF:-1,24/7 La Casa de Mickey Mouse SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49233
-#EXTINF:-1,24/7 La Doctora Juguete SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49234
-#EXTINF:-1,24/7 She-Ra La Princesa del Poder SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49239
-#EXTINF:-1,24/7 Sailor Moon SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49241
-#EXTINF:-1,24/7 Birdman SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49246
-#EXTINF:-1,24/7 Capitan Cabernicola SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49256
-#EXTINF:-1,24/7 Jhonny Bravo SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49257
-#EXTINF:-1,24/7 La Vaca y el Pollito SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49258
-#EXTINF:-1,24/7 Los Años Maravillosos SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49259
-#EXTINF:-1,24/7 El Oso Yogui SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49262
-#EXTINF:-1,24/7 Candy Candy SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49264
-#EXTINF:-1,24/7 La Casa de los Dibujos SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49274
-#EXTINF:-1,24/7 El Gallo Claudio SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/49275
-#EXTINF:-1,24/7 VIP Cinema Marvel Studios Este FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58067
-#EXTINF:-1,24/7 VIP Cinema Marvel Studios Oeste FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58068
-#EXTINF:-1,24/7 VIP Cinema Anime [test] FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58069
-#EXTINF:-1,24/7 VIP Retro Simpsons SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58071
-#EXTINF:-1,24/7 VIP 31 Minutos SD 
-http://hidra.live:80/mnbgcnpi/bcbausa71/58073
-#EXTINF:-1,24/7 VIP Bob Esponja SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58076
-#EXTINF:-1,24/7 VIP Dragon Ball HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58082
-#EXTINF:-1,24/7 VIP Dragon Ball 2 HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58083
-#EXTINF:-1,24/7 VIP Dragon Ball GT SD 
-http://hidra.live:80/mnbgcnpi/bcbausa71/58084
-#EXTINF:-1,24/7 VIP El Pajaro Loco SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58086
-#EXTINF:-1,24/7 VIP Gallo claudio SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58088
-#EXTINF:-1,24/7 VIP Amazon Kids (Test) FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58090
-#EXTINF:-1,24/7 VIP Lo Mejor de Pluto SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58101
-#EXTINF:-1,24/7 VIP Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58105
-#EXTINF:-1,24/7 VIP Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58106
-#EXTINF:-1,24/7 VIP Dragon Ball Super 3 Saga de la Supervivencia Universal HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58107
-#EXTINF:-1,24/7 VIP Supercampeones SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58109
-#EXTINF:-1,24/7 VIP El Chavo HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58120
-#EXTINF:-1,24/7 VIP Chespirito TV
-http://hidra.live:80/mnbgcnpi/bcbausa71/58121
-#EXTINF:-1,24/7 VIP Mr.Bean SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58123
-#EXTINF:-1,24/7 VIP Cocina Real TV FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58127
-#EXTINF:-1,24/7 VIP Hagalo Usted Mismo TV
-http://hidra.live:80/mnbgcnpi/bcbausa71/58131
-#EXTINF:-1,24/7 Cantinflas HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58264
-#EXTINF:-1,24/7 Caso Cerrado HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58265
-#EXTINF:-1,24/7 Coraje SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58267
-#EXTINF:-1,24/7 Dragon Ball GT HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58271
-#EXTINF:-1,24/7 Dragon Ball Super HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58273
-#EXTINF:-1,24/7 El Chavo Del 8 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58278
-#EXTINF:-1,24/7 El Principe De Rap SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58284
-#EXTINF:-1,24/7 El Principe Del Rap 2 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58285
-#EXTINF:-1,24/7 Friends HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58291
-#EXTINF:-1,24/7 Las aventuras de Tom Sawyer SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58298
-#EXTINF:-1,24/7 Los Caballeros del Zodiaco SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58301
-#EXTINF:-1,24/7 Los pequeños Tom y Jerry SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58310
-#EXTINF:-1,24/7 11 Los Simpsons HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58314
-#EXTINF:-1,24/7 MALCOLM SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58317
-#EXTINF:-1,24/7 Pajaro Loco HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58322
-#EXTINF:-1,24/7 Timon y Pumba HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58230
-#EXTINF:-1,24/7 The Big Bang Theory FHD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58228
-#EXTINF:-1,24/7 Supercampeones SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58223
-#EXTINF:-1,24/7 Looney Tunes  1 SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58207
-#EXTINF:-1,24/7 Guerra De Bestias Transformers SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58188
-#EXTINF:-1,24/7 Espíritu de lucha SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58182
-#EXTINF:-1,24/7 El show de Scooby Doo y ScrappyDoo SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58179
-#EXTINF:-1,24/7 Dr House HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58177
-#EXTINF:-1,24/7 Capitan Futuro SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58167
-#EXTINF:-1,24/7 Capitán Centella SD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58168
-#EXTINF:-1,24/7 Transformers Prime HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58233
-#EXTINF:-1,24/7 11 SuperGirl HD
-http://hidra.live:80/mnbgcnpi/bcbausa71/58224
-#EXTINF:-1,PPV: Cinema 01
-http://hidra.live:80/mnbgcnpi/bcbausa71/34477
-#EXTINF:-1,PPV: Cinema 02
-http://hidra.live:80/mnbgcnpi/bcbausa71/34478
-#EXTINF:-1,PPV: Cinema 03
-http://hidra.live:80/mnbgcnpi/bcbausa71/34479
-#EXTINF:-1,PPV: Cinema 04
-http://hidra.live:80/mnbgcnpi/bcbausa71/34480
-#EXTINF:-1,PPV: Cinema 05
-http://hidra.live:80/mnbgcnpi/bcbausa71/34481
-#EXTINF:-1,PPV: Cinema 06
-http://hidra.live:80/mnbgcnpi/bcbausa71/34482
-#EXTINF:-1,PPV: Cinema 07
-http://hidra.live:80/mnbgcnpi/bcbausa71/34483
-#EXTINF:-1,PPV: Cinema 08
-http://hidra.live:80/mnbgcnpi/bcbausa71/34484
-#EXTINF:-1,PPV: Cinema 09
-http://hidra.live:80/mnbgcnpi/bcbausa71/34485
-#EXTINF:-1,PPV: Cinema 10
-http://hidra.live:80/mnbgcnpi/bcbausa71/34486
-#EXTINF:-1,PPV: Cinema 11
-http://hidra.live:80/mnbgcnpi/bcbausa71/34487
-#EXTINF:-1,PPV: Cinema 12
-http://hidra.live:80/mnbgcnpi/bcbausa71/34488
-#EXTINF:-1,PPV: Cinema 13
-http://hidra.live:80/mnbgcnpi/bcbausa71/34489
-#EXTINF:-1,PPV: Cinema 14
-http://hidra.live:80/mnbgcnpi/bcbausa71/34490
-#EXTINF:-1,PPV: Cinema 15
-http://hidra.live:80/mnbgcnpi/bcbausa71/34491
-#EXTINF:-1,PPV: Cinema 16
-http://hidra.live:80/mnbgcnpi/bcbausa71/34492
-#EXTINF:-1,PPV: Cinema 17
-http://hidra.live:80/mnbgcnpi/bcbausa71/34493
-#EXTINF:-1,PPV: Cinema 18
-http://hidra.live:80/mnbgcnpi/bcbausa71/34494
-#EXTINF:-1,PPV: Cinema 19
-http://hidra.live:80/mnbgcnpi/bcbausa71/34495
-#EXTINF:-1,PPV: Cinema 20
-http://hidra.live:80/mnbgcnpi/bcbausa71/34496
-#EXTINF:-1,PPV: Cinema 21
-http://hidra.live:80/mnbgcnpi/bcbausa71/34497
-#EXTINF:-1,PPV: Cinema 22
-http://hidra.live:80/mnbgcnpi/bcbausa71/34498
-#EXTINF:-1,PPV: Cinema 24
-http://hidra.live:80/mnbgcnpi/bcbausa71/34500
-#EXTINF:-1,PPV: Cinema 25
-http://hidra.live:80/mnbgcnpi/bcbausa71/34501
-#EXTINF:-1,PPV: Cinema 26
-http://hidra.live:80/mnbgcnpi/bcbausa71/34502
-#EXTINF:-1,PPV: Cinema 27
-http://hidra.live:80/mnbgcnpi/bcbausa71/34503
-#EXTINF:-1,PPV: Cinema 28
-http://hidra.live:80/mnbgcnpi/bcbausa71/34504
-#EXTINF:-1,PPV: Cinema 30
-http://hidra.live:80/mnbgcnpi/bcbausa71/34506
-#EXTINF:-1,PPV: Cinema 31
-http://hidra.live:80/mnbgcnpi/bcbausa71/34507
-#EXTINF:-1,PPV: Cinema 32
-http://hidra.live:80/mnbgcnpi/bcbausa71/34508
-#EXTINF:-1,PPV: Cinema 33
-http://hidra.live:80/mnbgcnpi/bcbausa71/34509
-#EXTINF:-1,PPV: Cinema 34
-http://hidra.live:80/mnbgcnpi/bcbausa71/34510
-#EXTINF:-1,PPV: Cinema 35
-http://hidra.live:80/mnbgcnpi/bcbausa71/34511
-#EXTINF:-1,PPV: Cinema 36
-http://hidra.live:80/mnbgcnpi/bcbausa71/34512
+#EXTINF:-1 tvg-id="mls.inter.sport" tvg-name="mls.inter.sport" tvg-type="live" group-title="Sports EPL EFL UEFA MLS" tvg-logo="https://media.tv4.live/mls.inter.sport.png",MLS Inter Miami CF
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mls.inter.sport.m3u8
+#EXTINF:-1 tvg-id="26.tv.ar" tvg-name="26.tv.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/26.tv.ar.png",26 TV AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/26.tv.ar.m3u8
+#EXTINF:-1 tvg-id="3abn.latino.w44ct.dt4.albany.ny.us" tvg-name="3abn.latino.w44ct.dt4.albany.ny.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/3abn.latino.w44ct.dt4.albany.ny.us.png",3ABN Latino
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/3abn.latino.w44ct.dt4.albany.ny.us.m3u8
+#EXTINF:-1 tvg-id="a.e.mundo.co" tvg-name="a.e.mundo.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/a.e.mundo.co.png",A&E CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/a.e.mundo.co.m3u8
+#EXTINF:-1 tvg-id="a.e.mundo.mx" tvg-name="a.e.mundo.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/a.e.mundo.mx.png",A&E MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/a.e.mundo.mx.m3u8
+#EXTINF:-1 tvg-id="america.24.ar" tvg-name="america.24.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/america.24.ar.png",A24 AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/america.24.ar.m3u8
+#EXTINF:-1 tvg-id="proyecto.40.mx" tvg-name="proyecto.40.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/proyecto.40.mx.png",adn40 MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/proyecto.40.mx.m3u8
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="afizzionados.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/afizzionados.mx.png",Afizzionados MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/afizzionados.mx.m3u8
+#EXTINF:-1 tvg-id="amc.co" tvg-name="amc.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/amc.co.png",AMC CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/amc.co.m3u8
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="amc.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/amc.mx.png",AMC MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/amc.mx.m3u8
+#EXTINF:-1 tvg-id="america.sports.ar" tvg-name="america.sports.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/america.sports.ar.png",América Sports AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/america.sports.ar.m3u8
+#EXTINF:-1 tvg-id="america.television.pe" tvg-name="america.television.pe" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/america.television.pe.png",America Television
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/america.television.pe.m3u8
+#EXTINF:-1 tvg-id="america.2.capital.ar" tvg-name="america.2.capital.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/america.2.capital.ar.png",América TV AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/america.2.capital.ar.m3u8
+#EXTINF:-1 tvg-id="animal.planet.co" tvg-name="animal.planet.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/animal.planet.co.png",Animal Planet CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/animal.planet.co.m3u8
+#EXTINF:-1 tvg-id="antena3.co" tvg-name="antena3.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/antena3.co.png",Antena3 CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/antena3.co.m3u8
+#EXTINF:-1 tvg-id="atb.bo" tvg-name="atb.bo" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/atb.bo.png",ATB BO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/atb.bo.m3u8
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="atv.pe" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/atv.pe.png",ATV PE
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/atv.pe.m3u8
+#EXTINF:-1 tvg-id="axn.co" tvg-name="axn.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/axn.co.png",AXN CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/axn.co.m3u8
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="axn.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/axn.mx.png",AXN MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/axn.mx.m3u8
+#EXTINF:-1 tvg-id="az.cinema.mx" tvg-name="az.cinema.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/az.cinema.mx.png",Az Cinema MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/az.cinema.mx.m3u8
+#EXTINF:-1 tvg-id="az.corazon.co" tvg-name="az.corazon.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/az.corazon.co.png",Az Corazon CO
+
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/az.corazon.co.m3u8
+#EXTINF:-1 tvg-id="az.corazon.mx" tvg-name="az.corazon.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/az.corazon.mx.png",Az Corazon MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/az.corazon.mx.m3u8
+#EXTINF:-1 tvg-id="az.mundo.co" tvg-name="az.mundo.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/az.mundo.co.png",Az Mundo CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/az.mundo.co.m3u8
+#EXTINF:-1 tvg-id="azteca.hn" tvg-name="azteca.hn" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/azteca.hn.png",Azteca
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/azteca.hn.m3u8
+#EXTINF:-1 tvg-id="azteca.7.mx" tvg-name="azteca.7.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/azteca.7.mx.png",Azteca 7 MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/azteca.7.mx.m3u8
+#EXTINF:-1 tvg-id="azteca.uno.mx" tvg-name="azteca.uno.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/azteca.uno.mx.png",Azteca Uno MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/azteca.uno.mx.m3u8
+#EXTINF:-1 tvg-id="babytv.cl" tvg-name="babytv.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/babytv.cl.png",BabyTV CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/babytv.cl.m3u8
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="bandamax.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/bandamax.mx.png",Bandamax MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bandamax.mx.m3u8
+#EXTINF:-1 tvg-id="bandamax.us" tvg-name="bandamax.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/bandamax.us.png",Bandamax US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bandamax.us.m3u8
+#EXTINF:-1 tvg-id="bbc.world.co" tvg-name="bbc.world.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/bbc.world.co.png",BBC World CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bbc.world.co.m3u8
+#EXTINF:-1 tvg-id="bein.sport.en.espanol.us" tvg-name="bein.sport.en.espanol.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/bein.sport.en.espanol.us.png",beIN Sport en Espanol
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bein.sport.en.espanol.us.m3u8
+#EXTINF:-1 tvg-id="bloomberg.ar" tvg-name="bloomberg.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/bloomberg.ar.png",Bloomberg AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bloomberg.ar.m3u8
+#EXTINF:-1 tvg-id="bolivia.tv.bo" tvg-name="bolivia.tv.bo" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/bolivia.tv.bo.png",Bolivia TV BO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bolivia.tv.bo.m3u8
+#EXTINF:-1 tvg-id="bolivision.bo" tvg-name="bolivision.bo" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/bolivision.bo.png",Bolivision BO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bolivision.bo.m3u8
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="c5n.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/c5n.ar.png",C5N AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/c5n.ar.m3u8
+#EXTINF:-1 tvg-id="canal.11.hn" tvg-name="canal.11.hn" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.11.hn.png",Canal 11 HN
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.11.hn.m3u8
+#EXTINF:-1 tvg-id="canal.12.nacional.sv" tvg-name="canal.12.nacional.sv" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.12.nacional.sv.png",Canal 12 SV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.12.nacional.sv.m3u8
+#EXTINF:-1 tvg-id="canal.13.cl" tvg-name="canal.13.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.13.cl.png",Canal 13 CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.13.cl.m3u8
+#EXTINF:-1 tvg-id="canal.2.nacional.sv" tvg-name="canal.2.nacional.sv" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.2.nacional.sv.png",Canal 2 SV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.2.nacional.sv.m3u8
+#EXTINF:-1 tvg-id="canal.24.hs.espana.cl" tvg-name="canal.24.hs.espana.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.24.hs.espana.cl.png",Canal 24hs España CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.24.hs.espana.cl.m3u8
+#EXTINF:-1 tvg-id="canal4.mx" tvg-name="canal4.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal4.mx.png",Canal 4 MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal4.mx.m3u8
+#EXTINF:-1 tvg-id="canal.4.nacional.sv" tvg-name="canal.4.nacional.sv" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.4.nacional.sv.png",Canal 4 SV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.4.nacional.sv.m3u8
+#EXTINF:-1 tvg-id="canal.5.galavision.mx" tvg-name="canal.5.galavision.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.5.galavision.mx.png",Canal 5 Galavision MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.5.galavision.mx.m3u8
+#EXTINF:-1 tvg-id="canal.5.hn" tvg-name="canal.5.hn" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.5.hn.png",Canal 5 HN
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.5.hn.m3u8
+#EXTINF:-1 tvg-id="xh.gc.canal.5.mx" tvg-name="xh.gc.canal.5.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/xh.gc.canal.5.mx.png",Canal 5 MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/xh.gc.canal.5.mx.m3u8
+#EXTINF:-1 tvg-id="canal.6.hn" tvg-name="canal.6.hn" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.6.hn.png",Canal 6 HN
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.6.hn.m3u8
+#EXTINF:-1 tvg-id="canal.7.ar" tvg-name="canal.7.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.7.ar.png",Canal 7 AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.7.ar.m3u8
+#EXTINF:-1 tvg-id="canal.9.ar" tvg-name="canal.9.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.9.ar.png",Canal 9 AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.9.ar.m3u8
+#EXTINF:-1 tvg-id="canal.a.ar" tvg-name="canal.a.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.a.ar.png",Canal A AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.a.ar.m3u8
+#EXTINF:-1 tvg-id="ciudad.abierta.ar" tvg-name="ciudad.abierta.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/ciudad.abierta.ar.png",Canal de la Ciudad AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ciudad.abierta.ar.m3u8
+#EXTINF:-1 tvg-id="canal.luz.ar" tvg-name="canal.luz.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.luz.ar.png",Canal Luz AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.luz.ar.m3u8
+#EXTINF:-1 tvg-id="canal.19.nacional.sv" tvg-name="canal.19.nacional.sv" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.19.nacional.sv.png",Canal Megavision 19 SV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.19.nacional.sv.m3u8
+#EXTINF:-1 tvg-id="canal.once.lat" tvg-name="canal.once.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.once.lat.png",Canal Once
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.once.lat.m3u8
+#EXTINF:-1 tvg-id="canal.orbe.21.ar" tvg-name="canal.orbe.21.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.orbe.21.ar.png",Canal Orbe 21 AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.orbe.21.ar.m3u8
+#EXTINF:-1 tvg-id="canal.rural.ar" tvg-name="canal.rural.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.rural.ar.png",Canal Rural AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.rural.ar.m3u8
+#EXTINF:-1 tvg-id="canal.tcs.plus.sv" tvg-name="canal.tcs.plus.sv" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.tcs.plus.sv.png",Canal TCS Plus SV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.tcs.plus.sv.m3u8
+#EXTINF:-1 tvg-id="canal.tele.el.sv" tvg-name="canal.tele.el.sv" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.tele.el.sv.png",Canal Tele El SV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.tele.el.sv.m3u8
+#EXTINF:-1 tvg-id="canal.uno.co" tvg-name="canal.uno.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.uno.co.png",Canal Uno CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.uno.co.m3u8
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="caracol.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/caracol.co.png",Caracol CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/caracol.co.m3u8
+#EXTINF:-1 tvg-id="caracol.hd2.co" tvg-name="caracol.hd2.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/caracol.hd2.co.png",Caracol HD2 CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/caracol.hd2.co.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.co" tvg-name="cartoon.network.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cartoon.network.co.png",Cartoon Network CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cartoon.network.co.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.mx" tvg-name="cartoon.network.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cartoon.network.mx.png",Cartoon Network MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cartoon.network.mx.m3u8
+#EXTINF:-1 tvg-id="cdf.basico.cl" tvg-name="cdf.basico.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cdf.basico.cl.png",CDF Basico CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cdf.basico.cl.m3u8
+#EXTINF:-1 tvg-id="cdf.cl" tvg-name="cdf.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cdf.cl.png",CDF CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cdf.cl.m3u8
+#EXTINF:-1 tvg-id="cdf.premium.cl" tvg-name="cdf.premium.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cdf.premium.cl.png",CDF Premium CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cdf.premium.cl.m3u8
+#EXTINF:-1 tvg-id="centroamerica.tv.us" tvg-name="centroamerica.tv.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/centroamerica.tv.us.png",CentroAmérica TV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/centroamerica.tv.us.m3u8
+#EXTINF:-1 tvg-id="ch.11.cr" tvg-name="ch.11.cr" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/ch.11.cr.png",Channel 11 CR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ch.11.cr.m3u8
+#EXTINF:-1 tvg-id="ch.11.gt" tvg-name="ch.11.gt" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/ch.11.gt.png",Channel 11 GT
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ch.11.gt.m3u8
+#EXTINF:-1 tvg-id="ch.3.gt" tvg-name="ch.3.gt" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/ch.3.gt.png",Channel 3 GT
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ch.3.gt.m3u8
+#EXTINF:-1 tvg-id="ch.4.cr" tvg-name="ch.4.cr" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/ch.4.cr.png",Channel 4 CR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ch.4.cr.m3u8
+#EXTINF:-1 tvg-id="ch.6.cr" tvg-name="ch.6.cr" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/ch.6.cr.png",Channel 6 CR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ch.6.cr.m3u8
+#EXTINF:-1 tvg-id="ch.7.cr" tvg-name="ch.7.cr" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/ch.7.cr.png",Channel 7 CR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ch.7.cr.m3u8
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="chilevision.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/chilevision.cl.png",Chilevision CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/chilevision.cl.m3u8
+#EXTINF:-1 tvg-id="cine.estelar.us" tvg-name="cine.estelar.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cine.estelar.us.png",Cine Estelar
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cine.estelar.us.m3u8
+#EXTINF:-1 tvg-id="tvc.cine.mexicano.cmc.mx" tvg-name="tvc.cine.mexicano.cmc.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tvc.cine.mexicano.cmc.mx.png",Cine Mexicano MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tvc.cine.mexicano.cmc.mx.m3u8
+#EXTINF:-1 tvg-id="cine.sony.us" tvg-name="cine.sony.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cine.sony.us.png",Cine Sony US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cine.sony.us.m3u8
+#EXTINF:-1 tvg-id="cinecanal.ar" tvg-name="cinecanal.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cinecanal.ar.png",Cinecanal AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cinecanal.ar.m3u8
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="cinecanal.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cinecanal.mx.png",Cinecanal MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 tvg-id="cinemax.ar" tvg-name="cinemax.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cinemax.ar.png",Cinemax AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cinemax.ar.m3u8
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="cinemax.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cinemax.mx.png",Cinemax MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cinemax.mx.m3u8
+#EXTINF:-1 tvg-id="cnn.en.espanol.mx" tvg-name="cnn.en.espanol.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cnn.en.espanol.mx.png",CNN en Espanol MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cnn.en.espanol.mx.m3u8
+#EXTINF:-1 tvg-id="cnn.espanol.co" tvg-name="cnn.espanol.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cnn.espanol.co.png",CNN Espanol CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cnn.espanol.co.m3u8
+#EXTINF:-1 tvg-id="cnn.espaol.us" tvg-name="cnn.espaol.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cnn.espaol.us.png",CNN Espanol US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cnn.espaol.us.m3u8
+#EXTINF:-1 tvg-id="cnn.international.co" tvg-name="cnn.international.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/cnn.international.co.png",CNN International CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cnn.international.co.m3u8
+#EXTINF:-1 tvg-id="comedy.central.ar" tvg-name="comedy.central.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/comedy.central.ar.png",Comedy Central AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/comedy.central.ar.m3u8
+#EXTINF:-1 tvg-id="comedy.central.mx" tvg-name="comedy.central.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/comedy.central.mx.png",Comedy Central MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/comedy.central.mx.m3u8
+#EXTINF:-1 tvg-id="de.pelicula.clasico.us" tvg-name="de.pelicula.clasico.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/de.pelicula.clasico.us.png",De Pelicula Clasico US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/de.pelicula.clasico.us.m3u8
+#EXTINF:-1 tvg-id="de.pelicula.us" tvg-name="de.pelicula.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/de.pelicula.us.png",De Pelicula US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/de.pelicula.us.m3u8
+#EXTINF:-1 tvg-id="directv.sport.1.co" tvg-name="directv.sport.1.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/directv.sport.1.co.png",Directv Sport 1
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/directv.sport.1.co.m3u8
+#EXTINF:-1 tvg-id="directv.sport.2.co" tvg-name="directv.sport.2.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/directv.sport.2.co.png",Directv Sport 2
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/directv.sport.2.co.m3u8
+#EXTINF:-1 tvg-id="discovery.channel.co" tvg-name="discovery.channel.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.channel.co.png",Discovery Channel CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.channel.co.m3u8
+#EXTINF:-1 tvg-id="discovery.channel.mx" tvg-name="discovery.channel.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.channel.mx.png",Discovery Channel MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.channel.mx.m3u8
+#EXTINF:-1 tvg-id="discovery.civilization.co" tvg-name="discovery.civilization.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.civilization.co.png",Discovery Civilization CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.civilization.co.m3u8
+#EXTINF:-1 tvg-id="discovery.en.espanol.us" tvg-name="discovery.en.espanol.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.en.espanol.us.png",Discovery en Espanol
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.en.espanol.us.m3u8
+#EXTINF:-1 tvg-id="discovery.familia.us" tvg-name="discovery.familia.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.familia.us.png",Discovery Familia US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.familia.us.m3u8
+#EXTINF:-1 tvg-id="discovery.home.and.health.mx" tvg-name="discovery.home.and.health.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.home.and.health.mx.png",Discovery Home and Health MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.home.and.health.mx.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.ar" tvg-name="discovery.kids.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.kids.ar.png",Discovery Kids AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.kids.ar.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.mx" tvg-name="discovery.kids.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.kids.mx.png",Discovery Kids MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.kids.mx.m3u8
+#EXTINF:-1 tvg-id="discovery.hd.theater.ar" tvg-name="discovery.hd.theater.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.hd.theater.ar.png",Discovery Theater AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.hd.theater.ar.m3u8
+#EXTINF:-1 tvg-id="discovery.tlc.ar" tvg-name="discovery.tlc.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.tlc.ar.png",Discovery TLC AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.tlc.ar.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.co" tvg-name="discovery.turbo.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.turbo.co.png",Discovery Turbo CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.turbo.co.m3u8
+#EXTINF:-1 tvg-id="discovery.world.co" tvg-name="discovery.world.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.world.co.png",Discovery World CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.world.co.m3u8
+#EXTINF:-1 tvg-id="discovery.science.co" tvg-name="discovery.science.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/discovery.science.co.png",DiscoveryScience CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.science.co.m3u8
+#EXTINF:-1 tvg-id="disney.co" tvg-name="disney.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/disney.co.png",Disney CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/disney.co.m3u8
+#EXTINF:-1 tvg-id="disney.jr.co" tvg-name="disney.jr.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/disney.jr.co.png",Disney JR CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/disney.jr.co.m3u8
+#EXTINF:-1 tvg-id="disney.xd.multicountry.co" tvg-name="disney.xd.multicountry.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/disney.xd.multicountry.co.png",Disney XD CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/disney.xd.multicountry.co.m3u8
+#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="distrito.comedia.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/distrito.comedia.mx.png",Distrio Comedia MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/distrito.comedia.mx.m3u8
+#EXTINF:-1 tvg-id="deutsche.welle.amerika.co" tvg-name="deutsche.welle.amerika.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/deutsche.welle.amerika.co.png",DW (Español) CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/deutsche.welle.amerika.co.m3u8
+#EXTINF:-1 tvg-id="e.co" tvg-name="e.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/e.co.png",E! CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/e.co.m3u8
+#EXTINF:-1 tvg-id="ecuavisa.lat" tvg-name="ecuavisa.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/ecuavisa.lat.png",Ecuavisa
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ecuavisa.lat.m3u8
+#EXTINF:-1 tvg-id="ecuavisa.in.lat" tvg-name="ecuavisa.in.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/ecuavisa.in.lat.png",Ecuavisa Internacional
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ecuavisa.in.lat.m3u8
+#EXTINF:-1 tvg-id="el.garage.ar" tvg-name="el.garage.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/el.garage.ar.png",El Garage AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/el.garage.ar.m3u8
+#EXTINF:-1 tvg-id="el.gourmet.ar" tvg-name="el.gourmet.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/el.gourmet.ar.png",El Gourmet
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/el.gourmet.ar.m3u8
+#EXTINF:-1 tvg-id="el.trece.ar" tvg-name="el.trece.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/el.trece.ar.png",El Trece AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/el.trece.ar.m3u8
+#EXTINF:-1 tvg-id="encuentro.ar" tvg-name="encuentro.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/encuentro.ar.png",Encuentro AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/encuentro.ar.m3u8
+#EXTINF:-1 tvg-id="espn.2.co" tvg-name="espn.2.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/espn.2.co.png",ESPN 2 CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/espn.2.co.m3u8
+#EXTINF:-1 tvg-id="espn.2.mx" tvg-name="espn.2.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/espn.2.mx.png",ESPN 2 MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/espn.2.mx.m3u8
+#EXTINF:-1 tvg-id="espn.3.co" tvg-name="espn.3.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/espn.3.co.png",ESPN 3 CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/espn.3.co.m3u8
+#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="espn.3.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/espn.3.mx.png",ESPN 3 MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/espn.3.mx.m3u8
+#EXTINF:-1 tvg-id="espn.co" tvg-name="espn.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/espn.co.png",ESPN CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/espn.co.m3u8
+#EXTINF:-1 tvg-id="espn.deportes.us" tvg-name="espn.deportes.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/espn.deportes.us.png",ESPN Deportes
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/espn.deportes.us.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="espn.extra.br" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/espn.extra.br.png",ESPN Extra
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/espn.extra.br.m3u8
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="espn.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/espn.mx.png",ESPN MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/espn.mx.m3u8
+#EXTINF:-1 tvg-id="estrella.tv.us" tvg-name="estrella.tv.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/estrella.tv.us.png",Estrella TV US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/estrella.tv.us.m3u8
+#EXTINF:-1 tvg-id="eurochannel.cl" tvg-name="eurochannel.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/eurochannel.cl.png",Eurochannel CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eurochannel.cl.m3u8
+#EXTINF:-1 tvg-id="euronews.ar" tvg-name="euronews.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/euronews.ar.png",Euronews AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/euronews.ar.m3u8
+#EXTINF:-1 tvg-id="europa.europa.ar" tvg-name="europa.europa.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/europa.europa.ar.png",Europa Europa AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/europa.europa.ar.m3u8
+#EXTINF:-1 tvg-id="evtv.lat" tvg-name="evtv.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/evtv.lat.png",EVTV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/evtv.lat.m3u8
+#EXTINF:-1 tvg-id="ewtn.ar" tvg-name="ewtn.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/ewtn.ar.png",EWTN AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ewtn.ar.m3u8
+#EXTINF:-1 tvg-id="film.arts.mx" tvg-name="film.arts.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/film.arts.mx.png",Film and Arts MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/film.arts.mx.m3u8
+#EXTINF:-1 tvg-id="film.arts.ar" tvg-name="film.arts.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/film.arts.ar.png",Film Arts AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/film.arts.ar.m3u8
+#EXTINF:-1 tvg-id="canal.4.foro.tv.mx" tvg-name="canal.4.foro.tv.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.4.foro.tv.mx.png",FOROtv MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.4.foro.tv.mx.m3u8
+#EXTINF:-1 tvg-id="fox.deportes.us" tvg-name="fox.deportes.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.deportes.us.png",Fox Deportes
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.deportes.us.m3u8
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="fox.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.mx.png",FOX MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.mx.m3u8
+#EXTINF:-1 tvg-id="fox.news.co" tvg-name="fox.news.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.news.co.png",FOX News CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.news.co.m3u8
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="fox.premium.1.br" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.premium.1.br.png",FOX Premium 1
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.premium.1.br.m3u8
+#EXTINF:-1 tvg-id="fox.sports.mx" tvg-name="fox.sports.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.sports.mx.png",FOX Sports 1 MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.sports.mx.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.co" tvg-name="fox.sports.2.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.sports.2.co.png",FOX Sports 2 CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.sports.2.co.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.mx" tvg-name="fox.sports.2.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.sports.2.mx.png",FOX Sports 2 MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.sports.2.mx.m3u8
+#EXTINF:-1 tvg-id="fox.sports.3.co" tvg-name="fox.sports.3.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.sports.3.co.png",FOX Sports 3 CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.sports.3.co.m3u8
+#EXTINF:-1 tvg-id="fox.sports.3.mx" tvg-name="fox.sports.3.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.sports.3.mx.png",FOX Sports 3 MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.sports.3.mx.m3u8
+#EXTINF:-1 tvg-id="fox.sports.cl" tvg-name="fox.sports.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.sports.cl.png",FOX Sports CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.sports.cl.m3u8
+#EXTINF:-1 tvg-id="fox.sports.co" tvg-name="fox.sports.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.sports.co.png",FOX Sports CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.sports.co.m3u8
+#EXTINF:-1 tvg-id="fox.sports.premium.ar" tvg-name="fox.sports.premium.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fox.sports.premium.ar.png",Fox Sports Premium AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.sports.premium.ar.m3u8
+#EXTINF:-1 tvg-id="frecuencia.latina.pe" tvg-name="frecuencia.latina.pe" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/frecuencia.latina.pe.png",Frecuencia Latina PE
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/frecuencia.latina.pe.m3u8
+#EXTINF:-1 tvg-id="fx.co" tvg-name="fx.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fx.co.png",FX CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fx.co.m3u8
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="fx.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/fx.mx.png",FX MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fx.mx.m3u8
+#EXTINF:-1 tvg-id="galavision.eastern.us" tvg-name="galavision.eastern.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/galavision.eastern.us.png",Galavision US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/galavision.eastern.us.m3u8
+#EXTINF:-1 tvg-id="galicia.tv.ar" tvg-name="galicia.tv.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/galicia.tv.ar.png",Galicia TV AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/galicia.tv.ar.m3u8
+#EXTINF:-1 tvg-id="glitz.ar" tvg-name="glitz.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/glitz.ar.png",Glitz AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/glitz.ar.m3u8
+#EXTINF:-1 tvg-id="goltv.lat" tvg-name="goltv.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/goltv.lat.png",Gol TV Ecuador
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/goltv.lat.m3u8
+#EXTINF:-1 tvg-id="gol.tv.espanol.us" tvg-name="gol.tv.espanol.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/gol.tv.espanol.us.png",Gol TV Espanol
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/gol.tv.espanol.us.m3u8
+#EXTINF:-1 tvg-id="golf.channel.br" tvg-name="golf.channel.br" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/golf.channel.br.png",Golf Channel
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/golf.channel.br.m3u8
+#EXTINF:-1 tvg-id="h2.co" tvg-name="h2.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/h2.co.png",H2 CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/h2.co.m3u8
+#EXTINF:-1 tvg-id="hbo.2.co" tvg-name="hbo.2.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/hbo.2.co.png",HBO 2 CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/hbo.2.co.m3u8
+#EXTINF:-1 tvg-id="hbo.co" tvg-name="hbo.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/hbo.co.png",HBO CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/hbo.co.m3u8
+#EXTINF:-1 tvg-id="hbo.family.co" tvg-name="hbo.family.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/hbo.family.co.png",HBO Family CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/hbo.family.co.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.pan.co" tvg-name="hbo.plus.pan.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/hbo.plus.pan.co.png",HBO Plus CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/hbo.plus.pan.co.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.co" tvg-name="hbo.signature.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/hbo.signature.co.png",HBO Signature CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/hbo.signature.co.m3u8
+#EXTINF:-1 tvg-id="hch.hon" tvg-name="hch.hon" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/hch.hon.png",HCH HON
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/hch.hon.m3u8
+#EXTINF:-1 tvg-id="history.co" tvg-name="history.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/history.co.png",History CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/history.co.m3u8
+#EXTINF:-1 tvg-id="hola.tv.co" tvg-name="hola.tv.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/hola.tv.co.png",HOLA TV CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/hola.tv.co.m3u8
+#EXTINF:-1 tvg-id="htv.ar" tvg-name="htv.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/htv.ar.png",HTV AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/htv.ar.m3u8
+#EXTINF:-1 tvg-id="id.co" tvg-name="id.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/id.co.png",ID CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/id.co.m3u8
+#EXTINF:-1 tvg-id="imagine.mx" tvg-name="imagine.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/imagine.mx.png",Imagine TV MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/imagine.mx.m3u8
+#EXTINF:-1 tvg-id="la.nacion.ar" tvg-name="la.nacion.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/la.nacion.ar.png",La NACION AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/la.nacion.ar.m3u8
+#EXTINF:-1 tvg-id="canal.de.las.estrellas.xew.mx" tvg-name="canal.de.las.estrellas.xew.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.de.las.estrellas.xew.mx.png",Las Estrella MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.de.las.estrellas.xew.mx.m3u8
+#EXTINF:-1 tvg-id="canal.de.las.estrellas.ar" tvg-name="canal.de.las.estrellas.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/canal.de.las.estrellas.ar.png",Las Estrellas AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.de.las.estrellas.ar.m3u8
+#EXTINF:-1 tvg-id="lifetime.ar" tvg-name="lifetime.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/lifetime.ar.png",Lifetime
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/lifetime.ar.m3u8
+#EXTINF:-1 tvg-id="magazine.ar" tvg-name="magazine.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/magazine.ar.png",Magazine
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/magazine.ar.m3u8
+#EXTINF:-1 tvg-id="magico.peru.lat" tvg-name="magico.peru.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/magico.peru.lat.png",Magico Peru
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/magico.peru.lat.m3u8
+#EXTINF:-1 tvg-id="mas.chic.ar" tvg-name="mas.chic.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/mas.chic.ar.png",Mas Chic
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mas.chic.ar.m3u8
+#EXTINF:-1 tvg-id="max.prime.ar" tvg-name="max.prime.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/max.prime.ar.png",Max Prime AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/max.prime.ar.m3u8
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="mega.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/mega.cl.png",Mega CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mega.cl.m3u8
+#EXTINF:-1 tvg-id="mega.pr" tvg-name="mega.pr" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/mega.pr.png",Mega TV PR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mega.pr.m3u8
+#EXTINF:-1 tvg-id="megavision.21.sv" tvg-name="megavision.21.sv" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/megavision.21.sv.png",MegaVision 21
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/megavision.21.sv.m3u8
+#EXTINF:-1 tvg-id="metro.ar" tvg-name="metro.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/metro.ar.png",Metro
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/metro.ar.m3u8
+#EXTINF:-1 tvg-id="milenio.tv.mx" tvg-name="milenio.tv.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/milenio.tv.mx.png",Milenio TV MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/milenio.tv.mx.m3u8
+#EXTINF:-1 tvg-id="movistar.deportes.pe" tvg-name="movistar.deportes.pe" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/movistar.deportes.pe.png",Movistar Deportes PE
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/movistar.deportes.pe.m3u8
+#EXTINF:-1 tvg-id="mtv.ar" tvg-name="mtv.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/mtv.ar.png",MTV AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mtv.ar.m3u8
+#EXTINF:-1 tvg-id="mtv.hits.ar" tvg-name="mtv.hits.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/mtv.hits.ar.png",MTV Hits AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mtv.hits.ar.m3u8
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="mtv.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/mtv.mx.png",MTV MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mtv.mx.m3u8
+#EXTINF:-1 tvg-id="mtv.tr3s.east.us" tvg-name="mtv.tr3s.east.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/mtv.tr3s.east.us.png",MTV Tr3s
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mtv.tr3s.east.us.m3u8
+#EXTINF:-1 tvg-id="muchmusic.ar" tvg-name="muchmusic.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/muchmusic.ar.png",MuchMusic AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/muchmusic.ar.m3u8
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="multimedios.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/multimedios.mx.png",Multimedios MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/multimedios.mx.m3u8
+#EXTINF:-1 tvg-id="nat.geo.co" tvg-name="nat.geo.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/nat.geo.co.png",Nat Geo CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nat.geo.co.m3u8
+#EXTINF:-1 tvg-id="nba.tv.co" tvg-name="nba.tv.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/nba.tv.co.png",NBA TV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nba.tv.co.m3u8
+#EXTINF:-1 tvg-id="nex.tv.pe" tvg-name="nex.tv.pe" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/nex.tv.pe.png",Nex Canal 21 PA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nex.tv.pe.m3u8
+#EXTINF:-1 tvg-id="nick.jr.co" tvg-name="nick.jr.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/nick.jr.co.png",Nick Jr CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nick.jr.co.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="nickelodeon.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/nickelodeon.co.png",Nickelodeon CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nickelodeon.co.m3u8
+#EXTINF:-1 tvg-id="nuestra.tele.noticias.24hs.co" tvg-name="nuestra.tele.noticias.24hs.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/nuestra.tele.noticias.24hs.co.png",NTN24 CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nuestra.tele.noticias.24hs.co.m3u8
+#EXTINF:-1 tvg-id="nueve.mx" tvg-name="nueve.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/nueve.mx.png",Nueve MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nueve.mx.m3u8
+#EXTINF:-1 tvg-id="omar.lat" tvg-name="omar.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/omar.lat.png",Omar EC
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/omar.lat.m3u8
+#EXTINF:-1 tvg-id="pakapaka.ar" tvg-name="pakapaka.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/pakapaka.ar.png",Paka Paka
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/pakapaka.ar.m3u8
+#EXTINF:-1 tvg-id="panamericana.tv.pe" tvg-name="panamericana.tv.pe" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/panamericana.tv.pe.png",Panamericana TV PE
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/panamericana.tv.pe.m3u8
+#EXTINF:-1 tvg-id="paramount.channel.co" tvg-name="paramount.channel.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/paramount.channel.co.png",Paramount Channel CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/paramount.channel.co.m3u8
+#EXTINF:-1 tvg-id="pasiones.east.us" tvg-name="pasiones.east.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/pasiones.east.us.png",Pasiones US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/pasiones.east.us.m3u8
+#EXTINF:-1 tvg-id="px.sports.ar" tvg-name="px.sports.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/px.sports.ar.png",PX Sports AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/px.sports.ar.m3u8
+#EXTINF:-1 tvg-id="quiero.ar" tvg-name="quiero.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/quiero.ar.png",Quiero AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/quiero.ar.m3u8
+#EXTINF:-1 tvg-id="rai.ar" tvg-name="rai.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/rai.ar.png",Rai AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/rai.ar.m3u8
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="rcn.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/rcn.co.png",RCN CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/rcn.co.m3u8
+#EXTINF:-1 tvg-id="rcn.int.co" tvg-name="rcn.int.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/rcn.int.co.png",RCN CO INT
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/rcn.int.co.m3u8
+#EXTINF:-1 tvg-id="rcn.nuestra.tele.us" tvg-name="rcn.nuestra.tele.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/rcn.nuestra.tele.us.png",RCN Nuestrea Tele
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/rcn.nuestra.tele.us.m3u8
+#EXTINF:-1 tvg-id="rcn.novelas.co" tvg-name="rcn.novelas.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/rcn.novelas.co.png",RCN Telenovelas
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/rcn.novelas.co.m3u8
+#EXTINF:-1 tvg-id="rtpi.america.us" tvg-name="rtpi.america.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/rtpi.america.us.png",RTPi America BR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/rtpi.america.us.m3u8
+#EXTINF:-1 tvg-id="sony.co" tvg-name="sony.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/sony.co.png",Sony CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/sony.co.m3u8
+#EXTINF:-1 tvg-id="space.ar" tvg-name="space.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/space.ar.png",Space AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/space.ar.m3u8
+#EXTINF:-1 tvg-id="studio.universal.co" tvg-name="studio.universal.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/studio.universal.co.png",Studio Universal CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/studio.universal.co.m3u8
+#EXTINF:-1 tvg-id="syfy.co" tvg-name="syfy.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/syfy.co.png",Syfy CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/syfy.co.m3u8
+#EXTINF:-1 tvg-id="tbs.co" tvg-name="tbs.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tbs.co.png",TBS CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tbs.co.m3u8
+#EXTINF:-1 tvg-id="tcm.co" tvg-name="tcm.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tcm.co.png",TCM CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tcm.co.m3u8
+#EXTINF:-1 tvg-id="teleamazonas.lat" tvg-name="teleamazonas.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/teleamazonas.lat.png",Teleamazonas EC
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/teleamazonas.lat.m3u8
+#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="teleantioquia.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/teleantioquia.co.png",Teleantioquia CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/teleantioquia.co.m3u8
+#EXTINF:-1 tvg-id="telecadena.hn" tvg-name="telecadena.hn" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telecadena.hn.png",Telecadena HN
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telecadena.hn.m3u8
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="telecaribe.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telecaribe.co.png",Telecaribe CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telecaribe.co.m3u8
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="telefe.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telefe.ar.png",Telefe AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telefe.ar.m3u8
+#EXTINF:-1 tvg-id="teleformula.lat" tvg-name="teleformula.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/teleformula.lat.png",Teleformula
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/teleformula.lat.m3u8
+#EXTINF:-1 tvg-id="telehit.us" tvg-name="telehit.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telehit.us.png",Telehit US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telehit.us.m3u8
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="telemedellin.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemedellin.co.png",Telemedellin
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemedellin.co.m3u8
+#EXTINF:-1 tvg-id="telemundo.kblr.las.vegas.nv.us" tvg-name="telemundo.kblr.las.vegas.nv.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.kblr.las.vegas.nv.us.png",Telemundo (KBLR) Las Vegas NV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.kblr.las.vegas.nv.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.kden.longmont.co.us" tvg-name="telemundo.kden.longmont.co.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.kden.longmont.co.us.png",Telemundo (KDEN) Longmont CO
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.kden.longmont.co.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.khrr.tucson.az.us" tvg-name="telemundo.khrr.tucson.az.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.khrr.tucson.az.us.png",Telemundo (KHRR) Tucson AZ
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.khrr.tucson.az.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.knso.fresno.ca.us" tvg-name="telemundo.knso.fresno.ca.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.knso.fresno.ca.us.png",Telemundo (KNSO) Fresno CA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.knso.fresno.ca.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.ksts.san.jose.ca.us" tvg-name="telemundo.ksts.san.jose.ca.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.ksts.san.jose.ca.us.png",Telemundo (KSTS) San Jose CA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.ksts.san.jose.ca.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.ktaz.phoenix.az.us" tvg-name="telemundo.ktaz.phoenix.az.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.ktaz.phoenix.az.us.png",Telemundo (KTAZ) Phoenix AZ
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.ktaz.phoenix.az.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.ktdo.el.paso.tx.us" tvg-name="telemundo.ktdo.el.paso.tx.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.ktdo.el.paso.tx.us.png",Telemundo (KTDO) El Paso TX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.ktdo.el.paso.tx.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.ktlm.brownsville.tx.us" tvg-name="telemundo.ktlm.brownsville.tx.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.ktlm.brownsville.tx.us.png",Telemundo (KTLM) Brownsville TX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.ktlm.brownsville.tx.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.ktmd.houston.tx.us" tvg-name="telemundo.ktmd.houston.tx.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.ktmd.houston.tx.us.png",Telemundo (KTMD) Houston TX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.ktmd.houston.tx.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.kuan.san.diego.ca.us" tvg-name="telemundo.kuan.san.diego.ca.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.kuan.san.diego.ca.us.png",Telemundo (KUAN) San Diego CA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.kuan.san.diego.ca.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.kvda.san.antonio.tx.us" tvg-name="telemundo.kvda.san.antonio.tx.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.kvda.san.antonio.tx.us.png",Telemundo (KVDA) San Antonio TX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.kvda.san.antonio.tx.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.kvea.los.angeles.ca.us" tvg-name="telemundo.kvea.los.angeles.ca.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.kvea.los.angeles.ca.us.png",Telemundo (KVEA) Los Angeles CA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.kvea.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.kxtx.dallas.tx.us" tvg-name="telemundo.kxtx.dallas.tx.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.kxtx.dallas.tx.us.png",Telemundo (KXTX) Dallas TX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.kxtx.dallas.tx.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.wktb.cd2.atlanta.ga.us" tvg-name="telemundo.wktb.cd2.atlanta.ga.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.wktb.cd2.atlanta.ga.us.png",Telemundo (WKTBCD2) Atlanta GA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.wktb.cd2.atlanta.ga.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.wneu.manchester.ma.us" tvg-name="telemundo.wneu.manchester.ma.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.wneu.manchester.ma.us.png",Telemundo (WNEU) Manchester MA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.wneu.manchester.ma.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.wnju.teterboro.nj.us" tvg-name="telemundo.wnju.teterboro.nj.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.wnju.teterboro.nj.us.png",Telemundo (WNJU) Teterboro NJ
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.wnju.teterboro.nj.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.wrmd.tampa.fl.us" tvg-name="telemundo.wrmd.tampa.fl.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.wrmd.tampa.fl.us.png",Telemundo (WRMD) Tampa FL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.wrmd.tampa.fl.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.wscv.fort.lauderdale.fl.us" tvg-name="telemundo.wscv.fort.lauderdale.fl.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.wscv.fort.lauderdale.fl.us.png",Telemundo (WSCV) Fort Lauderdale FL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.wsns.chicago.il.us" tvg-name="telemundo.wsns.chicago.il.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.wsns.chicago.il.us.png",Telemundo (WSNS) Chicago IL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.wsns.chicago.il.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.wwdt.cd.fort.myers.fl.us" tvg-name="telemundo.wwdt.cd.fort.myers.fl.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.wwdt.cd.fort.myers.fl.us.png",Telemundo (WWDTCD) Fort Myers FL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.wwdt.cd.fort.myers.fl.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.wwsi.philadelphia.pa.us" tvg-name="telemundo.wwsi.philadelphia.pa.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.wwsi.philadelphia.pa.us.png",Telemundo (WWSI) Philadelphia PA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.wwsi.philadelphia.pa.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.wzdc.washington.dc.us" tvg-name="telemundo.wzdc.washington.dc.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.wzdc.washington.dc.us.png",Telemundo (WZDC) Washington DC
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.wzdc.washington.dc.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.puerto.rico.pr.us" tvg-name="telemundo.puerto.rico.pr.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.puerto.rico.pr.us.png",Telemundo 2 (WKAQ) Puerto Rico
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.puerto.rico.pr.us.m3u8
+#EXTINF:-1 tvg-id="telemundo.ar" tvg-name="telemundo.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telemundo.ar.png",Telemundo AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemundo.ar.m3u8
+#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-name="tlnovelas.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tlnovelas.mx.png",Telenovelas MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tlnovelas.mx.m3u8
+#EXTINF:-1 tvg-id="telesur.ar" tvg-name="telesur.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telesur.ar.png",Telesur AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telesur.ar.m3u8
+#EXTINF:-1 tvg-id="telesur.pe" tvg-name="telesur.pe" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/telesur.pe.png",Telesur PE
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telesur.pe.m3u8
+#EXTINF:-1 tvg-id="televisa.puebla.mx" tvg-name="televisa.puebla.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/televisa.puebla.mx.png",Televisa Puebla MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/televisa.puebla.mx.m3u8
+#EXTINF:-1 tvg-id="tigo.sports.py" tvg-name="tigo.sports.py" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tigo.sports.py.png",Tigo Sports
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tigo.sports.py.m3u8
+#EXTINF:-1 tvg-id="tigo.sports.plus.py" tvg-name="tigo.sports.plus.py" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tigo.sports.plus.py.png",Tigo Sports Plus
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tigo.sports.plus.py.m3u8
+#EXTINF:-1 tvg-id="tnt.ar" tvg-name="tnt.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tnt.ar.png",TNT AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tnt.ar.m3u8
+#EXTINF:-1 tvg-id="tnt.series.ar" tvg-name="tnt.series.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tnt.series.ar.png",TNT Series AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tnt.series.ar.m3u8
+#EXTINF:-1 tvg-id="tnt.sports.ar" tvg-name="tnt.sports.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tnt.sports.ar.png",TNT Sports AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tnt.sports.ar.m3u8
+#EXTINF:-1 tvg-id="tooncast.cl" tvg-name="tooncast.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tooncast.cl.png",Tooncast CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tooncast.cl.m3u8
+#EXTINF:-1 tvg-id="tru.tv.ar" tvg-name="tru.tv.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tru.tv.ar.png",Tru TV AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tru.tv.ar.m3u8
+#EXTINF:-1 tvg-id="tsi.hn" tvg-name="tsi.hn" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tsi.hn.png",TSI HN
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tsi.hn.m3u8
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="tudn.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudn.mx.png",TUDN MX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name="tudn.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudn.us.png",TUDN US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudn.us.m3u8
+#EXTINF:-1 tvg-id="tudnxtra.1.us" tvg-name="tudnxtra.1.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudnxtra.1.us.png",TUDNxtra 1
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudnxtra.1.us.m3u8
+#EXTINF:-1 tvg-id="tudnxtra.10.us" tvg-name="tudnxtra.10.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudnxtra.10.us.png",TUDNxtra 10
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudnxtra.10.us.m3u8
+#EXTINF:-1 tvg-id="tudnxtra.2.us" tvg-name="tudnxtra.2.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudnxtra.2.us.png",TUDNxtra 2
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudnxtra.2.us.m3u8
+#EXTINF:-1 tvg-id="tudnxtra.3.us" tvg-name="tudnxtra.3.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudnxtra.3.us.png",TUDNxtra 3
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudnxtra.3.us.m3u8
+#EXTINF:-1 tvg-id="tudnxtra.4.us" tvg-name="tudnxtra.4.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudnxtra.4.us.png",TUDNxtra 4
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudnxtra.4.us.m3u8
+#EXTINF:-1 tvg-id="tudnxtra.5.us" tvg-name="tudnxtra.5.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudnxtra.5.us.png",TUDNxtra 5
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudnxtra.5.us.m3u8
+#EXTINF:-1 tvg-id="tudnxtra.6.us" tvg-name="tudnxtra.6.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudnxtra.6.us.png",TUDNxtra 6
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudnxtra.6.us.m3u8
+#EXTINF:-1 tvg-id="tudnxtra.7.us" tvg-name="tudnxtra.7.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudnxtra.7.us.png",TUDNxtra 7
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudnxtra.7.us.m3u8
+#EXTINF:-1 tvg-id="tudnxtra.8.us" tvg-name="tudnxtra.8.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudnxtra.8.us.png",TUDNxtra 8
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudnxtra.8.us.m3u8
+#EXTINF:-1 tvg-id="tudnxtra.9.us" tvg-name="tudnxtra.9.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tudnxtra.9.us.png",TUDNxtra 9
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tudnxtra.9.us.m3u8
+#EXTINF:-1 tvg-id="tv.diputados.cl" tvg-name="tv.diputados.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tv.diputados.cl.png",TV Diputados CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tv.diputados.cl.m3u8
+#EXTINF:-1 tvg-id="tv5.br" tvg-name="tv5.br" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tv5.br.png",TV5
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tv5.br.m3u8
+#EXTINF:-1 tvg-id="tv5.ar" tvg-name="tv5.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tv5.ar.png",TV5 AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tv5.ar.m3u8
+#EXTINF:-1 tvg-id="tvc.co" tvg-name="tvc.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tvc.co.png",TVC
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tvc.co.m3u8
+#EXTINF:-1 tvg-id="tvn.chile.ar" tvg-name="tvn.chile.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tvn.chile.ar.png",TVN Chile AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tvn.chile.ar.m3u8
+#EXTINF:-1 tvg-id="tvn.cl" tvg-name="tvn.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tvn.cl.png",TVN CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tvn.cl.m3u8
+#EXTINF:-1 tvg-id="tyc.sports.ar" tvg-name="tyc.sports.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/tyc.sports.ar.png",TyC Sports AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tyc.sports.ar.m3u8
+#EXTINF:-1 tvg-id="uni.kakw.austin.tx.us" tvg-name="uni.kakw.austin.tx.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.kakw.austin.tx.us.png",UNI (KAKW) Austin TX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.kakw.austin.tx.us.m3u8
+#EXTINF:-1 tvg-id="uni.kdtv.san.francisco.ca.us" tvg-name="uni.kdtv.san.francisco.ca.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.kdtv.san.francisco.ca.us.png",UNI (KDTV) San Francisco CA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.kdtv.san.francisco.ca.us.m3u8
+#EXTINF:-1 tvg-id="uni.kftv.fresno.ca.us" tvg-name="uni.kftv.fresno.ca.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.kftv.fresno.ca.us.png",UNI (KFTV) Fresno CA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.kftv.fresno.ca.us.m3u8
+#EXTINF:-1 tvg-id="uni.kmex.los.angeles.ca.us" tvg-name="uni.kmex.los.angeles.ca.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.kmex.los.angeles.ca.us.png",UNI (KMEX) Los Angeles CA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.kmex.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-id="uni.kuvn.cd.fort.worth.tx.us" tvg-name="uni.kuvn.cd.fort.worth.tx.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.kuvn.cd.fort.worth.tx.us.png",UNI (KUVNCD) Fort Worth TX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.kuvn.cd.fort.worth.tx.us.m3u8
+#EXTINF:-1 tvg-id="uni.kwex.san.antonio.tx.us" tvg-name="uni.kwex.san.antonio.tx.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.kwex.san.antonio.tx.us.png",UNI (KWEX) San Antonio TX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.kwex.san.antonio.tx.us.m3u8
+#EXTINF:-1 tvg-id="uni.kxln.houston.tx.us" tvg-name="uni.kxln.houston.tx.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.kxln.houston.tx.us.png",UNI (KXLN) Houston TX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.kxln.houston.tx.us.m3u8
+#EXTINF:-1 tvg-id="uni.wgbo.chicago.il.us" tvg-name="uni.wgbo.chicago.il.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.wgbo.chicago.il.us.png",UNI (WGBO) Chicago IL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.wgbo.chicago.il.us.m3u8
+#EXTINF:-1 tvg-id="uni.wltv.miami.fl.us" tvg-name="uni.wltv.miami.fl.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.wltv.miami.fl.us.png",UNI (WLTV) Miami FL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.wltv.miami.fl.us.m3u8
+#EXTINF:-1 tvg-id="uni.wuvg.atlanta.ga.us" tvg-name="uni.wuvg.atlanta.ga.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.wuvg.atlanta.ga.us.png",UNI (WUVG) Atlanta GA
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.wuvg.atlanta.ga.us.m3u8
+#EXTINF:-1 tvg-id="uni.wxtv.teaneck.nj.us" tvg-name="uni.wxtv.teaneck.nj.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.wxtv.teaneck.nj.us.png",UNI (WXTV) Teaneck NJ
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.wxtv.teaneck.nj.us.m3u8
+#EXTINF:-1 tvg-id="uni.wlii.puerto.rico.us" tvg-name="uni.wlii.puerto.rico.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/uni.wlii.puerto.rico.us.png",UNI Puerto Rico
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/uni.wlii.puerto.rico.us.m3u8
+#EXTINF:-1 tvg-id="unicable.cl" tvg-name="unicable.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/unicable.cl.png",Unicable
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/unicable.cl.m3u8
+#EXTINF:-1 tvg-id="unims.wfut.new.york.ny.us" tvg-name="unims.wfut.new.york.ny.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/unims.wfut.new.york.ny.us.png",UniMás (WFUT) New York NY
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/unims.wfut.new.york.ny.us.m3u8
+#EXTINF:-1 tvg-id="unimas.network.east.us" tvg-name="unimas.network.east.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/unimas.network.east.us.png",UniMas Network
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 tvg-id="universal.channel.ar" tvg-name="universal.channel.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/universal.channel.ar.png",Universal Channel AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/universal.channel.ar.m3u8
+#EXTINF:-1 tvg-id="universidad.autonoma.temuco.uatv.cl" tvg-name="universidad.autonoma.temuco.uatv.cl" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/universidad.autonoma.temuco.uatv.cl.png",Universidad Autónoma Temuco (UATV) CL
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/universidad.autonoma.temuco.uatv.cl.m3u8
+#EXTINF:-1 tvg-id="univision.eastern.us" tvg-name="univision.eastern.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/univision.eastern.us.png",Univision Eastern US
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/univision.eastern.us.m3u8
+#EXTINF:-1 tvg-id="univision.tlnovelas.us" tvg-name="univision.tlnovelas.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/univision.tlnovelas.us.png",Univision Tlnovelas
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/univision.tlnovelas.us.m3u8
+#EXTINF:-1 tvg-id="vix.deportes.1.lat" tvg-name="vix.deportes.1.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/vix.deportes.1.lat.png",Vix Deportes 1
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vix.deportes.1.lat.m3u8
+#EXTINF:-1 tvg-id="vix.deportes.10.lat" tvg-name="vix.deportes.10.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/vix.deportes.10.lat.png",Vix Deportes 10
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vix.deportes.10.lat.m3u8
+#EXTINF:-1 tvg-id="vix.deportes.2.lat" tvg-name="vix.deportes.2.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/vix.deportes.2.lat.png",Vix Deportes 2
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vix.deportes.2.lat.m3u8
+#EXTINF:-1 tvg-id="vix.deportes.3.lat" tvg-name="vix.deportes.3.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/vix.deportes.3.lat.png",Vix Deportes 3
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vix.deportes.3.lat.m3u8
+#EXTINF:-1 tvg-id="vix.deportes.4.lat" tvg-name="vix.deportes.4.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/vix.deportes.4.lat.png",Vix Deportes 4
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vix.deportes.4.lat.m3u8
+#EXTINF:-1 tvg-id="vix.deportes.5.lat" tvg-name="vix.deportes.5.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/vix.deportes.5.lat.png",Vix Deportes 5
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vix.deportes.5.lat.m3u8
+#EXTINF:-1 tvg-id="vix.deportes.6.lat" tvg-name="vix.deportes.6.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/vix.deportes.6.lat.png",Vix Deportes 6
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vix.deportes.6.lat.m3u8
+#EXTINF:-1 tvg-id="vix.deportes.7.lat" tvg-name="vix.deportes.7.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/vix.deportes.7.lat.png",Vix Deportes 7
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vix.deportes.7.lat.m3u8
+#EXTINF:-1 tvg-id="vix.deportes.8.lat" tvg-name="vix.deportes.8.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/vix.deportes.8.lat.png",Vix Deportes 8
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vix.deportes.8.lat.m3u8
+#EXTINF:-1 tvg-id="vix.deportes.9.lat" tvg-name="vix.deportes.9.lat" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/vix.deportes.9.lat.png",Vix Deportes 9
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vix.deportes.9.lat.m3u8
+#EXTINF:-1 tvg-id="volver.ar" tvg-name="volver.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/volver.ar.png",Volver AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/volver.ar.m3u8
+#EXTINF:-1 tvg-id="wapa.2.pr" tvg-name="wapa.2.pr" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/wapa.2.pr.png",WAPA 2 PR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/wapa.2.pr.m3u8
+#EXTINF:-1 tvg-id="wapa.america.us" tvg-name="wapa.america.us" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/wapa.america.us.png",Wapa America
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/wapa.america.us.m3u8
+#EXTINF:-1 tvg-id="wapa.pr" tvg-name="wapa.pr" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/wapa.pr.png",WAPA PR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/wapa.pr.m3u8
+#EXTINF:-1 tvg-id="warner.channel.ar" tvg-name="warner.channel.ar" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/warner.channel.ar.png",Warner Channel AR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/warner.channel.ar.m3u8
+#EXTINF:-1 tvg-id="win.sports.co" tvg-name="win.sports.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/win.sports.co.png",Win Sports
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/win.sports.co.m3u8
+#EXTINF:-1 tvg-id="win.sports.plus.co" tvg-name="win.sports.plus.co" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/win.sports.plus.co.png",Win Sports Plus
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/win.sports.plus.co.m3u8
+#EXTINF:-1 tvg-id="wipr.pr" tvg-name="wipr.pr" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/wipr.pr.png",WIPR PR
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/wipr.pr.m3u8
+#EXTINF:-1 tvg-id="wobi.tv.mx" tvg-name="wobi.tv.mx" tvg-type="live" group-title="Latino" tvg-logo="https://media.tv4.live/wobi.tv.mx.png",Wobi TV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/wobi.tv.mx.m3u8
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="vamos.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/vamos.es.png",#Vamos
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/vamos.es.m3u8
+#EXTINF:-1 tvg-id="24.horas.es" tvg-name="24.horas.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/24.horas.es.png",24 Horas
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/24.horas.es.m3u8
+#EXTINF:-1 tvg-id="antena.3.es" tvg-name="antena.3.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/antena.3.es.png",Antena 3
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/antena.3.es.m3u8
+#EXTINF:-1 tvg-id="axn.white.es" tvg-name="axn.white.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/axn.white.es.png",AXN White
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/axn.white.es.m3u8
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="babytv.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/babytv.es.png",BabyTV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/babytv.es.m3u8
+#EXTINF:-1 tvg-id="barca.es" tvg-name="barca.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/barca.es.png",Barca TV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/barca.es.m3u8
+#EXTINF:-1 tvg-id="calle.13.es" tvg-name="calle.13.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/calle.13.es.png",Calle 13
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/calle.13.es.m3u8
+#EXTINF:-1 tvg-id="canal.decasa.es" tvg-name="canal.decasa.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/canal.decasa.es.png",Canal Decasa
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/canal.decasa.es.m3u8
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="cuatro.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/cuatro.es.png",Cuatro
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cuatro.es.m3u8
+#EXTINF:-1 tvg-id="discovery.es" tvg-name="discovery.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/discovery.es.png",Discovery
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.es.m3u8
+#EXTINF:-1 tvg-id="disney.es" tvg-name="disney.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/disney.es.png",Disney
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/disney.es.m3u8
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="dkiss.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/dkiss.es.png",DKISS
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/dkiss.es.m3u8
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="dmax.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/dmax.es.png",DMAX
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/dmax.es.m3u8
+#EXTINF:-1 tvg-id="energy.es" tvg-name="energy.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/energy.es.png",Energy
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/energy.es.m3u8
+#EXTINF:-1 tvg-id="eurosport.1.es" tvg-name="eurosport.1.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/eurosport.1.es.png",Eurosport 1
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eurosport.1.es.m3u8
+#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="eurosport.2.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/eurosport.2.es.png",Eurosport 2
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eurosport.2.es.m3u8
+#EXTINF:-1 tvg-id="fdf.es" tvg-name="fdf.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/fdf.es.png",FDF Telecinco
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fdf.es.m3u8
+#EXTINF:-1 tvg-id="fox.life.es" tvg-name="fox.life.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/fox.life.es.png",FOX Life
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.life.es.m3u8
+#EXTINF:-1 tvg-id="gol.es" tvg-name="gol.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/gol.es.png",Gol
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/gol.es.m3u8
+#EXTINF:-1 tvg-id="historia.es" tvg-name="historia.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/historia.es.png",Historia
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/historia.es.m3u8
+#EXTINF:-1 tvg-id="la.1.es" tvg-name="la.1.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/la.1.es.png",La 1
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/la.1.es.m3u8
+#EXTINF:-1 tvg-id="la.2.es" tvg-name="la.2.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/la.2.es.png",La 2
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/la.2.es.m3u8
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="lasexta.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/lasexta.es.png",laSexta
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/lasexta.es.m3u8
+#EXTINF:-1 tvg-id="m.laliga.es" tvg-name="m.laliga.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/m.laliga.es.png",M. LaLiga
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/m.laliga.es.m3u8
+#EXTINF:-1 tvg-id="m.laliga.1.es" tvg-name="m.laliga.1.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/m.laliga.1.es.png",M. LaLiga 1
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/m.laliga.1.es.m3u8
+#EXTINF:-1 tvg-id="m.laliga.2.es" tvg-name="m.laliga.2.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/m.laliga.2.es.png",M. LaLiga 2
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/m.laliga.2.es.m3u8
+#EXTINF:-1 tvg-id="m.laliga.3.es" tvg-name="m.laliga.3.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/m.laliga.3.es.png",M. LaLiga 3
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/m.laliga.3.es.m3u8
+#EXTINF:-1 tvg-id="m.laliga.4.es" tvg-name="m.laliga.4.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/m.laliga.4.es.png",M. LaLiga 4
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/m.laliga.4.es.m3u8
+#EXTINF:-1 tvg-id="m.laliga.5.es" tvg-name="m.laliga.5.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/m.laliga.5.es.png",M. LaLiga 5
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/m.laliga.5.es.m3u8
+#EXTINF:-1 tvg-id="m.liga.de.campeones.es" tvg-name="m.liga.de.campeones.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/m.liga.de.campeones.es.png",M. Liga de Campeones
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/m.liga.de.campeones.es.m3u8
+#EXTINF:-1 tvg-id="m.liga.de.campeones.1.es" tvg-name="m.liga.de.campeones.1.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/m.liga.de.campeones.1.es.png",M. Liga de Campeones 1
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/m.liga.de.campeones.1.es.m3u8
+#EXTINF:-1 tvg-id="m.liga.de.campeones.3.es" tvg-name="m.liga.de.campeones.3.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/m.liga.de.campeones.3.es.png",M. Liga de Campeones 3
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/m.liga.de.campeones.3.es.m3u8
+#EXTINF:-1 tvg-id="m.liga.de.campeones.4.es" tvg-name="m.liga.de.campeones.4.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/m.liga.de.campeones.4.es.png",M. Liga de Campeones 4
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/m.liga.de.campeones.4.es.m3u8
+#EXTINF:-1 tvg-id="mega.es" tvg-name="mega.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/mega.es.png",Mega
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mega.es.m3u8
+#EXTINF:-1 tvg-id="movistar.estrenos.2.es" tvg-name="movistar.estrenos.2.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/movistar.estrenos.2.es.png",Moviestar Estrenos 2
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/movistar.estrenos.2.es.m3u8
+#EXTINF:-1 tvg-id="movistarplus.es" tvg-name="movistarplus.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/movistarplus.es.png",Moviestar Plus
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/movistarplus.es.m3u8
+#EXTINF:-1 tvg-id="movistar.accion.es" tvg-name="movistar.accion.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/movistar.accion.es.png",Movistar Accion
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/movistar.accion.es.m3u8
+#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="movistar.comedia.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/movistar.comedia.es.png",Movistar Comedia
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/movistar.comedia.es.m3u8
+#EXTINF:-1 tvg-id="movistar.dcine.es" tvg-name="movistar.dcine.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/movistar.dcine.es.png",Movistar DCine
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/movistar.dcine.es.m3u8
+#EXTINF:-1 tvg-id="movistar.deportes.es" tvg-name="movistar.deportes.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/movistar.deportes.es.png",Movistar Deportes
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/movistar.deportes.es.m3u8
+#EXTINF:-1 tvg-id="movistar.formula.1.es" tvg-name="movistar.formula.1.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/movistar.formula.1.es.png",Movistar Formula 1
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/movistar.formula.1.es.m3u8
+#EXTINF:-1 tvg-id="nat.geo.es" tvg-name="nat.geo.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/nat.geo.es.png",NatGeo
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nat.geo.es.m3u8
+#EXTINF:-1 tvg-id="neox.es" tvg-name="neox.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/neox.es.png",Neox
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/neox.es.m3u8
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="odisea.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/odisea.es.png",Odisea
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/odisea.es.m3u8
+#EXTINF:-1 tvg-id="paramount.es" tvg-name="paramount.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/paramount.es.png",Paramount
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/paramount.es.m3u8
+#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="real.madrid.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/real.madrid.es.png",Real Madrid
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/real.madrid.es.m3u8
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="syfy.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/syfy.es.png",Syfy
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/syfy.es.m3u8
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="tcm.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/tcm.es.png",TCM
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tcm.es.m3u8
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="telecinco.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/telecinco.es.png",Telecinco
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telecinco.es.m3u8
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="teledeporte.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/teledeporte.es.png",Teledeporte
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/teledeporte.es.m3u8
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="telemadrid.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/telemadrid.es.png",Telemadrid
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/telemadrid.es.m3u8
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ten.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/ten.es.png",TEN
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ten.es.m3u8
+#EXTINF:-1 tvg-id="toros.es" tvg-name="toros.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/toros.es.png",Toros TV
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/toros.es.m3u8
+#EXTINF:-1 tvg-id="tv3cat.es" tvg-name="tv3cat.es" tvg-type="live" group-title="Spain" tvg-logo="https://media.tv4.live/tv3cat.es.png",TV3 CAT
+https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tv3cat.es.m3u8
