@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1, contacto 3865448130 $ 700 mensual  
 ar.emmajl.social
+#EXTINF:-1, IP MAN 4 
+http://102.129.200.123:8080/movie/Joseluis/Joseluis123/2124835.mp4?token=GUNfBEdbQApAVQFUUQ8CBVNdBQZWDwYGVlEBBQNTUwRVU1RdAgNRUVsSGkcVTENVB1U8WwcUDQcCB1YIUQIdExcSUhdrWgYSWBIAUVcJBQBEFEFGCltSFwkEVAlRBgEHUFIGSRZDC1RAChRXXw8GAkQUQVcbQlJHXVQObwZSR1gBBBVfFhFOEg1eaQEDVVBeAhpZEFMUGxdaRhISWFlEXQ5NFQddRxBRFlUUX0QKAQZWGk8QAFlCW0dHGxJYFXBjQE0VAExHB14RWVkLRAITXRYMQR5BX0RqQVARRBBSUFwHExVfFgNAHEBdVx05W15eCF0ARgpZWUYRD0ADQBsTXA0PXhFbQT1AC1QUXwhNXVwb
+#EXTINF:-1, IP MAN 4 opc 2
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2124835.mp4
 #EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
 https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", 5TV Corrientes (480p) [Not 24/7]
