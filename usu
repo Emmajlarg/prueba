@@ -5,8 +5,6 @@
 http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2124835.mp4
 #EXTINF:-1, I. Miami vs Nasville ( MESSI )
 http://magi-stv.net:8080/Joseluis/Joseluis123/2186371
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", El Ocho (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1,  America TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49245
 #EXTINF:-1,  TV Publica
@@ -17,6 +15,8 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3202
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3194
 #EXTINF:-1,  Telefe
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3199
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", El Ocho (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1,  Todo Noticias
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146052
 #EXTINF:-1,  Cronica TV
