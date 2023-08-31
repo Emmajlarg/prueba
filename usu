@@ -7,6 +7,8 @@ http://magi-stv.net:8080/movie/Joseluis/Joseluis123/2124835.mp4
 http://magi-stv.net:8080/Joseluis/Joseluis123/2186371
 #EXTINF:-1,  America TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49245
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", América Tucumán (720p)
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1,  TV Publica
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8752
 #EXTINF:-1,  El Nueve
