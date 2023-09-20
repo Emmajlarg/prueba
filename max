@@ -409,33 +409,114 @@ https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", Canal 13 San Juan (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
-#EXTINF:-1,ESPN SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34659
-#EXTINF:-1,ESPN HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34660
-#EXTINF:-1,ESPN 2 SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34662
-#EXTINF:-1,ESPN 2 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34663
-#EXTINF:-1,ESPN 3 SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34665
-#EXTINF:-1,ESPN 3 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34666
-#EXTINF:-1,ESPN Extra SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312846
-#EXTINF:-1,ESPN Premium SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312847
-#EXTINF:-1,ESPN Premium HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123874
-#EXTINF:-1,TNT Sports HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34683
-#EXTINF:-1,Directv Sports HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123872
-#EXTINF:-1,Directv Sports 2 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34612
-#EXTINF:-1,Directv Sports + HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123871
-#EXTINF:-1, PX Sports*
+#EXTINF:-1 tvg-name="•●★--DEPORTES ARGENTINA--★●•" group-title="ARGENTINA",•●★--DEPORTES ARGENTINA--★●•
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/59814
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ARG-Directv Sports (e) (1080)" tvg-logo="https://lh3.googleusercontent.com/-Wbwf2IukM_Y/Yqp2Lcg114I/AAAAAAAADpg/llSkcAlcgLA0YibzeLcAEO_GFWiCxjqNgCNcBGAsYHQ/w200-h200/1655338538835434-2.png" group-title="ARGENTINA",ARG-Directv Sports (e) (1080)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/154287
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ARG-Directv Sports 1 (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-Wbwf2IukM_Y/Yqp2Lcg114I/AAAAAAAADpg/llSkcAlcgLA0YibzeLcAEO_GFWiCxjqNgCNcBGAsYHQ/w200-h200/1655338538835434-2.png" group-title="ARGENTINA",ARG-Directv Sports 1 (e)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/166824
+#EXTINF:-1 tvg-name="ARG-Espn 1 (e)(1080)" group-title="ARGENTINA",ARG-Espn 1 (e)(1080)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/166820
+#EXTINF:-1 tvg-name="ARG-Espn 1 (e)(720)" group-title="ARGENTINA",ARG-Espn 1 (e)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/166821
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ARG-Espn 1 (Local)(M)" tvg-logo="https://1.bp.blogspot.com/-7Wppv_MV3s4/X2QH9y4ioTI/AAAAAAAABVI/ylN3LQyle9MvDakX16b6Z0HOyxSh81_LQCLcBGAsYHQ/w200-h200/10%2BEspn%2B1.png" group-title="ARGENTINA",ARG-Espn 1 (Local)(M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22112
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ARG-Espn 2 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Wfwx61RqKUA/X2QH-aBKXDI/AAAAAAAABVM/kdBidh7wITgIgLWEvbqEFs5e9N95YGqWwCLcBGAsYHQ/w200-h200/11%2BEspn%2B2.png" group-title="ARGENTINA",ARG-Espn 2 (M)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/59802
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ARG-Espn 3 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ebsBmwjM2-g/X2QH-To3PmI/AAAAAAAABVQ/hfFa_3-baosgsuD9FWKAhNjyx-Fdl61_QCLcBGAsYHQ/w200-h200/12%2BEspn%2B3.png" group-title="ARGENTINA",ARG-Espn 3 (M)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/59803
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ARG-FOX Sports Premium (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-bhtO7GVOw3k/X2QH8tp0RQI/AAAAAAAABU0/QyJnQgmqjxsZobT_cvMPJ9FwthC8UAvuQCLcBGAsYHQ/w200-h200/05%2BFox%2BSports%2BPremium%2Barg.png" group-title="ARGENTINA",ARG-FOX Sports Premium (TV)(1080)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/59809
+#EXTINF:-1 tvg-name="ARG-TNT Sports (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png" group-title="ARGENTINA",ARG-TNT Sports (e)(1080)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/166822
+#EXTINF:-1 tvg-name="ARG-TNT Sports (e)(720)" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png" group-title="ARGENTINA",ARG-TNT Sports (e)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/166823
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="ARG-TNT Sports (X)(720)" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png" group-title="ARGENTINA",ARG-TNT Sports (X)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153802
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG-TYC Sports Local (M)(720)" tvg-logo="https://1.bp.blogspot.com/-lcreQH1BJI0/X2QH7y5OpVI/AAAAAAAABUk/6jct1Z5XISc_LMH1opW8Hd4TIVK8sskUQCLcBGAsYHQ/w200-h200/01%2BTyc%2Bsports.png" group-title="ARGENTINA",ARG-TYC Sports Local (M)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22127
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG-TyC Sports Local (X)(SD)" tvg-logo="https://1.bp.blogspot.com/-lcreQH1BJI0/X2QH7y5OpVI/AAAAAAAABUk/6jct1Z5XISc_LMH1opW8Hd4TIVK8sskUQCLcBGAsYHQ/w200-h200/01%2BTyc%2Bsports.png" group-title="ARGENTINA",ARG-TyC Sports Local (X)(SD)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/59813
+#EXTINF:-1 tvg-name="ARG-Garage TV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ufbbBvQT11I/Xay_WAx3ycI/AAAAAAAAAjo/omYCKR_Id4sApuUalehz7TmuKYUTgDavwCLcBGAsYHQ/s200/10.png" group-title="ARGENTINA",ARG-Garage TV (M)(1080)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/1531
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name=" ARG-Telefe (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="ARGENTINA", ARG-Telefe (e)(1080)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153673
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name=" ARG-Telefe (e)(720)" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="ARGENTINA", ARG-Telefe (e)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153933
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="ARG-26TV (M)" tvg-logo="https://1.bp.blogspot.com/-M5EoDZtqo0U/X2QICx8ERlI/AAAAAAAABV0/KF4u2CWwU3oebh5dwTZjFw6dgfSBYfdDgCLcBGAsYHQ/w200-h200/21%2B26%2BTV.png" group-title="ARGENTINA",ARG-26TV (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22091
+#EXTINF:-1 tvg-id="America24.ar" tvg-name="ARG-America 24 (X)(720)" group-title="ARGENTINA",ARG-America 24 (X)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/116192
+#EXTINF:-1 tvg-id="America2.ar" tvg-name="ARG-America TV (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png" group-title="ARGENTINA",ARG-America TV (e)(1080)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22089
+#EXTINF:-1 tvg-id="America2.ar" tvg-name="ARG-America TV (e)(720)" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png" group-title="ARGENTINA",ARG-America TV (e)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153936
+#EXTINF:-1 tvg-id="America2.ar" tvg-name="ARG-America TV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png" group-title="ARGENTINA",ARG-America TV (M)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22094
+#EXTINF:-1 tvg-id="America2.ar" tvg-name="ARG-America TV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png" group-title="ARGENTINA",ARG-America TV (M)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/116193
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="ARG-C5N (M)" tvg-logo="https://1.bp.blogspot.com/-2sEle1n_QKI/X2QIFdFmlDI/AAAAAAAABWI/iVqKW-PZy9Q-qu4S6-B2q98vEMnl3h9YgCLcBGAsYHQ/w200-h200/26%2BC5n.png" group-title="ARGENTINA",ARG-C5N (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22097
+#EXTINF:-1 tvg-id="Canal21.ar" tvg-name="ARG-Canal 21 (M)" tvg-logo="https://1.bp.blogspot.com/-3OEk7TeEwrs/X2QIKYCriGI/AAAAAAAABWw/nkFaPha9r3EcvhSwpN-dCC-Z3z41VKZrgCLcBGAsYHQ/w200-h200/36%2BCanal%2B21..png" group-title="ARGENTINA",ARG-Canal 21 (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22099
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="ARG-Canal 26 (C)(720)" group-title="ARGENTINA",ARG-Canal 26 (C)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153860
+#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="ARG-Canal 26 (M)" tvg-logo="https://1.bp.blogspot.com/-M5EoDZtqo0U/X2QICx8ERlI/AAAAAAAABV0/KF4u2CWwU3oebh5dwTZjFw6dgfSBYfdDgCLcBGAsYHQ/w200-h200/21%2B26%2BTV.png" group-title="ARGENTINA",ARG-Canal 26 (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22100
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="ARG-Canal 26 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-M5EoDZtqo0U/X2QICx8ERlI/AAAAAAAABV0/KF4u2CWwU3oebh5dwTZjFw6dgfSBYfdDgCLcBGAsYHQ/w200-h200/21%2B26%2BTV.png" group-title="ARGENTINA",ARG-Canal 26 (M)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/116195
+#EXTINF:-1 tvg-name="ARG-Canal De La Ciudad (M)" group-title="ARGENTINA",ARG-Canal De La Ciudad (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22102
+#EXTINF:-1 tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="https://1.bp.blogspot.com/-N2gNoaFX1aY/X2Qhivn6MvI/AAAAAAAABYk/MuUMRchiueQp4L5ia5OIQuyD2_sV-panQCLcBGAsYHQ/w200-h200/41%2BMegazine.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22104
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="ARG-Cronica (M)" tvg-logo="https://1.bp.blogspot.com/-AdG3nZ8502Y/X2QIAmw7DfI/AAAAAAAABVk/ezNxTv6lCIAe_Wp1rBehbO8l-1IsSmI8ACLcBGAsYHQ/w200-h200/17%2BCr%25C3%25B3nica%2BTV.png" group-title="ARGENTINA",ARG-Cronica (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22108
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG-El Nueve (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png" group-title="ARGENTINA",ARG-El Nueve (e)(1080)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153934
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG-El Nueve (e)(720)" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png" group-title="ARGENTINA",ARG-El Nueve (e)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153935
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG-El Nueve (M)(720)" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png" group-title="ARGENTINA",ARG-El Nueve (M)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22101
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG-El Nueve (X)(720)" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png" group-title="ARGENTINA",ARG-El Nueve (X)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/116197
+#EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG-El Trece (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png" group-title="ARGENTINA",ARG-El Trece (e)(1080)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153937
+#EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG-El Trece (e)(720)" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png" group-title="ARGENTINA",ARG-El Trece (e)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/116200
+#EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG-El Trece (M)" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png" group-title="ARGENTINA",ARG-El Trece (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22098
+#EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG-El Trece (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png" group-title="ARGENTINA",ARG-El Trece (TV)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/116199
+#EXTINF:-1 tvg-name="ARG-LN (C)(720)" group-title="ARGENTINA",ARG-LN (C)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153864
+#EXTINF:-1 tvg-id="BlueAntExtreme.th" tvg-name="ARG-LN+ (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-GKPfx1rugzI/X2QIJbpPN8I/AAAAAAAABWo/XXuxc9Ycoz8z4BKk2qNP0LkHVKTvDX9ZgCLcBGAsYHQ/w200-h200/34%2BLN%2BARG.png" group-title="ARGENTINA",ARG-LN+ (TV)(SD)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22115
+#EXTINF:-1 tvg-id="Quiero.ar" tvg-name="ARG-Quiero Musica (M)" tvg-logo="https://1.bp.blogspot.com/-WGrML1C4ceo/X2QH8ZkW5LI/AAAAAAAABUw/erlsfaq9E3kh0ScziE49lzSvfy7CeEXpACLcBGAsYHQ/w200-h200/04%2BQuiero%2Bm%25C3%25BAsica.png" group-title="ARGENTINA",ARG-Quiero Musica (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22118
+#EXTINF:-1 tvg-id="ElRural.ar" tvg-name="ARG-Rural (M)" tvg-logo="https://1.bp.blogspot.com/-jshSuUx7P_A/X2QIIa7rhiI/AAAAAAAABWg/CdrTh3XOL-4nKLLctio21mN1Qjh4yF04QCLcBGAsYHQ/w200-h200/32%2BCanal%2Brural.png" group-title="ARGENTINA",ARG-Rural (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22119
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22121
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG-Telefe (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="ARGENTINA",ARG-Telefe (X)(1080)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/101841
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG-Telefe (X)(720)" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png" group-title="ARGENTINA",ARG-Telefe (X)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/116201
+#EXTINF:-1 tvg-name="ARG-Telefe Internacional (C)(720)" group-title="ARGENTINA",ARG-Telefe Internacional (C)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153865
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="ARG-Telemax (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-b5EaQpQreyA/X2QIHSdvIvI/AAAAAAAABWY/FKJdXlw90A8mN132DcKaoO3Hi7Yv1z5LQCLcBGAsYHQ/w200-h200/30%2BTelemax.png" group-title="ARGENTINA",ARG-Telemax (TV)(SD)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22122
+#EXTINF:-1 tvg-name="ARG-TN (M)" tvg-logo="https://1.bp.blogspot.com/-6jXNBd6g0bc/X2QIDcTZTSI/AAAAAAAABV4/HQ-Jxwd3OhsI6LdXkUeZOU4iHwjizZrdQCLcBGAsYHQ/w200-h200/22%2BTodo%2Bnoticia.png" group-title="ARGENTINA",ARG-TN (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22124
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG-TV Publica (C)(720)" group-title="ARGENTINA",ARG-TV Publica (C)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/153866
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG-TV Publica (M)" tvg-logo="https://1.bp.blogspot.com/-Xi_N5VVuGKk/X2QH72MNWpI/AAAAAAAABUo/zHNNc_LLBYIXdiFGe94-Wlz8W8ku9L-JACLcBGAsYHQ/w200-h200/02%2BTv%2Bpublica.png" group-title="ARGENTINA",ARG-TV Publica (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22125
+#EXTINF:-1 tvg-name="ARG-TV Publica (X)(720)" tvg-logo="https://1.bp.blogspot.com/-Xi_N5VVuGKk/X2QH72MNWpI/AAAAAAAABUo/zHNNc_LLBYIXdiFGe94-Wlz8W8ku9L-JACLcBGAsYHQ/w200-h200/02%2BTv%2Bpublica.png" group-title="ARGENTINA",ARG-TV Publica (X)(720)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/116203
+#EXTINF:-1 tvg-name="ARG-TV5 (M)" tvg-logo="https://1.bp.blogspot.com/-Tpkec48hjwA/X2QIG6J2HRI/AAAAAAAABWU/yKzkfxy1A4UwmBhd3arRzEma8UKwxryYQCLcBGAsYHQ/w200-h200/29%2BTv%2B5%2BARG.png" group-title="ARGENTINA",ARG-TV5 (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22126
+#EXTINF:-1 tvg-name="ARG-Volver (M)" tvg-logo="https://1.bp.blogspot.com/-hK7dPTyre0Y/X2QID2W4DOI/AAAAAAAABV8/Ns9rVmt8zRgGlWt1QTBMTJKz9qG3C6_wACLcBGAsYHQ/w200-h200/23%2BVolver.png" group-title="ARGENTINA",ARG-Volver (M)
+http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/22128#EXTINF:-1, PX Sports*
 http://187.188.232.236:1021/play/a068/index.m3u8
 #EXTINF:-1, GINX *
 http://187.188.232.236:1021/play/a064/index.m3u8
