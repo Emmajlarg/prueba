@@ -1,12 +1,7 @@
 #EXTM3U
 #EXTINF:-1, contacto 3865448130 $ 700 mensual  
 ar.emmajl.social
-#EXTINF:-1 tvg-name="ARG| AMERICA TV FHD" tvg-logo="http://iptvglobal.site:25461/images/0d26996fa827a5214a7bbad20285ddf9.png" group-title="LATINOS",ARG| AMERICA TV FHD
-http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86604
-#EXTINF:-1 tvg-name="ARG| CANAL NUEVE HD" tvg-logo="https://www.seekpng.com/png/detail/263-2633877_canal-9-argentina-hd-2016-elnueve-argentina-logo.png" group-title="LATINOS",ARG| CANAL NUEVE HD
-http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86606
-#EXTINF:-1 tvg-name="ARG| EL TRECE HD" tvg-logo="http://iptvglobal.site:25461/images/08015d817b968b5a9599e3e710a58245.png" group-title="LATINOS",ARG| EL TRECE HD
-http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86608#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", 5TV Corrientes (480p) [Not 24/7]
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", 5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", 13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
