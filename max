@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, contacto 3865448130 $ 700 mensual  
 ar.emmajl.social
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eb9362ea0d5367005473c800f29a566d.png" group-title="LATINOS",ARG: Telefe
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3199
+#EXTINF:-1 group-title="LATINO",││ARG││  TELEFE HQ
+http://plastreamt.com:8080/tviritv/td6522SNAtHt/264
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", 5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", 13Max Televisión (1080p)
