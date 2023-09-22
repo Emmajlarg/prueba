@@ -1,907 +1,1038 @@
 #EXTM3U
-#EXTINF:-1, CONTACTO Wsapp 3865 448130 $ 700 x mes 
-  ar.emmajl.Social 
+#EXTINF:-1, CONTACTO Wsapp 3865 448130 $ 700 x mes  
+ar.emmajl.Social 
 #EXTINF:-1,  Telefe 2 
- http://magi-stv.net:8080/Joseluis/Joseluis123/210861 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", Telefe Rosario (1080p) [Not 24/7] 
- https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", El Ocho (1080p) [Not 24/7] 
- https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
-#EXTINF:-1,  5 RTV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285871
-#EXTINF:-1,  24/7 Canal de Noticias
+http://magi-stv.net:8080/Joseluis/Joseluis123/210861 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", Telefe Rosario (1080p) [Not 24/7]  https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", El Ocho (1080p) [Not 24/7]  https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+#EXTINF:-1, 24/7 Canal de Noticias
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285870
-#EXTINF:-1,  5TV Corrientes
+#EXTINF:-1, 5TV Corrientes
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285872
-#EXTINF:-1,  A&E
+#EXTINF:-1, A&E
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38648
-#EXTINF:-1,  A24
+#EXTINF:-1, A24
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3197
-#EXTINF:-1,  AMC
+#EXTINF:-1, AMC
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38654
-#EXTINF:-1,  America TV
+#EXTINF:-1, America TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49245
-#EXTINF:-1,  Argentinisima
+#EXTINF:-1, Argentinisima
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38659
-#EXTINF:-1,  AXN
+#EXTINF:-1, AXN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38651
-#EXTINF:-1,  Baby TV
+#EXTINF:-1, Baby TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38649
-#EXTINF:-1,  Bloomberg TV
+#EXTINF:-1, Bloomberg TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285198
-#EXTINF:-1,  Boomerang
+#EXTINF:-1, Boomerang
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38657
-#EXTINF:-1,  C5N
+#EXTINF:-1, C5N
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3191
-#EXTINF:-1,  Canal 2 Jujuy
+#EXTINF:-1, Canal 2 Jujuy
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285881
-#EXTINF:-1,  Canal 3 Pinamar
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/166795
-#EXTINF:-1,  Canal 6 Noticias
+#EXTINF:-1, Canal 6 Noticias
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/284235
-#EXTINF:-1,  Canal 10 Córdoba
+#EXTINF:-1, Canal 9 Litoral
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299548
+#EXTINF:-1, Canal 10 Cordoba
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/54280
-#EXTINF:-1,  Canal 11 La Rioja
+#EXTINF:-1, Canal 10 Rio Negro
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285877
+#EXTINF:-1, Canal 11 La Rioja
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285878
-#EXTINF:-1,  Canal 12 Puerto Madryn
+#EXTINF:-1, Canal 12 Puerto Madryn
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285879
-#EXTINF:-1,  Canal 13 La Rioja
+#EXTINF:-1, Canal 13 La Rioja
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285880
-#EXTINF:-1,  Canal 26
+#EXTINF:-1, Canal 26
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3190
-#EXTINF:-1,  Canal 79 Catamarca
+#EXTINF:-1, Canal 79 Catamarca
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297240
-#EXTINF:-1,  Canal 79 Mar del Plata
+#EXTINF:-1, Canal 79 Mar del Plata
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297239
-#EXTINF:-1,  Canal 79 San Juan
+#EXTINF:-1, Canal 79 San Juan
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297235
-#EXTINF:-1,  Canal de la Ciudad
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/62760
-#EXTINF:-1,  canal orbe 21
+#EXTINF:-1, canal orbe 21
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9374
-#EXTINF:-1,  Canal Provincial
+#EXTINF:-1, Canal Provincial
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285888
-#EXTINF:-1,  Canal TDC
+#EXTINF:-1, Canal TDC
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285874
-#EXTINF:-1,  Chaco TV
+#EXTINF:-1, Canal U Cordoba
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299549
+#EXTINF:-1, Chaco TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/166055
-#EXTINF:-1,  Chacra TV
+#EXTINF:-1, Chacra TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285890
-#EXTINF:-1,  Cinco TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/284234
-#EXTINF:-1,  Cine AR
+#EXTINF:-1, Cine AR
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38652
-#EXTINF:-1,  Cinecanal
+#EXTINF:-1, Cinecanal
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38655
-#EXTINF:-1,  Ciudad Magazine
+#EXTINF:-1, Ciudad Magazine
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38663
-#EXTINF:-1,  Ciudad TV Chaco
+#EXTINF:-1, Ciudad TV Chaco
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285892
-#EXTINF:-1,  Comedy Central
+#EXTINF:-1, Comedy Central
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49261
-#EXTINF:-1,  Cronica TV
+#EXTINF:-1, CPE
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299184
+#EXTINF:-1, Cronica TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8763
-#EXTINF:-1,  DeporTV
+#EXTINF:-1, DeporTV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38664
-#EXTINF:-1,  DirecTV Sports
+#EXTINF:-1, DirecTV Sports
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/67721
-#EXTINF:-1,  DirecTV Sports 2
+#EXTINF:-1, DirecTV Sports 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/31645
-#EXTINF:-1,  DirecTV Sports Plus
+#EXTINF:-1, DirecTV Sports Plus
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/65750
-#EXTINF:-1,  Discovery Theater
+#EXTINF:-1, Discovery Theater
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172605
-#EXTINF:-1,  Disney Junior
+#EXTINF:-1, Disney Junior
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38665
-#EXTINF:-1,  El Gourmet
+#EXTINF:-1, El Gourmet
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8691
-#EXTINF:-1,  El Nueve
+#EXTINF:-1, El Nueve
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3202
-#EXTINF:-1,  El Trece
+#EXTINF:-1, El Trece
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3194
-#EXTINF:-1,  Eltres
+#EXTINF:-1, Eltres
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285882
-#EXTINF:-1,  Encuentro
+#EXTINF:-1, Encuentro
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/30694
-#EXTINF:-1,  ESPN
+#EXTINF:-1, ESPN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/61174
-#EXTINF:-1,  ESPN 2
+#EXTINF:-1, ESPN 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/70752
-#EXTINF:-1,  ESPN 3
+#EXTINF:-1, ESPN 3
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/61170
-#EXTINF:-1,  ESPN 4
+#EXTINF:-1, ESPN 4
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295627
-#EXTINF:-1,  ESPN Extra
+#EXTINF:-1, ESPN Extra
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/66298
-#EXTINF:-1,  ESPN Premium
+#EXTINF:-1, ESPN Premium
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298158
-#EXTINF:-1,  Europa Europa
+#EXTINF:-1, Europa Europa
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/29295
-#EXTINF:-1,  Fenix TV
+#EXTINF:-1, Fenix TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285896
-#EXTINF:-1,  Film & Arts
+#EXTINF:-1, Film & Arts
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38678
-#EXTINF:-1,  FOX SPORTS
+#EXTINF:-1, FOX SPORTS
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/280370
-#EXTINF:-1,  FOX SPORTS 2
+#EXTINF:-1, FOX SPORTS 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3187
-#EXTINF:-1,  FOX SPORTS 3
+#EXTINF:-1, FOX SPORTS 3
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/10921
-#EXTINF:-1,  FOX SPORTS Premium
+#EXTINF:-1, FOX SPORTS Premium
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3203
-#EXTINF:-1,  FX
+#EXTINF:-1, FX
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172268
-#EXTINF:-1,  FXM
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/29302
-#EXTINF:-1,  Garage TV
+#EXTINF:-1, Garage TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/23915
-#EXTINF:-1,  Glitz
+#EXTINF:-1, Glitz
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/30712
-#EXTINF:-1,  HBO Mundi
+#EXTINF:-1, HBO Mundi
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38701
-#EXTINF:-1,  HBO Pop
+#EXTINF:-1, HBO Pop
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/29305
-#EXTINF:-1,  HBO Xtreme
+#EXTINF:-1, HBO Xtreme
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172272
-#EXTINF:-1,  HBO+
+#EXTINF:-1, HBO+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38685
-#EXTINF:-1,  I Sat
+#EXTINF:-1, I Sat
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148593
-#EXTINF:-1,  IP Noticias
+#EXTINF:-1, IP Noticias
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297230
-#EXTINF:-1,  Litus
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/23925
-#EXTINF:-1,  LN+
+#EXTINF:-1, LN+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8758
-#EXTINF:-1,  Multivision
+#EXTINF:-1, Much Argentina
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38704
+#EXTINF:-1, Multivision
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/18341
-#EXTINF:-1,  Music Top
+#EXTINF:-1, Music Top
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/199644
-#EXTINF:-1,  NAT GEO Wild
+#EXTINF:-1, NAT GEO Wild
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38698
-#EXTINF:-1,  Net TV
+#EXTINF:-1, Net TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/267322
-#EXTINF:-1,  Nick Jr
+#EXTINF:-1, Nick Jr
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/29310
-#EXTINF:-1,  nickelodeon
+#EXTINF:-1, nickelodeon
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/29311
-#EXTINF:-1,  Pakapaka
+#EXTINF:-1, Pakapaka
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49304
-#EXTINF:-1,  Quiero Musica en mi Idioma
+#EXTINF:-1, Quiero Musica en mi Idioma
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/30699
-#EXTINF:-1,  Santa Maria TV
+#EXTINF:-1, RTN Neuquen
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299693
+#EXTINF:-1, Santa Fe Canal
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285871
+#EXTINF:-1, Santa Maria TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285904
-#EXTINF:-1,  Space
+#EXTINF:-1, Smithsonian Channel
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285203
+#EXTINF:-1, Space
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/34566
-#EXTINF:-1,  Star Channel
+#EXTINF:-1, Star Channel
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/280374
-#EXTINF:-1,  Studio Universal
+#EXTINF:-1, Star Classics
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/280378
+#EXTINF:-1, Studio Universal
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/280367
-#EXTINF:-1,  SYFY
+#EXTINF:-1, SYFY
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49316
-#EXTINF:-1,  TCM
+#EXTINF:-1, TCM
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49314
-#EXTINF:-1,  Tele Red
+#EXTINF:-1, Tele Red
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285183
-#EXTINF:-1,  Telefe
+#EXTINF:-1, Telefe
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3199
-#EXTINF:-1,  Telefe Rosario
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285909
-#EXTINF:-1,  Telemax
+#EXTINF:-1, Telemax
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/146051
-#EXTINF:-1,  Telenord Corrientes
+#EXTINF:-1, Telenord Corrientes
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285910
-#EXTINF:-1,  Tierramia TV
+#EXTINF:-1, Tierramia TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/76509
-#EXTINF:-1,  TNT Series
+#EXTINF:-1, TNT Series
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3109
-#EXTINF:-1,  TNT Sports
+#EXTINF:-1, TNT Sports
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3204
-#EXTINF:-1,  Todo Noticias
+#EXTINF:-1, Todo Noticias
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/146052
-#EXTINF:-1,  TV Publica
+#EXTINF:-1, TV Publica
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8752
-#EXTINF:-1,  TVU Universidad Nacional de La Plata
+#EXTINF:-1, TVU Universidad Nacional de La Plata
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285907
-#EXTINF:-1,  TyC Sports
+#EXTINF:-1, TyC Sports
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8749
-#EXTINF:-1,  Universal TV
+#EXTINF:-1, Universal TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38719
-#EXTINF:-1,  Volver
+#EXTINF:-1, Volver
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49329
-#EXTINF:-1,  Wobi TV
+#EXTINF:-1, Wobi TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9123
-
-#EXTINF:-1,  A&E
+#EXTINF:-1, A&E
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298145
-#EXTINF:-1,  AMC
+#EXTINF:-1, AMC
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298147
-#EXTINF:-1,  AXN
+#EXTINF:-1, AXN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49443
-#EXTINF:-1,  Boing
+#EXTINF:-1, Boing
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298150
-#EXTINF:-1,  Cartoon Network
+#EXTINF:-1, Cartoon Network
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49445
-#EXTINF:-1,  DirecTV Sports
+#EXTINF:-1, Cinemax
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49449
+#EXTINF:-1, DirecTV Sports
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298365
-#EXTINF:-1,  DirecTV Sports 2
+#EXTINF:-1, DirecTV Sports 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/76232
-#EXTINF:-1,  Discovery Kids
+#EXTINF:-1, Discovery Kids
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49453
-#EXTINF:-1,  ESPN 2
+#EXTINF:-1, Discovery World
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148590
+#EXTINF:-1, ESPN
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8688
+#EXTINF:-1, ESPN 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8689
-#EXTINF:-1,  ESPN 3
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298157
-#EXTINF:-1,  ESPN Deportes
+#EXTINF:-1, ESPN Deportes
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281418
-#EXTINF:-1,  FOX Sports
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/187032
-#EXTINF:-1,  FOX Sports 1
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8678
-#EXTINF:-1,  FOX Sports 3
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8740
-#EXTINF:-1,  FX
+#EXTINF:-1, ESPN Extra
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285171
+#EXTINF:-1, ESPN Plus
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8687
+#EXTINF:-1, Fox Life
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49489
+#EXTINF:-1, FOX Movies
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/76275
+#EXTINF:-1, FOX Sports 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8677
+#EXTINF:-1, FOX Sports Premium
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148625
+#EXTINF:-1, FX
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49462
-#EXTINF:-1,  HBO 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49465
-#EXTINF:-1,  HBO+
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49466
-#EXTINF:-1,  Space
+#EXTINF:-1, Space
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49477
-#EXTINF:-1,  Suryoyo TV
+#EXTINF:-1, Studio Universal
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298930
+#EXTINF:-1, Suryoyo TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/276944
-#EXTINF:-1,  TCM
+#EXTINF:-1, TCM
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49475
-#EXTINF:-1,  Telefe
+#EXTINF:-1, Telefe
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/76277
-
-#EXTINF:-1, L  Dios Te Ve Kids
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295819
-#EXTINF:-1, L 3ABN Latino
+#EXTINF:-1, TNT Series
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298931
+#EXTINF:-1, Universal Channel
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298932
+#EXTINF:-1, Warner Channel
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298933
+#EXTINF:-1, 3ABN Latino
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286060
-#EXTINF:-1, L A Estrenar
+#EXTINF:-1, A Estrenar
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295645
-#EXTINF:-1, L A&E
+#EXTINF:-1, A&E
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5759
-#EXTINF:-1, L ABN TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298146
-#EXTINF:-1, L Aliento Vision
+#EXTINF:-1, Aliento Vision
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295646
-#EXTINF:-1, L AMC
+#EXTINF:-1, AMC
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2996
-#EXTINF:-1, L America Teve
+#EXTINF:-1, America Teve
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297034
-#EXTINF:-1, L ANIMAL PLANET
+#EXTINF:-1, ANIMAL PLANET
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2997
-#EXTINF:-1, L Aquí & Ahora 24/7 VIX
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298647
-#EXTINF:-1, L AXN
+#EXTINF:-1, Animax Revival
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/300022
+#EXTINF:-1, AXN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2998
-#EXTINF:-1, L Baby TV
+#EXTINF:-1, Baby TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3001
-#EXTINF:-1, L Bloomberg TV
+#EXTINF:-1, BabyFirst TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285097
+#EXTINF:-1, beIN Sports n
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299731
+#EXTINF:-1, Bloomberg TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/71867
-#EXTINF:-1, L Boing
+#EXTINF:-1, Boing
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298149
-#EXTINF:-1, L Boomerang
+#EXTINF:-1, Boomerang
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298151
-#EXTINF:-1, L Cartoon Network
+#EXTINF:-1, Canal Informativo Inter
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299304
+#EXTINF:-1, Cartoon Network
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3007
-#EXTINF:-1, L Cartoonito
+#EXTINF:-1, Cartoonito
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3004
-#EXTINF:-1, L CBN
+#EXTINF:-1, CBN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298634
-#EXTINF:-1, L Chiquilines
+#EXTINF:-1, Chiquilines
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298154
-#EXTINF:-1, L Cine del ayer VIX
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298648
-#EXTINF:-1, L Cinecanal
+#EXTINF:-1, Cinecanal
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49452
-#EXTINF:-1, L Cinema Dinamita
+#EXTINF:-1, Cinema Dinamita
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3010
-#EXTINF:-1, L Cinemax
+#EXTINF:-1, Cinemax
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5770
-#EXTINF:-1, L Comedy Central
+#EXTINF:-1, Clover Channel
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299305
+#EXTINF:-1, Comedy Central
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3015
-#EXTINF:-1, L Como dice el dicho VIX+
+#EXTINF:-1, Como dice el dicho VIX+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298649
-#EXTINF:-1, L Concert Channel
+#EXTINF:-1, Concert Channel
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8701
-#EXTINF:-1, L Corazón Salvaje VIX+
+#EXTINF:-1, Corazón Salvaje VIX+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298650
-#EXTINF:-1, L Cuidado con el Ángel VIX+
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298651
-#EXTINF:-1, L DAZN 1
+#EXTINF:-1, DAZN 1
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/76336
-#EXTINF:-1, L Del mercado al plato VIX+
+#EXTINF:-1, Del mercado al plato VIX+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298652
-#EXTINF:-1, L DirecTV Sports
+#EXTINF:-1, Dios Te Ve Kids
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295819
+#EXTINF:-1, DirecTV Sports
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298357
-#EXTINF:-1, L DirecTV Sports 2
+#EXTINF:-1, DirecTV Sports 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298358
-#EXTINF:-1, L DirecTV Sports plus
+#EXTINF:-1, DirecTV Sports plus
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298697
-#EXTINF:-1, L Discovery Familia
+#EXTINF:-1, Discovery Channel
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281050
+#EXTINF:-1, Discovery Familia
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/147657
-#EXTINF:-1, L Discovery H&H
+#EXTINF:-1, Discovery H&H
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5774
-#EXTINF:-1, L Discovery Kids
+#EXTINF:-1, Discovery Kids
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3020
-#EXTINF:-1, L Discovery Science
+#EXTINF:-1, Discovery Science
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3021
-#EXTINF:-1, L Discovery Theater
+#EXTINF:-1, Discovery Theater
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3022
-#EXTINF:-1, L Discovery Turbo
+#EXTINF:-1, Discovery Turbo
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3023
-#EXTINF:-1, L Discovery World
+#EXTINF:-1, Discovery World
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8894
-#EXTINF:-1, L Disney Channel
+#EXTINF:-1, Disney Channel
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3025
-#EXTINF:-1, L Disney Junior
+#EXTINF:-1, Disney Junior
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3026
-#EXTINF:-1, L Disney XD
+#EXTINF:-1, Disney XD
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285172
-#EXTINF:-1, L El privilegio de amar VIX+
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298653
-#EXTINF:-1, L EnerGeek
+#EXTINF:-1, E!
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3029
+#EXTINF:-1, EnerGeek
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298822
-#EXTINF:-1, L ESPN
+#EXTINF:-1, ESPN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5779
-#EXTINF:-1, L ESPN 2
+#EXTINF:-1, ESPN 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3031
-#EXTINF:-1, L ESPN 3
+#EXTINF:-1, ESPN 3
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3032
-#EXTINF:-1, L ESPN 4
+#EXTINF:-1, ESPN 4
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295304
-#EXTINF:-1, L ESPN Deportes
+#EXTINF:-1, ESPN Deportes
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/6446
-#EXTINF:-1, L ESPN Extra
+#EXTINF:-1, ESPN Extra
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285105
-#EXTINF:-1, L Eurosport 2
+#EXTINF:-1, euronews
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299308
+#EXTINF:-1, Eurosport 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298159
-#EXTINF:-1, L Familia Peluche VIX+
+#EXTINF:-1, Familia Peluche VIX+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298654
-#EXTINF:-1, L Food Network
+#EXTINF:-1, Food Network
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/187033
-#EXTINF:-1, L FOX Sports 1
+#EXTINF:-1, FOX Sports 1
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/54432
-#EXTINF:-1, L FOX SPORTS 2
+#EXTINF:-1, FOX Sports 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/40840
-#EXTINF:-1, L FOX SPORTS 3
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3042
-#EXTINF:-1, L FX
+#EXTINF:-1, FX
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/34561
-#EXTINF:-1, L Galavision
+#EXTINF:-1, Galavision
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/71860
-#EXTINF:-1, L Glitz
+#EXTINF:-1, Glitz
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/45626
-#EXTINF:-1, L Gol TV
+#EXTINF:-1, Gol TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/60971
-#EXTINF:-1, L Golf Channel
+#EXTINF:-1, Golf Channel
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/76257
-#EXTINF:-1, L HBO
+#EXTINF:-1, HBO
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3055
-#EXTINF:-1, L HBO 2
+#EXTINF:-1, HBO 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3056
-#EXTINF:-1, L HBO Family
+#EXTINF:-1, HBO Family
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3057
-#EXTINF:-1, L HBO Mundi
+#EXTINF:-1, HBO Mundi
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/226015
-#EXTINF:-1, L HBO Pop
+#EXTINF:-1, HBO Pop
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3069
-#EXTINF:-1, L HBO Signature
+#EXTINF:-1, HBO Signature
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3059
-#EXTINF:-1, L HBO Xtreme
+#EXTINF:-1, HBO Xtreme
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148927
-#EXTINF:-1, L HBO+
+#EXTINF:-1, HBO+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3058
-#EXTINF:-1, L HGTV
+#EXTINF:-1, HGTV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/187008
-#EXTINF:-1, L Hispan TV
+#EXTINF:-1, Hispan TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/187027
-#EXTINF:-1, L History
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3060
-#EXTINF:-1, L History 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/40831
-#EXTINF:-1, L Hola TV
+#EXTINF:-1, Hola TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298058
-#EXTINF:-1, L HTV
+#EXTINF:-1, HTV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3062
-#EXTINF:-1, L Investigation Discovery
+#EXTINF:-1, Investigation Discovery
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3063
-#EXTINF:-1, L Junior Tecnologia TV
+#EXTINF:-1, Junior Tecnologia TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298825
-#EXTINF:-1, L La Promesa VIX+
+#EXTINF:-1, Kanal D Drama
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299311
+#EXTINF:-1, La Promesa VIX+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298655
-#EXTINF:-1, L Las Estrellas
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298829
-#EXTINF:-1, L levelUp
+#EXTINF:-1, Las Estrellas
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298152
+#EXTINF:-1, levelUp
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/294677
-#EXTINF:-1, L Lifetime
+#EXTINF:-1, Lifetime
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3066
-#EXTINF:-1, L Lomas VixtoVIX
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298656
-#EXTINF:-1, L María Mercedes VIX+
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298657
-#EXTINF:-1, L Mas Chic
+#EXTINF:-1, Mas Chic
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3067
-#EXTINF:-1, L Mega TV
+#EXTINF:-1, Mega TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295841
-#EXTINF:-1, L Mooviemax VIX
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298658
-#EXTINF:-1, L N+ Media VIX
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298659
-#EXTINF:-1, L NAT GEO
+#EXTINF:-1, MTV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299314
+#EXTINF:-1, MTV 00s
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299313
+#EXTINF:-1, MTV Live
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299315
+#EXTINF:-1, NAT GEO
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3073
-#EXTINF:-1, L NAT GEO Mundo
+#EXTINF:-1, NAT GEO Mundo
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/267311
-#EXTINF:-1, L NAT GEO Wild
+#EXTINF:-1, NAT GEO Wild
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8745
-#EXTINF:-1, L NBC Universo
+#EXTINF:-1, NBC Universo
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/90120
-#EXTINF:-1, L Nick Jr
+#EXTINF:-1, Nick Jr
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3075
-#EXTINF:-1, L Nickelodeon
+#EXTINF:-1, Nickelodeon
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3076
-#EXTINF:-1, L Novelas en familia VIX
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298660
-#EXTINF:-1, L Paramount Network
+#EXTINF:-1, Nuestra Vision
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298979
+#EXTINF:-1, Paramount Network
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3077
-#EXTINF:-1, L Pasiones
+#EXTINF:-1, Pasiones
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3078
-#EXTINF:-1, L Rebelde VIX+
+#EXTINF:-1, Rebelde VIX+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298661
-#EXTINF:-1, L Semillitas TV
+#EXTINF:-1, Semillitas TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295815
-#EXTINF:-1, L Sky Sports
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298827
-#EXTINF:-1, L Sony Channel
+#EXTINF:-1, Sony Channel
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3081
-#EXTINF:-1, L Sortilegio VIX+
+#EXTINF:-1, Sortilegio VIX+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298662
-#EXTINF:-1, L Soy tu dueña VIX+
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298663
-#EXTINF:-1, L Star Channel
+#EXTINF:-1, Space
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299325
+#EXTINF:-1, Star Channel
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5785
-#EXTINF:-1, L Studio Universal
+#EXTINF:-1, Studio Universal
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3083
-#EXTINF:-1, L SYFY
+#EXTINF:-1, SYFI
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299977
+#EXTINF:-1, SYFY
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5802
-#EXTINF:-1, L Tastemade
+#EXTINF:-1, Tastemade
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295852
-#EXTINF:-1, L TBS
+#EXTINF:-1, TBS
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5803
-#EXTINF:-1, L TCM
+#EXTINF:-1, TCM
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3085
-#EXTINF:-1, L TeenNick
+#EXTINF:-1, TeenNick
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5796
-#EXTINF:-1, L Television Del Este
+#EXTINF:-1, Telemundo 60 San Antonio KVDA TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3120
+#EXTINF:-1, Telemundo Boston
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298828
+#EXTINF:-1, Telemundo Chicago Illinois WSNS TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290482
+#EXTINF:-1, Telemundo Corona California KVEA TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172620
+#EXTINF:-1, Telemundo Dallas Texas KXTX TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3113
+#EXTINF:-1, Telemundo Denver Colorado KDEN TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172614
+#EXTINF:-1, Telemundo Hartford Connecticut WRDM CD
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299111
+#EXTINF:-1, Telemundo Houston Texas KTMD TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3116
+#EXTINF:-1, Telemundo Internacional
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49318
+#EXTINF:-1, Telemundo Las Cruces New Mexico KTDO TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299110
+#EXTINF:-1, Telemundo Merced California KNSO TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3115
+#EXTINF:-1, Telemundo Miami Florida WSCV TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3117
+#EXTINF:-1, Telemundo Paradise Nevada KBLR TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172619
+#EXTINF:-1, Telemundo Phoenix Arizona KTAZ TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3123
+#EXTINF:-1, Telemundo Providence WYCN LD
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/198326
+#EXTINF:-1, Telemundo Sacramento California KCSO LD
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299114
+#EXTINF:-1, Telemundo San Jose California KSTS TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172630
+#EXTINF:-1, Telemundo Tucson Arizona KHRR TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3122
+#EXTINF:-1, Television Del Este
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148724
-#EXTINF:-1, L Teresa VIX+
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298664
-#EXTINF:-1, L TLC
+#EXTINF:-1, TLC
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3107
-#EXTINF:-1, L TNT
+#EXTINF:-1, TNT
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3089
-#EXTINF:-1, L TNT Series
+#EXTINF:-1, TNT Series
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285147
-#EXTINF:-1, L TNT Sports
+#EXTINF:-1, TNT Sports
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285164
-#EXTINF:-1, L Tooncast
+#EXTINF:-1, Tooncast
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3091
-#EXTINF:-1, L Tres veces Ana VIX+
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298665
-#EXTINF:-1, L Triunfo del Amor VIX+
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298666
-#EXTINF:-1, L tru TV
+#EXTINF:-1, Travelxp
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299330
+#EXTINF:-1, tru TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/284515
-#EXTINF:-1, L UniMas
+#EXTINF:-1, TUDN XTRA 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298903
+#EXTINF:-1, TUDN XTRA 2
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298904
+#EXTINF:-1, TUDN XTRA 3
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298905
+#EXTINF:-1, TUDN XTRA 4
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298906
+#EXTINF:-1, TUDN XTRA 5
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298907
+#EXTINF:-1, TUDN XTRA 6
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298908
+#EXTINF:-1, TUDN XTRA 7
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298909
+#EXTINF:-1, TUDN XTRA 8
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298910
+#EXTINF:-1, TUDN XTRA 9
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298911
+#EXTINF:-1, TUDN XTRA 10
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298912
+#EXTINF:-1, TUDN XTRA 11
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/196611
+#EXTINF:-1, TV direct 13 Papiamento
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299543
+#EXTINF:-1, UniMas
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/147654
-#EXTINF:-1, L UniMas Newark New Jersey WFUT TV
+#EXTINF:-1, UniMas Newark New Jersey WFUT TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172679
-#EXTINF:-1, L Universal Cinema
+#EXTINF:-1, Universal Cinema
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/291225
-#EXTINF:-1, L Universal Comedy
+#EXTINF:-1, Universal Comedy
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/291224
-#EXTINF:-1, L Universal Crime
+#EXTINF:-1, Universal Crime
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/291222
-#EXTINF:-1, L Universal Premiere
+#EXTINF:-1, Universal Kids
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/198068
+#EXTINF:-1, Universal Premiere
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298831
-#EXTINF:-1, L Universal Reality
+#EXTINF:-1, Universal Reality
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/291217
-#EXTINF:-1, L Universal TV
+#EXTINF:-1, Universal TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3036
-#EXTINF:-1, L Vallevision
+#EXTINF:-1, Univision Athens Georgia WUVG TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172645
+#EXTINF:-1, Univision Cleveland Ohio WQHS DT
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172647
+#EXTINF:-1, Univision Dallas Texas KUVN TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172641
+#EXTINF:-1, Univision Hanford California KFTV DT
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299119
+#EXTINF:-1, Univision Houston Texas KXLN TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299118
+#EXTINF:-1, Univision Joliet Indiana WGBO TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172654
+#EXTINF:-1, Univision Los Angeles California KMEX TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172659
+#EXTINF:-1, Univision Miami Florida WLTV TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172655
+#EXTINF:-1, Univision Modesto California KUVS TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299120
+#EXTINF:-1, Univision North Carolina WUVC DT
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172652
+#EXTINF:-1, Univision Paterson New Jersey WXTV DT
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299121
+#EXTINF:-1, Univision Phoenix Arizona KTVW TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295844
+#EXTINF:-1, Univision Puerto Rico
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172662
+#EXTINF:-1, Univision San Antonio Texas KWEX DT
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298914
+#EXTINF:-1, Univision San Francisco California KDTV TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299123
+#EXTINF:-1, Univision Tucson Arizona KUVE TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295345
+#EXTINF:-1, Univision Vineland New Jersey WUVP TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172660
+#EXTINF:-1, Urbano TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299331
+#EXTINF:-1, Vallevision
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148714
-#EXTINF:-1, L ViwixAccion
+#EXTINF:-1, ViwixAccion
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298643
-#EXTINF:-1, L ViwixMusic
+#EXTINF:-1, ViwixMusic
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298644
-#EXTINF:-1, L ViwixSeries
+#EXTINF:-1, ViwixSeries
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298645
-#EXTINF:-1, L ViwixTerror
+#EXTINF:-1, ViwixTerror
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298646
-#EXTINF:-1, L VIX Novelas de Romance
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298667
-#EXTINF:-1, L Warner TV
+#EXTINF:-1, Warner TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/60006
-
-#EXTINF:-1,  A&E
+#EXTINF:-1, 15 TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299534
+#EXTINF:-1, A&E
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9117
-#EXTINF:-1,  ADN 40
+#EXTINF:-1, ADN 40
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5799
-#EXTINF:-1,  Adrenalina Sports Network
+#EXTINF:-1, Adrenalina Sports Network
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290478
-#EXTINF:-1,  Afizzionados
+#EXTINF:-1, Afizzionados
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298042
-#EXTINF:-1,  AMC
+#EXTINF:-1, AMC
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9083
-#EXTINF:-1,  ANIMAL PLANET
+#EXTINF:-1, ANIMAL PLANET
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298043
-#EXTINF:-1,  AXN
+#EXTINF:-1, AXN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9138
-#EXTINF:-1,  AyM Sports
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9074
-#EXTINF:-1,  Az Cinema
+#EXTINF:-1, Az Cinema
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9108
-#EXTINF:-1,  Az Clic
+#EXTINF:-1, Az Clic
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9035
-#EXTINF:-1,  Az Corazon
+#EXTINF:-1, Az Corazon
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2999
-#EXTINF:-1,  Az Mundo
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3000
-#EXTINF:-1,  AZTECA 7
+#EXTINF:-1, AZTECA 7
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9026
-#EXTINF:-1,  Azteca Mundo
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297204
-#EXTINF:-1,  AZTECA Uno
+#EXTINF:-1, AZTECA Uno
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9025
-#EXTINF:-1,  Baby TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295150
-#EXTINF:-1,  Bandamax
+#EXTINF:-1, BabyFirst TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8673
+#EXTINF:-1, Bandamax
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9122
-#EXTINF:-1,  BitMe
+#EXTINF:-1, BitMe
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/47946
-#EXTINF:-1,  Canal 4
+#EXTINF:-1, Canal 4
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/7044
-#EXTINF:-1,  Canal 5
+#EXTINF:-1, Canal 5
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9024
-#EXTINF:-1,  Canal 6 Monterrey
+#EXTINF:-1, Canal 6 Monterrey
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/267340
-#EXTINF:-1,  Canal 6 Saltillo
+#EXTINF:-1, Canal 6 Saltillo
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/7045
-#EXTINF:-1,  Canal 8 Costa Rica
+#EXTINF:-1, Canal 8 Costa Rica
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/31756
-#EXTINF:-1,  Canal 10 Cancun
+#EXTINF:-1, Canal 10 Cancun
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/147894
-#EXTINF:-1,  Canal 26
+#EXTINF:-1, Canal 26
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/7043
-#EXTINF:-1,  Canal Catorce
+#EXTINF:-1, Canal Catorce
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/287630
-#EXTINF:-1,  Canal Internacional
+#EXTINF:-1, Canal Internacional
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/296519
-#EXTINF:-1,  Capital 21
+#EXTINF:-1, Canal Mundo+
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/287631
+#EXTINF:-1, Capital 21
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/287632
-#EXTINF:-1,  Cartoon Network
+#EXTINF:-1, Cartoon Network
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9043
-#EXTINF:-1,  Cartoonito
+#EXTINF:-1, Cartoonito
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9088
-#EXTINF:-1,  Cinecanal
+#EXTINF:-1, Cinecanal
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9128
-#EXTINF:-1,  CineLatino
+#EXTINF:-1, CineLatino
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/167062
-#EXTINF:-1,  Claro Cinema
+#EXTINF:-1, Cinemax
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9080
+#EXTINF:-1, Claro Cinema
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8706
-#EXTINF:-1,  Claro Sports
+#EXTINF:-1, Claro Sports
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3012
-#EXTINF:-1,  Claro Sports 2
+#EXTINF:-1, Claro Sports 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297205
-#EXTINF:-1,  Comedy Central
+#EXTINF:-1, Comedy Central
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9106
-#EXTINF:-1,  Como Dice El Dicho
+#EXTINF:-1, Como Dice El Dicho
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298052
-#EXTINF:-1,  Cor TV
+#EXTINF:-1, Cor TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/287634
-#EXTINF:-1,  Corazon del la Capital
+#EXTINF:-1, Corazon del la Capital
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/296635
-#EXTINF:-1,  De Pelicula
+#EXTINF:-1, De Pelicula
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/31740
-#EXTINF:-1,  De Pelicula Plus
+#EXTINF:-1, De Pelicula Plus
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298053
-#EXTINF:-1,  Discovery Channel
+#EXTINF:-1, Discovery Channel
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/280388
-#EXTINF:-1,  Discovery H&H
+#EXTINF:-1, Discovery H&H
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9110
-#EXTINF:-1,  Discovery Kids
+#EXTINF:-1, Discovery Kids
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9060
-#EXTINF:-1,  Discovery Science
+#EXTINF:-1, Discovery Science
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9059
-#EXTINF:-1,  Discovery Theater
+#EXTINF:-1, Discovery Theater
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9151
-#EXTINF:-1,  Discovery TLC
+#EXTINF:-1, Discovery TLC
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9062
-#EXTINF:-1,  Disney Channel
+#EXTINF:-1, Discovery Turbo
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9058
+#EXTINF:-1, Discovery World
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9061
+#EXTINF:-1, Disney Channel
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9086
-#EXTINF:-1,  Disney Junior
+#EXTINF:-1, Disney Junior
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9042
-#EXTINF:-1,  Distrito Comedia
+#EXTINF:-1, Disney XD
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3027
+#EXTINF:-1, Distrito Comedia
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9126
-#EXTINF:-1,  Dream Works
+#EXTINF:-1, Dream Works
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298055
-#EXTINF:-1,  ESPN
+#EXTINF:-1, E!
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/31760
+#EXTINF:-1, ESPN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9070
-#EXTINF:-1,  ESPN 2
+#EXTINF:-1, ESPN 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298057
-#EXTINF:-1,  ESPN 3
+#EXTINF:-1, ESPN 3
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38603
-#EXTINF:-1,  ESPN Extra
+#EXTINF:-1, ESPN Dos
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9068
+#EXTINF:-1, ESPN Extra
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38607
-#EXTINF:-1,  Estrella News
+#EXTINF:-1, Estrella News
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/284052
-#EXTINF:-1,  Estrella TV
+#EXTINF:-1, Estrella TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/167064
-#EXTINF:-1,  Europa Europa
+#EXTINF:-1, Europa Europa
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9130
-#EXTINF:-1,  Food Network
+#EXTINF:-1, Food Network
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9116
-#EXTINF:-1,  Foro TV
+#EXTINF:-1, Foro TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5782
-#EXTINF:-1,  FOX SPORTS
+#EXTINF:-1, FOX SPORTS
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/10925
-#EXTINF:-1,  FOX SPORTS 2
+#EXTINF:-1, FOX SPORTS 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3043
-#EXTINF:-1,  FOX SPORTS 3
+#EXTINF:-1, FOX SPORTS 3
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3044
-#EXTINF:-1,  FX
+#EXTINF:-1, FX
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9105
-#EXTINF:-1,  FXM
+#EXTINF:-1, FXM
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9079
-#EXTINF:-1,  Glitz
+#EXTINF:-1, Glitz
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9125
-#EXTINF:-1,  Golden
+#EXTINF:-1, Golden
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5793
-#EXTINF:-1,  Golden Edge
+#EXTINF:-1, Golden Edge
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9076
-#EXTINF:-1,  Golden Plus
+#EXTINF:-1, Golden Plus
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3051
-#EXTINF:-1,  Golden Premier
+#EXTINF:-1, Golden Premier
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3052
-#EXTINF:-1,  Golf Channel
+#EXTINF:-1, Golf Channel
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/49383
-#EXTINF:-1,  HGTV
+#EXTINF:-1, HGTV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/187048
-#EXTINF:-1,  History
+#EXTINF:-1, History
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9050
-#EXTINF:-1,  History 2
+#EXTINF:-1, History 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/273073
-#EXTINF:-1,  I Sat
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9121
-#EXTINF:-1,  ILCE
+#EXTINF:-1, ILCE
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/296518
-#EXTINF:-1,  Imagen TV
+#EXTINF:-1, Imagen TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9039
-#EXTINF:-1,  Ingenio TV
+#EXTINF:-1, Ingenio TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9147
-#EXTINF:-1,  Investigation Discovery
+#EXTINF:-1, Investigation Discovery
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9056
-#EXTINF:-1,  Jalisco TV
+#EXTINF:-1, Jalisco TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/287636
-#EXTINF:-1,  Justicia TV
+#EXTINF:-1, Justicia TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/7050
-#EXTINF:-1,  La Rosa De Guadalupe
+#EXTINF:-1, La Rosa De Guadalupe
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298059
-#EXTINF:-1,  Las Estrella Games
+#EXTINF:-1, Las Estrella Games
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298336
-#EXTINF:-1,  Las Estrellas
+#EXTINF:-1, Las Estrellas
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3005
-#EXTINF:-1,  Maria+Vision
+#EXTINF:-1, Maria+Vision
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/163056
-#EXTINF:-1,  Maria+Vision Medjugorje
+#EXTINF:-1, Maria+Vision Medjugorje
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/296514
-#EXTINF:-1,  Mexico Travel Channel
+#EXTINF:-1, Mexico Travel Channel
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/163049
-#EXTINF:-1,  Milenio TV
+#EXTINF:-1, Milenio TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/7067
-#EXTINF:-1,  Multicinema
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295813
-#EXTINF:-1,  Multimedios Laguna
+#EXTINF:-1, Morbido TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/198054
+#EXTINF:-1, Multimedios Guadalajara
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298061
+#EXTINF:-1, Multimedios Laguna
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/287639
-#EXTINF:-1,  MultiPremier
+#EXTINF:-1, Multimedios Monterrey
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298917
+#EXTINF:-1, Multimedios Plus
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298918
+#EXTINF:-1, MultiPremier
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298164
-#EXTINF:-1,  N+ Media
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298165
-#EXTINF:-1,  NAT GEO
+#EXTINF:-1, NAT GEO
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8725
-#EXTINF:-1,  NAT GEO Wild
+#EXTINF:-1, NAT GEO Wild
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9072
-#EXTINF:-1,  nickelodeon
+#EXTINF:-1, Nick Jr
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/31745
+#EXTINF:-1, nickelodeon
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9085
-#EXTINF:-1,  Nmas
+#EXTINF:-1, NickToons
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298064
+#EXTINF:-1, Nmas
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/296521
-#EXTINF:-1,  Once Mexico
+#EXTINF:-1, Noticias Canal 10
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299790
+#EXTINF:-1, NRT Mexico
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299535
+#EXTINF:-1, Nu9ve
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298919
+#EXTINF:-1, Once Mexico
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/7051
-#EXTINF:-1,  Paramount Network
+#EXTINF:-1, Paramount Network
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9146
-#EXTINF:-1,  PX Sports
+#EXTINF:-1, PX Sports
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/267264
-#EXTINF:-1,  RCG TV
+#EXTINF:-1, RCG TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/163053
-#EXTINF:-1,  RTQ Queretaro
+#EXTINF:-1, RTQ Queretaro
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/147900
-#EXTINF:-1,  SET Television Canal 26
+#EXTINF:-1, SET Television Canal 26
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/287645
-#EXTINF:-1,  Sistema Michoacano de TV
+#EXTINF:-1, Sistema Michoacano de TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/296509
-#EXTINF:-1,  Space
+#EXTINF:-1, Sizart Canal 24 Zacatecas
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298920
+#EXTINF:-1, Space
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9136
-#EXTINF:-1,  Sqcs
+#EXTINF:-1, Sqcs
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297030
-#EXTINF:-1,  Studio Universal
+#EXTINF:-1, Star Channel
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/280386
+#EXTINF:-1, Studio Universal
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9071
-#EXTINF:-1,  SYFY
+#EXTINF:-1, SYFY
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9081
-#EXTINF:-1,  TBS
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9124
-#EXTINF:-1,  TCM
+#EXTINF:-1, TCM
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9131
-#EXTINF:-1,  Tele Sistema Canal 9
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/287646
-#EXTINF:-1,  TeleFormula
+#EXTINF:-1, TeleFormula
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/31746
-#EXTINF:-1,  Telehit Musica
+#EXTINF:-1, Telehit Musica
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/31785
-#EXTINF:-1,  Telehit Musica Plus
+#EXTINF:-1, Telehit Musica Plus
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298067
-#EXTINF:-1,  Telemax
+#EXTINF:-1, Telemax
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/7080
-#EXTINF:-1,  Teleritmo
+#EXTINF:-1, Teleritmo
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9066
-#EXTINF:-1,  Tlnovelas
+#EXTINF:-1, Tlaxcala TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/296507
+#EXTINF:-1, Tlnovelas
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9141
-#EXTINF:-1,  TNT Series
+#EXTINF:-1, TNT
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9140
+#EXTINF:-1, TNT Series
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9139
-#EXTINF:-1,  TUDN
+#EXTINF:-1, TUDN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/31784
-#EXTINF:-1,  TV Mas
+#EXTINF:-1, TV Mas
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9097
-#EXTINF:-1,  TV Mexiquense
+#EXTINF:-1, TV Mexiquense
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9104
-#EXTINF:-1,  TV Nuevo Leon 28
+#EXTINF:-1, TV Nuevo Leon 28
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/296506
-#EXTINF:-1,  TVC Deportes
+#EXTINF:-1, TVC Deportes
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9075
-#EXTINF:-1,  Ultra Cine
+#EXTINF:-1, Ubeat
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286768
+#EXTINF:-1, Ultra Cine
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/167077
-#EXTINF:-1,  Ultra Clasico
+#EXTINF:-1, Ultra Clasico
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/167076
-#EXTINF:-1,  Ultra Docu
+#EXTINF:-1, Ultra Docu
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298069
-#EXTINF:-1,  Ultra Familia
+#EXTINF:-1, Ultra Familia
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/167075
-#EXTINF:-1,  Ultra Fiesta
+#EXTINF:-1, Ultra Fiesta
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/167078
-#EXTINF:-1,  Ultra Kidz
+#EXTINF:-1, Ultra Kidz
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/167080
-#EXTINF:-1,  Ultra Macho
+#EXTINF:-1, Ultra Macho
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/167081
-#EXTINF:-1,  Ultra Mex
+#EXTINF:-1, Ultra Mex
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3160
-#EXTINF:-1,  Unicable
+#EXTINF:-1, Unicable
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5804
-#EXTINF:-1,  Univision Tlnovelas
+#EXTINF:-1, Univision Tlnovelas
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/196608
-#EXTINF:-1,  Uno TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/287649
-#EXTINF:-1,  Video Rola
+#EXTINF:-1, Video Rola
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290484
-#EXTINF:-1,  Warner TV
+#EXTINF:-1, Warner TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9142
-
-#EXTINF:-1,  ATN Television
+#EXTINF:-1, ATN Television
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295640
-#EXTINF:-1,  AXN
+#EXTINF:-1, Avivamiento TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286296
+#EXTINF:-1, AXN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/46554
-#EXTINF:-1,  Cablenoticias
+#EXTINF:-1, Cablenoticias
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148933
-#EXTINF:-1,  Cali TV
+#EXTINF:-1, Cali TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/18392
-#EXTINF:-1,  Canal 1
+#EXTINF:-1, Canal 1
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/48311
-#EXTINF:-1,  Canal 2
+#EXTINF:-1, Canal 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286298
-#EXTINF:-1,  Canal Capital
+#EXTINF:-1, Canal Capital
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8347
-#EXTINF:-1,  Canal CNC Medellin
+#EXTINF:-1, Canal CNC Medellin
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/151405
-#EXTINF:-1,  Canal Dos
+#EXTINF:-1, Canal Dos
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286299
-#EXTINF:-1,  Canal Institucional
+#EXTINF:-1, Canal Institucional
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8348
-#EXTINF:-1,  Canal TRO
+#EXTINF:-1, Canal TRO
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/47941
-#EXTINF:-1,  Canal Vision Dorada
+#EXTINF:-1, Canal Vision Dorada
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286302
-#EXTINF:-1,  Caracol TV
+#EXTINF:-1, Caracol TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3162
-#EXTINF:-1,  Caracol TV Internacional
+#EXTINF:-1, Caracol TV Internacional
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8351
-#EXTINF:-1,  Cinecanal
+#EXTINF:-1, Cine Premium
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299839
+#EXTINF:-1, Cinecanal
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290335
-#EXTINF:-1,  City TV
+#EXTINF:-1, City TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/48310
-#EXTINF:-1,  Cristovision
+#EXTINF:-1, Cristovision
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/278068
-#EXTINF:-1,  DHE
+#EXTINF:-1, DHE
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3016
-#EXTINF:-1,  DirecTV Sports
+#EXTINF:-1, DirecTV Sports
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298363
-#EXTINF:-1,  DirecTV Sports 2
+#EXTINF:-1, DirecTV Sports 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/48306
-#EXTINF:-1,  DirecTV Sports Plus
+#EXTINF:-1, DirecTV Sports Plus
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/48307
-#EXTINF:-1,  Discovery Home & Health
+#EXTINF:-1, Discovery Home & Health
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172589
-#EXTINF:-1,  Discovery World
+#EXTINF:-1, Discovery World
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/46569
-#EXTINF:-1,  El Tiempo TV
+#EXTINF:-1, El Tiempo TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8353
-#EXTINF:-1,  ESPN
+#EXTINF:-1, ESPN
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295642
-#EXTINF:-1,  ESPN 2
+#EXTINF:-1, ESPN 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/273212
-#EXTINF:-1,  ESPN 3
+#EXTINF:-1, ESPN 3
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295641
-#EXTINF:-1,  ESPN 4
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298683
-#EXTINF:-1,  FOX Sports 1
+#EXTINF:-1, FOX Sports 1
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/65949
-#EXTINF:-1,  Fox Sports 2
+#EXTINF:-1, Fox Sports 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/198470
-#EXTINF:-1,  FOX Sports 3
+#EXTINF:-1, FOX Sports 3
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/189906
-#EXTINF:-1,  FX
+#EXTINF:-1, FX
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295243
-#EXTINF:-1,  Melody Channel
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5821
-#EXTINF:-1,  NTN 24
+#EXTINF:-1, NAT GEO Wild
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/172601
+#EXTINF:-1, NTN 24
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8355
-#EXTINF:-1,  RCN 2
+#EXTINF:-1, RCN 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290242
-#EXTINF:-1,  RCN Int
+#EXTINF:-1, RCN Int
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290241
-#EXTINF:-1,  RCN Novelas
+#EXTINF:-1, RCN Novelas
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/54283
-#EXTINF:-1,  RCN Nuestra Tele
+#EXTINF:-1, RCN Nuestra Tele
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298369
-#EXTINF:-1,  RCN TV
+#EXTINF:-1, RCN TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3163
-#EXTINF:-1,  Senal Colombia
+#EXTINF:-1, Senal Colombia
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3167
-#EXTINF:-1,  Suram TV
+#EXTINF:-1, Suram TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/166060
-#EXTINF:-1,  Teleamiga
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197105
-#EXTINF:-1,  Teleantioquia
+#EXTINF:-1, Teleantioquia
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8358
-#EXTINF:-1,  Telecafe
+#EXTINF:-1, Telecafe
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8359
-#EXTINF:-1,  Telecaribe
+#EXTINF:-1, Telecaribe
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5823
-#EXTINF:-1,  Teleislas
+#EXTINF:-1, Teleislas
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/76223
-#EXTINF:-1,  Telemedellin
+#EXTINF:-1, Telemedellin
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8360
-#EXTINF:-1,  Telepacifico
+#EXTINF:-1, Telepacifico
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8361
-#EXTINF:-1,  Trece
+#EXTINF:-1, TNT Series
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299049
+#EXTINF:-1, Trece
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197058
-#EXTINF:-1,  TV Gracia
+#EXTINF:-1, TV Gracia
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/166066
-#EXTINF:-1,  Win Sports
+#EXTINF:-1, Win Sports
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8345
-#EXTINF:-1,  Win Sports+
+#EXTINF:-1, Win Sports+
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/294455
-
 #EXTINF:-1, 13C
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8956
 #EXTINF:-1, 24 Horas
@@ -936,8 +1067,6 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/38466
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286264
 #EXTINF:-1, ITV Patagonia
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297231
-#EXTINF:-1, La Red
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8970
 #EXTINF:-1, Maxima
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286265
 #EXTINF:-1, Mega
@@ -950,12 +1079,10 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8975
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286286
 #EXTINF:-1, Retro Plus 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286284
-#EXTINF:-1, Retro Plus Movies
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286285
+#EXTINF:-1, SextaVision
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299544
 #EXTINF:-1, Studio Universal
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298169
-#EXTINF:-1, Tele 13
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298604
 #EXTINF:-1, Teletrak
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8965
 #EXTINF:-1, TNT Sports
@@ -976,52 +1103,60 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286279
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8976
 #EXTINF:-1, Universidad Autonoma
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286282
-#EXTINF:-1, VC Online
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/169033
-#EXTINF:-1, Via X
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295638
 #EXTINF:-1, VTV Valle de Aconcagua
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286283
-#EXTINF:-1, Zona Latina
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/148631
 #EXTINF:-1, America
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8983
 #EXTINF:-1, Antares TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8999
 #EXTINF:-1, ATV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/296303
-#EXTINF:-1, ATV Sur
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/166934
+#EXTINF:-1, bh TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299909
+#EXTINF:-1, Boticas Peru
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/10927
 #EXTINF:-1, Canal IPe
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9003
 #EXTINF:-1, Canal N
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8984
 #EXTINF:-1, Cinecanal
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290334
-#EXTINF:-1, ESPN
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295657
+#EXTINF:-1, Cosmos TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298891
 #EXTINF:-1, ESPN 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295656
 #EXTINF:-1, Exitosa
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295658
-#EXTINF:-1, Global TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295805
+#EXTINF:-1, Fox Sports
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/166931
 #EXTINF:-1, Golperu
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8990
+#EXTINF:-1, Identidad TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299810
 #EXTINF:-1, Latele
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9002
 #EXTINF:-1, Latina
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/46590
+#EXTINF:-1, Liga 1
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298923
+#EXTINF:-1, Liga 1 Max
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298922
+#EXTINF:-1, Memorias TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299759
+#EXTINF:-1, Movistar Deportes
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298924
 #EXTINF:-1, Oxigeno
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/6941
 #EXTINF:-1, Panamericana TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3173
 #EXTINF:-1, Peru Magico
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8995
-#EXTINF:-1, Star Channel
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298340
-#EXTINF:-1, Top Latino TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295663
+#EXTINF:-1, Radio Rutas del Perú
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285842
+#EXTINF:-1, RPP Noticias Piura
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/166937
+#EXTINF:-1, Telemundo
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298925
 #EXTINF:-1, TV Peru
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/8986
 #EXTINF:-1, TV Peru Noticias
@@ -1054,17 +1189,20 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298824
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9162
 #EXTINF:-1, Gol TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9163
+#EXTINF:-1, Hechos Ecuador
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286425
 #EXTINF:-1, Oromar TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9164
-#EXTINF:-1, RTS
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9165
+#EXTINF:-1, Paraíso Digital
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286427
 #EXTINF:-1, TC TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9167
 #EXTINF:-1, TeleAmazonas
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9168
+#EXTINF:-1, Telerama
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299456
 #EXTINF:-1, TVC
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/47932
-
 #EXTINF:-1, #0
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2146
 #EXTINF:-1, #VAMOS
@@ -1079,12 +1217,12 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285722
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/146345
 #EXTINF:-1, 324 Cat
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165149
+#EXTINF:-1, 8TV Madrid
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/75902
 #EXTINF:-1, A Punt
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/146343
 #EXTINF:-1, A&E
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/7731
-#EXTINF:-1, A3 Cine
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/283299
 #EXTINF:-1, Activa TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285727
 #EXTINF:-1, AFV Espanol
@@ -1117,10 +1255,14 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/11820
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1174
 #EXTINF:-1, AMC Break
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297245
+#EXTINF:-1, Andorra TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299404
 #EXTINF:-1, Antena 3
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1173
 #EXTINF:-1, Aragon TV Internacional
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2758
+#EXTINF:-1, Atrecine
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/283299
 #EXTINF:-1, Atreseries
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9102
 #EXTINF:-1, AXN
@@ -1169,14 +1311,16 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2216
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/146340
 #EXTINF:-1, Canal 33
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/64938
+#EXTINF:-1, Canal 45 TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285733
 #EXTINF:-1, Canal 56
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/270088
 #EXTINF:-1, Canal Cocina
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1167
 #EXTINF:-1, Canal Diocesano
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285741
-#EXTINF:-1, Canal Extremadura
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/11776
+#EXTINF:-1, Canal Donana
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285742
 #EXTINF:-1, Canal Extremadura Sat
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298736
 #EXTINF:-1, Canal Hollywood
@@ -1255,16 +1399,12 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1145
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5299
 #EXTINF:-1, Disney XD
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5298
-#EXTINF:-1, Distrito TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/201938
 #EXTINF:-1, Divinity
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2795
 #EXTINF:-1, DMAX
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2762
 #EXTINF:-1, DreamWorks TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281787
-#EXTINF:-1, Drive IN Movie Channel
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298746
 #EXTINF:-1, El 33
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/294892
 #EXTINF:-1, EL Pinguino TV
@@ -1273,10 +1413,10 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/53887
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/201928
 #EXTINF:-1, Energy
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2217
+#EXTINF:-1, ESNE TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/76224
 #EXTINF:-1, Esperanza TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/11119
-#EXTINF:-1, ESPN
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/90708
 #EXTINF:-1, ESPN 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281480
 #EXTINF:-1, ESPN 3
@@ -1311,6 +1451,8 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/89723
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/89722
 #EXTINF:-1, France 24
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/9148
+#EXTINF:-1, Fuengirola TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299530
 #EXTINF:-1, Galicia TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2192
 #EXTINF:-1, GCM TV
@@ -1319,12 +1461,14 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285760
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/174484
 #EXTINF:-1, Goiena Eus
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285761
-#EXTINF:-1, Gol
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1156
 #EXTINF:-1, Gol Play
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297246
 #EXTINF:-1, Hamaika Telebista
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285762
+#EXTINF:-1, HBO
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285191
+#EXTINF:-1, HBO Signature
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/91989
 #EXTINF:-1, Historia
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1155
 #EXTINF:-1, Hola TV
@@ -1337,52 +1481,14 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2793
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285763
 #EXTINF:-1, Imas TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/269931
-#EXTINF:-1, INSTAT TV 1
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298778
-#EXTINF:-1, INSTAT TV 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298779
-#EXTINF:-1, INSTAT TV 3
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298780
-#EXTINF:-1, INSTAT TV 4
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298781
-#EXTINF:-1, INSTAT TV 5
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298782
-#EXTINF:-1, INSTAT TV 6
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298783
-#EXTINF:-1, INSTAT TV 7
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298784
-#EXTINF:-1, INSTAT TV 8
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298785
-#EXTINF:-1, INSTAT TV 9
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298786
-#EXTINF:-1, INSTAT TV 10
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298787
-#EXTINF:-1, INSTAT TV 11
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298788
-#EXTINF:-1, INSTAT TV 12
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298789
-#EXTINF:-1, INSTAT TV 13
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298790
-#EXTINF:-1, INSTAT TV 14
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298791
-#EXTINF:-1, INSTAT TV 15
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298792
-#EXTINF:-1, INSTAT TV 16
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298793
-#EXTINF:-1, INSTAT TV 17
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298794
-#EXTINF:-1, INSTAT TV 18
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298795
-#EXTINF:-1, INSTAT TV 19
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298796
-#EXTINF:-1, INSTAT TV Info
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298797
 #EXTINF:-1, Inter Almeria
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/81640
+#EXTINF:-1, Investigation Discovery
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/27790
+#EXTINF:-1, Junta Castilla y Leon
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285767
 #EXTINF:-1, LA 7
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285768
-#EXTINF:-1, La Liga Highlights
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298804
 #EXTINF:-1, La Otra
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/145616
 #EXTINF:-1, La Sexta
@@ -1409,6 +1515,8 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/286055
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281790
 #EXTINF:-1, M+ Ellas #V
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/297242
+#EXTINF:-1, M95 Marbella
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299508
 #EXTINF:-1, Maestrat TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285784
 #EXTINF:-1, Mar TV
@@ -1445,8 +1553,6 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1144
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1143
 #EXTINF:-1, MOVISTAR Estrenos 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/295135
-#EXTINF:-1, MOVISTAR Fest
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/168992
 #EXTINF:-1, MOVISTAR Golf
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1142
 #EXTINF:-1, MOVISTAR La Resistencia
@@ -1469,16 +1575,12 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/81096
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298805
 #EXTINF:-1, Movistar Liga De Campeones 4
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298806
-#EXTINF:-1, Movistar Liga De Campeones 5
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298807
 #EXTINF:-1, Movistar Liga De Campeones 6
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298808
 #EXTINF:-1, Movistar Liga De Campeones 7
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/146661
 #EXTINF:-1, MOVISTAR Series
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1140
-#EXTINF:-1, MOVISTAR Series 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1139
 #EXTINF:-1, MTV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/29307
 #EXTINF:-1, MTV Espana
@@ -1507,10 +1609,10 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2218
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2189
 #EXTINF:-1, NTV Europe
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285846
+#EXTINF:-1, Nuevo Tiempo
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299797
 #EXTINF:-1, Oizmendi Telebista
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285790
-#EXTINF:-1, Olympic Channel
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/11138
 #EXTINF:-1, Onda Algeciras TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/269932
 #EXTINF:-1, Onda Cadiz
@@ -1549,6 +1651,8 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285797
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/11809
 #EXTINF:-1, RTVE Noticias
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/296504
+#EXTINF:-1, Sal
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299838
 #EXTINF:-1, Sevilla FC TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/169002
 #EXTINF:-1, Sofy TV
@@ -1559,8 +1663,6 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285810
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/16274
 #EXTINF:-1, Sophia TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285811
-#EXTINF:-1, Star TVE
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285188
 #EXTINF:-1, Sundance TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2757
 #EXTINF:-1, SYFY
@@ -1583,8 +1685,8 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285823
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285825
 #EXTINF:-1, Ten
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5306
-#EXTINF:-1, TNT
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2187
+#EXTINF:-1, Teve Cat
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285835
 #EXTINF:-1, Toros TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/1132
 #EXTINF:-1, Trece TV
@@ -1593,6 +1695,8 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/60943
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/270092
 #EXTINF:-1, TV Castilla La Mancha
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/169000
+#EXTINF:-1, TV Ferrol
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/299430
 #EXTINF:-1, TV Vega Baja
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/269915
 #EXTINF:-1, TV3 Catalunya
@@ -1617,6 +1721,10 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281806
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/281808
 #EXTINF:-1, Ubeat
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/147368
+#EXTINF:-1, Ventdelnord TV
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/285832
+#EXTINF:-1, Viajar
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2776
 #EXTINF:-1, Warner TV
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298814
 #EXTINF:-1, XTRM
