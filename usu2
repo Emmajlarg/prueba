@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, CONTACTO Wsapp 3865 448130 $ 700 x mes  
 ar.emmajl.Social 
+#EXTINF:-1, CONTACTO Wsapp 3865 448130 $ 700 x mes  
+ar.emmajl.Social 
 #EXTINF:-1, Telemundo I. MIAMI vs HOUSTON final (21:30)
 http://23.227.149.82:8080/StarPlay11Cesar50/rfUnKQcv6x/170323?token=SBsLAkBfFwwTA1UDDlIBWw1QV1cGUVUAV1ULUQ0BVAYLXVNTAlYNAwNEGxRFFUMHVFg5WwdGWwQGVgAACk9EQUBcETxaUxcME1cAAA9WBVoXGURGCgkEFwtXBQsMW1IGBA9TTxFHXFITXBUAA1AFVhcZRFcbEARHXwdfbV0GEF1QXEFZXUJZWh1EWFhpBVQPVFsCEFlGURcdRFpBSUFcWkZVD08RVVxCQwdDUxRbE1cGB1QQT0YCWkQIR0BAQVwWZmpBTxFSTUJUCERfWQ8TWBdBFRBPRghGbhRWQU0RA1VeXBFBCRUEFB1EWldOPlINW1sDURcNDltCRAkQC1ZWFh8bDgxdXkFZQzlHX1JDC0ADAl8KWkYc
 #EXTINF:-1, Telemundo I.MIAMI vs HOUSTON final (21:30) opc2
@@ -12,7 +14,7 @@ http://fina.dyndns.tv/Peliculas/Carlitos%20Y%20Snoopy%20La%20Pelicula%20De%20Pea
 #EXTINF:-1,  Telefe 2 
 http://magi-stv.net:8080/Joseluis/Joseluis123/210861 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", Telefe Rosario (1080p) [Not 24/7]  https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8 
-#EXTINF:-1, tvg-logo="http://127.0.0.1/" group-title=" ", El Ocho (1080p) [Not 24/7]  https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", El Ocho (1080p) [Not 24/7]  https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1, 24/7 Canal de Noticias
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285870
 #EXTINF:-1, 5TV Corrientes
@@ -497,44 +499,10 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5803
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3085
 #EXTINF:-1, TeenNick
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5796
-#EXTINF:-1, Telemundo 60 San Antonio KVDA TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3120
-#EXTINF:-1, Telemundo Boston
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298828
-#EXTINF:-1, Telemundo Chicago Illinois WSNS TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/290482
-#EXTINF:-1, Telemundo Corona California KVEA TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172620
-#EXTINF:-1, Telemundo Dallas Texas KXTX TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3113
-#EXTINF:-1, Telemundo Denver Colorado KDEN TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172614
-#EXTINF:-1, Telemundo Hartford Connecticut WRDM CD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299111
-#EXTINF:-1, Telemundo Houston Texas KTMD TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3116
 #EXTINF:-1, Telemundo Internacional
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49318
-#EXTINF:-1, Telemundo Las Cruces New Mexico KTDO TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299110
-#EXTINF:-1, Telemundo Merced California KNSO TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3115
 #EXTINF:-1, Telemundo Miami Florida WSCV TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3117
-#EXTINF:-1, Telemundo Paradise Nevada KBLR TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172619
-#EXTINF:-1, Telemundo Phoenix Arizona KTAZ TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3123
-#EXTINF:-1, Telemundo Providence WYCN LD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/198326
-#EXTINF:-1, Telemundo Sacramento California KCSO LD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299114
-#EXTINF:-1, Telemundo San Jose California KSTS TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172630
-#EXTINF:-1, Telemundo Tucson Arizona KHRR TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3122
-#EXTINF:-1, Television Del Este
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/148724
 #EXTINF:-1, TLC
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3107
 #EXTINF:-1, TNT
@@ -591,40 +559,8 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298831
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/291217
 #EXTINF:-1, Universal TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3036
-#EXTINF:-1, Univision Athens Georgia WUVG TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172645
-#EXTINF:-1, Univision Cleveland Ohio WQHS DT
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172647
-#EXTINF:-1, Univision Dallas Texas KUVN TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172641
-#EXTINF:-1, Univision Hanford California KFTV DT
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299119
-#EXTINF:-1, Univision Houston Texas KXLN TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299118
-#EXTINF:-1, Univision Joliet Indiana WGBO TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172654
-#EXTINF:-1, Univision Los Angeles California KMEX TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172659
 #EXTINF:-1, Univision Miami Florida WLTV TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172655
-#EXTINF:-1, Univision Modesto California KUVS TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299120
-#EXTINF:-1, Univision North Carolina WUVC DT
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172652
-#EXTINF:-1, Univision Paterson New Jersey WXTV DT
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299121
-#EXTINF:-1, Univision Phoenix Arizona KTVW TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295844
-#EXTINF:-1, Univision Puerto Rico
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172662
-#EXTINF:-1, Univision San Antonio Texas KWEX DT
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298914
-#EXTINF:-1, Univision San Francisco California KDTV TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299123
-#EXTINF:-1, Univision Tucson Arizona KUVE TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295345
-#EXTINF:-1, Univision Vineland New Jersey WUVP TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172660
 #EXTINF:-1, Urbano TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299331
 #EXTINF:-1, Vallevision
