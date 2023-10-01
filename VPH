@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1, contacto 3865448130 $ 1.000 x MES
 ar.emmajl.social
-#EXTINF:-1,ESPN Premium HD
+#EXTINF:-1, MIAMI VS NEW YORK MLS
+http://magi-stv.net:8080/Joseluis/Joseluis123/2188745#EXTINF:-1,ESPN Premium HD
 http://45.186.252.17:8000/play/a0bu
 #EXTINF:-1,TNT Sports HD
 http://45.186.252.17:8000/play/a0aw
