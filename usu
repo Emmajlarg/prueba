@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, CONTACTO Wsapp 3865 448130 $ 1.000 x mes  
+#EXTINF:-1, CONTACTO Wsapp 3865448130 $ 1.000 x mes  
 ar.emmajl.Social 
 #EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Undefined",Neo TV (432p)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -7,67 +7,67 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://45.186.252.17:8000/play/a0bu
 #EXTINF:-1,TNT Sports HD
 http://45.186.252.17:8000/play/a0aw
-#EXTINF:-1,AR| CANAL 4 JUJUY
+#EXTINF:-1, CANAL 4 JUJUY
 http://magi-stv.net:8080/Joseluis/Joseluis123/2171161
-#EXTINF:-1,AR| CANAL 10 RIO NEGRO
-http://magi-stv.net:8080/Joseluis/Joseluis123/2169972
+#EXTINF:-1, CANAL 10 RIO NEGRO
+http://magi-stv.net:8080/Joseluis/Joseluis123/2169972
 #EXTINF:-1,ARG: Telesur
 http://magi-stv.net:8080/Joseluis/Joseluis123/210863
-#EXTINF:-1,AR| A24
+#EXTINF:-1, A24
 http://magi-stv.net:8080/Joseluis/Joseluis123/210833
-#EXTINF:-1,AR| America TV
+#EXTINF:-1, America TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/210836
-#EXTINF:-1,AR| America TV HD
+#EXTINF:-1, America TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/210835
-#EXTINF:-1,AR| C5N
+#EXTINF:-1, C5N
 http://magi-stv.net:8080/Joseluis/Joseluis123/210834
-#EXTINF:-1,AR| Canal 21
+#EXTINF:-1, Canal 21
 http://magi-stv.net:8080/Joseluis/Joseluis123/210839
-#EXTINF:-1,AR| Canal 26
+#EXTINF:-1, Canal 26
 http://magi-stv.net:8080/Joseluis/Joseluis123/210840
-#EXTINF:-1,AR| Canal 26 HD
+#EXTINF:-1, Canal 26 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/210841
-#EXTINF:-1,AR| Canal de la Ciudad
+#EXTINF:-1, Canal de la Ciudad
 http://magi-stv.net:8080/Joseluis/Joseluis123/210842
-#EXTINF:-1,AR| Cine AR HD
+#EXTINF:-1, Cine AR HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/210844
-#EXTINF:-1,AR| Ciudad Magazine
+#EXTINF:-1, Ciudad Magazine
 http://magi-stv.net:8080/Joseluis/Joseluis123/210845
-#EXTINF:-1,AR| Cronica
+#EXTINF:-1, Cronica
 http://magi-stv.net:8080/Joseluis/Joseluis123/210848
-#EXTINF:-1,AR| DEPORTV
+#EXTINF:-1, DEPORTV
 http://magi-stv.net:8080/Joseluis/Joseluis123/210849
-#EXTINF:-1,AR| El Nueve
+#EXTINF:-1, El Nueve
 http://magi-stv.net:8080/Joseluis/Joseluis123/210850
-#EXTINF:-1,AR| El Nueve HD
+#EXTINF:-1, El Nueve HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/210851
-#EXTINF:-1,AR| El Trece
+#EXTINF:-1, El Trece
 http://magi-stv.net:8080/Joseluis/Joseluis123/210852
-#EXTINF:-1,AR| El Trece HQ
+#EXTINF:-1, El Trece HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/210853
-#EXTINF:-1,AR| Garaje
+#EXTINF:-1, Garaje
 http://magi-stv.net:8080/Joseluis/Joseluis123/210854
-#EXTINF:-1,AR| Glitz
+#EXTINF:-1, Glitz
 http://magi-stv.net:8080/Joseluis/Joseluis123/210855
-#EXTINF:-1,AR| LN+
+#EXTINF:-1, LN+
 http://magi-stv.net:8080/Joseluis/Joseluis123/210856
-#EXTINF:-1,AR| Music Top
+#EXTINF:-1, Music Top
 http://magi-stv.net:8080/Joseluis/Joseluis123/210858
-#EXTINF:-1,AR| Telefe
+#EXTINF:-1, Telefe
 http://magi-stv.net:8080/Joseluis/Joseluis123/210861
 #EXTINF:-1,ARG| TN NOTICIAS
 http://magi-stv.net:8080/Joseluis/Joseluis123/2170060
-#EXTINF:-1,AR| TV Publica
+#EXTINF:-1, TV Publica
 http://magi-stv.net:8080/Joseluis/Joseluis123/210865
-#EXTINF:-1,AR| Volver
+#EXTINF:-1, Volver
 http://magi-stv.net:8080/Joseluis/Joseluis123/210868
-#EXTINF:-1,AR| NET TV 
+#EXTINF:-1, NET TV 
 http://magi-stv.net:8080/Joseluis/Joseluis123/2170061
-#EXTINF:-1,AR| TN
+#EXTINF:-1, TN
 http://magi-stv.net:8080/Joseluis/Joseluis123/210864
-#EXTINF:-1,AR| TNT Sports HD
+#EXTINF:-1, TNT Sports HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2140800
-#EXTINF:-1,AR| ESPN Premium ARG
+#EXTINF:-1, ESPN Premium ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121662
 #EXTINF:-1,AR | Lifetime (ARG)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2147951
@@ -77,1283 +77,1281 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/2147952
 http://magi-stv.net:8080/Joseluis/Joseluis123/2147953
 #EXTINF:-1,AR | Studio Universal (ARG)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2147954
-#EXTINF:-1,2MB |  HBO Pop LQ
+#EXTINF:-1,  HBO Pop LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095397
-#EXTINF:-1,2MB |  RCN LQ
+#EXTINF:-1,  RCN LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095408
-#EXTINF:-1,2MB | A&E LQ
+#EXTINF:-1, A&E LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092573
-#EXTINF:-1,2MB | ADN 40 LQ
+#EXTINF:-1, ADN 40 LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092572
-#EXTINF:-1,2MB | AMC LQ
+#EXTINF:-1, AMC LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092602
-#EXTINF:-1,2MB | America TV LQ
+#EXTINF:-1, America TV LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095410
-#EXTINF:-1,2MB | Animal Planet
+#EXTINF:-1, Animal Planet
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092565
-#EXTINF:-1,2MB | AXN
+#EXTINF:-1, AXN
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092558
-#EXTINF:-1,2MB | AXN
+#EXTINF:-1, AXN
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092571
-#EXTINF:-1,2MB | Azteca 7
+#EXTINF:-1, Azteca 7
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092601
-#EXTINF:-1,2MB | Azteca Clic LQ
+#EXTINF:-1, Azteca Clic LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095401
-#EXTINF:-1,2MB | Azteca corazón LQ
+#EXTINF:-1, Azteca corazón LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095402
-#EXTINF:-1,2MB | Azteca Uno
+#EXTINF:-1, Azteca Uno
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092600
-#EXTINF:-1,2MB | BABY TV LQ
+#EXTINF:-1, BABY TV LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092568
-#EXTINF:-1,2MB | BEIN SPORTS ESPAÑOL LQ
+#EXTINF:-1, BEIN SPORTS ESPAÑOL LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2094329
-#EXTINF:-1,2MB | BITME LQ
+#EXTINF:-1, BITME LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092599
-#EXTINF:-1,2MB | Canal 5
+#EXTINF:-1, Canal 5
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092598
-#EXTINF:-1,2MB | Caracol LQ
+#EXTINF:-1, Caracol LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095409
-#EXTINF:-1,2MB | CARTOON NETWORK LQ
+#EXTINF:-1, CARTOON NETWORK LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092597
-#EXTINF:-1,2MB | Cinecanal
+#EXTINF:-1, Cinecanal
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092595
-#EXTINF:-1,2MB | Cinema Dinamita LQ
+#EXTINF:-1, Cinema Dinamita LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095398
-#EXTINF:-1,2MB | CINEMAX LQ
+#EXTINF:-1, CINEMAX LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092596
-#EXTINF:-1,2MB | De Pelicula +
+#EXTINF:-1, De Pelicula +
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092624
-#EXTINF:-1,2MB | DISCOVERY HOME & HEALTH LQ
+#EXTINF:-1, DISCOVERY HOME & HEALTH LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092593
-#EXTINF:-1,2MB | Discovery ID
+#EXTINF:-1, Discovery ID
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092562
-#EXTINF:-1,2MB | Discovery Science LQ
+#EXTINF:-1, Discovery Science LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095403
-#EXTINF:-1,2MB | Discovery Theater LQ
+#EXTINF:-1, Discovery Theater LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095405
-#EXTINF:-1,2MB | Discovery Turbo
+#EXTINF:-1, Discovery Turbo
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095404
-#EXTINF:-1,2MB | Discovery world LQ
+#EXTINF:-1, Discovery world LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095406
-#EXTINF:-1,2MB | Distrito Comedia
+#EXTINF:-1, Distrito Comedia
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092591
-#EXTINF:-1,2MB | Espn 2 LQ
+#EXTINF:-1, Espn 2 LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095415
-#EXTINF:-1,2MB | ESPN MX
+#EXTINF:-1, ESPN MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092626
-#EXTINF:-1,2MB | FOX SPORTS 2 LQ
+#EXTINF:-1, FOX SPORTS 2 LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092588
-#EXTINF:-1,2MB | FX LQ
+#EXTINF:-1, FX LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092561
-#EXTINF:-1,2MB | Golden Edge
+#EXTINF:-1, Golden Edge
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092586
-#EXTINF:-1,2MB | HBO + LQ
+#EXTINF:-1, HBO + LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092585
-#EXTINF:-1,2MB | HBO 2
+#EXTINF:-1, HBO 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092625
-#EXTINF:-1,2MB | HBO
+#EXTINF:-1, HBO
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092584
-#EXTINF:-1,2MB | History
+#EXTINF:-1, History
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092566
-#EXTINF:-1,2MB | IMAGEN TV LQ
+#EXTINF:-1, IMAGEN TV LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092583
-#EXTINF:-1,2MB | Las Estrellas
+#EXTINF:-1, Las Estrellas
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092556
-#EXTINF:-1,2MB | MILENIO TV LQ
+#EXTINF:-1, MILENIO TV LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092582
-#EXTINF:-1,2MB | MTV LQ
+#EXTINF:-1, MTV LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092581
-#EXTINF:-1,2MB | Nat Geo
+#EXTINF:-1, Nat Geo
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092567
-#EXTINF:-1,2MB | NICK JR. LQ
+#EXTINF:-1, NICK JR. LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092580
-#EXTINF:-1,2MB | SKY SPORTS LQ
+#EXTINF:-1, SKY SPORTS LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092605
-#EXTINF:-1,2MB | Sony
+#EXTINF:-1, Sony
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092579
-#EXTINF:-1,2MB | Space
+#EXTINF:-1, Space
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092578
-#EXTINF:-1,2MB | STAR CHANNEL LQ
+#EXTINF:-1, STAR CHANNEL LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092589
-#EXTINF:-1,2MB | TELEMUNDO INTERNACIONAL LQ
+#EXTINF:-1, TELEMUNDO INTERNACIONAL LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2094330
-#EXTINF:-1,2MB | TLC
+#EXTINF:-1, TLC
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095400
-#EXTINF:-1,2MB | TL Novelas
+#EXTINF:-1, TL Novelas
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092576
-#EXTINF:-1,2MB | TNT LQ
+#EXTINF:-1, TNT LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092603
-#EXTINF:-1,2MB | TNT Series
+#EXTINF:-1, TNT Series
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095396
-#EXTINF:-1,2MB | TOONCAST LQ
+#EXTINF:-1, TOONCAST LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095395
-#EXTINF:-1,2MB | TUDN MX LQ
+#EXTINF:-1, TUDN MX LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092577
-#EXTINF:-1,2MB | TUDN USA
+#EXTINF:-1, TUDN USA
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092604
-#EXTINF:-1,2MB | UFC Fight Pass
+#EXTINF:-1, UFC Fight Pass
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095413
-#EXTINF:-1,2MB | Venevision LQ
+#EXTINF:-1, Venevision LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095411
-#EXTINF:-1,2MB| Directv Sports
+#EXTINF:-1, Directv Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123473
-#EXTINF:-1,2MB| Directv Sports 2
+#EXTINF:-1, Directv Sports 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123474
-#EXTINF:-1,2MB| Disney Channel
+#EXTINF:-1, Disney Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123481
-#EXTINF:-1,2MB| Espn Deportes
+#EXTINF:-1, Espn Deportes
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123475
-#EXTINF:-1,2MB| Espn Extra
+#EXTINF:-1, Espn Extra
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123476
-#EXTINF:-1,2MB| Food Network
+#EXTINF:-1, Food Network
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123484
-#EXTINF:-1,2MB| Sky Sports F1
+#EXTINF:-1, Sky Sports F1
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123477
-#EXTINF:-1,2MB| Telemundo Internacional
+#EXTINF:-1, Telemundo Internacional
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123480
-#EXTINF:-1,2MB| WARNER LQ
+#EXTINF:-1, WARNER LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092574
-#EXTINF:-1,2MB | Win Sports
+#EXTINF:-1, Win Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095416
 #EXTINF:-1,ABC Northdakota
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113506
 #EXTINF:-1,ABC West Virginia
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113507
-#EXTINF:-1,I | Baby First
+#EXTINF:-1, Baby First
 http://magi-stv.net:8080/Joseluis/Joseluis123/154076
-#EXTINF:-1,I | Baby First HQ
+#EXTINF:-1, Baby First HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/10984
-#EXTINF:-1,I | Baby First FHD
+#EXTINF:-1, Baby First FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154077
-#EXTINF:-1,I | Baby TV
+#EXTINF:-1, Baby TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/10978
-#EXTINF:-1,I | Baby TV HQ
+#EXTINF:-1, Baby TV HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/154078
-#EXTINF:-1,I | Cartoonito | Boomerang
+#EXTINF:-1, Cartoonito | Boomerang
 http://magi-stv.net:8080/Joseluis/Joseluis123/10970
-#EXTINF:-1,I | Cartoonito | Boomerang HD
+#EXTINF:-1, Cartoonito | Boomerang HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10981
-#EXTINF:-1,I | Cartoonito Boomerang FHD
+#EXTINF:-1, Cartoonito Boomerang FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154079
-#EXTINF:-1,I | Cartoon Network
+#EXTINF:-1, Cartoon Network
 http://magi-stv.net:8080/Joseluis/Joseluis123/10969
-#EXTINF:-1,I | Cartoon Network HD
+#EXTINF:-1, Cartoon Network HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10980
-#EXTINF:-1,I | Cartoon Network FHD
+#EXTINF:-1, Cartoon Network FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154080
-#EXTINF:-1,I | Discovery Kids
+#EXTINF:-1, Discovery Kids
 http://magi-stv.net:8080/Joseluis/Joseluis123/10966
-#EXTINF:-1,I | Discovery Kids HD
+#EXTINF:-1, Discovery Kids HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154081
-#EXTINF:-1,I | Discovery Kids FHD
+#EXTINF:-1, Discovery Kids FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154082
-#EXTINF:-1,I | Disney Channel
+#EXTINF:-1, Disney Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/10971
-#EXTINF:-1,I | Disney Channel HD
+#EXTINF:-1, Disney Channel HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/87108
-#EXTINF:-1,I | Disney Channel FHD
+#EXTINF:-1, Disney Channel FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148728
-#EXTINF:-1,I | Disney Jr
+#EXTINF:-1, Disney Jr
 http://magi-stv.net:8080/Joseluis/Joseluis123/10972
-#EXTINF:-1,I | Disney Jr HD
+#EXTINF:-1, Disney Jr HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/28151
-#EXTINF:-1,I | Disney Jr FHD
+#EXTINF:-1, Disney Jr FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154083
-#EXTINF:-1,I | Nick Jr
+#EXTINF:-1, Nick Jr
 http://magi-stv.net:8080/Joseluis/Joseluis123/10975
-#EXTINF:-1,I | Nick Jr HQ
+#EXTINF:-1, Nick Jr HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/188849
-#EXTINF:-1,I | Nick Jr FHD
+#EXTINF:-1, Nick Jr FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154089
-#EXTINF:-1,I | Nickelodeon
+#EXTINF:-1, Nickelodeon
 http://magi-stv.net:8080/Joseluis/Joseluis123/10973
-#EXTINF:-1,I | Nickelodeon HD
+#EXTINF:-1, Nickelodeon HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10982
-#EXTINF:-1,I | Nickelodeon FHD
+#EXTINF:-1, Nickelodeon FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154090
-#EXTINF:-1,I | Nicktoons
+#EXTINF:-1, Nicktoons
 http://magi-stv.net:8080/Joseluis/Joseluis123/10974
-#EXTINF:-1,I | Nicktoons HQ
+#EXTINF:-1, Nicktoons HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/154092
-#EXTINF:-1,I | Once Niños
+#EXTINF:-1, Once Niños
 http://magi-stv.net:8080/Joseluis/Joseluis123/148726
-#EXTINF:-1,I | TeenNick
+#EXTINF:-1, TeenNick
 http://magi-stv.net:8080/Joseluis/Joseluis123/10977
-#EXTINF:-1,I | TeenNick FHD
+#EXTINF:-1, TeenNick FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154087
-#EXTINF:-1,I | Tooncast
+#EXTINF:-1, Tooncast
 http://magi-stv.net:8080/Joseluis/Joseluis123/10976
-#EXTINF:-1,I | Tooncast HQ
+#EXTINF:-1, Tooncast HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/154094
-#EXTINF:-1,I | Universal Kids
+#EXTINF:-1, Universal Kids
 http://magi-stv.net:8080/Joseluis/Joseluis123/75652
-#EXTINF:-1,I | Universal Kids FHD
+#EXTINF:-1, Universal Kids FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/153893
 #EXTINF:-1,OUTDOOR HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113580
-#EXTINF:-1,P | A3cine HD
+#EXTINF:-1, A3cine HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/197239
-#EXTINF:-1,P | Azteca Cinema
+#EXTINF:-1, Azteca Cinema
 http://magi-stv.net:8080/Joseluis/Joseluis123/10841
-#EXTINF:-1,P | Azteca Cinema HD
+#EXTINF:-1, Azteca Cinema HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/197413
-#EXTINF:-1,P | Cine Latino
+#EXTINF:-1, Cine Latino
 http://magi-stv.net:8080/Joseluis/Joseluis123/10843
-#EXTINF:-1,P | Cine Latino HQ
+#EXTINF:-1, Cine Latino HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/155849
-#EXTINF:-1,P | Cine Sony HD
+#EXTINF:-1, Cine Sony HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/197327
-#EXTINF:-1,P | Cinecanal
+#EXTINF:-1, Cinecanal
 http://magi-stv.net:8080/Joseluis/Joseluis123/10844
-#EXTINF:-1,P | Cinecanal HD
+#EXTINF:-1, Cinecanal HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10845
-#EXTINF:-1,P | Cinecanal FHD
+#EXTINF:-1, Cinecanal FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154085
-#EXTINF:-1,P | Cinema Dinamita
+#EXTINF:-1, Cinema Dinamita
 http://magi-stv.net:8080/Joseluis/Joseluis123/75724
-#EXTINF:-1,P | Cinema Dinamita HD
+#EXTINF:-1, Cinema Dinamita HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/197237
-#EXTINF:-1,P | Cinemax
+#EXTINF:-1, Cinemax
 http://magi-stv.net:8080/Joseluis/Joseluis123/10846
-#EXTINF:-1,P | Cinemax HD
+#EXTINF:-1, Cinemax HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10847
-#EXTINF:-1,P | Cinemax FHD
+#EXTINF:-1, Cinemax FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154086
-#EXTINF:-1,P | Claro Cinema
+#EXTINF:-1, Claro Cinema
 http://magi-stv.net:8080/Joseluis/Joseluis123/2091457
-#EXTINF:-1,P | De Pelicula
+#EXTINF:-1, De Pelicula
 http://magi-stv.net:8080/Joseluis/Joseluis123/10856
-#EXTINF:-1,P | De Pelicula HQ
+#EXTINF:-1, De Pelicula HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/154098
-#EXTINF:-1,P | De Pelicula FHD
+#EXTINF:-1, De Pelicula FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145662
-#EXTINF:-1,P | De Pelicula Clásico
+#EXTINF:-1, De Pelicula Clásico
 http://magi-stv.net:8080/Joseluis/Joseluis123/201864
-#EXTINF:-1,P | De Pelicula Plus
+#EXTINF:-1, De Pelicula Plus
 http://magi-stv.net:8080/Joseluis/Joseluis123/10855
-#EXTINF:-1,P | De Pelicula Plus HD
+#EXTINF:-1, De Pelicula Plus HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10857
-#EXTINF:-1,P | De Pelicula Plus FHD
+#EXTINF:-1, De Pelicula Plus FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154096
-#EXTINF:-1,P | DHE
+#EXTINF:-1, DHE
 http://magi-stv.net:8080/Joseluis/Joseluis123/154097
-#EXTINF:-1,P | DHE FHD
+#EXTINF:-1, DHE FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/153478
-#EXTINF:-1,P | Film & Arts
+#EXTINF:-1, Film & Arts
 http://magi-stv.net:8080/Joseluis/Joseluis123/10876
-#EXTINF:-1,P | Film & Arts HD
+#EXTINF:-1, Film & Arts HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145709
-#EXTINF:-1,P | Golden Edge
+#EXTINF:-1, Golden Edge
 http://magi-stv.net:8080/Joseluis/Joseluis123/10859
-#EXTINF:-1,P | Golden Edge HD
+#EXTINF:-1, Golden Edge HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154111
-#EXTINF:-1,P | Golden Plus
+#EXTINF:-1, Golden Plus
 http://magi-stv.net:8080/Joseluis/Joseluis123/10860
-#EXTINF:-1,P | Golden Plus HD
+#EXTINF:-1, Golden Plus HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10862
-#EXTINF:-1,P | Golden Plus FHD
+#EXTINF:-1, Golden Plus FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154112
-#EXTINF:-1,P | Golden Premier
+#EXTINF:-1, Golden Premier
 http://magi-stv.net:8080/Joseluis/Joseluis123/200948
-#EXTINF:-1,P | Golden Premier HD
+#EXTINF:-1, Golden Premier HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/200947
-#EXTINF:-1,P | Golden Premier FHD
+#EXTINF:-1, Golden Premier FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/200946
-#EXTINF:-1,P | Golden.
+#EXTINF:-1, Golden.
 http://magi-stv.net:8080/Joseluis/Joseluis123/10861
-#EXTINF:-1,P | Golden HD
+#EXTINF:-1, Golden HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154110
-#EXTINF:-1,P | HBO
+#EXTINF:-1, HBO
 http://magi-stv.net:8080/Joseluis/Joseluis123/10886
-#EXTINF:-1,P | HBO HD
+#EXTINF:-1, HBO HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10885
-#EXTINF:-1,P | HBO. FHD
+#EXTINF:-1, HBO. FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154113
-#EXTINF:-1,P | HBO +
+#EXTINF:-1, HBO +
 http://magi-stv.net:8080/Joseluis/Joseluis123/10879
-#EXTINF:-1,P | HBO + HD
+#EXTINF:-1, HBO + HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10880
-#EXTINF:-1,P | HBO + FHD
+#EXTINF:-1, HBO + FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154115
-#EXTINF:-1,P | HBO 2
+#EXTINF:-1, HBO 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/10884
-#EXTINF:-1,P | HBO 2 HD
+#EXTINF:-1, HBO 2 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10883
-#EXTINF:-1,P | HBO 2 FHD
+#EXTINF:-1, HBO 2 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155165
-#EXTINF:-1,P | HBO Family
+#EXTINF:-1, HBO Family
 http://magi-stv.net:8080/Joseluis/Joseluis123/10877
-#EXTINF:-1,P | HBO Family HD
+#EXTINF:-1, HBO Family HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10878
-#EXTINF:-1,P | HBO Family FHD
+#EXTINF:-1, HBO Family FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155166
-#EXTINF:-1,P | HBO Mundi
+#EXTINF:-1, HBO Mundi
 http://magi-stv.net:8080/Joseluis/Joseluis123/10863
-#EXTINF:-1,P | HBO Mundi HQ
+#EXTINF:-1, HBO Mundi HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/155167
-#EXTINF:-1,P | HBO POP
+#EXTINF:-1, HBO POP
 http://magi-stv.net:8080/Joseluis/Joseluis123/41421
-#EXTINF:-1,P | HBO POP HD
+#EXTINF:-1, HBO POP HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/41420
-#EXTINF:-1,P | HBO POP FHD
+#EXTINF:-1, HBO POP FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155168
-#EXTINF:-1,P | HBO Signature
+#EXTINF:-1, HBO Signature
 http://magi-stv.net:8080/Joseluis/Joseluis123/10881
-#EXTINF:-1,P | HBO Signature HD
+#EXTINF:-1, HBO Signature HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10882
-#EXTINF:-1,P | HBO Signature FHD
+#EXTINF:-1, HBO Signature FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155170
-#EXTINF:-1,P | HBO Xtreme
+#EXTINF:-1, HBO Xtreme
 http://magi-stv.net:8080/Joseluis/Joseluis123/197618
-#EXTINF:-1,P | HBO Xtreme HD
+#EXTINF:-1, HBO Xtreme HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/157156
-#EXTINF:-1,P | Multipremier
+#EXTINF:-1, Multipremier
 http://magi-stv.net:8080/Joseluis/Joseluis123/201151
-#EXTINF:-1,P | Panico
+#EXTINF:-1, Panico
 http://magi-stv.net:8080/Joseluis/Joseluis123/25726
-#EXTINF:-1,P | Panico HD
+#EXTINF:-1, Panico HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155171
-#EXTINF:-1,P | Paramount Channel
+#EXTINF:-1, Paramount Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/10866
-#EXTINF:-1,P | Paramount Channel HD
+#EXTINF:-1, Paramount Channel HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10867
-#EXTINF:-1,P | Paramount Channel FHD
+#EXTINF:-1, Paramount Channel FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155172
-#EXTINF:-1,P | Space |  CO 
+#EXTINF:-1, Spac  CO 
 http://magi-stv.net:8080/Joseluis/Joseluis123/193852
-#EXTINF:-1,P | Space |  CO | HD
+#EXTINF:-1, Spac   HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/193851
-#EXTINF:-1,P | Space | MX
+#EXTINF:-1, Spac MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10870
-#EXTINF:-1,P | Space | MX | HD
+#EXTINF:-1, Spac MX | HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10871
-#EXTINF:-1,P | Space | MX | FHD
+#EXTINF:-1, Spac MX | FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155173
-#EXTINF:-1,P | Starz Encore HD
+#EXTINF:-1, Starz Encore HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/36818
-#EXTINF:-1,P | Studio Universal
+#EXTINF:-1, Studio Universal
 http://magi-stv.net:8080/Joseluis/Joseluis123/10872
-#EXTINF:-1,P | Studio Universal HD
+#EXTINF:-1, Studio Universal HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10873
-#EXTINF:-1,P | Studio Universal FHD
+#EXTINF:-1, Studio Universal FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155174
-#EXTINF:-1,P | SYFY
+#EXTINF:-1, SYFY
 http://magi-stv.net:8080/Joseluis/Joseluis123/10868
-#EXTINF:-1,P | SYFY HD
+#EXTINF:-1, SYFY HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10869
-#EXTINF:-1,P | SYFY FHD
+#EXTINF:-1, SYFY FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155175
-#EXTINF:-1,P | TCM
+#EXTINF:-1, TCM
 http://magi-stv.net:8080/Joseluis/Joseluis123/10874
-#EXTINF:-1,P | TCM HQ
+#EXTINF:-1, TCM HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/187786
-#EXTINF:-1,P | TNT
+#EXTINF:-1, TNT
 http://magi-stv.net:8080/Joseluis/Joseluis123/10875
-#EXTINF:-1,P | TNT HD
+#EXTINF:-1, TNT HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155176
-#EXTINF:-1,P | TNT FHD
+#EXTINF:-1, TNT FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155177
-#EXTINF:-1,P | Universal Cinema
+#EXTINF:-1, Universal Cinema
 http://magi-stv.net:8080/Joseluis/Joseluis123/2081448
-#EXTINF:-1,P | Universal Comedy
+#EXTINF:-1, Universal Comedy
 http://magi-stv.net:8080/Joseluis/Joseluis123/2081444
-#EXTINF:-1,P | Universal Crime Este
+#EXTINF:-1, Universal Crime Este
 http://magi-stv.net:8080/Joseluis/Joseluis123/2081445
-#EXTINF:-1,P | Universal Crime Oeste
+#EXTINF:-1, Universal Crime Oeste
 http://magi-stv.net:8080/Joseluis/Joseluis123/2081449
-#EXTINF:-1,P | Universal Premier Este
+#EXTINF:-1, Universal Premier Este
 http://magi-stv.net:8080/Joseluis/Joseluis123/2081446
-#EXTINF:-1,P | Universal Premier Oeste
+#EXTINF:-1, Universal Premier Oeste
 http://magi-stv.net:8080/Joseluis/Joseluis123/2081450
-#EXTINF:-1,P | Universal Reality
+#EXTINF:-1, Universal Reality
 http://magi-stv.net:8080/Joseluis/Joseluis123/2081447
-#EXTINF:-1,D | BEIN LA LIGA
+#EXTINF:-1, BEIN LA LIGA
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144812
-#EXTINF:-1,D | BEIN SPORTS EN ESPAÑOL
+#EXTINF:-1, BEIN SPORTS EN ESPAÑOL
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144818
-#EXTINF:-1,D| BEIN SPORTS
+#EXTINF:-1, BEIN SPORTS
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144810
-#EXTINF:-1,D| beIN Sports en Español 
+#EXTINF:-1, beIN Sports en Español 
 http://magi-stv.net:8080/Joseluis/Joseluis123/157370
-#EXTINF:-1,D| beIN Sports Ñ Latino
+#EXTINF:-1, beIN Sports Ñ Latino
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123472
-#EXTINF:-1,D | TUDNXTRA 1
+#EXTINF:-1, TUDNXTRA 1
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144819
-#EXTINF:-1,D | TUDNXTRA 10
+#EXTINF:-1, TUDNXTRA 10
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144820
-#EXTINF:-1,D | TUDNXTRA 11
+#EXTINF:-1, TUDNXTRA 11
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144821
-#EXTINF:-1,D | TUDNXTRA 2
+#EXTINF:-1, TUDNXTRA 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144822
-#EXTINF:-1,D | TUDNXTRA 3
+#EXTINF:-1, TUDNXTRA 3
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144823
-#EXTINF:-1,D| Adrenalina Sports
+#EXTINF:-1, Adrenalina Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/10960
-#EXTINF:-1,D| Afizzionados 
+#EXTINF:-1, Afizzionados 
 http://magi-stv.net:8080/Joseluis/Joseluis123/10914
-#EXTINF:-1,D| Afizzionados HD
+#EXTINF:-1, Afizzionados HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/202591
-#EXTINF:-1,D| AyM Sports
+#EXTINF:-1, AyM Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/155249
-#EXTINF:-1,D| AyM Sports HD
+#EXTINF:-1, AyM Sports HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155625
-#EXTINF:-1,D| Barca TV | 
+#EXTINF:-1, Barca TV | 
 http://magi-stv.net:8080/Joseluis/Joseluis123/10930
-#EXTINF:-1,D| Caza y pesca 
+#EXTINF:-1, Caza y pesca 
 http://magi-stv.net:8080/Joseluis/Joseluis123/158478
-#EXTINF:-1,D| Caza y pesca FHD
+#EXTINF:-1, Caza y pesca FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/158477
-#EXTINF:-1,D| CDO Basico
+#EXTINF:-1, CDO Basico
 http://magi-stv.net:8080/Joseluis/Joseluis123/10932
-#EXTINF:-1,D| Claro Sports Latinoamerica
+#EXTINF:-1, Claro Sports Latinoamerica
 http://magi-stv.net:8080/Joseluis/Joseluis123/10924
-#EXTINF:-1,D| Claro Sports Latinoamerica HD
+#EXTINF:-1, Claro Sports Latinoamerica HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/202070
-#EXTINF:-1,D| DAZN  2 SD
+#EXTINF:-1, DAZN  2 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144857
-#EXTINF:-1,D| DAZN 1
+#EXTINF:-1, DAZN 1
 http://magi-stv.net:8080/Joseluis/Joseluis123/223949
-#EXTINF:-1,D| DAZN 1 SD
+#EXTINF:-1, DAZN 1 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144854
-#EXTINF:-1,D| DAZN 1 HD
+#EXTINF:-1, DAZN 1 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144853
-#EXTINF:-1,D| DAZN 2
+#EXTINF:-1, DAZN 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/223950
-#EXTINF:-1,D| DAZN 2 HD
+#EXTINF:-1, DAZN 2 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144856
-#EXTINF:-1,D| DAZN 3
+#EXTINF:-1, DAZN 3
 http://magi-stv.net:8080/Joseluis/Joseluis123/223951
-#EXTINF:-1,D| DAZN 3 SD
+#EXTINF:-1, DAZN 3 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144860
-#EXTINF:-1,D|  LaLiga SmartBank HD
+#EXTINF:-1,  LaLiga SmartBank HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144863
-#EXTINF:-1,D| DAZN F1
+#EXTINF:-1, DAZN F1
 http://magi-stv.net:8080/Joseluis/Joseluis123/223952
-#EXTINF:-1,D| DAZN F1 SD
+#EXTINF:-1, DAZN F1 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144851
-#EXTINF:-1,D| DAZN F1 HD
+#EXTINF:-1, DAZN F1 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144850
-#EXTINF:-1,D| DAZN F1 FHD
+#EXTINF:-1, DAZN F1 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144849
-#EXTINF:-1,D| DIRECTV SPORTS
+#EXTINF:-1, DIRECTV SPORTS
 http://magi-stv.net:8080/Joseluis/Joseluis123/202157
-#EXTINF:-1,D| DIRECTV SPORTS +
+#EXTINF:-1, DIRECTV SPORTS +
 http://magi-stv.net:8080/Joseluis/Joseluis123/203186
-#EXTINF:-1,D| DIRECTV SPORTS 2
+#EXTINF:-1, DIRECTV SPORTS 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/203187
-#EXTINF:-1,D| Espn 2 | ARG
+#EXTINF:-1, Espn 2 | ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/181346
-#EXTINF:-1,D| Espn 2 | ARG HD
+#EXTINF:-1, Espn 2 | ARG HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/181332
-#EXTINF:-1,D| Espn 2 | COL
+#EXTINF:-1, Espn 2 | COL
 http://magi-stv.net:8080/Joseluis/Joseluis123/181350
-#EXTINF:-1,D| Espn 2 | COL HD
+#EXTINF:-1, Espn 2 | COL HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/202084
-#EXTINF:-1,D| Espn 2 | COL FHD
+#EXTINF:-1, Espn 2 | COL FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/181351
-#EXTINF:-1,D| Espn 2 | MX
+#EXTINF:-1, Espn 2 | MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10939
-#EXTINF:-1,D| Espn 2 | MX HD
+#EXTINF:-1, Espn 2 | MX HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155473
-#EXTINF:-1,D| Espn 2 | MX FHD
+#EXTINF:-1, Espn 2 | MX FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10962
-#EXTINF:-1,D| Espn 3 | ARG
+#EXTINF:-1, Espn 3 | ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/181348
-#EXTINF:-1,D| Espn 3 | ARG FHD
+#EXTINF:-1, Espn 3 | ARG FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/181349
-#EXTINF:-1,D| Espn 3 | COL
+#EXTINF:-1, Espn 3 | COL
 http://magi-stv.net:8080/Joseluis/Joseluis123/181352
-#EXTINF:-1,D| Espn 3 | COL HD
+#EXTINF:-1, Espn 3 | COL HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/202088
-#EXTINF:-1,D| Espn 3 | MX
+#EXTINF:-1, Espn 3 | MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10941
-#EXTINF:-1,D| Espn 3 | MX HD
+#EXTINF:-1, Espn 3 | MX HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155474
-#EXTINF:-1,D| Espn 3 | MX FHD
+#EXTINF:-1, Espn 3 | MX FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155475
-#EXTINF:-1,D| ESPN 4 ARG
+#EXTINF:-1, ESPN 4 ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121660
-#EXTINF:-1,D| ESPN 4 CL
+#EXTINF:-1, ESPN 4 CL
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121680
-#EXTINF:-1,D| Espn Deportes
+#EXTINF:-1, Espn Deportes
 http://magi-stv.net:8080/Joseluis/Joseluis123/202473
-#EXTINF:-1,D| Espn Deportes | HD
+#EXTINF:-1, Espn Deportes | HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/158472
-#EXTINF:-1,D| Espn EXTRA
+#EXTINF:-1, Espn EXTRA
 http://magi-stv.net:8080/Joseluis/Joseluis123/181370
-#EXTINF:-1,D| Espn EXTRA FHD
+#EXTINF:-1, Espn EXTRA FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/181378
-#EXTINF:-1,D| Espn Plus Sur CO
+#EXTINF:-1, Espn Plus Sur CO
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121734
-#EXTINF:-1,D| Espn Plus | MX HD
+#EXTINF:-1, Espn Plus | MX HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10942
-#EXTINF:-1,D| Espn Plus | MX FHD
+#EXTINF:-1, Espn Plus | MX FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10964
-#EXTINF:-1,D| ESPN Premium ARG
+#EXTINF:-1, ESPN Premium ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121662
-#EXTINF:-1,D| Espn | ARG
+#EXTINF:-1, Esp ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/181047
-#EXTINF:-1,D| Espn | ARG FHD
+#EXTINF:-1, Esp ARG FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/202064
-#EXTINF:-1,D| Espn | COL
+#EXTINF:-1, Esp COL
 http://magi-stv.net:8080/Joseluis/Joseluis123/181016
-#EXTINF:-1,D| Espn | COL HD
+#EXTINF:-1, Esp COL HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/181347
-#EXTINF:-1,D| Espn | MX
+#EXTINF:-1, Esp MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10940
-#EXTINF:-1,D| Espn | MX HD
+#EXTINF:-1, Esp MX HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155472
-#EXTINF:-1,D| Espn | MX FHD
+#EXTINF:-1, Esp MX FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10963
-#EXTINF:-1,D| Eurosport
+#EXTINF:-1, Eurosport
 http://magi-stv.net:8080/Joseluis/Joseluis123/158480
-#EXTINF:-1,D| Eurosports HD
+#EXTINF:-1, Eurosports HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/215598
-#EXTINF:-1,D| Eurosport FHD
+#EXTINF:-1, Eurosport FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/158479
-#EXTINF:-1,D| Eurosport 2
+#EXTINF:-1, Eurosport 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/158481
-#EXTINF:-1,D| Eurosport 2 FHD
+#EXTINF:-1, Eurosport 2 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/158482
-#EXTINF:-1,D| FOX Deportes | USA
+#EXTINF:-1, FOX Deportes | USA
 http://magi-stv.net:8080/Joseluis/Joseluis123/200284
-#EXTINF:-1,D| FOX Deportes | USA HD
+#EXTINF:-1, FOX Deportes | USA HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10928
-#EXTINF:-1,D| Fox Sports | ARG
+#EXTINF:-1, Fox Sports | ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/2090080
-#EXTINF:-1,D| Fox Sports | ARG HD
+#EXTINF:-1, Fox Sports | ARG HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/14651
-#EXTINF:-1,D| Fox Sports | ARG FHD
+#EXTINF:-1, Fox Sports | ARG FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10959
-#EXTINF:-1,D| Fox Sports 2 | ARG
+#EXTINF:-1, Fox Sports 2 | ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/183215
-#EXTINF:-1,D| Fox Sports 2 | ARG HD
+#EXTINF:-1, Fox Sports 2 | ARG HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10957
-#EXTINF:-1,D| Fox Sports 3 | ARG
+#EXTINF:-1, Fox Sports 3 | ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/10958
-#EXTINF:-1,D| Fox Sports 2 | CL HD
+#EXTINF:-1, Fox Sports 2 | CL HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/183332
-#EXTINF:-1,D| Fox Sports 2 | CL FHD
+#EXTINF:-1, Fox Sports 2 | CL FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/183333
-#EXTINF:-1,D| Fox Sports 3 | CL
+#EXTINF:-1, Fox Sports 3 | CL
 http://magi-stv.net:8080/Joseluis/Joseluis123/183334
-#EXTINF:-1,D| Fox Sports | COL
+#EXTINF:-1, Fox Sports | COL
 http://magi-stv.net:8080/Joseluis/Joseluis123/183212
-#EXTINF:-1,D| Fox Sports 2 | COL FHD
+#EXTINF:-1, Fox Sports 2 | COL FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/183213
-#EXTINF:-1,D| Fox Sports 2 | COL HD
+#EXTINF:-1, Fox Sports 2 | COL HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/202097
-#EXTINF:-1,D| Fox Sports 3 | COL HD
+#EXTINF:-1, Fox Sports 3 | COL HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/202100
-#EXTINF:-1,D| Fox Sports 3 | COL FHD
+#EXTINF:-1, Fox Sports 3 | COL FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/183214
-#EXTINF:-1,D| Fox Sports | MX
+#EXTINF:-1, Fox Sports | MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10950
-#EXTINF:-1,D| Fox Sports | MX HD
+#EXTINF:-1, Fox Sports | MX HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155648
-#EXTINF:-1,D| Fox Sports | MX FHD
+#EXTINF:-1, Fox Sports | MX FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10953
-#EXTINF:-1,D| Fox Sports 2 | MX
+#EXTINF:-1, Fox Sports 2 | MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10949
-#EXTINF:-1,D| Fox Sports 2 | MX HD
+#EXTINF:-1, Fox Sports 2 | MX HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10952
-#EXTINF:-1,D| Fox Sports 2 | MX FHD
+#EXTINF:-1, Fox Sports 2 | MX FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155649
-#EXTINF:-1,D| Fox Sports 3 | MX
+#EXTINF:-1, Fox Sports 3 | MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10945
-#EXTINF:-1,D| Fox Sports 3 | MX HD
+#EXTINF:-1, Fox Sports 3 | MX HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10951
-#EXTINF:-1,D| Fox Sports 3 | MX FHD
+#EXTINF:-1, Fox Sports 3 | MX FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155650
-#EXTINF:-1,D | Fox Sports Premium | MX
+#EXTINF:-1, Fox Sports Premiu MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106730
-#EXTINF:-1,D| FOX Sports Premium Arg
+#EXTINF:-1, FOX Sports Premium Arg
 http://magi-stv.net:8080/Joseluis/Joseluis123/195839
-#EXTINF:-1,D| FOX Sports Premium Arg FHD
+#EXTINF:-1, FOX Sports Premium Arg FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/195840
-#EXTINF:-1,D| FOX Sports Premium Arg HD
+#EXTINF:-1, FOX Sports Premium Arg HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10915
-#EXTINF:-1,D| Fox Sports | CL
+#EXTINF:-1, Fox Sports | CL
 http://magi-stv.net:8080/Joseluis/Joseluis123/183331
-#EXTINF:-1,D| Fox Sports | CL FHD
+#EXTINF:-1, Fox Sports | CL FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/183329
-#EXTINF:-1,D | Fuel TV HD
+#EXTINF:-1, Fuel TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145670
-#EXTINF:-1,D| Fox Sports | CL HD
+#EXTINF:-1, Fox Sports | CL HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/183330
-#EXTINF:-1,D| FUTV CR
+#EXTINF:-1, FUTV CR
 http://magi-stv.net:8080/Joseluis/Joseluis123/155246
-#EXTINF:-1,D| FUTV CR FHD
+#EXTINF:-1, FUTV CR FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/21798
-#EXTINF:-1,D| Gol TV
+#EXTINF:-1, Gol TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/158474
-#EXTINF:-1,D| Golf Channel AR
+#EXTINF:-1, Golf Channel AR
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145544
-#EXTINF:-1,D| DAZN LaLigaTV HD
+#EXTINF:-1, DAZN LaLigaTV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/197233
-#EXTINF:-1,D| Liga de Campeones
+#EXTINF:-1, Liga de Campeones
 http://magi-stv.net:8080/Joseluis/Joseluis123/157371
-#EXTINF:-1,D| Liga de Campeones HD
+#EXTINF:-1, Liga de Campeones HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/157372
-#EXTINF:-1,D| MLB Network HD
+#EXTINF:-1, MLB Network HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/210252
-#EXTINF:-1,D| Movistar F1
+#EXTINF:-1, Movistar F1
 http://magi-stv.net:8080/Joseluis/Joseluis123/158473
-#EXTINF:-1,D| Movistar F1 HD
+#EXTINF:-1, Movistar F1 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/170225
-#EXTINF:-1,D| Movistar La Liga
+#EXTINF:-1, Movistar La Liga
 http://magi-stv.net:8080/Joseluis/Joseluis123/157373
-#EXTINF:-1,D| Movistar La Liga FHD
+#EXTINF:-1, Movistar La Liga FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10918
-#EXTINF:-1,D | MOVISTAR GOLF
+#EXTINF:-1, MOVISTAR GOLF
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100018
-#EXTINF:-1,D | MOVISTAR MOTO GP
+#EXTINF:-1, MOVISTAR MOTO GP
 http://magi-stv.net:8080/Joseluis/Joseluis123/2091493
-#EXTINF:-1,D | MUTV
+#EXTINF:-1, MUTV
 http://magi-stv.net:8080/Joseluis/Joseluis123/2122397
-#EXTINF:-1,D| NBC Golf
+#EXTINF:-1, NBC Golf
 http://magi-stv.net:8080/Joseluis/Joseluis123/10948
-#EXTINF:-1,D| PX Sports HD
+#EXTINF:-1, PX Sports HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121811
-#EXTINF:-1,D| Real Madrid TV
+#EXTINF:-1, Real Madrid TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/222746
-#EXTINF:-1,D | SKY Sports F1
+#EXTINF:-1, SKY Sports F1
 http://magi-stv.net:8080/Joseluis/Joseluis123/2107602
-#EXTINF:-1,D| SKY Sports Arena
+#EXTINF:-1, SKY Sports Arena
 http://magi-stv.net:8080/Joseluis/Joseluis123/115045
-#EXTINF:-1,D| SKY Sports HD 16
+#EXTINF:-1, SKY Sports HD 16
 http://magi-stv.net:8080/Joseluis/Joseluis123/222745
-#EXTINF:-1,D| SKY Sports HD 21
+#EXTINF:-1, SKY Sports HD 21
 http://magi-stv.net:8080/Joseluis/Joseluis123/222744
-#EXTINF:-1,D| Sportv
+#EXTINF:-1, Sportv
 http://magi-stv.net:8080/Joseluis/Joseluis123/185497
-#EXTINF:-1,D| Sportv 2 
+#EXTINF:-1, Sportv 2 
 http://magi-stv.net:8080/Joseluis/Joseluis123/185499
-#EXTINF:-1,D| Sportv 2 HD
+#EXTINF:-1, Sportv 2 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/185498
-#EXTINF:-1,D| Sportv 3
+#EXTINF:-1, Sportv 3
 http://magi-stv.net:8080/Joseluis/Joseluis123/185501
-#EXTINF:-1,D| Sportv 3 HD
+#EXTINF:-1, Sportv 3 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/185500
-#EXTINF:-1,D| Sportv HD
+#EXTINF:-1, Sportv HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/185496
-#EXTINF:-1,D| Tigo Honduras (solo eventos)
+#EXTINF:-1, Tigo Honduras (solo eventos)
 http://magi-stv.net:8080/Joseluis/Joseluis123/12510
-#EXTINF:-1,D| Tigo Sports BO
+#EXTINF:-1, Tigo Sports BO
 http://magi-stv.net:8080/Joseluis/Joseluis123/155633
-#EXTINF:-1,D| Tigo Sports BO HD
+#EXTINF:-1, Tigo Sports BO HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155634
-#EXTINF:-1,D| Tigo Sports 2 BO
+#EXTINF:-1, Tigo Sports 2 BO
 http://magi-stv.net:8080/Joseluis/Joseluis123/155635
-#EXTINF:-1,D| Tigo Sports 2 BO HD
+#EXTINF:-1, Tigo Sports 2 BO HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155629
-#EXTINF:-1,D| Tigo Sports 3 BO
+#EXTINF:-1, Tigo Sports 3 BO
 http://magi-stv.net:8080/Joseluis/Joseluis123/155636
-#EXTINF:-1,D| Tigo Sports 3 BO HD
+#EXTINF:-1, Tigo Sports 3 BO HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155630
-#EXTINF:-1,D| Tigo Sports CR
+#EXTINF:-1, Tigo Sports CR
 http://magi-stv.net:8080/Joseluis/Joseluis123/155627
-#EXTINF:-1,D| Tigo Sports HN HD
+#EXTINF:-1, Tigo Sports HN HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155641
-#EXTINF:-1,D| Tigo Sports Paraguay HD
+#EXTINF:-1, Tigo Sports Paraguay HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155631
-#EXTINF:-1,D| Tigo Sports Plus Paraguay HD
+#EXTINF:-1, Tigo Sports Plus Paraguay HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155632
-#EXTINF:-1,D| Tigo Sports Salvador
+#EXTINF:-1, Tigo Sports Salvador
 http://magi-stv.net:8080/Joseluis/Joseluis123/155626
-#EXTINF:-1,D| Tigo Sports Salvador HD
+#EXTINF:-1, Tigo Sports Salvador HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/202259
-#EXTINF:-1,D| TNT Sports
+#EXTINF:-1, TNT Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/155677
-#EXTINF:-1,D| TNT Sports HD
+#EXTINF:-1, TNT Sports HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155247
-#EXTINF:-1,D| TNT Sports FHD
+#EXTINF:-1, TNT Sports FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/17316
-#EXTINF:-1,D| Mundo Toros
+#EXTINF:-1, Mundo Toros
 http://magi-stv.net:8080/Joseluis/Joseluis123/126152
-#EXTINF:-1,D| Mundo Toros HD
+#EXTINF:-1, Mundo Toros HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/126151
-#EXTINF:-1,D| TUDN
+#EXTINF:-1, TUDN
 http://magi-stv.net:8080/Joseluis/Joseluis123/191356
-#EXTINF:-1,D| TUDN HD
+#EXTINF:-1, TUDN HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155675
-#EXTINF:-1,D| TUDN FHD
+#EXTINF:-1, TUDN FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10955
-#EXTINF:-1,D| TUDN US
+#EXTINF:-1, TUDN US
 http://magi-stv.net:8080/Joseluis/Joseluis123/194924
-#EXTINF:-1,D| TUDN US HD
+#EXTINF:-1, TUDN US HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/169243
-#EXTINF:-1,D | Zona TUDN MX
+#EXTINF:-1, Zona TUDN MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/2130323
-#EXTINF:-1,D| TVC Deportes
+#EXTINF:-1, TVC Deportes
 http://magi-stv.net:8080/Joseluis/Joseluis123/10944
-#EXTINF:-1,D| TVC Deportes HD
+#EXTINF:-1, TVC Deportes HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145706
-#EXTINF:-1,D| TYC Sports
+#EXTINF:-1, TYC Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/25279
-#EXTINF:-1,D| TYC Sports HD
+#EXTINF:-1, TYC Sports HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/199511
-#EXTINF:-1,D| TyC Sports Internacional
+#EXTINF:-1, TyC Sports Internacional
 http://magi-stv.net:8080/Joseluis/Joseluis123/10920
-#EXTINF:-1,D| TyC Sports Internacional HD
+#EXTINF:-1, TyC Sports Internacional HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155679
-#EXTINF:-1,D | Bein Sports en español
+#EXTINF:-1, Bein Sports en español
 http://magi-stv.net:8080/Joseluis/Joseluis123/219085
-#EXTINF:-1,SE| Bein Sports en Español
+#EXTINF:-1, Bein Sports en Español
 http://magi-stv.net:8080/Joseluis/Joseluis123/223818
-#EXTINF:-1,SE| Directv Sports
+#EXTINF:-1, Directv Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/219210
-#EXTINF:-1,SE| Espn ARG
+#EXTINF:-1, Espn ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/219130
-#EXTINF:-1,SE| ESPN MX
+#EXTINF:-1, ESPN MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/219099
-#EXTINF:-1,SE| Movistar La Liga
+#EXTINF:-1, Movistar La Liga
 http://magi-stv.net:8080/Joseluis/Joseluis123/223873
-#EXTINF:-1,SE| Movistar Liga de Campeones
+#EXTINF:-1, Movistar Liga de Campeones
 http://magi-stv.net:8080/Joseluis/Joseluis123/219098
-#EXTINF:-1,SE| Sky Sports Premier
+#EXTINF:-1, Sky Sports Premier
 http://magi-stv.net:8080/Joseluis/Joseluis123/219094
-#EXTINF:-1,SE| Sky Sports Premiere League
+#EXTINF:-1, Sky Sports Premiere League
 http://magi-stv.net:8080/Joseluis/Joseluis123/219091
-#EXTINF:-1,SE| Sky Sports Premiere League (Español)
+#EXTINF:-1, Sky Sports Premiere League (Español)
 http://magi-stv.net:8080/Joseluis/Joseluis123/219090
-#EXTINF:-1,Solidaria TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097249
-#EXTINF:-1,SP: ES: #Vamos
+#EXTINF:-1,  #Vamos
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100770
-#EXTINF:-1,SP: ES: #Vamos HD
+#EXTINF:-1,  #Vamos HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100771
-#EXTINF:-1,SP: La Liga: #Vamos HD
+#EXTINF:-1, La Liga: #Vamos HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133229
-#EXTINF:-1,SP: La Liga: Barça TV
+#EXTINF:-1, La Liga: Barça TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133230
-#EXTINF:-1,SP: La Liga: Dazn 2 HD
+#EXTINF:-1, La Liga: Dazn 2 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133202
-#EXTINF:-1,SP: La Liga: Dazn Formula 1 HD
+#EXTINF:-1, La Liga: Dazn Formula 1 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133206
-#EXTINF:-1,SP: La Liga: Dazn Formula 1 HD
+#EXTINF:-1, La Liga: Dazn Formula 1 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133234
-#EXTINF:-1,SP: La Liga: GOL SD
+#EXTINF:-1, La Liga: GOL SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133233
-#EXTINF:-1,SP: La Liga: M. Golf FHD
+#EXTINF:-1, La Liga: M. Golf FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133235
-#EXTINF:-1,SP: La Liga: M. Liga de Campeones 1 SD
+#EXTINF:-1, La Liga: M. Liga de Campeones 1 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133221
-#EXTINF:-1,S| AT&T Sportsnet Southwest
+#EXTINF:-1, AT&T Sportsnet Southwest
 http://magi-stv.net:8080/Joseluis/Joseluis123/210404
-#EXTINF:-1,S| Box Nation
+#EXTINF:-1, Box Nation
 http://magi-stv.net:8080/Joseluis/Joseluis123/10645
-#EXTINF:-1,S| CBS Sports Network
+#EXTINF:-1, CBS Sports Network
 http://magi-stv.net:8080/Joseluis/Joseluis123/10666
-#EXTINF:-1,S| Cowboy Channel
+#EXTINF:-1, Cowboy Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123479
-#EXTINF:-1,S| ESPN
+#EXTINF:-1, ESPN
 http://magi-stv.net:8080/Joseluis/Joseluis123/10651
-#EXTINF:-1,S| ESPN 2 HD
+#EXTINF:-1, ESPN 2 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10652
-#EXTINF:-1,S| ESPN HD
+#EXTINF:-1, ESPN HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10653
-#EXTINF:-1,S| Espn U
+#EXTINF:-1, Espn U
 http://magi-stv.net:8080/Joseluis/Joseluis123/10946
-#EXTINF:-1,S| Espn U | HD
+#EXTINF:-1, Espn U | HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10947
-#EXTINF:-1,S| Fight
+#EXTINF:-1, Fight
 http://magi-stv.net:8080/Joseluis/Joseluis123/10670
-#EXTINF:-1,S| FOX College Pacific
+#EXTINF:-1, FOX College Pacific
 http://magi-stv.net:8080/Joseluis/Joseluis123/156014
-#EXTINF:-1,S| Fox Soccer Plus
+#EXTINF:-1, Fox Soccer Plus
 http://magi-stv.net:8080/Joseluis/Joseluis123/10669
-#EXTINF:-1,S| FOX Sports 1
+#EXTINF:-1, FOX Sports 1
 http://magi-stv.net:8080/Joseluis/Joseluis123/10648
-#EXTINF:-1,S| FOX Sports 1 HD
+#EXTINF:-1, FOX Sports 1 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10664
-#EXTINF:-1,S| Fox Sports 2
+#EXTINF:-1, Fox Sports 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/10663
-#EXTINF:-1,S| Fox Sports Detroit
+#EXTINF:-1, Fox Sports Detroit
 http://magi-stv.net:8080/Joseluis/Joseluis123/155997
-#EXTINF:-1,S| NBA TV
+#EXTINF:-1, NBA TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/2136949
-#EXTINF:-1,S| NBC Sports Bay Area HD
+#EXTINF:-1, NBC Sports Bay Area HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155989
-#EXTINF:-1,S| NESN PLUS
+#EXTINF:-1, NESN PLUS
 http://magi-stv.net:8080/Joseluis/Joseluis123/156000
-#EXTINF:-1,S| NFL Network
+#EXTINF:-1, NFL Network
 http://magi-stv.net:8080/Joseluis/Joseluis123/10647
-#EXTINF:-1,S| NFL Red Zone
+#EXTINF:-1, NFL Red Zone
 http://magi-stv.net:8080/Joseluis/Joseluis123/10662
-#EXTINF:-1,S| NHL Network HD
+#EXTINF:-1, NHL Network HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/199764
-#EXTINF:-1,S| Olympic Channel
+#EXTINF:-1, Olympic Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/155999
-#EXTINF:-1,S| Outdoor Channel
+#EXTINF:-1, Outdoor Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/158475
-#EXTINF:-1,S| PAC-12 Washington
+#EXTINF:-1, PAC-12 Washington
 http://magi-stv.net:8080/Joseluis/Joseluis123/10660
-#EXTINF:-1,S| SEC Network HD
+#EXTINF:-1, SEC Network HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10671
-#EXTINF:-1,S| Sky Sports Cricket
+#EXTINF:-1, Sky Sports Cricket
 http://magi-stv.net:8080/Joseluis/Joseluis123/155996
-#EXTINF:-1,S| Spectrum Sports
+#EXTINF:-1, Spectrum Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/210405
-#EXTINF:-1,S| Spectrum Sportsnet LAKERS
+#EXTINF:-1, Spectrum Sportsnet LAKERS
 http://magi-stv.net:8080/Joseluis/Joseluis123/214865
-#EXTINF:-1,S| Sportsnet 360
+#EXTINF:-1, Sportsnet 360
 http://magi-stv.net:8080/Joseluis/Joseluis123/156001
-#EXTINF:-1,S| Sportsnet EAST
+#EXTINF:-1, Sportsnet EAST
 http://magi-stv.net:8080/Joseluis/Joseluis123/156002
-#EXTINF:-1,S| Sportsnet One
+#EXTINF:-1, Sportsnet One
 http://magi-stv.net:8080/Joseluis/Joseluis123/156003
-#EXTINF:-1,S| Sportsnet World
+#EXTINF:-1, Sportsnet World
 http://magi-stv.net:8080/Joseluis/Joseluis123/156004
-#EXTINF:-1,S| Tennis Channel
+#EXTINF:-1, Tennis Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/10672
-#EXTINF:-1,S| TSN 1
+#EXTINF:-1, TSN 1
 http://magi-stv.net:8080/Joseluis/Joseluis123/156007
-#EXTINF:-1,S| TSN 2
+#EXTINF:-1, TSN 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/156008
-#EXTINF:-1,S| TSN 3
+#EXTINF:-1, TSN 3
 http://magi-stv.net:8080/Joseluis/Joseluis123/156009
-#EXTINF:-1,S| TSN 5
+#EXTINF:-1, TSN 5
 http://magi-stv.net:8080/Joseluis/Joseluis123/156011
-#EXTINF:-1,S| UFC Fight Pass
+#EXTINF:-1, UFC Fight Pass
 http://magi-stv.net:8080/Joseluis/Joseluis123/10646
-#EXTINF:-1,S| World Fishing Network HD
+#EXTINF:-1, World Fishing Network HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10673
-#EXTINF:-1,S| WWE NETWORK
+#EXTINF:-1, WWE NETWORK
 http://magi-stv.net:8080/Joseluis/Joseluis123/129114
-#EXTINF:-1,S| YES Network HD
+#EXTINF:-1, YES Network HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121876
-#EXTINF:-1,E | A&E
+#EXTINF:-1, A&E
 http://magi-stv.net:8080/Joseluis/Joseluis123/222250
-#EXTINF:-1,E | A&E HD
+#EXTINF:-1, A&E HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10546
-#EXTINF:-1,E | A&E FHD
+#EXTINF:-1, A&E FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148716
-#EXTINF:-1,E | A3 Series Internacional
+#EXTINF:-1, A3 Series Internacional
 http://magi-stv.net:8080/Joseluis/Joseluis123/202065
-#EXTINF:-1,E | A3 Series Internacional HD
+#EXTINF:-1, A3 Series Internacional HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145710
-#EXTINF:-1,E | AMC
+#EXTINF:-1, AMC
 http://magi-stv.net:8080/Joseluis/Joseluis123/10547
-#EXTINF:-1,E | AMC HD
+#EXTINF:-1, AMC HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10548
-#EXTINF:-1,E | AMC FHD
+#EXTINF:-1, AMC FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148717
-#EXTINF:-1,E | Antena 3 Internacional
+#EXTINF:-1, Antena 3 Internacional
 http://magi-stv.net:8080/Joseluis/Joseluis123/197426
-#EXTINF:-1,E | Antena 3 Internacional HD
+#EXTINF:-1, Antena 3 Internacional HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/197234
-#EXTINF:-1,E | AXN
+#EXTINF:-1, AXN
 http://magi-stv.net:8080/Joseluis/Joseluis123/10549
-#EXTINF:-1,E | AXN HQ
+#EXTINF:-1, AXN HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/10550
-#EXTINF:-1,E | AXN FHD
+#EXTINF:-1, AXN FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148718
-#EXTINF:-1,E | Bitme
+#EXTINF:-1, Bitme
 http://magi-stv.net:8080/Joseluis/Joseluis123/10551
-#EXTINF:-1,E | Bitme HD
+#EXTINF:-1, Bitme HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/97298
-#EXTINF:-1,E | Bitme FHD
+#EXTINF:-1, Bitme FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148719
-#EXTINF:-1,E | Comedy Central
+#EXTINF:-1, Comedy Central
 http://magi-stv.net:8080/Joseluis/Joseluis123/10552
-#EXTINF:-1,E | Comedy Central HD
+#EXTINF:-1, Comedy Central HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10553
-#EXTINF:-1,E | Comedy Central FHD
+#EXTINF:-1, Comedy Central FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148720
-#EXTINF:-1,E | Curiosity Stream HD
+#EXTINF:-1, Curiosity Stream HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145521
-#EXTINF:-1,E | Distrito Comedia
+#EXTINF:-1, Distrito Comedia
 http://magi-stv.net:8080/Joseluis/Joseluis123/10554
-#EXTINF:-1,E | Distrito Comedia HD
+#EXTINF:-1, Distrito Comedia HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10555
-#EXTINF:-1,E | Distrito Comedia FHD
+#EXTINF:-1, Distrito Comedia FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148721
-#EXTINF:-1,E | E!
+#EXTINF:-1, E!
 http://magi-stv.net:8080/Joseluis/Joseluis123/10556
-#EXTINF:-1,E | E! HD
+#EXTINF:-1, E! HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10557
-#EXTINF:-1,E | E! FHD
+#EXTINF:-1, E! FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148722
-#EXTINF:-1,E | Europa TV HD
+#EXTINF:-1, Europa TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145664
-#EXTINF:-1,E | FX
+#EXTINF:-1, FX
 http://magi-stv.net:8080/Joseluis/Joseluis123/10560
-#EXTINF:-1,E | FX HD
+#EXTINF:-1, FX HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10561
-#EXTINF:-1,E | FX FHD
+#EXTINF:-1, FX FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148725
-#EXTINF:-1,E | Glitz
+#EXTINF:-1, Glitz
 http://magi-stv.net:8080/Joseluis/Joseluis123/10564
-#EXTINF:-1,E | Glitz HQ
+#EXTINF:-1, Glitz HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/154070
-#EXTINF:-1,E | Hola TV
+#EXTINF:-1, Hola TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/10565
-#EXTINF:-1,E | Hola TV HD
+#EXTINF:-1, Hola TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10575
-#EXTINF:-1,E | Hola TV FHD
+#EXTINF:-1, Hola TV FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148809
-#EXTINF:-1,E | LA ROSA DE GUADALUPE TV
+#EXTINF:-1, LA ROSA DE GUADALUPE TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/2083045
-#EXTINF:-1,E | Lifetime
+#EXTINF:-1, Lifetime
 http://magi-stv.net:8080/Joseluis/Joseluis123/187634
-#EXTINF:-1,E | Lifetime HD
+#EXTINF:-1, Lifetime HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/188850
-#EXTINF:-1,E | Lifetime FHD
+#EXTINF:-1, Lifetime FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/187635
-#EXTINF:-1,E | MAS CHIC
+#EXTINF:-1, MAS CHIC
 http://magi-stv.net:8080/Joseluis/Joseluis123/10568
-#EXTINF:-1,E | Mas Chic HD
+#EXTINF:-1, Mas Chic HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10569
-#EXTINF:-1,E | Mas Chic FHD
+#EXTINF:-1, Mas Chic FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148808
-#EXTINF:-1,E | MTV
+#EXTINF:-1, MTV
 http://magi-stv.net:8080/Joseluis/Joseluis123/10566
-#EXTINF:-1,E | MTV HD
+#EXTINF:-1, MTV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10567
-#EXTINF:-1,E | MTV FHD
+#EXTINF:-1, MTV FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148807
-#EXTINF:-1,E | Rai Italia
+#EXTINF:-1, Rai Italia
 http://magi-stv.net:8080/Joseluis/Joseluis123/158276
-#EXTINF:-1,E | Rai Italia HD
+#EXTINF:-1, Rai Italia HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/172239
-#EXTINF:-1,E | Sony
+#EXTINF:-1, Sony
 http://magi-stv.net:8080/Joseluis/Joseluis123/10576
-#EXTINF:-1,E | Sony HD
+#EXTINF:-1, Sony HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10577
-#EXTINF:-1,E | Sony FHD
+#EXTINF:-1, Sony FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148806
-#EXTINF:-1,E | Star Channel
+#EXTINF:-1, Star Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/10558
-#EXTINF:-1,E | Star Channel HD
+#EXTINF:-1, Star Channel HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10559
-#EXTINF:-1,E | Star Channel FHD
+#EXTINF:-1, Star Channel FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148723
-#EXTINF:-1,E | TBS
+#EXTINF:-1, TBS
 http://magi-stv.net:8080/Joseluis/Joseluis123/10570
-#EXTINF:-1,E | TBS HD
+#EXTINF:-1, TBS HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154071
-#EXTINF:-1,E | Telemundo MX
+#EXTINF:-1, Telemundo MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145673
-#EXTINF:-1,E | TL Novelas
+#EXTINF:-1, TL Novelas
 http://magi-stv.net:8080/Joseluis/Joseluis123/10571
-#EXTINF:-1,E | TL Novelas HD
+#EXTINF:-1, TL Novelas HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154093
-#EXTINF:-1,E | TNT Series
+#EXTINF:-1, TNT Series
 http://magi-stv.net:8080/Joseluis/Joseluis123/10573
-#EXTINF:-1,E | TNT Series HD
+#EXTINF:-1, TNT Series HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10578
-#EXTINF:-1,E | TNT Series FHD
+#EXTINF:-1, TNT Series FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148805
-#EXTINF:-1,E | Tru TV
+#EXTINF:-1, Tru TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/10579
-#EXTINF:-1,E | Tru TV HD
+#EXTINF:-1, Tru TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10580
-#EXTINF:-1,E | Tru TV FHD
+#EXTINF:-1, Tru TV FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148804
-#EXTINF:-1,E | Unicable
+#EXTINF:-1, Unicable
 http://magi-stv.net:8080/Joseluis/Joseluis123/10581
-#EXTINF:-1,E | Unicable HD
+#EXTINF:-1, Unicable HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10582
-#EXTINF:-1,E| Ubeat
+#EXTINF:-1, Ubeat
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145224
-#EXTINF:-1,E | Universal TV
+#EXTINF:-1, Universal TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/197619
-#EXTINF:-1,P | Universal TV HD
+#EXTINF:-1, Universal TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/75651
-#EXTINF:-1,P | Universal TV FHD
+#EXTINF:-1, Universal TV FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155179
-#EXTINF:-1,E | Univision Tlnovelas
+#EXTINF:-1, Univision Tlnovelas
 http://magi-stv.net:8080/Joseluis/Joseluis123/10572
-#EXTINF:-1,E | Warner
+#EXTINF:-1, Warner
 http://magi-stv.net:8080/Joseluis/Joseluis123/10583
-#EXTINF:-1,E | Warner HQ
+#EXTINF:-1, Warner HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/10584
-#EXTINF:-1,E | Warner FHD
+#EXTINF:-1, Warner FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148810
-#EXTINF:-1,C | Animal Planet
+#EXTINF:-1, Animal Planet
 http://magi-stv.net:8080/Joseluis/Joseluis123/10408
-#EXTINF:-1,C | Animal Planet HD
+#EXTINF:-1, Animal Planet HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10407
-#EXTINF:-1,C | Animal Planet FHD
+#EXTINF:-1, Animal Planet FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/147960
-#EXTINF:-1,C | Discovery Channel
+#EXTINF:-1, Discovery Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/10409
-#EXTINF:-1,C | Discovery Channel HD
+#EXTINF:-1, Discovery Channel HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10410
-#EXTINF:-1,C | Discovery Channel FHD
+#EXTINF:-1, Discovery Channel FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148703
-#EXTINF:-1,C | Discovery Channel CO
+#EXTINF:-1, Discovery Channel CO
 http://magi-stv.net:8080/Joseluis/Joseluis123/183442
-#EXTINF:-1,C | Discovery Channel CO FHD
+#EXTINF:-1, Discovery Channel CO FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/183443
-#EXTINF:-1,C | Discovery Channel CL HD
+#EXTINF:-1, Discovery Channel CL HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/183445
-#EXTINF:-1,C | Discovery en Español
+#EXTINF:-1, Discovery en Español
 http://magi-stv.net:8080/Joseluis/Joseluis123/26760
-#EXTINF:-1,C | Discovery en Español HD
+#EXTINF:-1, Discovery en Español HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/197236
-#EXTINF:-1,C | Discovery Familia
+#EXTINF:-1, Discovery Familia
 http://magi-stv.net:8080/Joseluis/Joseluis123/183441
-#EXTINF:-1,C | Discovery Familia HD
+#EXTINF:-1, Discovery Familia HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/183440
-#EXTINF:-1,C | Discovery H&H
+#EXTINF:-1, Discovery H&H
 http://magi-stv.net:8080/Joseluis/Joseluis123/10419
-#EXTINF:-1,C | Discovery H&H HD
+#EXTINF:-1, Discovery H&H HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10420
-#EXTINF:-1,C | Discovery H&H FHD
+#EXTINF:-1, Discovery H&H FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148704
-#EXTINF:-1,C | Discovery Investigation
+#EXTINF:-1, Discovery Investigation
 http://magi-stv.net:8080/Joseluis/Joseluis123/10427
-#EXTINF:-1,C | Discovery Investigation HD
+#EXTINF:-1, Discovery Investigation HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10428
-#EXTINF:-1,C | Discovery Investigation FHD
+#EXTINF:-1, Discovery Investigation FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148705
-#EXTINF:-1,C | Discovery SCI
+#EXTINF:-1, Discovery SCI
 http://magi-stv.net:8080/Joseluis/Joseluis123/10412
-#EXTINF:-1,C | Discovery SCI HQ
+#EXTINF:-1, Discovery SCI HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/84538
-#EXTINF:-1,C | Discovery Theater
+#EXTINF:-1, Discovery Theater
 http://magi-stv.net:8080/Joseluis/Joseluis123/10426
-#EXTINF:-1,C | Discovery Theater HD
+#EXTINF:-1, Discovery Theater HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10425
-#EXTINF:-1,C | Discovery Theater FHD
+#EXTINF:-1, Discovery Theater FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148706
-#EXTINF:-1,C | Discovery Turbo
+#EXTINF:-1, Discovery Turbo
 http://magi-stv.net:8080/Joseluis/Joseluis123/10417
-#EXTINF:-1,C | Discovery Turbo HD
+#EXTINF:-1, Discovery Turbo HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10418
-#EXTINF:-1,C | Discovery Turbo FHD
+#EXTINF:-1, Discovery Turbo FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148707
-#EXTINF:-1,C | Discovery World
+#EXTINF:-1, Discovery World
 http://magi-stv.net:8080/Joseluis/Joseluis123/10416
-#EXTINF:-1,C | Discovery World HD
+#EXTINF:-1, Discovery World HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10415
-#EXTINF:-1,C | Discovery World FHD
+#EXTINF:-1, Discovery World FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148708
-#EXTINF:-1,C | El Gourmet
+#EXTINF:-1, El Gourmet
 http://magi-stv.net:8080/Joseluis/Joseluis123/12255
-#EXTINF:-1,C | El Gourmet HD
+#EXTINF:-1, El Gourmet HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/12256
-#EXTINF:-1,C | El Gourmet FHD
+#EXTINF:-1, El Gourmet FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148709
-#EXTINF:-1,C | Food Network
+#EXTINF:-1, Food Network
 http://magi-stv.net:8080/Joseluis/Joseluis123/10421
-#EXTINF:-1,C | Food Network HQ
+#EXTINF:-1, Food Network HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/10429
-#EXTINF:-1,C | Food Network FHD
+#EXTINF:-1, Food Network FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148710
-#EXTINF:-1,C | H2
+#EXTINF:-1, H2
 http://magi-stv.net:8080/Joseluis/Joseluis123/154074
-#EXTINF:-1,C | H2 HD
+#EXTINF:-1, H2 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/16080
-#EXTINF:-1,C | H2 FHD
+#EXTINF:-1, H2 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154075
-#EXTINF:-1,C | HGTV
+#EXTINF:-1, HGTV
 http://magi-stv.net:8080/Joseluis/Joseluis123/182836
-#EXTINF:-1,C | HGTV HD
+#EXTINF:-1, HGTV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145512
-#EXTINF:-1,C | History
+#EXTINF:-1, History
 http://magi-stv.net:8080/Joseluis/Joseluis123/10423
-#EXTINF:-1,C | History HD
+#EXTINF:-1, History HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10424
-#EXTINF:-1,C | History FHD
+#EXTINF:-1, History FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148711
-#EXTINF:-1,C | History en Español HD
+#EXTINF:-1, History en Español HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/197235
-#EXTINF:-1,C | History en Español FHD
+#EXTINF:-1, History en Español FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/192976
-#EXTINF:-1,C | Love Nature
+#EXTINF:-1, Love Nature
 http://magi-stv.net:8080/Joseluis/Joseluis123/2139190
-#EXTINF:-1,C | Nat Geo
+#EXTINF:-1, Nat Geo
 http://magi-stv.net:8080/Joseluis/Joseluis123/10413
-#EXTINF:-1,C | Nat Geo HD
+#EXTINF:-1, Nat Geo HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10414
-#EXTINF:-1,C | Nat Geo FHD
+#EXTINF:-1, Nat Geo FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148712
-#EXTINF:-1,C | Nat Geo Mundo HD
+#EXTINF:-1, Nat Geo Mundo HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/197240
-#EXTINF:-1,C | Sundance TV
+#EXTINF:-1, Sundance TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/76314
-#EXTINF:-1,C | TLC
+#EXTINF:-1, TLC
 http://magi-stv.net:8080/Joseluis/Joseluis123/10431
-#EXTINF:-1,C | TLC HD
+#EXTINF:-1, TLC HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10432
-#EXTINF:-1,C | TLC FHD
+#EXTINF:-1, TLC FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148714
-#EXTINF:-1,C | TV Unam
+#EXTINF:-1, TV Unam
 http://magi-stv.net:8080/Joseluis/Joseluis123/201149
-#EXTINF:-1,C | Wobi
+#EXTINF:-1, Wobi
 http://magi-stv.net:8080/Joseluis/Joseluis123/10433
-#EXTINF:-1,C | Wobi HD
+#EXTINF:-1, Wobi HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10434
-#EXTINF:-1,C | Wobi FHD
+#EXTINF:-1, Wobi FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/148715
-#EXTINF:-1,MS |  ALTERNATIVE
+#EXTINF:-1,  ALTERNATIVE
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098858
-#EXTINF:-1,MS |  BANDAMAX
+#EXTINF:-1,  BANDAMAX
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098834
-#EXTINF:-1,MS | Bandamax HD
+#EXTINF:-1, Bandamax HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145667
-#EXTINF:-1,MS |  Flash TV HD
+#EXTINF:-1,  Flash TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098841
-#EXTINF:-1,MS |  MC Rock
+#EXTINF:-1,  MC Rock
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098856
-#EXTINF:-1,MS |  MTV Yo! HD
+#EXTINF:-1,  MTV Yo! HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098824
-#EXTINF:-1,MS |  Pop Hits HD
+#EXTINF:-1,  Pop Hits HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098861
-#EXTINF:-1,MS |  RETRO PLUS HD
+#EXTINF:-1,  RETRO PLUS HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098842
-#EXTINF:-1,MS |  TELEHIT URBANO
+#EXTINF:-1,  TELEHIT URBANO
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098831
-#EXTINF:-1,MS |  VEVO 80S SD
+#EXTINF:-1,  VEVO 80S SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098852
-#EXTINF:-1,MS |  VEVO Metal
+#EXTINF:-1,  VEVO Metal
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098857
-#EXTINF:-1,MS |  VEVO R&B HD
+#EXTINF:-1,  VEVO R&B HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098847
-#EXTINF:-1,MS |  VEVO REGUETÓN Y TRAP HD
+#EXTINF:-1,  VEVO REGUETÓN Y TRAP HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098846
-#EXTINF:-1,MS | Concert Channel (CO)
+#EXTINF:-1, Concert Channel (CO)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098838
-#EXTINF:-1,MS | Hit List HD
+#EXTINF:-1, Hit List HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098865
-#EXTINF:-1,MS | HTV 
+#EXTINF:-1, HTV 
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098837
-#EXTINF:-1,MS | Indie HD
+#EXTINF:-1, Indie HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098864
-#EXTINF:-1,MS | LA MEGA
+#EXTINF:-1, LA MEGA
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098840
-#EXTINF:-1,MS | MC ROCK
+#EXTINF:-1, MC ROCK
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098867
-#EXTINF:-1,MS | Mexicana
+#EXTINF:-1, Mexicana
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098868
-#EXTINF:-1,MS | MTV HD 
+#EXTINF:-1, MTV HD 
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098821
-#EXTINF:-1,MS | MTV hits
+#EXTINF:-1, MTV hits
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098823
-#EXTINF:-1,MS | MTV LIVE 
+#EXTINF:-1, MTV LIVE 
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098822
-#EXTINF:-1,MS | Music: Classic Project 10 (Soundtrack)
+#EXTINF:-1, Music: Classic Project 10 (Soundtrack)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098869
-#EXTINF:-1,MS | Music: Classic Project 11 (Rock latino)
+#EXTINF:-1, Music: Classic Project 11 (Rock latino)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098873
-#EXTINF:-1,MS | Music: Classic Project 12 (Onda disco)
+#EXTINF:-1, Music: Classic Project 12 (Onda disco)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098870
-#EXTINF:-1,MS | Music: Classic Project 13 (Exitos en español)
+#EXTINF:-1, Music: Classic Project 13 (Exitos en español)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098871
-#EXTINF:-1,MS | Pop & Country HD
+#EXTINF:-1, Pop & Country HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098860
-#EXTINF:-1,MS | Quiero Musica 
+#EXTINF:-1, Quiero Musica 
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098843
-#EXTINF:-1,MS | Rolas SAD
+#EXTINF:-1, Rolas SAD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106731
-#EXTINF:-1,MS | TELEHIT PLUS HD
+#EXTINF:-1, TELEHIT PLUS HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098830
-#EXTINF:-1,MS | Teleritmo
+#EXTINF:-1, Teleritmo
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098833
-#EXTINF:-1,MS | Teleritmo HD
+#EXTINF:-1, Teleritmo HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145672
 #EXTINF:-1,Tomorrowland 24/7
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098874
-#EXTINF:-1,MS | VEVO 00S HD
+#EXTINF:-1, VEVO 00S HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098855
-#EXTINF:-1,MS | VEVO 70S HD
+#EXTINF:-1, VEVO 70S HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098853
-#EXTINF:-1,MS | VEVO 90S HD
+#EXTINF:-1, VEVO 90S HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098851
-#EXTINF:-1,MS | VEVO LATINO HD
+#EXTINF:-1, VEVO LATINO HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098850
-#EXTINF:-1,MS | VEVO POP HD
+#EXTINF:-1, VEVO POP HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098848
-#EXTINF:-1,MS | VH1 Classic
+#EXTINF:-1, VH1 Classic
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098828
-#EXTINF:-1,MS | VH1 FHD 
+#EXTINF:-1, VH1 FHD 
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098827
-#EXTINF:-1,MS | VIDEO ROLA
+#EXTINF:-1, VIDEO ROLA
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098836
-#EXTINF:-1,MS | XL MUSICA TV HD
+#EXTINF:-1, XL MUSICA TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2098845
 #EXTINF:-1,MSNBC
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113566
-#EXTINF:-1,MS| MTV 80s
+#EXTINF:-1,M MTV 80s
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145661
-#EXTINF:-1,MS| MTV 90s
+#EXTINF:-1,M MTV 90s
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145708
-#EXTINF:-1,MS| Much Music
+#EXTINF:-1,M Much Music
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145545
-#EXTINF:-1,N | ADN 40
+#EXTINF:-1, ADN 40
 http://magi-stv.net:8080/Joseluis/Joseluis123/10604
-#EXTINF:-1,N | ADN 40 HD
+#EXTINF:-1, ADN 40 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155157
-#EXTINF:-1,N | ADN FHD
+#EXTINF:-1, ADN FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10603
-#EXTINF:-1,N | BBC World HD
+#EXTINF:-1, BBC World HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10605
-#EXTINF:-1,N | Bloomberg
+#EXTINF:-1, Bloomberg
 http://magi-stv.net:8080/Joseluis/Joseluis123/10606
-#EXTINF:-1,N | Bloomberg HD
+#EXTINF:-1, Bloomberg HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/75916
-#EXTINF:-1,N | Bloomberg FHD
+#EXTINF:-1, Bloomberg FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10607
-#EXTINF:-1,N | Canal 44 - El Canal de las Noticias
+#EXTINF:-1, Canal 44 - El Canal de las Noticias
 http://magi-stv.net:8080/Joseluis/Joseluis123/200381
-#EXTINF:-1,N | CGTN (eng)
+#EXTINF:-1, CGTN (eng)
 http://magi-stv.net:8080/Joseluis/Joseluis123/197420
-#EXTINF:-1,N | CGTN (esp)
+#EXTINF:-1, CGTN (esp)
 http://magi-stv.net:8080/Joseluis/Joseluis123/197419
-#EXTINF:-1,N | CNN en Español
+#EXTINF:-1, CNN en Español
 http://magi-stv.net:8080/Joseluis/Joseluis123/10608
-#EXTINF:-1,N | CNN en Español HD
+#EXTINF:-1, CNN en Español HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155162
-#EXTINF:-1,N | CNN Internacional
+#EXTINF:-1, CNN Internacional
 http://magi-stv.net:8080/Joseluis/Joseluis123/10609
-#EXTINF:-1,N | CNN International HD
+#EXTINF:-1, CNN International HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10610
-#EXTINF:-1,N | CP24
+#EXTINF:-1, CP24
 http://magi-stv.net:8080/Joseluis/Joseluis123/212110
-#EXTINF:-1,N | DW
+#EXTINF:-1, DW
 http://magi-stv.net:8080/Joseluis/Joseluis123/10612
-#EXTINF:-1,N | DW HQ
+#EXTINF:-1, DW HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/155163
-#EXTINF:-1,N | Excelsior TV
+#EXTINF:-1, Excelsior TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/16370
-#EXTINF:-1,N | Excelsior TV HQ
+#EXTINF:-1, Excelsior TV HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/10613
-#EXTINF:-1,N | Foro TV
+#EXTINF:-1, Foro TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/10617
-#EXTINF:-1,N | Foro TV HD
+#EXTINF:-1, Foro TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155159
-#EXTINF:-1,N | Foro TV FHD
+#EXTINF:-1, Foro TV FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10616
-#EXTINF:-1,N | Fox News
+#EXTINF:-1, Fox News
 http://magi-stv.net:8080/Joseluis/Joseluis123/10614
-#EXTINF:-1,N | Fox News HD
+#EXTINF:-1, Fox News HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10615
-#EXTINF:-1,N | France 24 (esp)
+#EXTINF:-1, France 24 (esp)
 http://magi-stv.net:8080/Joseluis/Joseluis123/197421
-#EXTINF:-1,N | Milenio Noticias
+#EXTINF:-1, Milenio Noticias
 http://magi-stv.net:8080/Joseluis/Joseluis123/10620
-#EXTINF:-1,N | Milenio Noticias HD
+#EXTINF:-1, Milenio Noticias HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155160
-#EXTINF:-1,N | Milenio Noticias FHD
+#EXTINF:-1, Milenio Noticias FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10621
-#EXTINF:-1,N | MSNBC
+#EXTINF:-1, MSNBC
 http://magi-stv.net:8080/Joseluis/Joseluis123/10618
-#EXTINF:-1,N | MSNBC HD
+#EXTINF:-1, MSNBC HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10619
-#EXTINF:-1,N | RT Noticias
+#EXTINF:-1, RT Noticias
 http://magi-stv.net:8080/Joseluis/Joseluis123/25753
-#EXTINF:-1,N | RT Noticias HQ
+#EXTINF:-1, RT Noticias HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/155164
-#EXTINF:-1,N | RT Noticias FHD
+#EXTINF:-1, RT Noticias FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/28615
-#EXTINF:-1,N | Teleformula
+#EXTINF:-1, Teleformula
 http://magi-stv.net:8080/Joseluis/Joseluis123/10623
-#EXTINF:-1,N | Teleformula FHD
+#EXTINF:-1, Teleformula FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/154104
-#EXTINF:-1,N | The Weather Channel En Español
+#EXTINF:-1, The Weather Channel En Español
 http://magi-stv.net:8080/Joseluis/Joseluis123/10624
 #EXTINF:-1,NBC (WVIT)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113567
@@ -1373,382 +1371,82 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/2113576
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113578
 #EXTINF:-1,NESN
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113579
-#EXTINF:-1,BO | Unitel Santa Cruz HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/215948
-#EXTINF:-1,BO || ATB &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188400
-#EXTINF:-1,BO || Bolivia TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/188402
-#EXTINF:-1,BO || Bolivision &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188404
-#EXTINF:-1,BO || Bolivision HD &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188403
-#EXTINF:-1,BO || Bolivision La Paz
-http://magi-stv.net:8080/Joseluis/Joseluis123/188405
-#EXTINF:-1,BO || Bolivision Santa Cruz &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188406
-#EXTINF:-1,BO || Cadena A &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188407
-#EXTINF:-1,BO || Gigavision &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188408
-#EXTINF:-1,BO || Red Pat La Paz  &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188412
-#EXTINF:-1,BO || Red Uno Santa Cruz &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188411
-#EXTINF:-1,BO || RTP &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188409
-#EXTINF:-1,BO || RTP* &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188410
-#EXTINF:-1,BO || TV U &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188416
-#EXTINF:-1,BO || Unitel
-http://magi-stv.net:8080/Joseluis/Joseluis123/188424
-#EXTINF:-1,BO || Unitel La Paz &gt;)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188423
-#EXTINF:-1,BOL | Mega TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/226124
-#EXTINF:-1,BOLIVIA || ATB BOLIVIA LP :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188386
-#EXTINF:-1,BOLIVIA || ATB CBA. :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188387
-#EXTINF:-1,BOLIVIA || BOLIVIA  :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188399
-#EXTINF:-1,BOLIVIA || Bolivia TV SD :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188388
-#EXTINF:-1,BOLIVIA || BOLIVISION :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188392
-#EXTINF:-1,BOLIVIA || Bolivision HD :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188389
-#EXTINF:-1,BOLIVIA | Tele Estrella
-http://magi-stv.net:8080/Joseluis/Joseluis123/188393
-#EXTINF:-1,BOLIVIA || RED PAT LA PAZ
-http://magi-stv.net:8080/Joseluis/Joseluis123/188430
-#EXTINF:-1,BOLIVIA || RED PAT SANTA CRUZ
-http://magi-stv.net:8080/Joseluis/Joseluis123/188431
-#EXTINF:-1,BOLIVIA || RED UNO BOLIVIA :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188396
-#EXTINF:-1,BOLIVIA || RED UNO COCHABAMBA - PROGRAMAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/188428
-#EXTINF:-1,BOLIVIA || Red Uno HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/188390
-#EXTINF:-1,BOLIVIA || RED UNO LA PAZ - PROGRAMAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/188427
-#EXTINF:-1,BOLIVIA || RED UNO SANTA CRUZ - PROGRAMAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/188429
-#EXTINF:-1,BOLIVIA || RTP BOLIVIA :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188397
-#EXTINF:-1,BOLIVIA || TVU :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188394
-#EXTINF:-1,BOLIVIA || UNITEL :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188398
-#EXTINF:-1,BOLIVIA || Unitel SD :)
-http://magi-stv.net:8080/Joseluis/Joseluis123/188391
-#EXTINF:-1,Cable Onda (PAN)
-http://magi-stv.net:8080/Joseluis/Joseluis123/201868
-#EXTINF:-1,CAMPUS TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/2100953
-#EXTINF:-1,SV | Canal 2
-http://magi-stv.net:8080/Joseluis/Joseluis123/2138493
-#EXTINF:-1,CBS California Los Angeles
-http://magi-stv.net:8080/Joseluis/Joseluis123/2113516
-#EXTINF:-1,CBS Newjersey
-http://magi-stv.net:8080/Joseluis/Joseluis123/2113528
-#EXTINF:-1,CL | 13C
-http://magi-stv.net:8080/Joseluis/Joseluis123/25355
-#EXTINF:-1,CL | 13i
+#EXTINF:-1, 13i
 http://magi-stv.net:8080/Joseluis/Joseluis123/25356
-#EXTINF:-1,CL | 24 Horas
+#EXTINF:-1, 24 Horas
 http://magi-stv.net:8080/Joseluis/Joseluis123/25357
-#EXTINF:-1,CL | Canal 13
+#EXTINF:-1, Canal 13
 http://magi-stv.net:8080/Joseluis/Joseluis123/25358
-#EXTINF:-1,CL | CDO
+#EXTINF:-1, CDO
 http://magi-stv.net:8080/Joseluis/Joseluis123/25372
-#EXTINF:-1,CL | CDO Basico
+#EXTINF:-1, CDO Basico
 http://magi-stv.net:8080/Joseluis/Joseluis123/25354
-#EXTINF:-1,CL | CDO Premium
+#EXTINF:-1, CDO Premium
 http://magi-stv.net:8080/Joseluis/Joseluis123/25371
-#EXTINF:-1,CL | Chilevision
+#EXTINF:-1, Chilevision
 http://magi-stv.net:8080/Joseluis/Joseluis123/25376
-#EXTINF:-1,CL | Chilevision HD
+#EXTINF:-1, Chilevision HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/25375
-#EXTINF:-1,CL | Chilevision FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/25374
-#EXTINF:-1,CL | Estadio TNT Sports
+#EXTINF:-1, Estadio TNT Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/25361
-#EXTINF:-1,CL | Etc TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/25378
-#EXTINF:-1,CL | Etc Tv
-http://magi-stv.net:8080/Joseluis/Joseluis123/25390
-#EXTINF:-1,CL | La Red
-http://magi-stv.net:8080/Joseluis/Joseluis123/25379
-#EXTINF:-1,CL | La Red HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/25380
-#EXTINF:-1,CL | Mega
-http://magi-stv.net:8080/Joseluis/Joseluis123/25381
-#EXTINF:-1,CL | MEGA HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/25345
-#EXTINF:-1,CL | Mega FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/25384
-#EXTINF:-1,CL | Mega Plus
-http://magi-stv.net:8080/Joseluis/Joseluis123/25346
-#EXTINF:-1,CL | Rec TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/25386
-#EXTINF:-1,CL | Sporting HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/25392
-#EXTINF:-1,CL | Teletrak
-http://magi-stv.net:8080/Joseluis/Joseluis123/25347
-#EXTINF:-1,CL | Teletrak HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/25373
-#EXTINF:-1,CL | TNT SPORTS
+#EXTINF:-1, TNT SPORTS
 http://magi-stv.net:8080/Joseluis/Joseluis123/25362
-#EXTINF:-1,CL | TNT SPORTS 2
+#EXTINF:-1, TNT SPORTS 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/25340
-#EXTINF:-1,CL | TNT SPORTS 3
+#EXTINF:-1, TNT SPORTS 3
 http://magi-stv.net:8080/Joseluis/Joseluis123/25366
-#EXTINF:-1,CL | TNT SPORTS HD
+#EXTINF:-1, TNT SPORTS HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/25363
-#EXTINF:-1,CL | TNT SPORTS HD
+#EXTINF:-1, TNT SPORTS HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/25369
-#EXTINF:-1,CL | TNT SPORTS FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/25365
-#EXTINF:-1,CL | TV +
-http://magi-stv.net:8080/Joseluis/Joseluis123/25348
-#EXTINF:-1,CL | TVN
-http://magi-stv.net:8080/Joseluis/Joseluis123/25387
-#EXTINF:-1,CL | TVN HD
+#EXTINF:-1, TVN HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/25388
-#EXTINF:-1,MS | Classic Rock
+#EXTINF:-1, Classic Rock
 http://magi-stv.net:8080/Joseluis/Joseluis123/2111766
-#EXTINF:-1,CO | Cable Noticias HD
+#EXTINF:-1, Cable Noticias HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/176589
-#EXTINF:-1,CO | Cablenoticias
-http://magi-stv.net:8080/Joseluis/Joseluis123/176609
-#EXTINF:-1,CO | Cali TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/155733
-#EXTINF:-1,CO | Canal Capital HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/155734
-#EXTINF:-1,CO | Canal CNC Medellin 
-http://magi-stv.net:8080/Joseluis/Joseluis123/155737
-#EXTINF:-1,CO | Canal Institucional
-http://magi-stv.net:8080/Joseluis/Joseluis123/176611
-#EXTINF:-1,CO | Canal Uno
-http://magi-stv.net:8080/Joseluis/Joseluis123/176612
-#EXTINF:-1,CO | Canal Uno FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/176593
-#EXTINF:-1,CO | Canal Uno HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/202063
-#EXTINF:-1,CO | Caracol
+#EXTINF:-1, Caracol
 http://magi-stv.net:8080/Joseluis/Joseluis123/176570
-#EXTINF:-1,CO | Caracol HD
+#EXTINF:-1, Caracol HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/176569
-#EXTINF:-1,CO | Caracol HD2
-http://magi-stv.net:8080/Joseluis/Joseluis123/202067
-#EXTINF:-1,CO | Caracol FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/176568
-#EXTINF:-1,CO | Caracol Internacional
+#EXTINF:-1, Caracol Internacional
 http://magi-stv.net:8080/Joseluis/Joseluis123/176613
-#EXTINF:-1,CO | Caracol Internacional HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/202068
-#EXTINF:-1,CO | Caracol Internacional FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/199323
-#EXTINF:-1,CO | Caracol Noticias
+#EXTINF:-1, Caracol Noticias
 http://magi-stv.net:8080/Joseluis/Joseluis123/202069
-#EXTINF:-1,CO | CITY TV
+#EXTINF:-1, CITY TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/176595
-#EXTINF:-1,CO | City TV HD
+#EXTINF:-1, City TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/176573
-#EXTINF:-1,CO | El Tiempo
+#EXTINF:-1, El Tiempo
 http://magi-stv.net:8080/Joseluis/Joseluis123/155738
-#EXTINF:-1,CO | NTN24
+#EXTINF:-1, NTN24
 http://magi-stv.net:8080/Joseluis/Joseluis123/176615
-#EXTINF:-1,CO | Pasiones 
+#EXTINF:-1, Pasiones 
 http://magi-stv.net:8080/Joseluis/Joseluis123/176777
-#EXTINF:-1,CO | Pasiones HD
+#EXTINF:-1, Pasiones HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155735
-#EXTINF:-1,CO | RCN
+#EXTINF:-1, RCN
 http://magi-stv.net:8080/Joseluis/Joseluis123/155680
-#EXTINF:-1,CO | RCN HD
+#EXTINF:-1, RCN HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/176580
-#EXTINF:-1,CO | RCN FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/155681
-#EXTINF:-1,CO | RCN Internacional HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/199513
-#EXTINF:-1,CO | RCN Novelas
+#EXTINF:-1, RCN Novelas
 http://magi-stv.net:8080/Joseluis/Joseluis123/176599
-#EXTINF:-1,CO | RCN Novelas HD
+#EXTINF:-1, RCN Novelas HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155682
-#EXTINF:-1,CO | Señal Colombia HD
+#EXTINF:-1, Señal Colombia HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155736
-#EXTINF:-1,CO | Suram TV
+#EXTINF:-1, Suram TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/176600
-#EXTINF:-1,CO | TeleAntioquia HQ
+#EXTINF:-1, TeleAntioquia HQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/176582
-#EXTINF:-1,CO | Telecafé
+#EXTINF:-1, Telecafé
 http://magi-stv.net:8080/Joseluis/Joseluis123/176618
-#EXTINF:-1,CO | Telecafé HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/176602
-#EXTINF:-1,CO | TeleCaribe
+#EXTINF:-1, TeleCaribe
 http://magi-stv.net:8080/Joseluis/Joseluis123/176619
-#EXTINF:-1,CO | Telecaribe HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/176583
-#EXTINF:-1,CO | Teleislas
-http://magi-stv.net:8080/Joseluis/Joseluis123/202129
-#EXTINF:-1,CO | Telemedellin
-http://magi-stv.net:8080/Joseluis/Joseluis123/176606
-#EXTINF:-1,CO | Telemedellin HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/202130
-#EXTINF:-1,CO | Telepacifico
-http://magi-stv.net:8080/Joseluis/Joseluis123/176607
-#EXTINF:-1,CO | TelePacifico HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/176620
-#EXTINF:-1,CO | Tro
-http://magi-stv.net:8080/Joseluis/Joseluis123/176621
-#EXTINF:-1,CO | Tro HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/202066
-#EXTINF:-1,CO | TV AGRO
-http://magi-stv.net:8080/Joseluis/Joseluis123/176608
-#EXTINF:-1,CO | Win Sports 
+#EXTINF:-1, Win Sports 
 http://magi-stv.net:8080/Joseluis/Joseluis123/176585
-#EXTINF:-1,CO | Win Sports +
+#EXTINF:-1, Win Sports +
 http://magi-stv.net:8080/Joseluis/Joseluis123/155693
-#EXTINF:-1,CO | Win Sports + HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/12257
-#EXTINF:-1,CO | Win Sports + FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/155248
-#EXTINF:-1,CO | Win Sports HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/176587
-#EXTINF:-1,COL | Cali TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/217129
-#EXTINF:-1,CR | 88 Stereo
-http://magi-stv.net:8080/Joseluis/Joseluis123/222742
-#EXTINF:-1,CR | Canal 14 Tv Sur
-http://magi-stv.net:8080/Joseluis/Joseluis123/10340
-#EXTINF:-1,CR | Canal 8 Multimedios
-http://magi-stv.net:8080/Joseluis/Joseluis123/2082313
-#EXTINF:-1,CR | Extrema TV HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10339
-#EXTINF:-1,CR | Repretel 11
-http://magi-stv.net:8080/Joseluis/Joseluis123/224194
-#EXTINF:-1,EC | Telerama
-http://magi-stv.net:8080/Joseluis/Joseluis123/219710
-#EXTINF:-1,EC|  Gama TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/2130522
-#EXTINF:-1,EC| Canela TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/176954
-#EXTINF:-1,EC| Canela TV HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/147950
-#EXTINF:-1,EC| Directv Sports
-http://magi-stv.net:8080/Joseluis/Joseluis123/11047
-#EXTINF:-1,EC| Directv Sports HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11024
-#EXTINF:-1,EC| Directv Sports 2 HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11025
-#EXTINF:-1,EC| Directv Sports Plus HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11026
-#EXTINF:-1,EC| Directv Sports Plus FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/176955
-#EXTINF:-1,EC| Ecotel
-http://magi-stv.net:8080/Joseluis/Joseluis123/2130489
-#EXTINF:-1,EC| Ecuador TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/11029
-#EXTINF:-1,EC| Ecuador TV HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11030
-#EXTINF:-1,EC| Ecuador TV FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/153889
-#EXTINF:-1,EC| Ecuavisa
-http://magi-stv.net:8080/Joseluis/Joseluis123/11031
-#EXTINF:-1,EC| Ecuavisa HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11032
-#EXTINF:-1,EC| Ecuavisa FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/153885
-#EXTINF:-1,EC| Ecuavisa Internacional
-http://magi-stv.net:8080/Joseluis/Joseluis123/11033
-#EXTINF:-1,EC| Ecuavisa Internacional HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/147959
-#EXTINF:-1,EC| Ecuavisa Guayaquil HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2138876
-#EXTINF:-1,EC| Ecuavisa Quito HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2138875
-#EXTINF:-1,EC| Ecuavisa Sierra
-http://magi-stv.net:8080/Joseluis/Joseluis123/176963
-#EXTINF:-1,EC| El Canal del Futbol SD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10396
-#EXTINF:-1,EC| El Canal del Futbol HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10395
-#EXTINF:-1,EC| El Canal del Futbol FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10394
-#EXTINF:-1,EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)
-http://magi-stv.net:8080/Joseluis/Joseluis123/176966
-#EXTINF:-1,EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)
-http://magi-stv.net:8080/Joseluis/Joseluis123/176965
-#EXTINF:-1,EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)
-http://magi-stv.net:8080/Joseluis/Joseluis123/176964
-#EXTINF:-1,EC| Gamavision
-http://magi-stv.net:8080/Joseluis/Joseluis123/11034
-#EXTINF:-1,EC| Gamavision HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/147955
-#EXTINF:-1,EC| Gamavision FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/153888
-#EXTINF:-1,EC| Gol TV (MOVIL)
-http://magi-stv.net:8080/Joseluis/Joseluis123/180467
-#EXTINF:-1,EC| GOL TV HD (OPC 1)
-http://magi-stv.net:8080/Joseluis/Joseluis123/180461
-#EXTINF:-1,EC| Gol TV HD (OPCION 2)
-http://magi-stv.net:8080/Joseluis/Joseluis123/180469
-#EXTINF:-1,EC| GOL TV FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/180460
-#EXTINF:-1,EC| Gol TV | Ecuador
-http://magi-stv.net:8080/Joseluis/Joseluis123/180453
-#EXTINF:-1,EC| GOLTV ECUADOR HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/180475
-#EXTINF:-1,EC| Oromar Television
-http://magi-stv.net:8080/Joseluis/Joseluis123/147956
-#EXTINF:-1,EC| Oromar Television HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11035
-#EXTINF:-1,EC| Oromar Television FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/176967
-#EXTINF:-1,EC| RTS
-http://magi-stv.net:8080/Joseluis/Joseluis123/11037
-#EXTINF:-1,EC| RTS HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11036
-#EXTINF:-1,EC| RTS FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/153887
-#EXTINF:-1,EC| RTU
-http://magi-stv.net:8080/Joseluis/Joseluis123/153890
-#EXTINF:-1,EC| TC Television
-http://magi-stv.net:8080/Joseluis/Joseluis123/11038
-#EXTINF:-1,EC| TC Television HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11039
-#EXTINF:-1,EC| TC Television FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/172233
-#EXTINF:-1,EC| Teleamazonas
-http://magi-stv.net:8080/Joseluis/Joseluis123/11040
-#EXTINF:-1,EC| Teleamazonas FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/153891
-#EXTINF:-1,EC| Teleamazonas Guayaquil HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145107
-#EXTINF:-1,EC| Teleamazonas HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11043
-#EXTINF:-1,EC| Teleamazonas Quito
-http://magi-stv.net:8080/Joseluis/Joseluis123/147954
-#EXTINF:-1,EC| Teleamazonas Quito HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11042
-#EXTINF:-1,EC| Teleamazonas Quito FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/153892
-#EXTINF:-1,EC| Teleamazonas Sierra
-http://magi-stv.net:8080/Joseluis/Joseluis123/176976
-#EXTINF:-1,EC| TVC
-http://magi-stv.net:8080/Joseluis/Joseluis123/11044
-#EXTINF:-1,EC| TVC HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/147952
-#EXTINF:-1,EC| TVC FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/176977
-#EXTINF:-1,EC|: Hechos Ecuador
-http://magi-stv.net:8080/Joseluis/Joseluis123/2130559
-#EXTINF:-1,EC|: Sono Onda
-http://magi-stv.net:8080/Joseluis/Joseluis123/2130709
-#EXTINF:-1,EC|: Televicentro
-http://magi-stv.net:8080/Joseluis/Joseluis123/2130710
 #EXTINF:-1,FOX MIAMI
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113549
 #EXTINF:-1,FOX South Carolina
@@ -1759,459 +1457,55 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/2113559
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113560
 #EXTINF:-1,FX
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113562
-#EXTINF:-1,LA | Telemundo Tampa HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2141352
-#EXTINF:-1,LA | Telemundo Washington
-http://magi-stv.net:8080/Joseluis/Joseluis123/215768
-#EXTINF:-1,LALIGA | MOVISTAR LALIGA 1
-http://magi-stv.net:8080/Joseluis/Joseluis123/223953
-#EXTINF:-1,LA| Estrella TV
+#EXTINF:-1, Estrella TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/10889
-#EXTINF:-1,LA| Estrella TV HD
+#EXTINF:-1, Estrella TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/155512
-#EXTINF:-1,LA| Estrella TV FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/202644
 #EXTINF:-1,LA | Galavision HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/18095
-#EXTINF:-1,LA| Kanal D
+#EXTINF:-1, Kanal D
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113877
-#EXTINF:-1,LA| Mega TV Miami
+#EXTINF:-1, Mega TV Miami
 http://magi-stv.net:8080/Joseluis/Joseluis123/212690
-#EXTINF:-1,LA| NBC Universo HD
+#EXTINF:-1, NBC Universo HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/187234
-#EXTINF:-1,LA| Telemundo 47 NY HD
+#EXTINF:-1, Telemundo 47 NY HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10910
-#EXTINF:-1,LA| Telemundo Miami
+#EXTINF:-1, Telemundo Miami
 http://magi-stv.net:8080/Joseluis/Joseluis123/10893
-#EXTINF:-1,LA| Unimas Dallas
+#EXTINF:-1, Unimas Dallas
 http://magi-stv.net:8080/Joseluis/Joseluis123/10900
-#EXTINF:-1,LA| Unimas Los Angeles
+#EXTINF:-1, Unimas Los Angeles
 http://magi-stv.net:8080/Joseluis/Joseluis123/10896
-#EXTINF:-1,LA| Univision
+#EXTINF:-1, Univision
 http://magi-stv.net:8080/Joseluis/Joseluis123/10888
-#EXTINF:-1,LA| Univision Miami
+#EXTINF:-1, Univision Miami
 http://magi-stv.net:8080/Joseluis/Joseluis123/10905
-#EXTINF:-1,LA| Univision SD
+#EXTINF:-1, Univision SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10892
-#EXTINF:-1,M | A+
-http://magi-stv.net:8080/Joseluis/Joseluis123/76427
-#EXTINF:-1,M | A+ HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/76504
-#EXTINF:-1,M | A+ FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/154117
-#EXTINF:-1,M | Azteca 7
-http://magi-stv.net:8080/Joseluis/Joseluis123/154122
-#EXTINF:-1,M | Azteca 7 HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10814
-#EXTINF:-1,M | Azteca 7 FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/154123
-#EXTINF:-1,M | Azteca Clic
+##EXTINF:-1, Azteca Clic
 http://magi-stv.net:8080/Joseluis/Joseluis123/197238
-#EXTINF:-1,M | Azteca Clic HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145513
-#EXTINF:-1,M | Azteca Corazon
+#EXTINF:-1, Azteca Corazon
 http://magi-stv.net:8080/Joseluis/Joseluis123/154119
-#EXTINF:-1,M | Azteca Corazon HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/75648
-#EXTINF:-1,M | Azteca Corazon FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/75649
-#EXTINF:-1,M | Azteca HD
+#EXTINF:-1, Azteca HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/199505
-#EXTINF:-1,M | Azteca Mundo
+#EXTINF:-1, Azteca Mundo
 http://magi-stv.net:8080/Joseluis/Joseluis123/10800
-#EXTINF:-1,M | Azteca Mundo HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/154114
-#EXTINF:-1,M | Azteca Mundo FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/101312
-#EXTINF:-1,M | Azteca Uno
+#EXTINF:-1, Azteca Uno
 http://magi-stv.net:8080/Joseluis/Joseluis123/10835
-#EXTINF:-1,M | Azteca Uno HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/155185
-#EXTINF:-1,M | Azteca Uno HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/203184
-#EXTINF:-1,M | Azteca Uno FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10816
-#EXTINF:-1,M | Azteca Uno -2 Horas
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055627
-#EXTINF:-1,M | Canal 15 Fresnillo
-http://magi-stv.net:8080/Joseluis/Joseluis123/165124
-#EXTINF:-1,M | CANAL 26 Aguascalientes
-http://magi-stv.net:8080/Joseluis/Joseluis123/10823
-#EXTINF:-1,M | Canal 4 Guajuato HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145674
-#EXTINF:-1,M| Canal 4
-http://magi-stv.net:8080/Joseluis/Joseluis123/2123314
-#EXTINF:-1,M | Canal 4 FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10826
-#EXTINF:-1,M | Canal 5
-http://magi-stv.net:8080/Joseluis/Joseluis123/10839
-#EXTINF:-1,M | Canal 5 HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/155186
-#EXTINF:-1,M | Canal 5 FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/27472
-#EXTINF:-1,M | Canal 6.2 Multimedios Saltillo
-http://magi-stv.net:8080/Joseluis/Joseluis123/212819
-#EXTINF:-1,M | Canal 7 SLP
-http://magi-stv.net:8080/Joseluis/Joseluis123/216022
-#EXTINF:-1,M | Canal 8 - La Paz BCS
-http://magi-stv.net:8080/Joseluis/Joseluis123/10820
-#EXTINF:-1,M | Canal del Congreso
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145514
-#EXTINF:-1,M | Canal Judicial HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/10831
-#EXTINF:-1,M | Canal Once
-http://magi-stv.net:8080/Joseluis/Joseluis123/10836
-#EXTINF:-1,M | Canal Once HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/154116
-#EXTINF:-1,M | Canal Once FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/84527
-#EXTINF:-1,M | CANAL 12 Tijuana
-http://magi-stv.net:8080/Joseluis/Joseluis123/165131
-#EXTINF:-1,M| Canal 12 Tijuana
-http://magi-stv.net:8080/Joseluis/Joseluis123/2123316
-#EXTINF:-1,M | Cortv Oaxaca
-http://magi-stv.net:8080/Joseluis/Joseluis123/216025
-#EXTINF:-1,M | AMX Noticias
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145669
-#EXTINF:-1,US | HLN
-http://magi-stv.net:8080/Joseluis/Joseluis123/10830
-#EXTINF:-1,US | HLN HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/155178
-#EXTINF:-1,M | Imagen TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/10822
-#EXTINF:-1,M | Imagen TV HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/155182
-#EXTINF:-1,M | Imagen TV FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/155181
-#EXTINF:-1,M | Jalisco TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/216023
-#EXTINF:-1,M | Justicia TV HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145666
-#EXTINF:-1,M | Las Estrellas
+#EXTINF:-1, Las Estrellas
 http://magi-stv.net:8080/Joseluis/Joseluis123/154121
-#EXTINF:-1,M | Las Estrellas HD
+#EXTINF:-1, Las Estrellas HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10840
-#EXTINF:-1,M | Las Estrellas FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/27471
-#EXTINF:-1,M | Las Estrellas -2 Horas
-http://magi-stv.net:8080/Joseluis/Joseluis123/212817
-#EXTINF:-1,M | MN Mega Noticias HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145668
-#EXTINF:-1,M| Mexiquense
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145707
-#EXTINF:-1,M | Multimedios
-http://magi-stv.net:8080/Joseluis/Joseluis123/10821
-#EXTINF:-1,M | Multimedios HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/199373
-#EXTINF:-1,M | Multimedios FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/155188
-#EXTINF:-1,M | Multimedios Guadalajara
-http://magi-stv.net:8080/Joseluis/Joseluis123/165126
-#EXTINF:-1,M | Multimedios Laguna
-http://magi-stv.net:8080/Joseluis/Joseluis123/165127
-#EXTINF:-1,M | Multimedios Plus
-http://magi-stv.net:8080/Joseluis/Joseluis123/10834
-#EXTINF:-1,M | Multimedios Plus HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/202592
-#EXTINF:-1,M | MVM Noticias Oaxaca
-http://magi-stv.net:8080/Joseluis/Joseluis123/165129
-#EXTINF:-1,M | MVS TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/76078
-#EXTINF:-1,M | MVS TV HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/154118
-#EXTINF:-1,M | N+
-http://magi-stv.net:8080/Joseluis/Joseluis123/2113879
-#EXTINF:-1,M | Nu9ve
-http://magi-stv.net:8080/Joseluis/Joseluis123/154124
-#EXTINF:-1,M | Nu9ve TV HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/155183
-#EXTINF:-1,M | Nu9ve FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10837
-#EXTINF:-1,M | RCG 3 Saltillo
-http://magi-stv.net:8080/Joseluis/Joseluis123/165132
-#EXTINF:-1,M | RTQ Queretaro
-http://magi-stv.net:8080/Joseluis/Joseluis123/165133
-#EXTINF:-1,M | SET Puebla
-http://magi-stv.net:8080/Joseluis/Joseluis123/216024
-#EXTINF:-1,M | Sipse TV Cancun
-http://magi-stv.net:8080/Joseluis/Joseluis123/165134
-#EXTINF:-1,M | Telemax
-http://magi-stv.net:8080/Joseluis/Joseluis123/97293
-#EXTINF:-1,M | Telemax Hermosillo
-http://magi-stv.net:8080/Joseluis/Joseluis123/165136
-#EXTINF:-1,M | TeleVer
-http://magi-stv.net:8080/Joseluis/Joseluis123/10832
-#EXTINF:-1,M | Televisa (Leon) FHD
+#EXTINF:-1, Televisa (Leon) FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/10827
-#EXTINF:-1,M | Televisa Monterrey
+#EXTINF:-1, Televisa Monterrey
 http://magi-stv.net:8080/Joseluis/Joseluis123/154120
-#EXTINF:-1,M | Televisa Monterrey FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/27495
-#EXTINF:-1,M | Televisa Puebla
-http://magi-stv.net:8080/Joseluis/Joseluis123/224164
-#EXTINF:-1,M | Televisa Puebla HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145663
-#EXTINF:-1,M | TRC TV Campeche
-http://magi-stv.net:8080/Joseluis/Joseluis123/165138
-#EXTINF:-1,M | TV MAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/10817
-#EXTINF:-1,M | TV MAS FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10829
-#EXTINF:-1,M | TVP Culiacan
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145787
-#EXTINF:-1,M | TVT Tabasco
-http://magi-stv.net:8080/Joseluis/Joseluis123/2123294
-#EXTINF:-1,NG| Canal 11
-http://magi-stv.net:8080/Joseluis/Joseluis123/155900
-#EXTINF:-1,NG| Canal 12
-http://magi-stv.net:8080/Joseluis/Joseluis123/155901
-#EXTINF:-1,NG| Canal 13
-http://magi-stv.net:8080/Joseluis/Joseluis123/155902
-#EXTINF:-1,NG| Canal 2
-http://magi-stv.net:8080/Joseluis/Joseluis123/155894
-#EXTINF:-1,NG| Canal 39
-http://magi-stv.net:8080/Joseluis/Joseluis123/155893
-#EXTINF:-1,NG| Canal 6
-http://magi-stv.net:8080/Joseluis/Joseluis123/155896
-#EXTINF:-1,NG| Canal 9
-http://magi-stv.net:8080/Joseluis/Joseluis123/155898
-#EXTINF:-1,PA| Cos
-http://magi-stv.net:8080/Joseluis/Joseluis123/155903
-#EXTINF:-1,PA| Mas Tv 23
-http://magi-stv.net:8080/Joseluis/Joseluis123/155906
-#EXTINF:-1,PA| Nex Canal 21
-http://magi-stv.net:8080/Joseluis/Joseluis123/155907
-#EXTINF:-1,PA| NEX CANAL 21
-http://magi-stv.net:8080/Joseluis/Joseluis123/155913
-#EXTINF:-1,PA| SER TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/155914
-#EXTINF:-1,PA| TV MAX
-http://magi-stv.net:8080/Joseluis/Joseluis123/155916
-#EXTINF:-1,PA| TVN
-http://magi-stv.net:8080/Joseluis/Joseluis123/2124371
-#EXTINF:-1,PE| America TV
+#EXTINF:-1,P America TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/10626
-#EXTINF:-1,PE| America TV FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/199968
-#EXTINF:-1,PE| America TV HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/11437
-#EXTINF:-1,PE| ATV
-http://magi-stv.net:8080/Joseluis/Joseluis123/10639
-#EXTINF:-1,PE| ATV HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/12424
-#EXTINF:-1,PE| ATV+
-http://magi-stv.net:8080/Joseluis/Joseluis123/155850
-#EXTINF:-1,PE| Best Cable Music
-http://magi-stv.net:8080/Joseluis/Joseluis123/207961
-#EXTINF:-1,PE| Best Cable Sport
-http://magi-stv.net:8080/Joseluis/Joseluis123/207962
-#EXTINF:-1,PE| Canal Ipe
-http://magi-stv.net:8080/Joseluis/Joseluis123/155855
-#EXTINF:-1,PE| Canal N
-http://magi-stv.net:8080/Joseluis/Joseluis123/10636
-#EXTINF:-1,PE| Canal N HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10625
-#EXTINF:-1,PE| Capital TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/10635
-#EXTINF:-1,PE| Directv Sports Peru HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/186933
-#EXTINF:-1,PE| Exitosa
-http://magi-stv.net:8080/Joseluis/Joseluis123/10642
-#EXTINF:-1,PE| Fox Sports Peru HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/12426
-#EXTINF:-1,PE| Gol Peru
-http://magi-stv.net:8080/Joseluis/Joseluis123/10921
-#EXTINF:-1,PE| Gol Peru HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/16369
-#EXTINF:-1,PE| Gol Peru v2
-http://magi-stv.net:8080/Joseluis/Joseluis123/179041
-#EXTINF:-1,PE| Latina
-http://magi-stv.net:8080/Joseluis/Joseluis123/10630
-#EXTINF:-1,PE| Latina HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10629
-#EXTINF:-1,PE| Movistar Deportes
-http://magi-stv.net:8080/Joseluis/Joseluis123/11438
-#EXTINF:-1,PE| Movistar Deportes HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/10643
-#EXTINF:-1,PE| Movistar Plus
-http://magi-stv.net:8080/Joseluis/Joseluis123/192424
-#EXTINF:-1,PE| Panamericana
-http://magi-stv.net:8080/Joseluis/Joseluis123/10628
-#EXTINF:-1,PE| Panamericana HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/10640
-#EXTINF:-1,PE| Peru Magico
-http://magi-stv.net:8080/Joseluis/Joseluis123/155854
-#EXTINF:-1,PE| Peru Magico FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10634
-#EXTINF:-1,PE| Peru Noticias
-http://magi-stv.net:8080/Joseluis/Joseluis123/155853
-#EXTINF:-1,PE| RPP
-http://magi-stv.net:8080/Joseluis/Joseluis123/10633
-#EXTINF:-1,PE| Sur Peru
-http://magi-stv.net:8080/Joseluis/Joseluis123/202722
-#EXTINF:-1,PE| Tv Peru
-http://magi-stv.net:8080/Joseluis/Joseluis123/10631
-#EXTINF:-1,PE| Tv Peru HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10632
-#EXTINF:-1,PE| Willax
-http://magi-stv.net:8080/Joseluis/Joseluis123/200945
-#EXTINF:-1,PE| Willax HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/10641
-#EXTINF:-1,PR| ABC
-http://magi-stv.net:8080/Joseluis/Joseluis123/2125794
-#EXTINF:-1,PR| AmericaTeVe Miami
-http://magi-stv.net:8080/Joseluis/Joseluis123/213797
-#EXTINF:-1,PR| HIPODROMO CAMARERO
-http://magi-stv.net:8080/Joseluis/Joseluis123/2125792
-#EXTINF:-1,PR| Mega Tv
-http://magi-stv.net:8080/Joseluis/Joseluis123/126161
-#EXTINF:-1,PR| NBC
-http://magi-stv.net:8080/Joseluis/Joseluis123/2125793
-#EXTINF:-1,PR| Punto 2 TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/126159
-#EXTINF:-1,PR| Telemundo
-http://magi-stv.net:8080/Joseluis/Joseluis123/126157
-#EXTINF:-1,PR| Teleonce
-http://magi-stv.net:8080/Joseluis/Joseluis123/2127620
-#EXTINF:-1,PR| Teleoro Canal 13
-http://magi-stv.net:8080/Joseluis/Joseluis123/126156
-#EXTINF:-1,PR| Unimas Miami
-http://magi-stv.net:8080/Joseluis/Joseluis123/213854
-#EXTINF:-1,PR| Univision
-http://magi-stv.net:8080/Joseluis/Joseluis123/126162
-#EXTINF:-1,PR| Wapa
-http://magi-stv.net:8080/Joseluis/Joseluis123/126154
-#EXTINF:-1,PR| Wapa 2
-http://magi-stv.net:8080/Joseluis/Joseluis123/126158
-#EXTINF:-1,PR| WAPA America
-http://magi-stv.net:8080/Joseluis/Joseluis123/10913
-#EXTINF:-1,PR| Wapa HQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/126163
-#EXTINF:-1,PR| Wipr Canal 6
-http://magi-stv.net:8080/Joseluis/Joseluis123/126153
-#EXTINF:-1,PY | TRECE
-http://magi-stv.net:8080/Joseluis/Joseluis123/216768
-#EXTINF:-1,PY* | ABC
-http://magi-stv.net:8080/Joseluis/Joseluis123/215764
-#EXTINF:-1,PY* | PARAVISION HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/215762
-#EXTINF:-1,PY* | UNICANAL HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/215763
-#EXTINF:-1,PY*| ABC TV (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107646
-#EXTINF:-1,PY*| C9N (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107633
-#EXTINF:-1,PY*| CANAL 12 RTV (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107648
-#EXTINF:-1,PY*| CANAL TRECE (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107644
-#EXTINF:-1,PY*| FARRA PLAY (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107634
-#EXTINF:-1,PY*| GEN TV (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107645
-#EXTINF:-1,PY*| LA TELE (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107635
-#EXTINF:-1,PY*| NOTICIAS (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107636
-#EXTINF:-1,PY*| PARAGUAY TV (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107637
-#EXTINF:-1,PY*| PARAVISION (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107638
-#EXTINF:-1,PY*| PUENTE DE LA AMISTAD (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107647
-#EXTINF:-1,PY*| RPC (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107639
-#EXTINF:-1,PY*| SNT (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107643
-#EXTINF:-1,PY*| SOMOS DEL ESTE (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107649
-#EXTINF:-1,PY*| SUR TV (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107630
-#EXTINF:-1,PY*| TELEFUTURO (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107631
-#EXTINF:-1,PY*| TIGO PARAGUAY 1 (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107641
-#EXTINF:-1,PY*| TIGO PARAGUAY 2 (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107642
-#EXTINF:-1,PY*| TIGO SPORT PLUS (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107640
-#EXTINF:-1,PY*| UNICANAL (PY)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2107632
-#EXTINF:-1,PY| Tigo Sports (OP 1)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2122883
-#EXTINF:-1,PY| TIGO SPORTS + (OPC 1)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2122884
-#EXTINF:-1,P| Morbido TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/2145546
-#EXTINF:-1,RD | Digital 15
-http://magi-stv.net:8080/Joseluis/Joseluis123/224023
-#EXTINF:-1,RD | RED TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/2123286
-#EXTINF:-1,RD | TELEMICRO
-http://magi-stv.net:8080/Joseluis/Joseluis123/223876
-#EXTINF:-1,RD:  Cine Vision 19
-http://magi-stv.net:8080/Joseluis/Joseluis123/190803
-#EXTINF:-1,RD:  Galaxia Tv 42
-http://magi-stv.net:8080/Joseluis/Joseluis123/190800
-#EXTINF:-1,RD:  Super Tv 55
-http://magi-stv.net:8080/Joseluis/Joseluis123/190821
-#EXTINF:-1,RD: CDN
-http://magi-stv.net:8080/Joseluis/Joseluis123/190807
-#EXTINF:-1,Rel |  Better Life TV - Español 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097260
-#EXTINF:-1,Rel |  ENLACE
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097254
-#EXTINF:-1,Rel |  Nuevo Tiempo 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097264
-#EXTINF:-1,Rel | CBN Español 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097261
-#EXTINF:-1,Rel | Esperanza TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097252
-#EXTINF:-1,Rel | Esperanza TV 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097262
-#EXTINF:-1,Rel | EWTN
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097251
-#EXTINF:-1,Rel | Logos TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097263
-#EXTINF:-1,Rel | Mariavison
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097250
-#EXTINF:-1,Rel | Red ADVenir 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097265
-#EXTINF:-1,Rel | RVida TV 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097258
-#EXTINF:-1,Rel | Salvacion TV 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097257
-#EXTINF:-1,Rel | TV Gracia 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097256
-#EXTINF:-1,Rel | Vida Television 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097255
-#EXTINF:-1,Rel | Voz De Maria
-http://magi-stv.net:8080/Joseluis/Joseluis123/2097253
-#EXTINF:-1,RPC (PAN)
-http://magi-stv.net:8080/Joseluis/Joseluis123/201866
-#EXTINF:-1,S | The Golf Channel
-http://magi-stv.net:8080/Joseluis/Joseluis123/2100017
-#EXTINF:-1,SAL|CANAL 10
-http://magi-stv.net:8080/Joseluis/Joseluis123/2120493
-#EXTINF:-1,SAL|Canal 12
-http://magi-stv.net:8080/Joseluis/Joseluis123/10435
-#EXTINF:-1,SAL|CANAL 4
-http://magi-stv.net:8080/Joseluis/Joseluis123/2120490
-#EXTINF:-1,SAL|Canal 6
-http://magi-stv.net:8080/Joseluis/Joseluis123/10439
-#EXTINF:-1,SAL|Megavision Canal 19
-http://magi-stv.net:8080/Joseluis/Joseluis123/10441
-#EXTINF:-1,SAL|MEGAVISION CANAL 21
-http://magi-stv.net:8080/Joseluis/Joseluis123/2120491
-#EXTINF:-1,SAL|TVES Canal 10
-http://magi-stv.net:8080/Joseluis/Joseluis123/10444
-#EXTINF:-1,SAL|VTV Canal 35
-http://magi-stv.net:8080/Joseluis/Joseluis123/10445
-#EXTINF:-1,SAL|Wow TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/10446
-#EXTINF:-1,SE | Serie A - C More Fotball
+#EXTINF:-1,S Serie A - C More Fotball
 http://magi-stv.net:8080/Joseluis/Joseluis123/2070835
-#EXTINF:-1,SE | Sky Sports Bundesliga
+#EXTINF:-1,S Sky Sports Bundesliga
 http://magi-stv.net:8080/Joseluis/Joseluis123/2070834
 #EXTINF:-1,Telecadena 7/4
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100961
@@ -2219,187 +1513,83 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/2100961
 http://magi-stv.net:8080/Joseluis/Joseluis123/201865
 #EXTINF:-1,TEN (Honduras)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100962
-#EXTINF:-1,UEFA | ESPN ARG 
+#EXTINF:-1, ESPN ARG 
 http://magi-stv.net:8080/Joseluis/Joseluis123/221869
-#EXTINF:-1,UEFA | ESPN SUR
+#EXTINF:-1, ESPN SUR
 http://magi-stv.net:8080/Joseluis/Joseluis123/220431
-#EXTINF:-1,UEFA | LALIGA TV BAR
+#EXTINF:-1, LALIGA TV BAR
 http://magi-stv.net:8080/Joseluis/Joseluis123/220429
-#EXTINF:-1,UEFA | MOVISTAR LIGA DE CAMPEONES
+#EXTINF:-1, MOVISTAR LIGA DE CAMPEONES
 http://magi-stv.net:8080/Joseluis/Joseluis123/219402
-#EXTINF:-1,UEFA | TNT MX
+#EXTINF:-1, TNT MX
 http://magi-stv.net:8080/Joseluis/Joseluis123/219731
-#EXTINF:-1,UEFA | TUDN US
+#EXTINF:-1, TUDN US
 http://magi-stv.net:8080/Joseluis/Joseluis123/220432
-#EXTINF:-1,UEFA| Espn 2 ARG
+#EXTINF:-1, Espn 2 ARG
 http://magi-stv.net:8080/Joseluis/Joseluis123/221868
 #EXTINF:-1,LA | UNIMAS BOSTON HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2106829
-#EXTINF:-1,US | 5 USA
-http://magi-stv.net:8080/Joseluis/Joseluis123/17300
 #EXTINF:-1,USA | NBC Florida Miami 6
 http://magi-stv.net:8080/Joseluis/Joseluis123/2113569
-#EXTINF:-1,US| BET JAMS
+#EXTINF:-1,U BET JAMS
 http://magi-stv.net:8080/Joseluis/Joseluis123/2145659
-#EXTINF:-1,US| BET SOUL
+#EXTINF:-1,U BET SOUL
 http://magi-stv.net:8080/Joseluis/Joseluis123/2142329
-#EXTINF:-1,US| NBC Houston
+#EXTINF:-1,U NBC Houston
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123436
-#EXTINF:-1,US| NBC NY
+#EXTINF:-1,U NBC NY
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123439
-#EXTINF:-1,UY:  Canal 4
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055388
-#EXTINF:-1,UY: Canal 10 SAETA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055383
-#EXTINF:-1,UY: Canal 12
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055394
-#EXTINF:-1,UY: Canal 4
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055391
-#EXTINF:-1,UY: Canal 4 Montecarlo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055405
-#EXTINF:-1,UY: Canal 4 Salto
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055402
-#EXTINF:-1,UY: Canal A+V
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055390
-#EXTINF:-1,UY: Ciudad TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055404
-#EXTINF:-1,UY: La Tele
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055395
-#EXTINF:-1,UY: TeleDoce
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055384
-#EXTINF:-1,UY: TV Ciudad
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055403
-#EXTINF:-1,UY: Vera TV
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055401
-#EXTINF:-1,UY: VTV
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055385
-#EXTINF:-1,UY: VTV Plus
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055387
-#EXTINF:-1,UY: VTV Plus
-http://magi-stv.net:8080/Joseluis/Joseluis123/2055406
-#EXTINF:-1,S| GOL TV
+#EXTINF:-1, GOL TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121878
-#EXTINF:-1,S| Espn Network
+#EXTINF:-1, Espn Network
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121885
-#EXTINF:-1,S| ESPN
+#EXTINF:-1, ESPN
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121886
-#EXTINF:-1,S| ESPN 2
+#EXTINF:-1, ESPN 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121887
-#EXTINF:-1,S| ESPN U FHD
+#EXTINF:-1, ESPN U FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121888
-#EXTINF:-1,D | Sky Sports
+#EXTINF:-1, Sky Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121889
-#EXTINF:-1,S| NBC Sports Network HD
+#EXTINF:-1, NBC Sports Network HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121891
-#EXTINF:-1,S| NBCSN Boston
+#EXTINF:-1, NBCSN Boston
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121892
-#EXTINF:-1,S| NBCSN Philadelphia
+#EXTINF:-1, NBCSN Philadelphia
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121893
-#EXTINF:-1,S| NBCSN Washington
+#EXTINF:-1, NBCSN Washington
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121894
 #EXTINF:-1,CR| FUTV
 http://magi-stv.net:8080/Joseluis/Joseluis123/2121812
-#EXTINF:-1,D | Águilas Cibaeñas - Teleuniverso 29
+#EXTINF:-1, Águilas Cibaeñas - Teleuniverso 29
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144840
-#EXTINF:-1,D | Estrellas Orientales - Xtremochannel Canal 22
+#EXTINF:-1, Estrellas Orientales - Xtremochannel Canal 22
 http://magi-stv.net:8080/Joseluis/Joseluis123/2144847
-#EXTINF:-1,ES: M. Accion SD
+#EXTINF:-1, M. Accion SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2146875
-#EXTINF:-1,ES| M. Classicos
+#EXTINF:-1,E M. Classicos
 http://magi-stv.net:8080/Joseluis/Joseluis123/2148179
-#EXTINF:-1,CR | Canal 2 Repretel HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2148422
-#EXTINF:-1,CR | Telered HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2148423
-#EXTINF:-1,CR | CANAL 13 HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2148424
-#EXTINF:-1,CR | Canal 4 HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2148425
-#EXTINF:-1,USA | GALAVISION SACRAMENTO HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2148527
-#EXTINF:-1,NIC | Canal 10 HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2149213
-#EXTINF:-1,Telemundo Houston HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151028
-#EXTINF:-1,MULTIMEDIOS Bajío HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151042
-#EXTINF:-1,NG| Canal 4 HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151063
-#EXTINF:-1,ES: Betis tv HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151502
-#EXTINF:-1,GT: Canal 27
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151605
-#EXTINF:-1,BR | A&E HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151735
-#EXTINF:-1,ABC HD Milwaukee
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151869
-#EXTINF:-1,ABC seattle | KOMO 4
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151870
-#EXTINF:-1,SAL| canal 23 Tvo HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151894
-#EXTINF:-1,NG| Canal 8 HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151932
-#EXTINF:-1,M | Las Estrellas -1 Hora
+#EXTINF:-1, Las Estrellas -1 Hora
 http://magi-stv.net:8080/Joseluis/Joseluis123/2153486
-#EXTINF:-1,LA| Telemundo Las Vegas HD
+#EXTINF:-1, Telemundo Las Vegas HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2153604
 #EXTINF:-1,LA | Telemundo San Francisco
 http://magi-stv.net:8080/Joseluis/Joseluis123/2154464
 #EXTINF:-1,GT | TeleCosta
 http://magi-stv.net:8080/Joseluis/Joseluis123/2157468
-#EXTINF:-1,M | Televisa Guadalajara
+#EXTINF:-1, Televisa Guadalajara
 http://magi-stv.net:8080/Joseluis/Joseluis123/2157917
-#EXTINF:-1,MS | Telehit
-http://magi-stv.net:8080/Joseluis/Joseluis123/2158062
-#EXTINF:-1,M | Televisa Cd Juarez
-http://magi-stv.net:8080/Joseluis/Joseluis123/2158064
-#EXTINF:-1,M | Canal 13 Tabasco
-http://magi-stv.net:8080/Joseluis/Joseluis123/2158065
-#EXTINF:-1,M | Canal 13 Michoacan
-http://magi-stv.net:8080/Joseluis/Joseluis123/2158066
-#EXTINF:-1,M | Canal 13 Campeche
-http://magi-stv.net:8080/Joseluis/Joseluis123/2158067
-#EXTINF:-1,M | Canal 13 Chiapas
-http://magi-stv.net:8080/Joseluis/Joseluis123/2158068
-#EXTINF:-1,M | Canal 13 Oaxaca
-http://magi-stv.net:8080/Joseluis/Joseluis123/2158069
-#EXTINF:-1,M | Canal 13 Yucatan
-http://magi-stv.net:8080/Joseluis/Joseluis123/2158070
-#EXTINF:-1,M | Canal 13 Puebla
-http://magi-stv.net:8080/Joseluis/Joseluis123/2158071
-#EXTINF:-1,M | Televisa Guerrero
-http://magi-stv.net:8080/Joseluis/Joseluis123/2158072
-#EXTINF:-1,LA| Telemundo Kansas City
-http://magi-stv.net:8080/Joseluis/Joseluis123/2168963
-#EXTINF:-1,M | Vallevision
-http://magi-stv.net:8080/Joseluis/Joseluis123/2169170
-#EXTINF:-1,M | Televisa Mexicali
-http://magi-stv.net:8080/Joseluis/Joseluis123/2169269
-#EXTINF:-1,M | Televisa Durango
-http://magi-stv.net:8080/Joseluis/Joseluis123/2169270
-#EXTINF:-1,M | Televisa Morelos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2169271
-#EXTINF:-1,M | Televisa Yucatan
-http://magi-stv.net:8080/Joseluis/Joseluis123/2169272
-#EXTINF:-1,M | Televisa Sonora
-http://magi-stv.net:8080/Joseluis/Joseluis123/2169493
-#EXTINF:-1,PE| GLOBAL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2169944
-#EXTINF:-1,ES MOVISTAR SERIESMANIA 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2169945
-#EXTINF:-1,UY: CANAL 7
-http://magi-stv.net:8080/Joseluis/Joseluis123/2169973
-#EXTINF:-1,C |  CONCERT CHANNEL
+#EXTINF:-1,  CONCERT CHANNEL
 http://magi-stv.net:8080/Joseluis/Joseluis123/2169974
-#EXTINF:-1,C | DISCOVERY CIVILIZATION
+#EXTINF:-1, DISCOVERY CIVILIZATION
 http://magi-stv.net:8080/Joseluis/Joseluis123/2169975
-#EXTINF:-1,CL | ZONA LATINA
+#EXTINF:-1, ZONA LATINA
 http://magi-stv.net:8080/Joseluis/Joseluis123/2169976
 #EXTINF:-1,CR | TELEUNO
 http://magi-stv.net:8080/Joseluis/Joseluis123/2169977
-#EXTINF:-1,MS | FIRST MUSIC CHANNEL
+#EXTINF:-1, FIRST MUSIC CHANNEL
 http://magi-stv.net:8080/Joseluis/Joseluis123/2170026
-#EXTINF:-1,LA| TELEMUNDO SACRAMENTO
+#EXTINF:-1, TELEMUNDO SACRAMENTO
 http://magi-stv.net:8080/Joseluis/Joseluis123/2170027
 #EXTINF:-1,US | SHOWTIME WOMEN EAST
 http://magi-stv.net:8080/Joseluis/Joseluis123/2170028
@@ -2411,403 +1601,403 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/2171162
 http://magi-stv.net:8080/Joseluis/Joseluis123/2185319
 #EXTINF:-1,LA | GALAVISION EAST
 http://magi-stv.net:8080/Joseluis/Joseluis123/2185323
-#EXTINF:-1,HOND| METRO TV
+#EXTINF:-1,HON METRO TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/2185711
 #EXTINF:-1,WWB TV
 http://magi-stv.net:8080/Joseluis/Joseluis123/2186097
-#EXTINF:-1,E | TNT Novelas
+#EXTINF:-1, TNT Novelas
 http://magi-stv.net:8080/Joseluis/Joseluis123/2186389
-#EXTINF:-1,EC | EL CANAL DEL FUTBOL
+#EXTINF:-1,E EL CANAL DEL FUTBOL
 http://magi-stv.net:8080/Joseluis/Joseluis123/2186976
 #EXTINF:-1,Manavision
 http://magi-stv.net:8080/Joseluis/Joseluis123/2187204
-#EXTINF:-1,ES: #0 HD
+#EXTINF:-1, #0 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100616
-#EXTINF:-1,ES: #0 SD
+#EXTINF:-1, #0 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100615
-#EXTINF:-1,ES: 24h SD
+#EXTINF:-1, 24h SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100538
-#EXTINF:-1,ES: A Punt SD
+#EXTINF:-1, A Punt SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100741
-#EXTINF:-1,ES: A3Series HD
+#EXTINF:-1, A3Series HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100637
-#EXTINF:-1,ES: A3Series Internacional FHD
+#EXTINF:-1, A3Series Internacional FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100639
-#EXTINF:-1,ES: Alcarria TV SD
+#EXTINF:-1, Alcarria TV SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100740
-#EXTINF:-1,ES: AMC FHD
+#EXTINF:-1, AMC FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100648
-#EXTINF:-1,ES: AMC HD
+#EXTINF:-1, AMC HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100647
-#EXTINF:-1,ES: AMC SD
+#EXTINF:-1, AMC SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100646
-#EXTINF:-1,ES: Antena 3 FHD
+#EXTINF:-1, Antena 3 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100547
-#EXTINF:-1,ES: Antena 3 HD
+#EXTINF:-1, Antena 3 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100546
-#EXTINF:-1,ES: Antena 3 Internacional FHD
+#EXTINF:-1, Antena 3 Internacional FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100550
-#EXTINF:-1,ES: Antena 3 Internacional HD
+#EXTINF:-1, Antena 3 Internacional HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100549
-#EXTINF:-1,ES: Antena 3 Internacional SD
+#EXTINF:-1, Antena 3 Internacional SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100548
-#EXTINF:-1,ES: Antena 3 SD
+#EXTINF:-1, Antena 3 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100545
-#EXTINF:-1,ES: Aragon TV SD
+#EXTINF:-1, Aragon TV SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100742
-#EXTINF:-1,ES: AXN FHD
+#EXTINF:-1, AXN FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100642
-#EXTINF:-1,ES: AXN HD
+#EXTINF:-1, AXN HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100641
-#EXTINF:-1,ES: AXN SD
+#EXTINF:-1, AXN SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100640
-#EXTINF:-1,ES: AXN White FHD
+#EXTINF:-1, AXN White FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100645
-#EXTINF:-1,ES: AXN White HD
+#EXTINF:-1, AXN White HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100644
-#EXTINF:-1,ES: AXN White SD
+#EXTINF:-1, AXN White SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100643
-#EXTINF:-1,ES: Baby TV SD
+#EXTINF:-1, Baby TV SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100716
-#EXTINF:-1,ES: BeMad FHD
+#EXTINF:-1, BeMad FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100567
-#EXTINF:-1,ES: Blaze HD
+#EXTINF:-1, Blaze HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100569
-#EXTINF:-1,ES: Blaze SD
+#EXTINF:-1, Blaze SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100568
-#EXTINF:-1,ES: Boing HD
+#EXTINF:-1, Boing HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100715
-#EXTINF:-1,ES: Boing SD
+#EXTINF:-1, Boing SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100714
-#EXTINF:-1,ES: Bondia TV SD
+#EXTINF:-1, Bondia TV SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100743
-#EXTINF:-1,ES: Calle 13 FHD
+#EXTINF:-1, Calle 13 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100587
-#EXTINF:-1,ES: Calle 13 HD
+#EXTINF:-1, Calle 13 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100586
-#EXTINF:-1,ES: Calle 13 SD
+#EXTINF:-1, Calle 13 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100585
-#EXTINF:-1,ES: Canal 25 Barbastro TV HD
+#EXTINF:-1, Canal 25 Barbastro TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100746
-#EXTINF:-1,ES: Canal Cocina FHD
+#EXTINF:-1, Canal Cocina FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100592
-#EXTINF:-1,ES: Canal Cocina SD
+#EXTINF:-1, Canal Cocina SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100591
-#EXTINF:-1,ES: Canal Extremadura TV SD
+#EXTINF:-1, Canal Extremadura TV SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100747
-#EXTINF:-1,ES: Canal Malaga HD
+#EXTINF:-1, Canal Malaga HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100745
-#EXTINF:-1,ES: Canal Panda SD
+#EXTINF:-1, Canal Panda SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100717
-#EXTINF:-1,ES: Canal Sur Andalucía FHD
+#EXTINF:-1, Canal Sur Andalucía FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100744
-#EXTINF:-1,ES: Canal Sur Andalucía SD
+#EXTINF:-1, Canal Sur Andalucía SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100752
-#EXTINF:-1,ES: Cazavision SD
+#EXTINF:-1, Cazavision SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100614
-#EXTINF:-1,ES: CGTN En Español SD
+#EXTINF:-1, CGTN En Español SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100563
-#EXTINF:-1,ES: Clan TVE SD
+#EXTINF:-1, Clan TVE SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100718
-#EXTINF:-1,ES: Comedy Central FHD
+#EXTINF:-1, Comedy Central FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100590
-#EXTINF:-1,ES: Comedy Central HD
+#EXTINF:-1, Comedy Central HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100589
-#EXTINF:-1,ES: Comedy Central SD
+#EXTINF:-1, Comedy Central SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100588
-#EXTINF:-1,ES: COSMO FHD
+#EXTINF:-1, COSMO FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100595
-#EXTINF:-1,ES: COSMO HD
+#EXTINF:-1, COSMO HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100594
-#EXTINF:-1,ES: COSMO SD
+#EXTINF:-1, COSMO SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100593
-#EXTINF:-1,ES: Crimen Investigacion HD
+#EXTINF:-1, Crimen Investigacion HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100597
-#EXTINF:-1,ES: Crimen Investigacion SD
+#EXTINF:-1, Crimen Investigacion SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100596
-#EXTINF:-1,ES: Cuatro FHD
+#EXTINF:-1, Cuatro FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100553
-#EXTINF:-1,ES: Cuatro HD
+#EXTINF:-1, Cuatro HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100552
-#EXTINF:-1,ES: Cuatro SD
+#EXTINF:-1, Cuatro SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100551
-#EXTINF:-1,ES: DARK FHD
+#EXTINF:-1, DARK FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100601
-#EXTINF:-1,ES: DARK SD
+#EXTINF:-1, DARK SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100599
-#EXTINF:-1,ES: Decasa HD
+#EXTINF:-1, Decasa HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100603
-#EXTINF:-1,ES: Decasa SD
+#EXTINF:-1, Decasa SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100602
-#EXTINF:-1,ES: Diez TV FHD
+#EXTINF:-1, Diez TV FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100748
-#EXTINF:-1,ES: Discovery Channel FHD
+#EXTINF:-1, Discovery Channel FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100605
-#EXTINF:-1,ES: Discovery Channel SD
+#EXTINF:-1, Discovery Channel SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100604
-#EXTINF:-1,ES: Disney Channel FHD
+#EXTINF:-1, Disney Channel FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100721
-#EXTINF:-1,ES: Disney Channel HD
+#EXTINF:-1, Disney Channel HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100720
-#EXTINF:-1,ES: Disney Channel SD
+#EXTINF:-1, Disney Channel SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100719
-#EXTINF:-1,ES: Disney Junior SD
+#EXTINF:-1, Disney Junior SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100722
-#EXTINF:-1,ES: Divinity HD
+#EXTINF:-1, Divinity HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100573
-#EXTINF:-1,ES: Divinity SD
+#EXTINF:-1, Divinity SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100572
-#EXTINF:-1,ES: DKISS
+#EXTINF:-1, DKISS
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100801
-#EXTINF:-1,ES: Dkiss SD
+#EXTINF:-1, Dkiss SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100574
-#EXTINF:-1,ES: DMAX SD
+#EXTINF:-1, DMAX SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100575
-#EXTINF:-1,ES: Energy SD
+#EXTINF:-1, Energy SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100576
-#EXTINF:-1,ES: ETB 1 SD
+#EXTINF:-1, ETB 1 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100762
-#EXTINF:-1,ES: ETB 2 HD
+#EXTINF:-1, ETB 2 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100765
-#EXTINF:-1,ES: ETB 2 SD
+#EXTINF:-1, ETB 2 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100764
-#EXTINF:-1,ES: ETB SAT SD
+#EXTINF:-1, ETB SAT SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100766
-#EXTINF:-1,ES: FDF FHD
+#EXTINF:-1, FDF FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100579
-#EXTINF:-1,ES: FDF HD
+#EXTINF:-1, FDF HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100578
-#EXTINF:-1,ES: FDF SD
+#EXTINF:-1, FDF SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100577
-#EXTINF:-1,ES: FOX FHD
+#EXTINF:-1, FOX FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100654
-#EXTINF:-1,ES: FOX HD
+#EXTINF:-1, FOX HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100653
-#EXTINF:-1,ES: FOX SD
+#EXTINF:-1, FOX SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100652
-#EXTINF:-1,ES: Hamaika FHD
+#EXTINF:-1, Hamaika FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100749
-#EXTINF:-1,ES: Hispan TV SD
+#EXTINF:-1, Hispan TV SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100560
-#EXTINF:-1,ES: Historia FHD
+#EXTINF:-1, Historia FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100607
-#EXTINF:-1,ES: Historia SD
+#EXTINF:-1, Historia SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100606
-#EXTINF:-1,ES: Hollywood FHD
+#EXTINF:-1, Hollywood FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100632
-#EXTINF:-1,ES: Hollywood SD
+#EXTINF:-1, Hollywood SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100630
-#EXTINF:-1,ES: Interalmeria FHD
+#EXTINF:-1, Interalmeria FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100751
-#EXTINF:-1,ES: Intereconomia
+#EXTINF:-1, Intereconomia
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100561
-#EXTINF:-1,ES: La 1 FHD
+#EXTINF:-1, La 1 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100541
-#EXTINF:-1,ES: La 1 HD
+#EXTINF:-1, La 1 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100540
-#EXTINF:-1,ES: La 1 SD
+#EXTINF:-1, La 1 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100539
-#EXTINF:-1,ES: La 2 FHD
+#EXTINF:-1, La 2 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100544
-#EXTINF:-1,ES: La 2 HD
+#EXTINF:-1, La 2 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100543
-#EXTINF:-1,ES: La 2 SD
+#EXTINF:-1, La 2 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100542
-#EXTINF:-1,ES: La Sexta FHD
+#EXTINF:-1, La Sexta FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100559
-#EXTINF:-1,ES: La Sexta HD
+#EXTINF:-1, La Sexta HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100558
-#EXTINF:-1,ES: La Sexta SD
+#EXTINF:-1, La Sexta SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100557
-#EXTINF:-1,ES: M. Accion FHD
+#EXTINF:-1, M. Accion FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100675
-#EXTINF:-1,ES: M. Cine Español SD
+#EXTINF:-1, M. Cine Español SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100685
-#EXTINF:-1,ES: M. Comedia FHD
+#EXTINF:-1, M. Comedia FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100678
-#EXTINF:-1,ES: M. Comedia HD
+#EXTINF:-1, M. Comedia HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100677
-#EXTINF:-1,ES: M. Comedia SD
+#EXTINF:-1, M. Comedia SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100676
-#EXTINF:-1,ES: M. Drama FHD
+#EXTINF:-1, M. Drama FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100672
-#EXTINF:-1,ES: M. Drama HD
+#EXTINF:-1, M. Drama HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100671
-#EXTINF:-1,ES: M. Drama SD
+#EXTINF:-1, M. Drama SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100670
-#EXTINF:-1,ES: M. Dreamworks FHD
+#EXTINF:-1, M. Dreamworks FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100730
-#EXTINF:-1,ES: M. Dreamworks HD
+#EXTINF:-1, M. Dreamworks HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100729
-#EXTINF:-1,ES: M. Estrenos 2 FHD
+#EXTINF:-1, M. Estrenos 2 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100669
-#EXTINF:-1,ES: M. Estrenos 2 HD
+#EXTINF:-1, M. Estrenos 2 HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100668
-#EXTINF:-1,ES: M. Estrenos 2 SD
+#EXTINF:-1, M. Estrenos 2 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100667
-#EXTINF:-1,ES: M. Estrenos FHD
+#EXTINF:-1, M. Estrenos FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100666
-#EXTINF:-1,ES: M. Estrenos HD
+#EXTINF:-1, M. Estrenos HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100665
-#EXTINF:-1,ES: M. Estrenos SD
+#EXTINF:-1, M. Estrenos SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100664
-#EXTINF:-1,ES: M. Fest FHD
+#EXTINF:-1, M. Fest FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100739
-#EXTINF:-1,ES: M. Series 2 FHD
+#EXTINF:-1, M. Series 2 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100684
-#EXTINF:-1,ES: M. Series 2 SD
+#EXTINF:-1, M. Series 2 SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100683
-#EXTINF:-1,ES: M. Series FHD
+#EXTINF:-1, M. Series FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100682
-#EXTINF:-1,ES: M. Series HD
+#EXTINF:-1, M. Series HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100680
-#EXTINF:-1,ES: MEGA HD
+#EXTINF:-1, MEGA HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100571
-#EXTINF:-1,ES: MEGA SD
+#EXTINF:-1, MEGA SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100570
-#EXTINF:-1,ES: Mezzo SD
+#EXTINF:-1, Mezzo SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100738
-#EXTINF:-1,ES: MyTime Movie Network FHD
+#EXTINF:-1, MyTime Movie Network FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100623
-#EXTINF:-1,ES: MyTime Movie Network HD
+#EXTINF:-1, MyTime Movie Network HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100622
-#EXTINF:-1,ES: MyTime Movie Network SD
+#EXTINF:-1, MyTime Movie Network SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100621
-#EXTINF:-1,ES: NatGeo FHD
+#EXTINF:-1, NatGeo FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100610
-#EXTINF:-1,ES: NatGeo HD
+#EXTINF:-1, NatGeo HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100609
-#EXTINF:-1,ES: NatGeo SD
+#EXTINF:-1, NatGeo SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100608
-#EXTINF:-1,ES: NatGeo Wild FHD
+#EXTINF:-1, NatGeo Wild FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100613
-#EXTINF:-1,ES: NatGeo Wild HD
+#EXTINF:-1, NatGeo Wild HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100612
-#EXTINF:-1,ES: NatGeo Wild SD
+#EXTINF:-1, NatGeo Wild SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100611
-#EXTINF:-1,ES: Neox FHD
+#EXTINF:-1, Neox FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100581
-#EXTINF:-1,ES: Neox SD
+#EXTINF:-1, Neox SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100580
-#EXTINF:-1,ES: Nick Jr SD
+#EXTINF:-1, Nick Jr SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100723
-#EXTINF:-1,ES: Nickelodeon FHD
+#EXTINF:-1, Nickelodeon FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100727
-#EXTINF:-1,ES: Nova SD
+#EXTINF:-1, Nova SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100582
-#EXTINF:-1,ES: Odisea FHD
+#EXTINF:-1, Odisea FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100584
-#EXTINF:-1,ES: Odisea SD
+#EXTINF:-1, Odisea SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100583
-#EXTINF:-1,ES: RTV Castilla y León HD (web)
+#EXTINF:-1, RTV Castilla y León HD (web)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100768
-#EXTINF:-1,ES: RTV Castilla y León SD (web)
+#EXTINF:-1, RTV Castilla y León SD (web)
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100767
-#EXTINF:-1,ES: SOMOS FHD
+#EXTINF:-1, SOMOS FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100635
-#EXTINF:-1,ES: Star TVE FHD
+#EXTINF:-1, Star TVE FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100565
-#EXTINF:-1,ES: Star TVE SD
+#EXTINF:-1, Star TVE SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100564
-#EXTINF:-1,ES: Sundance TV FHD
+#EXTINF:-1, Sundance TV FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100619
-#EXTINF:-1,ES: Sundance TV HD
+#EXTINF:-1, Sundance TV HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100618
-#EXTINF:-1,ES: Sundance TV SD
+#EXTINF:-1, Sundance TV SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100617
-#EXTINF:-1,ES: SyFy FHD
+#EXTINF:-1, SyFy FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100626
-#EXTINF:-1,ES: SyFy SD
+#EXTINF:-1, SyFy SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100624
-#EXTINF:-1,ES: Taquilla 1
+#EXTINF:-1, Taquilla 1
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100686
-#EXTINF:-1,ES: Taquilla 2
+#EXTINF:-1, Taquilla 2
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100687
-#EXTINF:-1,ES: Taquilla 3
+#EXTINF:-1, Taquilla 3
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100688
-#EXTINF:-1,ES: Taquilla 4 Crimen
+#EXTINF:-1, Taquilla 4 Crimen
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100689
-#EXTINF:-1,ES: Taquilla 5
+#EXTINF:-1, Taquilla 5
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100690
-#EXTINF:-1,ES: Taquilla 6
+#EXTINF:-1, Taquilla 6
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100691
-#EXTINF:-1,ES: Taquilla 7
+#EXTINF:-1, Taquilla 7
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100692
-#EXTINF:-1,ES: TCM FHD
+#EXTINF:-1, TCM FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100629
-#EXTINF:-1,ES: TCM HD
+#EXTINF:-1, TCM HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100628
-#EXTINF:-1,ES: TCM SD
+#EXTINF:-1, TCM SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100627
-#EXTINF:-1,ES: Telecinco FHD
+#EXTINF:-1, Telecinco FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100556
-#EXTINF:-1,ES: Telecinco HD
+#EXTINF:-1, Telecinco HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100555
-#EXTINF:-1,ES: Telecinco SD
+#EXTINF:-1, Telecinco SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100554
-#EXTINF:-1,ES: Telemadrid SD
+#EXTINF:-1, Telemadrid SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100562
-#EXTINF:-1,ES: Televisió de Girona HD
+#EXTINF:-1, Televisió de Girona HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100760
-#EXTINF:-1,ES: Ten SD
+#EXTINF:-1, Ten SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100598
-#EXTINF:-1,ES: TNT FHD
+#EXTINF:-1, TNT FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100651
-#EXTINF:-1,ES: TNT HD
+#EXTINF:-1, TNT HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100650
-#EXTINF:-1,ES: TNT SD
+#EXTINF:-1, TNT SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100649
-#EXTINF:-1,ES: TV Galicia America HD
+#EXTINF:-1, TV Galicia America HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100754
-#EXTINF:-1,ES: TV Galicia America SD
+#EXTINF:-1, TV Galicia America SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100753
-#EXTINF:-1,ES: TV Galicia Cultura HD
+#EXTINF:-1, TV Galicia Cultura HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100755
-#EXTINF:-1,ES: TV Galicia Europa HD
+#EXTINF:-1, TV Galicia Europa HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100757
-#EXTINF:-1,ES: TV Galicia Europa SD
+#EXTINF:-1, TV Galicia Europa SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100756
-#EXTINF:-1,ES: TV Galicia Infantil HD
+#EXTINF:-1, TV Galicia Infantil HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100758
-#EXTINF:-1,ES: TV Galicia Momentos G HD
+#EXTINF:-1, TV Galicia Momentos G HD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100759
-#EXTINF:-1,ES: TV3 FHD
+#EXTINF:-1, TV3 FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100761
-#EXTINF:-1,ES: TVE Internacional SD
+#EXTINF:-1, TVE Internacional SD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100537
-#EXTINF:-1,ES: XTRM FHD
+#EXTINF:-1, XTRM FHD
 http://magi-stv.net:8080/Joseluis/Joseluis123/2100634
 #EXTINF:-1,23:00 F1 Japon GP
 http://magi-stv.net:8080/Joseluis/Joseluis123/2188072
-#EXTINF:-1,MLS 1 | September 23 5:00 pm | Atlanta vs. Montréal
+#EXTINF:-1,MLS 1 | September 23 5:00 p Atlanta vs. Montréal
 http://magi-stv.net:8080/Joseluis/Joseluis123/2188073
-#EXTINF:-1,MLS 2 | September 23 5:00 pm | Cincinnati vs. Charlotte
+#EXTINF:-1,MLS 2 | September 23 5:00 p Cincinnati vs. Charlotte
 http://magi-stv.net:8080/Joseluis/Joseluis123/2188074
-#EXTINF:-1,MLS 3 | September 23 5:00 pm | D.C. vs. New York
+#EXTINF:-1,MLS 3 | September 23 5:00 p D.C. vs. New York
 http://magi-stv.net:8080/Joseluis/Joseluis123/2188075
-#EXTINF:-1,MLS 4 | September 23 5:00 pm | New York City vs. Toronto
+#EXTINF:-1,MLS 4 | September 23 5:00 p New York City vs. Toronto
 http://magi-stv.net:8080/Joseluis/Joseluis123/2188076
-#EXTINF:-1,MLS 5 | September 23 5:00 pm | Philadelphia vs. LAFC
+#EXTINF:-1,MLS 5 | September 23 5:00 p Philadelphia vs. LAFC
 http://magi-stv.net:8080/Joseluis/Joseluis123/2188077
 #EXTINF:-1,2 MB |  Ecuavisa LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095407
 #EXTINF:-1,2 MB | COMEDY CENTRAL LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092594
-#EXTINF:-1,2MB | Discovery Channel
+#EXTINF:-1, Discovery Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092592
 #EXTINF:-1,2 MB | DISCOVERY KIDS LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092569
 #EXTINF:-1,2 MB | Disney Jr
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092570
-#EXTINF:-1,2MB | E!
+#EXTINF:-1, E!
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092590
-#EXTINF:-1,2MB | Fox Sports
+#EXTINF:-1, Fox Sports
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092587
 #EXTINF:-1,2 MB | GOL TV LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2095412
-#EXTINF:-1,2MB | Unicable
+#EXTINF:-1, Unicable
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092564
-#EXTINF:-1,2MB | Universal Channel
+#EXTINF:-1, Universal Channel
 http://magi-stv.net:8080/Joseluis/Joseluis123/2092575
 #EXTINF:-1,2 MB| Fox Sports 3 LQ
 http://magi-stv.net:8080/Joseluis/Joseluis123/2123478
@@ -3059,7 +2249,7 @@ http://magi-stv.net:8080/Joseluis/Joseluis123/2090914
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133765
 #EXTINF:-1,24/7 Super Agente 86
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133394
-#EXTINF:-1,24/7 S| Alerta Aeropuerto
+#EXTINF:-1,24/7  Alerta Aeropuerto
 http://magi-stv.net:8080/Joseluis/Joseluis123/203977
 #EXTINF:-1,24/7 The Flash
 http://magi-stv.net:8080/Joseluis/Joseluis123/2133349
