@@ -549,6 +549,10 @@ http://38.41.8.1:8000/play/a061
 http://38.41.8.1:8000/play/a04u
 #EXTINF:-1,Zoom
 http://38.41.8.1:8000/play/a06u
+#EXTINF:-1, ZOOMOO
+http://168.181.122.234:8000/play/a00w/index.m3u8
+#EXTINF:-1, ZooMoo 2
+http://168.181.122.234:8000/play/a03f/index.m3u8
 #EXTINF:-1,M| Ultra Cine
 http://magi-stv.net:8080/Joseluis/Joseluis123/2157469
 #EXTINF:-1,M| Ultra Documental
