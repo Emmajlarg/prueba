@@ -23,6 +23,8 @@ http://45.186.252.17:8000/play/a09p
 http://45.186.252.17:8000/play/a09f
 #EXTINF:-1,Baby TV
 http://45.186.252.17:8000/play/a0ct
+#EXTINF:-1 tvg-id="bbcnews",BBC News
+http://170.254.172.10:8000/play/a03o/index.m3u8
 #EXTINF:-1,C5N
 http://45.186.252.17:8000/play/a09y
 #EXTINF:-1,CNN en Espaæol
@@ -31,18 +33,38 @@ http://45.186.252.17:8000/play/a09e
 http://45.186.252.17:8000/play/a0b6
 #EXTINF:-1,Cartoon Network HD
 http://45.186.252.17:8000/play/a0bq
+EXTINF:-1 tvg-id="cartoonnthd",CARTOON NT HD
+http://170.254.172.10:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork",Cartoon Network
+http://170.254.172.10:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="cartoonito",Cartoonito
+http://170.254.172.10:8000/play/a037/index.m3u8
 #EXTINF:-1,Cine.AR
 http://45.186.252.17:8000/play/a0aa
 #EXTINF:-1,Cinecanal HD
 http://45.186.252.17:8000/play/a0bx
+#EXTINF:-1 tvg-id="cinecanalhd",CINECANAL HD
+http://170.254.172.10:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="cnne",CNNE
+http://170.254.172.10:8000/play/a03n/index.m3u8
 #EXTINF:-1,Cinemax
 http://45.186.252.17:8000/play/a0ch
+##EXTINF:-1 tvg-id="cinelatino",Cine Latino
+http://170.254.172.10:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="cinemax",CineMax
+http://170.254.172.10:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="comedycentral",Comedy Central HD
+http://170.254.172.10:8000/play/a04p/index.m3u8
 #EXTINF:-1,Comedy Central HD
 http://45.186.252.17:8000/play/a0az
-#EXTINF:-1,Crðnica
+#EXTINF:-1 tvg-id="concertchannel",Concert Channel
+http://170.254.172.10:8000/play/a075/index.m3u8
+#EXTINF:-1,CRONICA HD
 http://45.186.252.17:8000/play/a09z
 #EXTINF:-1,DeporTV
 http://45.186.252.17:8000/play/a0b8
+#EXTINF:-1 tvg-id="dhehd",DHE HD
+http://170.254.172.10:8000/play/a041/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://45.186.252.17:8000/play/a0bp
 #EXTINF:-1,Discovery Channel HD
@@ -133,6 +155,20 @@ http://45.186.252.17:8000/play/a0ck
 http://45.186.252.17:8000/play/a0ak
 #EXTINF:-1,Mitre AM790
 http://45.186.252.17:8000/play/a0d9
+#EXTINF:-1 tvg-id="mtv00hd",MTV 00s HD
+http://170.254.172.10:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="mtv80s",MTV 80s
+http://170.254.172.10:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="mtvhd",MTV HD
+http://170.254.172.10:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="mtvhits",MTV Hits
+http://170.254.172.10:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="mtvsimhd",MTV SIM HD
+http://170.254.172.10:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="multicinema",Multicinema
+http://170.254.172.10:8000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="multipremier",Multipremier
+http://170.254.172.10:8000/play/a076/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://45.186.252.17:8000/play/a09q
 #EXTINF:-1,Nick Jr
@@ -189,6 +225,20 @@ http://45.186.252.17:8000/play/a0au
 http://45.186.252.17:8000/play/a0ci
 #EXTINF:-1,Universal HD
 http://45.186.252.17:8000/play/a09t
+#EXTINF:-1 tvg-id="universalcinemahd",UNIVERSAL CINEMA ESTE HD
+http://170.254.172.10:8000/play/a08b/index.m3u8
+#EXTINF:-1 tvg-id="universalcomedyhd",UNIVERSAL COMEDY HD
+http://170.254.172.10:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="universalcrimehd",UNIVERSAL CRIME HD
+http://170.254.172.10:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-id="universalpremierhd",UNIVERSAL PREMIERE HD
+http://170.254.172.10:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="universalpremierohd",UNIVERSAL PREMIERE O HD
+http://170.254.172.10:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="universalrealityhd",UNIVERSAL REALITY HD
+http://170.254.172.10:8000/play/a04u/index.m3u8
+#EXTINF:-1 tvg-id="univisionhd",Univision HD
+http://170.254.172.10:8000/play/a089/index.m3u8
 #EXTINF:-1,Volver
 http://45.186.252.17:8000/play/a0a9
 #EXTINF:-1,Warner Channel HD
