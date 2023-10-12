@@ -1,2119 +1,2261 @@
 #EXTM3U
-#EXTINF:-1, CONTACTO Wsapp 3865 448130 $ 1.000 x mes  
+#EXTINF:-1, CONTACTO Wsapp 3865448130 $ 1.000 x mes  
 ar.emmajl.Social 
-#EXTINF:-1, Neo TV (partidos y pelis)
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://45.186.252.17:8000/play/a0bu
-#EXTINF:-1,TNT Sports HD
-http://45.186.252.17:8000/play/a0aw
-#EXTINF:-1,  Telefe 2 
-http://magi-stv.net:8080/Joseluis/Joseluis123/210861 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", Telefe Rosario (1080p) [Not 24/7]  https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ", El Ocho (1080p) [Not 24/7]  https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
-#EXTINF:-1, 24/7 Canal de Noticias
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285870
-#EXTINF:-1, 5TV Corrientes
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285872
-#EXTINF:-1, A&E
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38648
-#EXTINF:-1, A24
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3197
-#EXTINF:-1, AMC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38654
-#EXTINF:-1, America TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49245
-#EXTINF:-1, Argentinisima
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38659
-#EXTINF:-1, AXN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38651
+#EXTINF:-1,SERIES NETFLIX #1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34670
+#EXTINF:-1,SERIES NETFLIX #2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34671
+#EXTINF:-1,SERIES NETFLIX #3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34672
+#EXTINF:-1,SERIES NETFLIX #4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34673
+#EXTINF:-1,SERIES NETFLIX #5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34674
+#EXTINF:-1,SERIES NETFLIX #6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34675
+#EXTINF:-1,SERIES NETFLIX #7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34676
+#EXTINF:-1,SERIES NETFLIX #8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34677
+#EXTINF:-1,SERIES NETFLIX #9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34678
+#EXTINF:-1,SERIES NETFLIX #10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34679
+#EXTINF:-1,SERIES NETFLIX #11
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34680
+#EXTINF:-1,SERIES NETFLIX #12
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34681
+#EXTINF:-1,SERIES NETFLIX #13
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34682
+#EXTINF:-1,SERIES NETFLIX #14
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34683
+#EXTINF:-1,SERIES NETFLIX #15
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34684
+#EXTINF:-1,TNT SPORTS (AR)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3069
+#EXTINF:-1,TNT SPORT HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3070
+#EXTINF:-1,TNT SPORTS HD OP2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3071
+#EXTINF:-1,Espn Premium
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3140
+#EXTINF:-1,Espn Premium 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3157
+#EXTINF:-1,AMERICA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1750
+#EXTINF:-1,Ciudad magaczine
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1751
+#EXTINF:-1,C5N
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1752
+#EXTINF:-1,ENCUENTRO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1753
+#EXTINF:-1,A24
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1754
+#EXTINF:-1,CANAL 9 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1755
+#EXTINF:-1,TV PUBLICA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1756
+#EXTINF:-1,TELEFE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1757
+#EXTINF:-1,TELEFE B
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1758
+#EXTINF:-1,CANAL 26
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1759
+#EXTINF:-1,VOLVER
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1760
+#EXTINF:-1,CINE ARGENTINO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1761
+#EXTINF:-1,TN NOTICIAS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1762
+#EXTINF:-1,DeporTV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1763
+#EXTINF:-1,TELEMAX
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1764
+#EXTINF:-1,EL TRECE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1765
+#EXTINF:-1,TV PUBLICA TDF
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1766
+#EXTINF:-1,EL TRECE INTERNACIONAL
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1767
+#EXTINF:-1,5RTV SANTA FE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1768
+#EXTINF:-1,5TV CORRIENTES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1769
+#EXTINF:-1,CANAL 10 Mar del Plata
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1770
+#EXTINF:-1,CANAL 17 MILENIUM SALTA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1771
+#EXTINF:-1,CANAL PROVINCIAL SAN MIGUEL TELERED
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1772
+#EXTINF:-1,CHACRA TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1773
+#EXTINF:-1,LA 90 FM
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1774
+#EXTINF:-1,MULTIVISION ARGENTINA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1775
+#EXTINF:-1,NET TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1776
+#EXTINF:-1,DW
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1777
+#EXTINF:-1,TN
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1778
+#EXTINF:-1,TVE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1779
+#EXTINF:-1,Canal 9 Televida Mendoza
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1780
+#EXTINF:-1,ARG || RAI
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1781
+#EXTINF:-1,HBO 2 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3776
+#EXTINF:-1,HBO MUNDI INGLES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3777
+#EXTINF:-1,HBO POP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3778
+#EXTINF:-1,HBO XTREME
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3779
+#EXTINF:-1,HBO PLUS HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3791
+#EXTINF:-1,HBO FAMILY HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3792
+#EXTINF:-1,HBO HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3781
+#EXTINF:-1,HBO PLUS HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3782
+#EXTINF:-1,LA : EURONEWS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1782
+#EXTINF:-1,PAKA PAKA (AR)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1783
+#EXTINF:-1, Cartoon Network FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3339
+#EXTINF:-1, Cartoon Network FHD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3340
+#EXTINF:-1, Dreamworks FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3341
+#EXTINF:-1, Kids Central FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3342
+#EXTINF:-1, Nick Jr FHD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3343
+#EXTINF:-1, Nickelodeon FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3344
+#EXTINF:-1, Nickelodeon FHD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3345
+#EXTINF:-1, Baby Firts  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3346
+#EXTINF:-1, Baby Firts  HD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3347
+#EXTINF:-1, Baby TV  HD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3348
+#EXTINF:-1, Baby TV  HQ
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3349
+#EXTINF:-1, Boing  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3350
+#EXTINF:-1, Boomerang  HD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3351
+#EXTINF:-1, Cartoon Network  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3352
+#EXTINF:-1, Chiquilines  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3353
+#EXTINF:-1, Clan TVE  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3354
+#EXTINF:-1, Disney Channel  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3355
+#EXTINF:-1, Disney JR  HD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3356
+#EXTINF:-1, Disney XD  HD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3357
+#EXTINF:-1, Dreamworks  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3358
+#EXTINF:-1, Nick Jr  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3359
+#EXTINF:-1, Nickelodeon  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3360
+#EXTINF:-1, Nicktoons  HD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3361
+#EXTINF:-1, PAKA PAKA  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3362
+#EXTINF:-1, Panda  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3363
+#EXTINF:-1, PBS Kids  HD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3364
+#EXTINF:-1, Tooncast  HQ
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3365
+#EXTINF:-1, Ultra Kidz HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3366
+#EXTINF:-1, Baby Firts
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3367
 #EXTINF:-1, Baby TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38649
-#EXTINF:-1, Bloomberg TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285198
-#EXTINF:-1, Boomerang
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38657
-#EXTINF:-1, C5N
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3191
-#EXTINF:-1, Canal 2 Jujuy
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285881
-#EXTINF:-1, Canal 6 Noticias
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/284235
-#EXTINF:-1, Canal 9 Litoral
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299548
-#EXTINF:-1, Canal 10 Cordoba
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/54280
-#EXTINF:-1, Canal 10 Rio Negro
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285877
-#EXTINF:-1, Canal 11 La Rioja
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285878
-#EXTINF:-1, Canal 12 Puerto Madryn
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285879
-#EXTINF:-1, Canal 13 La Rioja
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285880
-#EXTINF:-1, Canal 26
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3190
-#EXTINF:-1, Canal 79 Catamarca
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297240
-#EXTINF:-1, Canal 79 Mar del Plata
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297239
-#EXTINF:-1, Canal 79 San Juan
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297235
-#EXTINF:-1, canal orbe 21
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9374
-#EXTINF:-1, Canal Provincial
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285888
-#EXTINF:-1, Canal TDC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285874
-#EXTINF:-1, Canal U Cordoba
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299549
-#EXTINF:-1, Chaco TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166055
-#EXTINF:-1, Chacra TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285890
-#EXTINF:-1, Cine AR
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38652
-#EXTINF:-1, Cinecanal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38655
-#EXTINF:-1, Ciudad Magazine
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38663
-#EXTINF:-1, Ciudad TV Chaco
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285892
-#EXTINF:-1, Comedy Central
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49261
-#EXTINF:-1, CPE
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299184
-#EXTINF:-1, Cronica TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8763
-#EXTINF:-1, DeporTV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38664
-#EXTINF:-1, DirecTV Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/67721
-#EXTINF:-1, DirecTV Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31645
-#EXTINF:-1, DirecTV Sports Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/65750
-#EXTINF:-1, Discovery Theater
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172605
-#EXTINF:-1, Disney Junior
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38665
-#EXTINF:-1, El Gourmet
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8691
-#EXTINF:-1, El Nueve
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3202
-#EXTINF:-1, El Trece
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3194
-#EXTINF:-1, Eltres
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285882
-#EXTINF:-1, Encuentro
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/30694
-#EXTINF:-1, ESPN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/61174
-#EXTINF:-1, ESPN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/70752
-#EXTINF:-1, ESPN 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/61170
-#EXTINF:-1, ESPN 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295627
-#EXTINF:-1, ESPN Extra
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/66298
-#EXTINF:-1, ESPN Premium
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298158
-#EXTINF:-1, Europa Europa
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/29295
-#EXTINF:-1, Fenix TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285896
-#EXTINF:-1, Film & Arts
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38678
-#EXTINF:-1, FOX SPORTS
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/280370
-#EXTINF:-1, FOX SPORTS 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3187
-#EXTINF:-1, FOX SPORTS 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10921
-#EXTINF:-1, FOX SPORTS Premium
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3203
-#EXTINF:-1, FX
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172268
-#EXTINF:-1, Garage TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23915
-#EXTINF:-1, Glitz
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/30712
-#EXTINF:-1, HBO Mundi
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38701
-#EXTINF:-1, HBO Pop
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/29305
-#EXTINF:-1, HBO Xtreme
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172272
-#EXTINF:-1, HBO+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38685
-#EXTINF:-1, I Sat
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/148593
-#EXTINF:-1, IP Noticias
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297230
-#EXTINF:-1, LN+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8758
-#EXTINF:-1, Much Argentina
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38704
-#EXTINF:-1, Multivision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/18341
-#EXTINF:-1, Music Top
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/199644
-#EXTINF:-1, NAT GEO Wild
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38698
-#EXTINF:-1, Net TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/267322
-#EXTINF:-1, Nick Jr
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/29310
-#EXTINF:-1, nickelodeon
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/29311
-#EXTINF:-1, Pakapaka
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49304
-#EXTINF:-1, Quiero Musica en mi Idioma
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/30699
-#EXTINF:-1, RTN Neuquen
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299693
-#EXTINF:-1, Santa Fe Canal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285871
-#EXTINF:-1, Santa Maria TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285904
-#EXTINF:-1, Smithsonian Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285203
-#EXTINF:-1, Space
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/34566
-#EXTINF:-1, Star Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/280374
-#EXTINF:-1, Star Classics
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/280378
-#EXTINF:-1, Studio Universal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/280367
-#EXTINF:-1, SYFY
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49316
-#EXTINF:-1, TCM
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49314
-#EXTINF:-1, Tele Red
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285183
-#EXTINF:-1, Telefe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3199
-#EXTINF:-1, Telemax
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146051
-#EXTINF:-1, Telenord Corrientes
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285910
-#EXTINF:-1, Tierramia TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/76509
-#EXTINF:-1, TNT Series
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3109
-#EXTINF:-1, TNT Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3204
-#EXTINF:-1, Todo Noticias
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146052
-#EXTINF:-1, TV Publica
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8752
-#EXTINF:-1, TVU Universidad Nacional de La Plata
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285907
-#EXTINF:-1, TyC Sports
-http://tutv.online:8080/StarPlay11Cesar50/rfUnKQcv6x/170337
-#EXTINF:-1, Universal TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38719
-#EXTINF:-1, Volver
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49329
-#EXTINF:-1, Wobi TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9123
-#EXTINF:-1, A&E
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298145
-#EXTINF:-1, AMC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298147
-#EXTINF:-1, AXN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49443
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3368
 #EXTINF:-1, Boing
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298150
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3369
 #EXTINF:-1, Cartoon Network
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49445
-#EXTINF:-1, Cinemax
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49449
-#EXTINF:-1, DirecTV Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298365
-#EXTINF:-1, DirecTV Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/76232
-#EXTINF:-1, Discovery Kids
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49453
-#EXTINF:-1, Discovery World
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/148590
-#EXTINF:-1, ESPN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8688
-#EXTINF:-1, ESPN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8689
-#EXTINF:-1, ESPN Deportes
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281418
-#EXTINF:-1, ESPN Extra
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285171
-#EXTINF:-1, ESPN Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8687
-#EXTINF:-1, Fox Life
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49489
-#EXTINF:-1, FOX Movies
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/76275
-#EXTINF:-1, FOX Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8677
-#EXTINF:-1, FOX Sports Premium
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/148625
-#EXTINF:-1, FX
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49462
-#EXTINF:-1, Space
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49477
-#EXTINF:-1, Studio Universal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298930
-#EXTINF:-1, Suryoyo TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/276944
-#EXTINF:-1, TCM
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49475
-#EXTINF:-1, Telefe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/76277
-#EXTINF:-1, TNT Series
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298931
-#EXTINF:-1, Universal Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298932
-#EXTINF:-1, Warner Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298933
-#EXTINF:-1, 3ABN Latino
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286060
-#EXTINF:-1, A Estrenar
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295645
-#EXTINF:-1, A&E
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5759
-#EXTINF:-1, Aliento Vision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295646
-#EXTINF:-1, AMC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2996
-#EXTINF:-1, America Teve
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297034
-#EXTINF:-1, ANIMAL PLANET
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2997
-#EXTINF:-1, Animax Revival
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/300022
-#EXTINF:-1, AXN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2998
-#EXTINF:-1, Baby TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3001
-#EXTINF:-1, BabyFirst TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285097
-#EXTINF:-1, beIN Sports n
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299731
-#EXTINF:-1, Bloomberg TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/71867
-#EXTINF:-1, Boing
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298149
-#EXTINF:-1, Boomerang
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298151
-#EXTINF:-1, Canal Informativo Inter
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299304
-#EXTINF:-1, Cartoon Network
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3007
-#EXTINF:-1, Cartoonito
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3004
-#EXTINF:-1, CBN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298634
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3370
+#EXTINF:-1, Cartoonito HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3371
+#EXTINF:-1, Cartoonito  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3372
 #EXTINF:-1, Chiquilines
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298154
-#EXTINF:-1, Cinecanal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49452
-#EXTINF:-1, Cinema Dinamita
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3010
-#EXTINF:-1, Cinemax
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5770
-#EXTINF:-1, Clover Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299305
-#EXTINF:-1, Comedy Central
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3015
-#EXTINF:-1, Como dice el dicho VIX+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298649
-#EXTINF:-1, Concert Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8701
-#EXTINF:-1, Corazón Salvaje VIX+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298650
-#EXTINF:-1, DAZN 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/76336
-#EXTINF:-1, Del mercado al plato VIX+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298652
-#EXTINF:-1, Dios Te Ve Kids
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295819
-#EXTINF:-1, DirecTV Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298357
-#EXTINF:-1, DirecTV Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298358
-#EXTINF:-1, DirecTV Sports plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298697
-#EXTINF:-1, Discovery Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281050
-#EXTINF:-1, Discovery Familia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/147657
-#EXTINF:-1, Discovery H&H
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5774
-#EXTINF:-1, Discovery Kids
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3020
-#EXTINF:-1, Discovery Science
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3021
-#EXTINF:-1, Discovery Theater
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3022
-#EXTINF:-1, Discovery Turbo
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3023
-#EXTINF:-1, Discovery World
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8894
-#EXTINF:-1, Disney Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3025
-#EXTINF:-1, Disney Junior
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3026
-#EXTINF:-1, Disney XD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285172
-#EXTINF:-1, E!
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3029
-#EXTINF:-1, EnerGeek
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298822
-#EXTINF:-1, ESPN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5779
-#EXTINF:-1, ESPN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3031
-#EXTINF:-1, ESPN 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3032
-#EXTINF:-1, ESPN 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295304
-#EXTINF:-1, ESPN Deportes
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/6446
-#EXTINF:-1, ESPN Extra
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285105
-#EXTINF:-1, euronews
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299308
-#EXTINF:-1, Eurosport 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298159
-#EXTINF:-1, Familia Peluche VIX+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298654
-#EXTINF:-1, Food Network
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/187033
-#EXTINF:-1, FOX Sports 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/54432
-#EXTINF:-1, FOX Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/40840
-#EXTINF:-1, FX
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/34561
-#EXTINF:-1, Galavision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/71860
-#EXTINF:-1, Glitz
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/45626
-#EXTINF:-1, Gol TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/60971
-#EXTINF:-1, Golf Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/76257
-#EXTINF:-1, HBO
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3055
-#EXTINF:-1, HBO 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3056
-#EXTINF:-1, HBO Family
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3057
-#EXTINF:-1, HBO Mundi
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/226015
-#EXTINF:-1, HBO Pop
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3069
-#EXTINF:-1, HBO Signature
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3059
-#EXTINF:-1, HBO Xtreme
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/148927
-#EXTINF:-1, HBO+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3058
-#EXTINF:-1, HGTV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/187008
-#EXTINF:-1, Hispan TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/187027
-#EXTINF:-1, Hola TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298058
-#EXTINF:-1, HTV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3062
-#EXTINF:-1, Investigation Discovery
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3063
-#EXTINF:-1, Junior Tecnologia TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298825
-#EXTINF:-1, Kanal D Drama
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299311
-#EXTINF:-1, La Promesa VIX+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298655
-#EXTINF:-1, Las Estrellas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298152
-#EXTINF:-1, levelUp
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/294677
-#EXTINF:-1, Lifetime
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3066
-#EXTINF:-1, Mas Chic
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3067
-#EXTINF:-1, Mega TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295841
-#EXTINF:-1, MTV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299314
-#EXTINF:-1, MTV 00s
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299313
-#EXTINF:-1, MTV Live
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299315
-#EXTINF:-1, NAT GEO
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3073
-#EXTINF:-1, NAT GEO Mundo
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/267311
-#EXTINF:-1, NAT GEO Wild
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8745
-#EXTINF:-1, NBC Universo
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/90120
-#EXTINF:-1, Nick Jr
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3075
-#EXTINF:-1, Nickelodeon
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3076
-#EXTINF:-1, Nuestra Vision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298979
-#EXTINF:-1, Paramount Network
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3077
-#EXTINF:-1, Pasiones
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3078
-#EXTINF:-1, Rebelde VIX+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298661
-#EXTINF:-1, Semillitas TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295815
-#EXTINF:-1, Sony Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3081
-#EXTINF:-1, Sortilegio VIX+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298662
-#EXTINF:-1, Space
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299325
-#EXTINF:-1, Star Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5785
-#EXTINF:-1, Studio Universal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3083
-#EXTINF:-1, SYFI
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299977
-#EXTINF:-1, SYFY
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5802
-#EXTINF:-1, Tastemade
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295852
-#EXTINF:-1, TBS
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5803
-#EXTINF:-1, TCM
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3085
-#EXTINF:-1, TeenNick
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5796
-#EXTINF:-1, Telemundo Internacional
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49318
-#EXTINF:-1, Telemundo Miami Florida WSCV TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3117
-#EXTINF:-1, TLC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3107
-#EXTINF:-1, TNT
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3089
-#EXTINF:-1, TNT Series
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285147
-#EXTINF:-1, TNT Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285164
-#EXTINF:-1, Tooncast
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3091
-#EXTINF:-1, Travelxp
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299330
-#EXTINF:-1, tru TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/284515
-#EXTINF:-1, TUDN XTRA 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298903
-#EXTINF:-1, TUDN XTRA 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298904
-#EXTINF:-1, TUDN XTRA 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298905
-#EXTINF:-1, TUDN XTRA 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298906
-#EXTINF:-1, TUDN XTRA 5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298907
-#EXTINF:-1, TUDN XTRA 6
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298908
-#EXTINF:-1, TUDN XTRA 7
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298909
-#EXTINF:-1, TUDN XTRA 8
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298910
-#EXTINF:-1, TUDN XTRA 9
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298911
-#EXTINF:-1, TUDN XTRA 10
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298912
-#EXTINF:-1, TUDN XTRA 11
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196611
-#EXTINF:-1, TV direct 13 Papiamento
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299543
-#EXTINF:-1, UniMas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/147654
-#EXTINF:-1, UniMas Newark New Jersey WFUT TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172679
-#EXTINF:-1, Universal Cinema
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/291225
-#EXTINF:-1, Universal Comedy
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/291224
-#EXTINF:-1, Universal Crime
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/291222
-#EXTINF:-1, Universal Kids
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/198068
-#EXTINF:-1, Universal Premiere
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298831
-#EXTINF:-1, Universal Reality
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/291217
-#EXTINF:-1, Universal TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3036
-#EXTINF:-1, Univision Miami Florida WLTV TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172655
-#EXTINF:-1, Urbano TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299331
-#EXTINF:-1, Vallevision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/148714
-#EXTINF:-1, ViwixAccion
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298643
-#EXTINF:-1, ViwixMusic
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298644
-#EXTINF:-1, ViwixSeries
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298645
-#EXTINF:-1, ViwixTerror
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298646
-#EXTINF:-1, Warner TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/60006
-#EXTINF:-1, 15 TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299534
-#EXTINF:-1, A&E
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9117
-#EXTINF:-1, ADN 40
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5799
-#EXTINF:-1, Adrenalina Sports Network
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/290478
-#EXTINF:-1, Afizzionados
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298042
-#EXTINF:-1, AMC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9083
-#EXTINF:-1, ANIMAL PLANET
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298043
-#EXTINF:-1, AXN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9138
-#EXTINF:-1, Az Cinema
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9108
-#EXTINF:-1, Az Clic
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9035
-#EXTINF:-1, Az Corazon
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2999
-#EXTINF:-1, AZTECA 7
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9026
-#EXTINF:-1, AZTECA Uno
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9025
-#EXTINF:-1, BabyFirst TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8673
-#EXTINF:-1, Bandamax
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9122
-#EXTINF:-1, BitMe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/47946
-#EXTINF:-1, Canal 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/7044
-#EXTINF:-1, Canal 5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9024
-#EXTINF:-1, Canal 6 Monterrey
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/267340
-#EXTINF:-1, Canal 6 Saltillo
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/7045
-#EXTINF:-1, Canal 8 Costa Rica
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31756
-#EXTINF:-1, Canal 10 Cancun
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/147894
-#EXTINF:-1, Canal 26
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/7043
-#EXTINF:-1, Canal Catorce
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287630
-#EXTINF:-1, Canal Internacional
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296519
-#EXTINF:-1, Canal Mundo+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287631
-#EXTINF:-1, Capital 21
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287632
-#EXTINF:-1, Cartoon Network
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9043
-#EXTINF:-1, Cartoonito
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9088
-#EXTINF:-1, Cinecanal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9128
-#EXTINF:-1, CineLatino
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/167062
-#EXTINF:-1, Cinemax
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9080
-#EXTINF:-1, Claro Cinema
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8706
-#EXTINF:-1, Claro Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3012
-#EXTINF:-1, Claro Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297205
-#EXTINF:-1, Comedy Central
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9106
-#EXTINF:-1, Como Dice El Dicho
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298052
-#EXTINF:-1, Cor TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287634
-#EXTINF:-1, Corazon del la Capital
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296635
-#EXTINF:-1, De Pelicula
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31740
-#EXTINF:-1, De Pelicula Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298053
-#EXTINF:-1, Discovery Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/280388
-#EXTINF:-1, Discovery H&H
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9110
-#EXTINF:-1, Discovery Kids
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9060
-#EXTINF:-1, Discovery Science
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9059
-#EXTINF:-1, Discovery Theater
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9151
-#EXTINF:-1, Discovery TLC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9062
-#EXTINF:-1, Discovery Turbo
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9058
-#EXTINF:-1, Discovery World
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9061
-#EXTINF:-1, Disney Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9086
-#EXTINF:-1, Disney Junior
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9042
-#EXTINF:-1, Disney XD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3027
-#EXTINF:-1, Distrito Comedia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9126
-#EXTINF:-1, Dream Works
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298055
-#EXTINF:-1, E!
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31760
-#EXTINF:-1, ESPN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9070
-#EXTINF:-1, ESPN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298057
-#EXTINF:-1, ESPN 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38603
-#EXTINF:-1, ESPN Dos
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9068
-#EXTINF:-1, ESPN Extra
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38607
-#EXTINF:-1, Estrella News
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/284052
-#EXTINF:-1, Estrella TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/167064
-#EXTINF:-1, Europa Europa
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9130
-#EXTINF:-1, Food Network
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9116
-#EXTINF:-1, Foro TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5782
-#EXTINF:-1, FOX SPORTS
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10925
-#EXTINF:-1, FOX SPORTS 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3043
-#EXTINF:-1, FOX SPORTS 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3044
-#EXTINF:-1, FX
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9105
-#EXTINF:-1, FXM
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9079
-#EXTINF:-1, Glitz
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9125
-#EXTINF:-1, Golden
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5793
-#EXTINF:-1, Golden Edge
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9076
-#EXTINF:-1, Golden Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3051
-#EXTINF:-1, Golden Premier
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3052
-#EXTINF:-1, Golf Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49383
-#EXTINF:-1, HGTV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/187048
-#EXTINF:-1, History
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9050
-#EXTINF:-1, History 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/273073
-#EXTINF:-1, ILCE
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296518
-#EXTINF:-1, Imagen TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9039
-#EXTINF:-1, Ingenio TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9147
-#EXTINF:-1, Investigation Discovery
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9056
-#EXTINF:-1, Jalisco TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287636
-#EXTINF:-1, Justicia TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/7050
-#EXTINF:-1, La Rosa De Guadalupe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298059
-#EXTINF:-1, Las Estrella Games
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298336
-#EXTINF:-1, Las Estrellas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3005
-#EXTINF:-1, Maria+Vision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/163056
-#EXTINF:-1, Maria+Vision Medjugorje
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296514
-#EXTINF:-1, Mexico Travel Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/163049
-#EXTINF:-1, Milenio TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/7067
-#EXTINF:-1, Morbido TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/198054
-#EXTINF:-1, Multimedios Guadalajara
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298061
-#EXTINF:-1, Multimedios Laguna
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287639
-#EXTINF:-1, Multimedios Monterrey
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298917
-#EXTINF:-1, Multimedios Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298918
-#EXTINF:-1, MultiPremier
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298164
-#EXTINF:-1, NAT GEO
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8725
-#EXTINF:-1, NAT GEO Wild
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9072
-#EXTINF:-1, Nick Jr
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31745
-#EXTINF:-1, nickelodeon
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9085
-#EXTINF:-1, NickToons
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298064
-#EXTINF:-1, Nmas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296521
-#EXTINF:-1, Noticias Canal 10
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299790
-#EXTINF:-1, NRT Mexico
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299535
-#EXTINF:-1, Nu9ve
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298919
-#EXTINF:-1, Once Mexico
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/7051
-#EXTINF:-1, Paramount Network
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9146
-#EXTINF:-1, PX Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/267264
-#EXTINF:-1, RCG TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/163053
-#EXTINF:-1, RTQ Queretaro
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/147900
-#EXTINF:-1, SET Television Canal 26
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287645
-#EXTINF:-1, Sistema Michoacano de TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296509
-#EXTINF:-1, Sizart Canal 24 Zacatecas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298920
-#EXTINF:-1, Space
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9136
-#EXTINF:-1, Sqcs
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297030
-#EXTINF:-1, Star Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/280386
-#EXTINF:-1, Studio Universal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9071
-#EXTINF:-1, SYFY
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9081
-#EXTINF:-1, TCM
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9131
-#EXTINF:-1, TeleFormula
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31746
-#EXTINF:-1, Telehit Musica
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31785
-#EXTINF:-1, Telehit Musica Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298067
-#EXTINF:-1, Telemax
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/7080
-#EXTINF:-1, Teleritmo
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9066
-#EXTINF:-1, Tlaxcala TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296507
-#EXTINF:-1, Tlnovelas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9141
-#EXTINF:-1, TNT
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9140
-#EXTINF:-1, TNT Series
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9139
-#EXTINF:-1, TUDN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31784
-#EXTINF:-1, TV Mas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9097
-#EXTINF:-1, TV Mexiquense
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9104
-#EXTINF:-1, TV Nuevo Leon 28
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296506
-#EXTINF:-1, TVC Deportes
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9075
-#EXTINF:-1, Ubeat
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286768
-#EXTINF:-1, Ultra Cine
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/167077
-#EXTINF:-1, Ultra Clasico
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/167076
-#EXTINF:-1, Ultra Docu
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298069
-#EXTINF:-1, Ultra Familia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/167075
-#EXTINF:-1, Ultra Fiesta
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/167078
-#EXTINF:-1, Ultra Kidz
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/167080
-#EXTINF:-1, Ultra Macho
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/167081
-#EXTINF:-1, Ultra Mex
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3160
-#EXTINF:-1, Unicable
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5804
-#EXTINF:-1, Univision Tlnovelas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196608
-#EXTINF:-1, Video Rola
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/290484
-#EXTINF:-1, Warner TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9142
-#EXTINF:-1, ATN Television
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295640
-#EXTINF:-1, Avivamiento TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286296
-#EXTINF:-1, AXN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/46554
-#EXTINF:-1, Cablenoticias
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/148933
-#EXTINF:-1, Cali TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/18392
-#EXTINF:-1, Canal 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/48311
-#EXTINF:-1, Canal 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286298
-#EXTINF:-1, Canal Capital
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8347
-#EXTINF:-1, Canal CNC Medellin
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/151405
-#EXTINF:-1, Canal Dos
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286299
-#EXTINF:-1, Canal Institucional
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8348
-#EXTINF:-1, Canal TRO
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/47941
-#EXTINF:-1, Canal Vision Dorada
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286302
-#EXTINF:-1, Caracol TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3162
-#EXTINF:-1, Caracol TV Internacional
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8351
-#EXTINF:-1, Cine Premium
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299839
-#EXTINF:-1, Cinecanal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/290335
-#EXTINF:-1, City TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/48310
-#EXTINF:-1, Cristovision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/278068
-#EXTINF:-1, DHE
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3016
-#EXTINF:-1, DirecTV Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298363
-#EXTINF:-1, DirecTV Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/48306
-#EXTINF:-1, DirecTV Sports Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/48307
-#EXTINF:-1, Discovery Home & Health
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172589
-#EXTINF:-1, Discovery World
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/46569
-#EXTINF:-1, El Tiempo TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8353
-#EXTINF:-1, ESPN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295642
-#EXTINF:-1, ESPN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/273212
-#EXTINF:-1, ESPN 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295641
-#EXTINF:-1, FOX Sports 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/65949
-#EXTINF:-1, Fox Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/198470
-#EXTINF:-1, FOX Sports 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/189906
-#EXTINF:-1, FX
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295243
-#EXTINF:-1, NAT GEO Wild
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172601
-#EXTINF:-1, NTN 24
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8355
-#EXTINF:-1, RCN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/290242
-#EXTINF:-1, RCN Int
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/290241
-#EXTINF:-1, RCN Novelas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/54283
-#EXTINF:-1, RCN Nuestra Tele
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298369
-#EXTINF:-1, RCN TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3163
-#EXTINF:-1, Senal Colombia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3167
-#EXTINF:-1, Suram TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166060
-#EXTINF:-1, Teleantioquia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8358
-#EXTINF:-1, Telecafe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8359
-#EXTINF:-1, Telecaribe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5823
-#EXTINF:-1, Teleislas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/76223
-#EXTINF:-1, Telemedellin
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8360
-#EXTINF:-1, Telepacifico
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8361
-#EXTINF:-1, TNT Series
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299049
-#EXTINF:-1, Trece
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197058
-#EXTINF:-1, TV Gracia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166066
-#EXTINF:-1, Win Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8345
-#EXTINF:-1, Win Sports+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/294455
-#EXTINF:-1, 13C
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8956
-#EXTINF:-1, 24 Horas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298601
-#EXTINF:-1, Camara de Diputados
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/169030
-#EXTINF:-1, Canal 13
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8955
-#EXTINF:-1, CDO Premium
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8963
-#EXTINF:-1, ChileVision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8966
-#EXTINF:-1, Cinecanal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3008
-#EXTINF:-1, CNN Chile
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/76353
-#EXTINF:-1, DirecTV Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/290379
-#EXTINF:-1, DirecTV Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/290380
-#EXTINF:-1, ESPN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295637
-#EXTINF:-1, ESPN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298602
-#EXTINF:-1, ETC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8969
-#EXTINF:-1, FOX SPORTS 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/169069
-#EXTINF:-1, FOX SPORTS 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38466
-#EXTINF:-1, HiperTV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286264
-#EXTINF:-1, ITV Patagonia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297231
-#EXTINF:-1, Maxima
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286265
-#EXTINF:-1, Mega
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8971
-#EXTINF:-1, Pauta
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286267
-#EXTINF:-1, Rec TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8975
-#EXTINF:-1, Retro Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286286
-#EXTINF:-1, Retro Plus 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286284
-#EXTINF:-1, SextaVision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299544
-#EXTINF:-1, Studio Universal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298169
-#EXTINF:-1, Teletrak
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8965
-#EXTINF:-1, TNT Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8959
-#EXTINF:-1, TNT Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/279612
-#EXTINF:-1, TNT Sports 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/266775
-#EXTINF:-1, TNT Sports Estadio
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298605
-#EXTINF:-1, TV Chile
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8978
-#EXTINF:-1, TV+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/76339
-#EXTINF:-1, TV5 Linares
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286279
-#EXTINF:-1, TVN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8976
-#EXTINF:-1, Universidad Autonoma
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286282
-#EXTINF:-1, VTV Valle de Aconcagua
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286283
-#EXTINF:-1, America
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8983
-#EXTINF:-1, Antares TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8999
-#EXTINF:-1, ATV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296303
-#EXTINF:-1, bh TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299909
-#EXTINF:-1, Boticas Peru
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10927
-#EXTINF:-1, Canal IPe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9003
-#EXTINF:-1, Canal N
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8984
-#EXTINF:-1, Cinecanal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/290334
-#EXTINF:-1, Cosmos TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298891
-#EXTINF:-1, ESPN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295656
-#EXTINF:-1, Exitosa
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295658
-#EXTINF:-1, Fox Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166931
-#EXTINF:-1, Golperu
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8990
-#EXTINF:-1, Identidad TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299810
-#EXTINF:-1, Latele
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9002
-#EXTINF:-1, Latina
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/46590
-#EXTINF:-1, Liga 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298923
-#EXTINF:-1, Liga 1 Max
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298922
-#EXTINF:-1, Memorias TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299759
-#EXTINF:-1, Movistar Deportes
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298924
-#EXTINF:-1, Oxigeno
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/6941
-#EXTINF:-1, Panamericana TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3173
-#EXTINF:-1, Peru Magico
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8995
-#EXTINF:-1, Radio Rutas del Perú
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285842
-#EXTINF:-1, RPP Noticias Piura
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166937
-#EXTINF:-1, Telemundo
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298925
-#EXTINF:-1, TV Peru
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8986
-#EXTINF:-1, TV Peru Noticias
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/283998
-#EXTINF:-1, Willax TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/187026
-#EXTINF:-1, Wow TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/294872
-#EXTINF:-1, Canal Uno
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298695
-#EXTINF:-1, Canela TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/284251
-#EXTINF:-1, DirecTV Sports
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297387
-#EXTINF:-1, DirecTV Sports 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/167019
-#EXTINF:-1, DirecTV Sports Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/167021
-#EXTINF:-1, ECDF El canal del futbol
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298698
-#EXTINF:-1, Ecotel TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286424
-#EXTINF:-1, Ecuador TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9157
-#EXTINF:-1, Ecuavisa
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9159
-#EXTINF:-1, Galaxia Teve
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298824
-#EXTINF:-1, Gamavision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9162
-#EXTINF:-1, Gol TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9163
-#EXTINF:-1, Hechos Ecuador
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286425
-#EXTINF:-1, Oromar TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9164
-#EXTINF:-1, Paraíso Digital
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286427
-#EXTINF:-1, TC TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9167
-#EXTINF:-1, TeleAmazonas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9168
-#EXTINF:-1, Telerama
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299456
-#EXTINF:-1, TVC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/47932
-#EXTINF:-1, #0
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2146
-#EXTINF:-1, #VAMOS
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2148
-#EXTINF:-1, 4 TV Vall Uxa
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285753
-#EXTINF:-1, 7 Noticias
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/283875
-#EXTINF:-1, 101 Tele Antequera
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285722
-#EXTINF:-1, 101 TV Malaga
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146345
-#EXTINF:-1, 324 Cat
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165149
-#EXTINF:-1, 8TV Madrid
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/75902
-#EXTINF:-1, A Punt
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146343
-#EXTINF:-1, A&E
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/7731
-#EXTINF:-1, Activa TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285727
-#EXTINF:-1, AFV Espanol
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/284259
-#EXTINF:-1, Alacanti TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/66947
-#EXTINF:-1, Alcarria TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/12153
-#EXTINF:-1, Alquiler 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/12107
-#EXTINF:-1, Alquiler 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/12108
-#EXTINF:-1, Alquiler 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/12109
-#EXTINF:-1, Alquiler 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/12110
-#EXTINF:-1, Alquiler 5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/11818
-#EXTINF:-1, Alquiler 6
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/15931
-#EXTINF:-1, Alquiler 7
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/11819
-#EXTINF:-1, Alquiler 8
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281769
-#EXTINF:-1, Alquiler 9
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281770
-#EXTINF:-1, Alquiler 10
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/11820
-#EXTINF:-1, AMC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1174
-#EXTINF:-1, AMC Break
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297245
-#EXTINF:-1, Andorra TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299404
-#EXTINF:-1, Antena 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1173
-#EXTINF:-1, Aragon TV Internacional
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2758
-#EXTINF:-1, Atrecine
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/283299
-#EXTINF:-1, Atreseries
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9102
-#EXTINF:-1, AXN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1172
-#EXTINF:-1, AXN Movies
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298734
-#EXTINF:-1, AXN White
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1171
-#EXTINF:-1, Baby TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5302
-#EXTINF:-1, Bailen TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285732
-#EXTINF:-1, Barca TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1170
-#EXTINF:-1, Be Mad
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2213
-#EXTINF:-1, beIN Sports Xtra en Espanol
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281493
-#EXTINF:-1, beteve
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285834
-#EXTINF:-1, Blaze
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5303
-#EXTINF:-1, Bloomberg TV EMEA Live Event
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285720
-#EXTINF:-1, Bloomberg TV Europe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285843
-#EXTINF:-1, Boing
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1169
-#EXTINF:-1, Bom Cine
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/75926
-#EXTINF:-1, Bon Dia TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165148
-#EXTINF:-1, Cacavision
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286374
-#EXTINF:-1, Cadena Elite
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/200665
-#EXTINF:-1, Calle 13
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1168
-#EXTINF:-1, Canal 10 Emporda
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285737
-#EXTINF:-1, Canal 2000 La Solana
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/294891
-#EXTINF:-1, Canal 24 Horas
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2216
-#EXTINF:-1, Canal 25 Barbastro
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146340
-#EXTINF:-1, Canal 33
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/64938
-#EXTINF:-1, Canal 45 TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285733
-#EXTINF:-1, Canal 56
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/270088
-#EXTINF:-1, Canal Cocina
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1167
-#EXTINF:-1, Canal Diocesano
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285741
-#EXTINF:-1, Canal Donana
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285742
-#EXTINF:-1, Canal Extremadura Sat
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298736
-#EXTINF:-1, Canal Hollywood
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1154
-#EXTINF:-1, Canal Malaga
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/12139
-#EXTINF:-1, Canal Odisea
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2194
-#EXTINF:-1, Canal Panda
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1166
-#EXTINF:-1, Canal Sierra de Cadiz
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285744
-#EXTINF:-1, Canal Super 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285745
-#EXTINF:-1, Canal Sur Andalucia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2191
-#EXTINF:-1, Canal Taronja Osona
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285746
-#EXTINF:-1, Caza y Pesca
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1165
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3373
 #EXTINF:-1, Clan TVE
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2214
-#EXTINF:-1, CNN en Espanol
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/31762
-#EXTINF:-1, Comedy Central
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1164
-#EXTINF:-1, Congreso de los Diputados 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285747
-#EXTINF:-1, Congreso de los Diputados 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285748
-#EXTINF:-1, Congreso de los Diputados 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285749
-#EXTINF:-1, Congreso de los Diputados 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285750
-#EXTINF:-1, Congreso de los Diputados 5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285751
-#EXTINF:-1, Cosmopolitan TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2215
-#EXTINF:-1, Costa Noroeste TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285752
-#EXTINF:-1, CostadelSol TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295246
-#EXTINF:-1, Crime District
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298744
-#EXTINF:-1, Cuatro
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1163
-#EXTINF:-1, Cultura 24 TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197864
-#EXTINF:-1, D Kiss
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9356
-#EXTINF:-1, Dark
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/121514
-#EXTINF:-1, DAZN 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/64711
-#EXTINF:-1, DAZN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/64712
-#EXTINF:-1, DAZN 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/269912
-#EXTINF:-1, DAZN 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/269911
-#EXTINF:-1, DAZN F1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1672
-#EXTINF:-1, DAZN LaLiga
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297787
-#EXTINF:-1, DAZN LaLiga 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298745
-#EXTINF:-1, Decasa
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2771
-#EXTINF:-1, Diez TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/269929
-#EXTINF:-1, Discovery World
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1162
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3374
+#EXTINF:-1, Discovery Kids  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3375
 #EXTINF:-1, Disney Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1145
-#EXTINF:-1, Disney Junior
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5299
-#EXTINF:-1, Disney XD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5298
-#EXTINF:-1, Divinity
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2795
-#EXTINF:-1, DMAX
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2762
-#EXTINF:-1, DreamWorks TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281787
-#EXTINF:-1, El 33
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/294892
-#EXTINF:-1, EL Pinguino TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/53887
-#EXTINF:-1, El Toro TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/201928
-#EXTINF:-1, Energy
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2217
-#EXTINF:-1, ESNE TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/76224
-#EXTINF:-1, Esperanza TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/11119
-#EXTINF:-1, ESPN 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281480
-#EXTINF:-1, ESPN 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281403
-#EXTINF:-1, ESPN Deportes
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281417
-#EXTINF:-1, Esport 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/7445
-#EXTINF:-1, ETB 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165969
-#EXTINF:-1, ETB 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165970
-#EXTINF:-1, ETB Basque
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/50135
-#EXTINF:-1, euronews en Espanol
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/282292
-#EXTINF:-1, EUROSPORT 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1160
-#EXTINF:-1, EUROSPORT 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1159
-#EXTINF:-1, Factoria de Ficcion
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2207
-#EXTINF:-1, Fibwi TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296941
-#EXTINF:-1, FOX
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1158
-#EXTINF:-1, Fox Life
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295164
-#EXTINF:-1, FOX SPORTS 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/89723
-#EXTINF:-1, FOX SPORTS 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/89722
-#EXTINF:-1, France 24
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9148
-#EXTINF:-1, Fuengirola TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299530
-#EXTINF:-1, Galicia TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2192
-#EXTINF:-1, GCM TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285760
-#EXTINF:-1, Girona TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/174484
-#EXTINF:-1, Goiena Eus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285761
-#EXTINF:-1, Gol Play
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297246
-#EXTINF:-1, Hamaika Telebista
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285762
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3376
+#EXTINF:-1, Disney JR
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3377
+#EXTINF:-1, Disney JR  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3378
+#EXTINF:-1, Disney XD (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3379
+#EXTINF:-1, EnerGeek  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3380
+#EXTINF:-1, Nick Jr HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3381
+#EXTINF:-1, Nickelodeon HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3382
+#EXTINF:-1, Nickelodeon Clásico
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3383
+#EXTINF:-1, Once NIñas y Niños
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3384
+#EXTINF:-1, Panda
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3385
+#EXTINF:-1, Semillitas
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3386
+#EXTINF:-1, TeenNick
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3387
+#EXTINF:-1, TeenNick (eng)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3388
+#EXTINF:-1, Tooncast
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3389
+#EXTINF:-1,Fox Sports 1 SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3056
+#EXTINF:-1,SD | Fox Sports 2 (CENTRO)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3057
+#EXTINF:-1,Fox Sports 3 SD (CENTRO)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3058
+#EXTINF:-1,Fox Sports 1 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3059
+#EXTINF:-1,Fox Sports 2 HD (CENTRO)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3060
+#EXTINF:-1,Fox Sports 3 HD (CENTRO)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3061
+#EXTINF:-1,ADRENALINA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3062
+#EXTINF:-1,CDF
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3063
+#EXTINF:-1,CDO BASICO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3064
+#EXTINF:-1,CLARO SPORTS SD (LAT)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3066
+#EXTINF:-1,CLARO SPORTS HD (LAT)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3065
+#EXTINF:-1,DeporTV HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3067
+#EXTINF:-1,TNT SPORTS (AR)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3069
+#EXTINF:-1,TNT SPORT HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3070
+#EXTINF:-1,TNT SPORTS HD OP2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3071
+#EXTINF:-1,TUDN MX
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3072
+#EXTINF:-1,TYC SPORTS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3084
+#EXTINF:-1,TYC Sports Internacional HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3085
+#EXTINF:-1,WIN SPORTS +  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3086
+#EXTINF:-1,SKY SPORTS MEXICO HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3088
+#EXTINF:-1,TNT SPORTS CHILE HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3089
+#EXTINF:-1, FOX SPORTS 1 (COL)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3090
+#EXTINF:-1, FOX SPORTS 1 (COL)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3091
+#EXTINF:-1, FOX SPORTS 2 (COL)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3092
+#EXTINF:-1, FOX SPORTS 2 (COL)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3093
+#EXTINF:-1, FOX SPORTS 3 (COL)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3094
+#EXTINF:-1, FOX SPORTS 3 (COL)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3095
+#EXTINF:-1, FOX SPORTS 1 (ARG)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3096
+#EXTINF:-1, FOX SPORTS 1 (ARG)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3097
+#EXTINF:-1, FOX SPORTS 2 (ARG)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3098
+#EXTINF:-1, FOX SPORTS 2 (ARG)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3099
+#EXTINF:-1, FOX SPORTS 3 (ARG)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3100
+#EXTINF:-1, FOX SPORTS 3 (ARG)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3101
+#EXTINF:-1, FOX SPORTS 1 (CHI)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3102
+#EXTINF:-1, FOX SPORTS 1 (CHI)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3103
+#EXTINF:-1, FOX SPORTS 2 (CHI)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3104
+#EXTINF:-1, FOX SPORTS 2 (CHI)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3105
+#EXTINF:-1, FOX SPORTS 3 (CHI)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3106
+#EXTINF:-1, FOX SPORTS 3 (CHI)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3107
+#EXTINF:-1, FOX SPORTS 1 (MEX)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3108
+#EXTINF:-1, FOX SPORTS 1 (MEX)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3109
+#EXTINF:-1, FOX SPORTS 2 (MEX)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3110
+#EXTINF:-1, FOX SPORTS 2 (MEX)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3111
+#EXTINF:-1, FOX SPORTS 3 (MEX)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3112
+#EXTINF:-1, FOX SPORTS 3 (MEX)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3113
+#EXTINF:-1, FOX SPORTS PREMIUM (MX)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3114
+#EXTINF:-1, FOX SPORTS PREMIUM (MX)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3115
+#EXTINF:-1, TNT SPORTS (AR)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3116
+#EXTINF:-1, TNT SPORTS (AR)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3117
+#EXTINF:-1, DIRECTV SPORTS 1 (COL)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3141
+#EXTINF:-1, DIRECTV SPORTS 1 (COL)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3142
+#EXTINF:-1, DIRECTV SPORTS 1 (ECU)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3143
+#EXTINF:-1, DIRECTV SPORTS 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3144
+#EXTINF:-1, DIRECTV SPORTS 2 (AR)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3145
+#EXTINF:-1, DIRECTV SPORTS + (AR)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3146
+#EXTINF:-1, MOVISTAR DEPORTES (PER)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3147
+#EXTINF:-1, MOVISTAR DEPORTES (PER)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3148
+#EXTINF:-1,DEP SKY SPORTS LATINO FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3151
+#EXTINF:-1, GOL TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3152
+#EXTINF:-1,WIN SPORTS SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3153
+#EXTINF:-1,WIN SPORTS HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3154
+#EXTINF:-1,WIN SPORTS FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3155
+#EXTINF:-1, WAPA DEPORTES (PR)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3156
+#EXTINF:-1, FOX SPORTS HD (US)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3158
+#EXTINF:-1, DAZN HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3160
+#EXTINF:-1,CLARO SPORT 2 LATAM
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3161
+#EXTINF:-1,STAR+ 1 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3163
+#EXTINF:-1,STAR+ 2 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3162
+#EXTINF:-1,STAR+ 3 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3164
+#EXTINF:-1,Hipodromo Maroñas URU
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12148
+#EXTINF:-1, DIRECTV SPORTS AR  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3689
+#EXTINF:-1, DIRECTV SPORTS HD  CL
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3690
+#EXTINF:-1, DIRECTV SPORTS 2  SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3691
+#EXTINF:-1, DIRECTV SPORTS 2  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3692
+#EXTINF:-1, DIRECTV SPORTS 2  FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3693
+#EXTINF:-1, DIRECTV CHILE HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3694
+#EXTINF:-1, DIRECTV SPORTS HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3695
+#EXTINF:-1, DIRECTV SPORTS 2 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3696
+#EXTINF:-1, DIRECTV SPORTS + HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3697
+#EXTINF:-1, DIRECTV SPORTS SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3698
+#EXTINF:-1, DIRECTV SPORTS 2 SD.
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3699
+#EXTINF:-1, DIRECTV SPORTS + SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3700
+#EXTINF:-1,Espn 2 (Norte) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1560
+#EXTINF:-1,Espn 1 (Sur) Sd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1561
+#EXTINF:-1,Espn 1 (Sur) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1562
+#EXTINF:-1,Espn 2 (Sur) Sd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1564
+#EXTINF:-1,ESPN 4 (Col) Sd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1566
+#EXTINF:-1,Espn Extra (Sur) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1567
+#EXTINF:-1,Espn 2 (Sur) Fhd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1568
+#EXTINF:-1,Espn 2 (Col) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1570
+#EXTINF:-1,Espn Extra (Col) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1572
+#EXTINF:-1,Espn 2 (Col) Sd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1574
+#EXTINF:-1,Espn 3 Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1575
+#EXTINF:-1,Espn Extra (Sur) Sd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1579
+#EXTINF:-1,Espn 1 (Mex) Fhd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1580
+#EXTINF:-1,Espn 1 (Mex) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3131
+#EXTINF:-1,Espn 1 (Sur) Fhd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3125
+#EXTINF:-1,Espn 1 (Col) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3118
+#EXTINF:-1,Espn 2 (Col) Fhd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3121
+#EXTINF:-1,Espn 2 (Mex) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3133
+#EXTINF:-1,Espn 3 (Sur) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3129
+#EXTINF:-1,Espn 3 (Mex) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3135
+#EXTINF:-1,Espn 3 (Col) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3123
+#EXTINF:-1,Espn 3 (Sur) Sd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3128
+#EXTINF:-1,Espn 3 (Col) Fhd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3122
+#EXTINF:-1,Espn 2 (Mex) Fhd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1497
+#EXTINF:-1,ESPN 1 (Usa) HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4755
+#EXTINF:-1,Espn 2 (Usa) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4756
+#EXTINF:-1,Espn Deportes (Usa) Hd
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4587
+#EXTINF:-1,Espn Premium
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3140
+#EXTINF:-1,Espn Premium 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3157
+#EXTINF:-1,Kings League
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/11763
+#EXTINF:-1,REAL MADRID TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/308
+#EXTINF:-1,BARCA TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/310
+#EXTINF:-1,A&E (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7166
+#EXTINF:-1,A&E (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7167
+#EXTINF:-1,A&E (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7168
+#EXTINF:-1,A&E (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7169
+#EXTINF:-1,AMC (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7170
+#EXTINF:-1,AMC (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7171
+#EXTINF:-1,AMC (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7172
+#EXTINF:-1,AXN (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7173
+#EXTINF:-1,AXN (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7174
+#EXTINF:-1,AXN (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7175
+#EXTINF:-1,CINE LATINO (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7176
+#EXTINF:-1,CINE LATINO (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7177
+#EXTINF:-1,CINE CANAL (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7178
+#EXTINF:-1,CINE CANAL (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7179
+#EXTINF:-1,CINE CANAL (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7180
+#EXTINF:-1,CINE CANAL (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7181
+#EXTINF:-1,CINE DINAMITA (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7182
+#EXTINF:-1,CINE DINAMITA (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7183
+#EXTINF:-1,CINEMAX (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7184
+#EXTINF:-1,CINEMAX (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7185
+#EXTINF:-1,CLARO CINEMA (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7186
+#EXTINF:-1,DHE (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7187
+#EXTINF:-1,DHE (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7188
+#EXTINF:-1,DHE (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7189
+#EXTINF:-1,FX (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7190
+#EXTINF:-1,FX (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7191
+#EXTINF:-1,FX (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7192
+#EXTINF:-1,GOLDEN (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7193
+#EXTINF:-1,GOLDEN (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7194
+#EXTINF:-1,GOLDEN (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7195
+#EXTINF:-1,HBO (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7196
+#EXTINF:-1,HBO 2 (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7197
+#EXTINF:-1,HBO 2 (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7198
+#EXTINF:-1,HBO 2 (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7199
+#EXTINF:-1,HBO 2 (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7200
+#EXTINF:-1,HBO FAMILY (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7201
+#EXTINF:-1,HBO FAMILY (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7202
+#EXTINF:-1,HBO FAMILY (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7203
+#EXTINF:-1,HBO FAMILY (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7204
+#EXTINF:-1,HBO (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7205
+#EXTINF:-1,HBO (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7206
+#EXTINF:-1,HBO (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7207
+#EXTINF:-1,HBO MUNDI (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7208
+#EXTINF:-1,HBO PLUS (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7209
+#EXTINF:-1,HBO PLUS (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7210
+#EXTINF:-1,HBO PLUS (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7211
+#EXTINF:-1,HBO PLUS (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7212
+#EXTINF:-1,HBO POP (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7213
+#EXTINF:-1,HBO POP (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7214
+#EXTINF:-1,HBO POP (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7215
+#EXTINF:-1,HBO SIGNATURE (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7216
+#EXTINF:-1,HBO SIGNATURE (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7217
+#EXTINF:-1,HBO SIGNATURE (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7218
+#EXTINF:-1,HBO SIGNATURE (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7219
+#EXTINF:-1,HBO SUBTITULADO (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7220
+#EXTINF:-1,HBO SUBTITULADO (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7221
+#EXTINF:-1,HBO XTREME (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7222
+#EXTINF:-1,HBO XTREME (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7223
+#EXTINF:-1,HBO XTREME (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7224
+#EXTINF:-1,STAR CHANNEL (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7225
+#EXTINF:-1,STAR CHANNEL (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7226
+#EXTINF:-1,STAR CHANNEL (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7227
+#EXTINF:-1,TNT (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7228
+#EXTINF:-1,TNT (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7229
+#EXTINF:-1,TNT (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7230
+#EXTINF:-1,TNT (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7231
+#EXTINF:-1,TNT SERIES (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7232
+#EXTINF:-1,TNT SERIES (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7233
+#EXTINF:-1,TNT SERIES (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7234
+#EXTINF:-1,CINEMAX (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7235
+#EXTINF:-1,A3 CINE (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7236
+#EXTINF:-1,A3 SERIES (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7237
+#EXTINF:-1,CINEMAX (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7238
+#EXTINF:-1,CINEMAX ACTION (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7239
+#EXTINF:-1,CINEMAX EAST (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7240
+#EXTINF:-1,CINEMAX (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7241
+#EXTINF:-1,CINEMAX (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7242
+#EXTINF:-1,DE PELÍCULA (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7243
+#EXTINF:-1,DE PELÍCULA CLASICO (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7244
+#EXTINF:-1,DE PELÍCULA PLUS (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7245
+#EXTINF:-1,EURO CHANNEL (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7246
+#EXTINF:-1,EURO CHANNEL (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7247
+#EXTINF:-1,EURO CHANNEL (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7248
+#EXTINF:-1,EUROPA EUROPA (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7249
+#EXTINF:-1,EUROPA EUROPA (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7250
+#EXTINF:-1,INDIE PLEX (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7251
+#EXTINF:-1,OUTERMAX (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7252
+#EXTINF:-1,PARAMOUNT CHANNEL (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7253
+#EXTINF:-1,PARAMOUNT CHANNEL (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7254
+#EXTINF:-1,PARAMOUNT CHANNEL (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7255
+#EXTINF:-1,PARAMOUNT NETWORK (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7256
+#EXTINF:-1,PARAMOUNT NETWORK (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7257
+#EXTINF:-1,SHOWTIME EAST (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7258
+#EXTINF:-1,SHOWTIME EAST (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7259
+#EXTINF:-1,CINE: SHOWTIME WESTᴴᴰ
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7260
+#EXTINF:-1,SONY (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7261
+#EXTINF:-1,SONY (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7262
+#EXTINF:-1,SONY (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7263
+#EXTINF:-1,SPACE (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7264
+#EXTINF:-1,SPACE (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7265
+#EXTINF:-1,SPACE (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7266
+#EXTINF:-1,SPACE (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7267
+#EXTINF:-1,STARZ CINEMA (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7268
+#EXTINF:-1,STARZ COMEDY (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7269
+#EXTINF:-1,STARZ EAST (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7270
+#EXTINF:-1,STARZ EDGE (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7271
+#EXTINF:-1,STARZ ENCORE BLACK (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7272
+#EXTINF:-1,STARZ ENCORE CLASSIC (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7273
+#EXTINF:-1,STARZ ENCORE FAMILY (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7274
+#EXTINF:-1,STARZ ENCORE (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7275
+#EXTINF:-1,STARZ ENCORE SUSPENSE (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7276
+#EXTINF:-1,STARZ ENCORE WESTERN (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7277
+#EXTINF:-1,STARZ (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7278
+#EXTINF:-1,STARZ WEST (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7279
+#EXTINF:-1,STUDIO UNIVERSAL (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7280
+#EXTINF:-1,STUDIO UNIVERSAL (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7281
+#EXTINF:-1,STUDIO UNIVERSAL (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7282
+#EXTINF:-1,STUDIO UNIVERSAL (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7283
+#EXTINF:-1,SYFY (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7284
+#EXTINF:-1,SYFY (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7285
+#EXTINF:-1,SYFY (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7286
+#EXTINF:-1,SYFY (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7287
+#EXTINF:-1,TBS (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7288
+#EXTINF:-1,TBS (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7289
+#EXTINF:-1,TBS (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7290
+#EXTINF:-1,TCM (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7291
+#EXTINF:-1,TCM (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7292
+#EXTINF:-1,TCM (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7293
+#EXTINF:-1,UNIVERSAL CHANNEL (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7294
+#EXTINF:-1,UNIVERSAL CHANNEL (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7295
+#EXTINF:-1,UNIVERSAL CHANNEL (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7296
+#EXTINF:-1,WARNER CHANNEL (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7297
+#EXTINF:-1,WARNER CHANNEL (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7298
+#EXTINF:-1,WARNER CHANNEL (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7299
+#EXTINF:-1,WARNER CHANNEL (HD) »4«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7300
+#EXTINF:-1,RETROPLEX (HD)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7301
+#EXTINF:-1,I-SAT (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7302
+#EXTINF:-1,I-SAT (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7303
+#EXTINF:-1,COMEDY CENTRAL (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7304
+#EXTINF:-1,COMEDY CENTRAL (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7305
+#EXTINF:-1,FILM & ARTS (HD) »1«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7306
+#EXTINF:-1,FILM & ARTS (HD) »2«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7307
+#EXTINF:-1,FILM & ARTS (HD) »3«
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7308
+#EXTINF:-1,Pasiones
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7319
+#EXTINF:-1,Pasiones TV HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7320
+#EXTINF:-1,Pasiones OP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7321
+#EXTINF:-1,GLITZ
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7322
+#EXTINF:-1,GLITZ´OP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7323
+#EXTINF:-1,Glitz HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7324
+#EXTINF:-1,El GOURMET
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7325
+#EXTINF:-1,El Gourmet OP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7326
+#EXTINF:-1,El Gourmet HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7327
+#EXTINF:-1,Food Network
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7328
+#EXTINF:-1,Food Network OP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7329
+#EXTINF:-1,Food Network HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7330
+#EXTINF:-1,El Garage TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7331
+#EXTINF:-1,Garage TV HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7332
+#EXTINF:-1,Telemundo Internacional
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7333
+#EXTINF:-1,Telemundo Internacional HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7334
+#EXTINF:-1,LIFETIME
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7335
+#EXTINF:-1,Lifetime OP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7336
+#EXTINF:-1,Lifetime HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7337
+#EXTINF:-1,LA_Univision HD.
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7338
+#EXTINF:-1,Univision Miami HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7339
+#EXTINF:-1,Tlnovelas
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7340
+#EXTINF:-1,Tlnovelas HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7341
+#EXTINF:-1,CANAL COCINA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7342
+#EXTINF:-1,Cocina TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7343
+#EXTINF:-1,Antena 3 Internacional
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7344
+#EXTINF:-1,Antena 3 Internacional HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7345
+#EXTINF:-1,Antena 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7346
+#EXTINF:-1,Antena 3 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7347
+#EXTINF:-1,Antena 3 HD OP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7348
+#EXTINF:-1,Caza y Pesca HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7349
+#EXTINF:-1,HGTV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7350
+#EXTINF:-1,Más Chic
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7351
+#EXTINF:-1,Más Chic
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7352
+#EXTINF:-1,Más Chic HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7353
+#EXTINF:-1,Más Chic
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7354
+#EXTINF:-1,HGTV.
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7355
+#EXTINF:-1,E! Entertainment
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7356
+#EXTINF:-1,E! Entertainment HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7357
+#EXTINF:-1,E! Entertainment
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7358
+#EXTINF:-1,HOLA TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7359
+#EXTINF:-1,Hola TV HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7360
+#EXTINF:-1,Las Estrellas HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7361
+#EXTINF:-1,Las Estrellas
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7362
+#EXTINF:-1,Distrito Comedia .
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7363
+#EXTINF:-1,Distrito Comedia
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7364
+#EXTINF:-1,Rai Italia
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7365
+#EXTINF:-1,Rai Italia HQ
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7366
+#EXTINF:-1,Rai Italia HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7367
+#EXTINF:-1,TV5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7368
+#EXTINF:-1,CANAL+ FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7369
+#EXTINF:-1, CINE+ PREMIERE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7370
+#EXTINF:-1, CANAL+ DOCS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7371
+#EXTINF:-1,CANAL + SERIES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7372
+#EXTINF:-1,TF1 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7373
+#EXTINF:-1, ANIMAL PLANET (CO) (lt)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7374
+#EXTINF:-1, ANIMAL PLANET (MX) (ec)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7375
+#EXTINF:-1, ANIMAL PLANET HD Lat. (ec)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7376
+#EXTINF:-1, Animal Planet SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7377
+#EXTINF:-1, DISCOVERY CHANNEL (CO)(P)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7378
+#EXTINF:-1, DISCOVERY CHANNEL FHD2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7379
+#EXTINF:-1, DISCOVERY CHANNEL FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7380
+#EXTINF:-1, DISCOVERY CIVILIZATION .
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7381
+#EXTINF:-1, DISCOVERY H&H
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7382
+#EXTINF:-1, DISCOVERY H&H (CO)(P) FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7383
+#EXTINF:-1, DISCOVERY H&H SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7384
+#EXTINF:-1, DISCOVERY H&H(MX)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7385
+#EXTINF:-1, DISCOVERY SCIENCE (lt)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7386
+#EXTINF:-1,CUL:Discovery Science
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7387
+#EXTINF:-1,Discovery Science HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7388
+#EXTINF:-1,Discovery Science HD *
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7389
+#EXTINF:-1, Discovery Theater FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7390
+#EXTINF:-1, DISCOVERY THEATER SD MX (ec)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7391
+#EXTINF:-1, DISCOVERY TURBO FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7392
+#EXTINF:-1, DISCOVERY TURBO HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7393
+#EXTINF:-1, DISCOVERY TURBO SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7394
+#EXTINF:-1, DISCOVERY WORLD FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7395
+#EXTINF:-1, Discovery World FHD (P)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7396
+#EXTINF:-1, Discovery World SD (P)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7397
+#EXTINF:-1, DW HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7398
+#EXTINF:-1, EL GOURMET (ec)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7399
+#EXTINF:-1, EL GOURMET HD (ec)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7400
+#EXTINF:-1, HISTORY CHANNEL HD (lt)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7401
+#EXTINF:-1, HISTORY CHANNEL SD LAT. (ec)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7402
+#EXTINF:-1, History FHD (co)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7403
+#EXTINF:-1, HISTORY HD Lat. (co)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7404
+#EXTINF:-1, HISTORY HD  (co)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7405
+#EXTINF:-1, History SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7406
+#EXTINF:-1, H2 (lt)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7407
+#EXTINF:-1, H2 SD LAT. (ec)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7408
+#EXTINF:-1, Investigation Discovery FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7409
+#EXTINF:-1, INVESTIGATION DISCOVERY MX  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7410
+#EXTINF:-1, Investigation Discovery SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7411
+#EXTINF:-1, NAT GEO .
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7412
+#EXTINF:-1, NAT GEO SD LAT. (ec)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7413
+#EXTINF:-1, NAT GEO WILD (ec)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7414
+#EXTINF:-1, Nat Geo Wild FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7415
+#EXTINF:-1, National Geographic  MX (ec)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7416
+#EXTINF:-1, National Geographic FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7417
+#EXTINF:-1, National Geographic SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7418
+#EXTINF:-1, TLC
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7419
+#EXTINF:-1, TLC
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7420
+#EXTINF:-1, TLC FHD (arg)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7421
+#EXTINF:-1, Tru TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7422
+#EXTINF:-1, LOVE NATURE SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/7423
+#EXTINF:-1,PPV 01 |
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12114
+#EXTINF:-1,PPV 02 |
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12115
+#EXTINF:-1,PPV 03 |
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12116
+#EXTINF:-1,PPV 04 |
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12117
+#EXTINF:-1,PPV 05 |
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12118
+#EXTINF:-1,PPV 06 |
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12119
+#EXTINF:-1,PPV 07 |
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12120
+#EXTINF:-1,HBO SIGNATURE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3780
+#EXTINF:-1,HBO MUNDI
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3783
+#EXTINF:-1,HBO XTREME sub
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3784
+#EXTINF:-1,HBO POP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3785
 #EXTINF:-1, HBO
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285191
-#EXTINF:-1, HBO Signature
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/91989
-#EXTINF:-1, Historia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1155
-#EXTINF:-1, Hola TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3061
-#EXTINF:-1, Hollywood
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297243
-#EXTINF:-1, Iberalia TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2793
-#EXTINF:-1, Ibiza Global TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285763
-#EXTINF:-1, Imas TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/269931
-#EXTINF:-1, Inter Almeria
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/81640
-#EXTINF:-1, Investigation Discovery
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/27790
-#EXTINF:-1, Junta Castilla y Leon
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285767
-#EXTINF:-1, LA 7
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285768
-#EXTINF:-1, La Otra
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/145616
-#EXTINF:-1, La Sexta
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1152
-#EXTINF:-1, La URBAN TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285780
-#EXTINF:-1, Laliga Smartbank TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297788
-#EXTINF:-1, Laliga Smartbank TV 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297791
-#EXTINF:-1, Laliga Smartbank TV 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297790
-#EXTINF:-1, Laliga Smartbank TV 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297789
-#EXTINF:-1, LaLiga TV Bar
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197711
-#EXTINF:-1, Lancelot TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/12159
-#EXTINF:-1, Levante TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146658
-#EXTINF:-1, Locomotion TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286055
-#EXTINF:-1, Logos TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281790
-#EXTINF:-1, M+ Ellas #V
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297242
-#EXTINF:-1, M95 Marbella
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299508
-#EXTINF:-1, Maestrat TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285784
-#EXTINF:-1, Mar TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166347
-#EXTINF:-1, Marbella TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/174751
-#EXTINF:-1, MavTV Europe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285845
-#EXTINF:-1, Mega
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2190
-#EXTINF:-1, Melilla TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/270089
-#EXTINF:-1, Mirame TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285786
-#EXTINF:-1, Molahits TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281793
-#EXTINF:-1, MOVISTAR Accion
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1148
-#EXTINF:-1, MOVISTAR Cine Espanol
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/64788
-#EXTINF:-1, MOVISTAR Clasicos
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281773
-#EXTINF:-1, MOVISTAR Comedia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1146
-#EXTINF:-1, Movistar Deportes
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/227121
-#EXTINF:-1, Movistar Deportes 5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285690
-#EXTINF:-1, Movistar Deportes 6
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/198066
-#EXTINF:-1, MOVISTAR Drama
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1144
-#EXTINF:-1, MOVISTAR Estrenos
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1143
-#EXTINF:-1, MOVISTAR Estrenos 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295135
-#EXTINF:-1, MOVISTAR Golf
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1142
-#EXTINF:-1, MOVISTAR La Resistencia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/286800
-#EXTINF:-1, MOVISTAR LaLiga
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1141
-#EXTINF:-1, MOVISTAR LaLiga 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5311
-#EXTINF:-1, MOVISTAR LaLiga 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281772
-#EXTINF:-1, MOVISTAR LaLiga 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/269466
-#EXTINF:-1, MOVISTAR LaLiga 5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281792
-#EXTINF:-1, MOVISTAR LIGA DE CAMPEONES
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2800
-#EXTINF:-1, MOVISTAR LIGA DE CAMPEONES 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/81096
-#EXTINF:-1, Movistar Liga De Campeones 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298805
-#EXTINF:-1, Movistar Liga De Campeones 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298806
-#EXTINF:-1, Movistar Liga De Campeones 6
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298808
-#EXTINF:-1, Movistar Liga De Campeones 7
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146661
-#EXTINF:-1, MOVISTAR Series
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1140
-#EXTINF:-1, MTV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/29307
-#EXTINF:-1, MTV Espana
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5308
-#EXTINF:-1, Multideporte
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8110
-#EXTINF:-1, Mundotoro
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298810
-#EXTINF:-1, NAT GEO
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1138
-#EXTINF:-1, NAT GEO Wild
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1137
-#EXTINF:-1, Nature Time
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298751
-#EXTINF:-1, Navarra TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146410
-#EXTINF:-1, Negocios TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298749
-#EXTINF:-1, NEOX
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2208
-#EXTINF:-1, Nick Junior
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5296
-#EXTINF:-1, nickelodeon
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2218
-#EXTINF:-1, Nova
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2189
-#EXTINF:-1, NTV Europe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285846
-#EXTINF:-1, Nuevo Tiempo
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299797
-#EXTINF:-1, Oizmendi Telebista
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285790
-#EXTINF:-1, Onda Algeciras TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/269932
-#EXTINF:-1, Onda Cadiz
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/66953
-#EXTINF:-1, Paramount Network
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2209
-#EXTINF:-1, Pequeradio
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285793
-#EXTINF:-1, Popular TV Cantabria
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285794
-#EXTINF:-1, Popular TV Melilla
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/270090
-#EXTINF:-1, Portal Foxmix
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/295008
-#EXTINF:-1, Punt 3 Vall Uixo
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/269913
-#EXTINF:-1, Rakuten 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285802
-#EXTINF:-1, Rakuten 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285803
-#EXTINF:-1, Rakuten 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285804
-#EXTINF:-1, Rakuten 6
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285805
-#EXTINF:-1, Rakuten 7
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285806
-#EXTINF:-1, Rakuten Family
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285801
-#EXTINF:-1, Real Madrid TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1136
-#EXTINF:-1, RT Español
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166663
-#EXTINF:-1, RTV Vida
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285797
-#EXTINF:-1, RTVC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/11809
-#EXTINF:-1, RTVE Noticias
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296504
-#EXTINF:-1, Sal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299838
-#EXTINF:-1, Sevilla FC TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/169002
-#EXTINF:-1, Sofy TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285809
-#EXTINF:-1, Solidaria TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285810
-#EXTINF:-1, Somos
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16274
-#EXTINF:-1, Sophia TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285811
-#EXTINF:-1, Sundance TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2757
-#EXTINF:-1, SYFY
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1135
-#EXTINF:-1, TCM
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1134
-#EXTINF:-1, Tele Safor
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/50133
-#EXTINF:-1, Telecinco
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1133
-#EXTINF:-1, Teledeporte
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2774
-#EXTINF:-1, TeleMadrid
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298747
-#EXTINF:-1, Teleonuba
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/145619
-#EXTINF:-1, TeleRibera
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285823
-#EXTINF:-1, TeleVigo
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285825
-#EXTINF:-1, Ten
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5306
-#EXTINF:-1, Teve Cat
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285835
-#EXTINF:-1, Toros TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1132
-#EXTINF:-1, Trece TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/60943
-#EXTINF:-1, TV 4 La Vall
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/270092
-#EXTINF:-1, TV Castilla La Mancha
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/169000
-#EXTINF:-1, TV Ferrol
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299430
-#EXTINF:-1, TV Vega Baja
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/269915
-#EXTINF:-1, TV3 Catalunya
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9367
-#EXTINF:-1, TV5 Limares
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285819
-#EXTINF:-1, TVE Internacional América 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49480
-#EXTINF:-1, TVE Internacional Europa
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5943
-#EXTINF:-1, TVE La 1 Madrid
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1151
-#EXTINF:-1, TVE La 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1150
-#EXTINF:-1, TVG 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281802
-#EXTINF:-1, TVG Cultural
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/71536
-#EXTINF:-1, TVG Infantil
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281806
-#EXTINF:-1, TVG Musigal
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281808
-#EXTINF:-1, Ubeat
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/147368
-#EXTINF:-1, Ventdelnord TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285832
-#EXTINF:-1, Viajar
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2776
-#EXTINF:-1, Warner TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298814
-#EXTINF:-1, XTRM
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/11148
-#EXTINF:-1,PLUTO | SERIES LATINAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157653
-#EXTINF:-1,PLUTO | CINE ESTELAR
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157654
-#EXTINF:-1,PLUTO | LUCHA LIBRE AAA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157655
-#EXTINF:-1,PLUTO | NICK EN ESPAÑOL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157656
-#EXTINF:-1,PLUTO | NICK JR EN ESPAÑOL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157657
-#EXTINF:-1,PLUTO | CINE ACCION
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157658
-#EXTINF:-1,PLUTO | CINE COMEDIA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157659
-#EXTINF:-1,PLUTO | CINE TERROR
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157660
-#EXTINF:-1,PLUTO | CINE DRAMA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157661
-#EXTINF:-1,PLUTO | CINE FAMILIA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157662
-#EXTINF:-1,PLUTO | CINE ROMANCE
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157663
-#EXTINF:-1,PLUTO | CINE SUSPENSO
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157664
-#EXTINF:-1,PLUTO | CINE CLASICO
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157665
-#EXTINF:-1,PLUTO | PELEAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157666
-#EXTINF:-1,PLUTO | NOVELAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157667
-#EXTINF:-1,PLUTO | SERIES RETRO
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157668
-#EXTINF:-1,PLUTO | MASTERCHEF
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157669
-#EXTINF:-1,Canela TV | Novelas Turcas
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157670
-#EXTINF:-1,PLUTO | LOS TRES CHIFLADOS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157671
-#EXTINF:-1,PLUTO | CLASICOS CARTOONS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157672
-#EXTINF:-1,PLUTO | NICK !Carly
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157673
-#EXTINF:-1,24/7 :CINE ACCION
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090917
-#EXTINF:-1,24/7 :CINE ACCION SAGAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090918
-#EXTINF:-1,24/7 :CINE SAGAS INFANTIL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090919
-#EXTINF:-1,24/7 Better Call Saul
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133348
-#EXTINF:-1,24/7 Cantinflas 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090937
-#EXTINF:-1,24/7 Capitan America y Los Planetarios
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090954
-#EXTINF:-1,24/7 Caso Cerrado 
-http://magi-stv.net:8080/Joseluis/Joseluis123/189868
-#EXTINF:-1,24/7 Chespirito
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090979
-#EXTINF:-1,24/7 Clasicos de Disney (Latino)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090938
-#EXTINF:-1,24/7 DAVE Y EVA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091358
-#EXTINF:-1,24/7 Disney Live Action
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090939
-#EXTINF:-1,24/7 Donde esta Wally
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090955
-#EXTINF:-1,24/7 Dragon Ball Freezer
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133668
-#EXTINF:-1,24/7 El Auto Fantastico
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090982
-#EXTINF:-1,24/7 El Gallo Claudio
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090957
-#EXTINF:-1,24/7 Fenomenoide
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090958
-#EXTINF:-1,24/7 Friends
-http://magi-stv.net:8080/Joseluis/Joseluis123/223069
-#EXTINF:-1,24/7 Game of Thrones
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133344
-#EXTINF:-1,24/7 Garfield
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090963
-#EXTINF:-1,24/7 Gargolas Heroes Goticos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090964
-#EXTINF:-1,24/7 Gasparin y sus Amigos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090965
-#EXTINF:-1,24/7 Halcones Galacticos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090966
-#EXTINF:-1,24/7 Halo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133343
-#EXTINF:-1,24/7 Hannah Montana
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090904
-#EXTINF:-1,24/7 Harry Potter & Animales Fantásticos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2106722
-#EXTINF:-1,24/7 Heidi
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090967
-#EXTINF:-1,24/7 Hercules 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090983
-#EXTINF:-1,24/7 Hey Arnold
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090905
-#EXTINF:-1,24/7 Hormiga Atomica
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133592
-#EXTINF:-1,24/7 La casa de los Dibujos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091492
-#EXTINF:-1,24/7 La Casa de Papel Corea
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133346
-#EXTINF:-1,24/7 La Familia P. Luche 
-http://magi-stv.net:8080/Joseluis/Joseluis123/200378
-#EXTINF:-1,24/7 La Rosa de Guadalupe
-http://magi-stv.net:8080/Joseluis/Joseluis123/180593
-#EXTINF:-1,24/7 Las Pistas de Blue
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090906
-#EXTINF:-1,24/7 Las Tortugas Ninja
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090968
-#EXTINF:-1,24/7 Los Años Maravillosos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090984
-#EXTINF:-1,24/7 Los Backyardigans
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090907
-#EXTINF:-1,24/7 Los Castores Cascarrabias
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090908
-#EXTINF:-1,24/7 Los Muppet Babys
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090910
-#EXTINF:-1,24/7 Los Padrinos Magicos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090909
-#EXTINF:-1,24/7 Los Supersonicos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090990
-#EXTINF:-1,24/7 MARVEL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090921
-#EXTINF:-1,24/7 Marvel Saga Infinito
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133201
-#EXTINF:-1,24/7 Mi Pequeño Pony
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090911
-#EXTINF:-1,24/7 Movies Jim Carrey
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090941
-#EXTINF:-1,24/7 M| Cinema 01
-http://magi-stv.net:8080/Joseluis/Joseluis123/210808
-#EXTINF:-1,24/7 M| Cinema 02
-http://magi-stv.net:8080/Joseluis/Joseluis123/210809
-#EXTINF:-1,24/7 M| Cinema 03
-http://magi-stv.net:8080/Joseluis/Joseluis123/210810
-#EXTINF:-1,24/7 M| Cinema 05
-http://magi-stv.net:8080/Joseluis/Joseluis123/210812
-#EXTINF:-1,24/7 M| Cinema 06
-http://magi-stv.net:8080/Joseluis/Joseluis123/210813
-#EXTINF:-1,24/7 M| Cinema 07
-http://magi-stv.net:8080/Joseluis/Joseluis123/210814
-#EXTINF:-1,24/7 M| Cinema 08
-http://magi-stv.net:8080/Joseluis/Joseluis123/210815
-#EXTINF:-1,24/7 M| Cinema 09
-http://magi-stv.net:8080/Joseluis/Joseluis123/210816
-#EXTINF:-1,24/7 M| Cinema 10
-http://magi-stv.net:8080/Joseluis/Joseluis123/210817
-#EXTINF:-1,24/7 M| Cinema 11
-http://magi-stv.net:8080/Joseluis/Joseluis123/210818
-#EXTINF:-1,24/7 M| Cinema 12
-http://magi-stv.net:8080/Joseluis/Joseluis123/210819
-#EXTINF:-1,24/7 M| Cinema 13
-http://magi-stv.net:8080/Joseluis/Joseluis123/210820
-#EXTINF:-1,24/7 M| Cinema 14
-http://magi-stv.net:8080/Joseluis/Joseluis123/210821
-#EXTINF:-1,24/7 M| Cinema 15
-http://magi-stv.net:8080/Joseluis/Joseluis123/210822
-#EXTINF:-1,24/7 M| Cinema 16
-http://magi-stv.net:8080/Joseluis/Joseluis123/210823
-#EXTINF:-1,24/7 M| Cinema 17
-http://magi-stv.net:8080/Joseluis/Joseluis123/210824
-#EXTINF:-1,24/7 M| Cinema 18
-http://magi-stv.net:8080/Joseluis/Joseluis123/210825
-#EXTINF:-1,24/7 M| Cinema 19
-http://magi-stv.net:8080/Joseluis/Joseluis123/210826
-#EXTINF:-1,24/7 M| Cinema 20
-http://magi-stv.net:8080/Joseluis/Joseluis123/210827
-#EXTINF:-1,24/7 M| Cinema 21
-http://magi-stv.net:8080/Joseluis/Joseluis123/210828
-#EXTINF:-1,24/7 M| Cinema 22
-http://magi-stv.net:8080/Joseluis/Joseluis123/210829
-#EXTINF:-1,24/7 M| Cinema 23
-http://magi-stv.net:8080/Joseluis/Joseluis123/210830
-#EXTINF:-1,24/7 M| Cinema 24
-http://magi-stv.net:8080/Joseluis/Joseluis123/210831
-#EXTINF:-1,24/7 M| Cinema 25
-http://magi-stv.net:8080/Joseluis/Joseluis123/210832
-#EXTINF:-1,24/7 M|Moviecenter Premium Oeste ⁽ᴴᴰ⁾
-http://magi-stv.net:8080/Joseluis/Joseluis123/186335
-#EXTINF:-1,24/7 M|Peliculas Marvel
-http://magi-stv.net:8080/Joseluis/Joseluis123/177987
-#EXTINF:-1,24/7 M|Películas Drama
-http://magi-stv.net:8080/Joseluis/Joseluis123/203983
-#EXTINF:-1,24/7 M|Películas Fantasía
-http://magi-stv.net:8080/Joseluis/Joseluis123/203984
-#EXTINF:-1,24/7 NARCOS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090920
-#EXTINF:-1,24/7 Padre de familia
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091023
-#EXTINF:-1,24/7 Paw Patroll
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090912
-#EXTINF:-1,24/7 PELICULAS ESTRENOS 2022
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133347
-#EXTINF:-1,24/7 Pocoyo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090913
-#EXTINF:-1,24/7 Scooby Doo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090914
-#EXTINF:-1,24/7 Shark Thank
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133765
-#EXTINF:-1,24/7 Super Agente 86
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133394
-#EXTINF:-1,24/7 S| Alerta Aeropuerto
-http://magi-stv.net:8080/Joseluis/Joseluis123/203977
-#EXTINF:-1,24/7 The Flash
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133349
-#EXTINF:-1,24/7 Timon y Pumbaa
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090916
-#EXTINF:-1,24/7 Tiroloco
-http://magi-stv.net:8080/Joseluis/Joseluis123/2131773
-#EXTINF:-1,24/7 Tom Y Jerry
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090915
-#EXTINF:-1,24/7 Vecinos 
-http://magi-stv.net:8080/Joseluis/Joseluis123/189870
-#EXTINF:-1,24/7 Walker Texas Ranger
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090985
-#EXTINF:-1,24/7 Xena La Princesa Guerrera Temp 1
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090986
-#EXTINF:-1,24/7 | Aaahhh Monstruos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090870
-#EXTINF:-1,24/7 | Acapulco Shore FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090991
-#EXTINF:-1,24/7 | Alf
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090973
-#EXTINF:-1,24/7 | Animaniacs
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090871
-#EXTINF:-1,24/7 | Bleyblade
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090872
-#EXTINF:-1,24/7 | Bob Esponja
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090873
-#EXTINF:-1,24/7 | Buzz Lightyear
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090874
-#EXTINF:-1,24/7 | Castores Cascarravias
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090875
-#EXTINF:-1,24/7 | Cat Dog
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090876
-#EXTINF:-1,24/7 | Como Dice El Dicho
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090993
-#EXTINF:-1,24/7 | Coraje El Perro Cobarde
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090877
-#EXTINF:-1,24/7 | CSI Miami
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090994
-#EXTINF:-1,24/7 | Death Note
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090995
-#EXTINF:-1,24/7 | Desafío de fuego
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090992
-#EXTINF:-1,24/7 | DesEncanto
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090996
-#EXTINF:-1,24/7 | Digimon
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090878
-#EXTINF:-1,24/7 | Dinosaurios
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090879
-#EXTINF:-1,24/7 | DON GATO Y SU PANDILLA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090953
-#EXTINF:-1,24/7 | Dora la Exploradora
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090880
-#EXTINF:-1,24/7 | Dr. House
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090997
-#EXTINF:-1,24/7 | Dragon Ball
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090998
-#EXTINF:-1,24/7 | Dragon Ball Super 1
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090999
-#EXTINF:-1,24/7 | Dragon Ball Super 2
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091000
-#EXTINF:-1,24/7 | Dragon Ball Z Saga Cell
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091001
-#EXTINF:-1,24/7 | El Chapulin Colorado
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090974
-#EXTINF:-1,24/7 | El Chavo Animado
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090881
-#EXTINF:-1,24/7 | El Chavo del 8
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090975
-#EXTINF:-1,24/7 | El Coyote y el Correcaminos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090952
-#EXTINF:-1,24/7 | El Laboratorio de Dexter
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090882
-#EXTINF:-1,24/7 | El Mentalista
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091002
-#EXTINF:-1,24/7 | El Mundo de Beakman
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090883
-#EXTINF:-1,24/7 | El Pajaro Loco
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090884
-#EXTINF:-1,24/7 | El Principe del Rap
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091003
-#EXTINF:-1,24/7 | El show de los Looney Tunes
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090899
-#EXTINF:-1,24/7 | En Familia con Chabelo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090885
-#EXTINF:-1,24/7 | Escandalosos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090886
-#EXTINF:-1,24/7 | Escobar: el patron del mal
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091004
-#EXTINF:-1,24/7 | Extranormal
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091005
-#EXTINF:-1,24/7 | Futurama
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091006
-#EXTINF:-1,24/7 | GRAVITY FALL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090903
-#EXTINF:-1,24/7 | Hechizada
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090976
-#EXTINF:-1,24/7 | Jimmy Neutron
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090887
-#EXTINF:-1,24/7 | Johnny Bravo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090888
-#EXTINF:-1,24/7 | Juego del Calamar
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091008
-#EXTINF:-1,24/7 | La Casa de Micky Mouse
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090889
-#EXTINF:-1,24/7 | La Casa de Papel
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091009
-#EXTINF:-1,24/7 | La Familia Peluche
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091010
-#EXTINF:-1,24/7 | La Hora Pico
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091011
-#EXTINF:-1,24/7 | La Ninera
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090977
-#EXTINF:-1,24/7 | La Pantera Rosa
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090971
-#EXTINF:-1,24/7 | La Rosa de Guadalupe
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091012
-#EXTINF:-1,24/7 | Ladybug
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090890
-#EXTINF:-1,24/7 | Le Temes a la Oscuridad
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090972
-#EXTINF:-1,24/7 | Los Gatos Samurai
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090891
-#EXTINF:-1,24/7 | Los Picapiedra
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090989
-#EXTINF:-1,24/7 | Los Simpson
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091013
-#EXTINF:-1,24/7 | Los Simpson HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091014
-#EXTINF:-1,24/7 | Los Simpson New HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091015
-#EXTINF:-1,24/7 | Los Simpsons Casitas del Horror
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091016
-#EXTINF:-1,24/7 | Los Thundercats
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090987
-#EXTINF:-1,24/7 | MASHA Y EL OSO
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091359
-#EXTINF:-1,24/7 | Mr Bean
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090988
-#EXTINF:-1,24/7 | Peppa Pig
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090892
-#EXTINF:-1,24/7 | Phineas y Ferb
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090893
-#EXTINF:-1,24/7 | Pokemon
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090894
-#EXTINF:-1,24/7 | Power Rangers 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090895
-#EXTINF:-1,24/7 | Rick y Morty
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091020
-#EXTINF:-1,24/7 | Sailor Moon Crystal
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090900
-#EXTINF:-1,24/7 | South Park
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091021
-#EXTINF:-1,24/7 | Teen Titans Go
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090896
-#EXTINF:-1,24/7 | The Big Bang Theory
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091018
-#EXTINF:-1,24/7 | The Walking Dead
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091019
-#EXTINF:-1,24/7 | Vaca y Pollito
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090897
-#EXTINF:-1,24/7 | Yu Gi Oh
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090898
-#EXTINF:-1,24/7:  xmen
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090962
-#EXTINF:-1,24/7: CINE ACCION HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090923
-#EXTINF:-1,24/7: CINE COMEDIA 1
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090924
-#EXTINF:-1,24/7: CINE COMEDIA 2
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090925
-#EXTINF:-1,24/7: CINE FANTASIA 2
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090926
-#EXTINF:-1,24/7: CINE FANTASIA HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090927
-#EXTINF:-1,24/7: CINE FANTASIA SAGAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090928
-#EXTINF:-1,24/7: CINE INFANTIL HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090930
-#EXTINF:-1,24/7: CINE ROMANCE
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090931
-#EXTINF:-1,24/7: CINE ROMANCE HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090932
-#EXTINF:-1,24/7: CINE TERROR
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090933
-#EXTINF:-1,24/7: CINE TERROR HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090934
-#EXTINF:-1,24/7: CINE ZOMBIES
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090935
-#EXTINF:-1,24/7: El chapuli­n colorado
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090980
-#EXTINF:-1,24/7: El chavo del 8
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091028
-#EXTINF:-1,24/7: he man
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090961
-#EXTINF:-1,24/7: Los locos Addams
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090981
-#EXTINF:-1,24/7: Malcolm
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091027
-#EXTINF:-1,24/7: Mazingerz
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090956
-#EXTINF:-1,24/7: naruto
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090902
-#EXTINF:-1,24/7: peliculas estrenos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090936
-#EXTINF:-1,24/7: pinky
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090901
-#EXTINF:-1,24/7: robotech
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090959
-#EXTINF:-1,24/7: shera
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090969
-#EXTINF:-1,24/7: Smallville
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091024
-#EXTINF:-1,24/7: South Park
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091026
-#EXTINF:-1,24/7: Spiderman
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090970
-#EXTINF:-1,24/7: Strangerthings
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091025
-#EXTINF:-1,24/7: Super campeones
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090960
-#EXTINF:-1,24/7: Superman Animated
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151280
-#EXTINF:-1,24/7:  La Leyenda del Tesoro Perdido
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151286
-#EXTINF:-1,24/7: Halloween
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151307
-#EXTINF:-1,24/7: Mission Impossible
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151332
-#EXTINF:-1,24/7: Hercules Animated
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151354
-#EXTINF:-1,24/7: South Park
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151356
-#EXTINF:-1,24/7: Adventure Time
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151380
-#EXTINF:-1,24/7: King Rider
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151382
-#EXTINF:-1,24/7: Tom and Jerry in New York
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151385
-#EXTINF:-1,24/7: Game of Thrones
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151387
-#EXTINF:-1,24/7: Pokemon
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151390
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3786
+#EXTINF:-1, HBO FAMILY
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3787
+#EXTINF:-1,HBO Plus HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3788
+#EXTINF:-1,HBO Xtreme
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3789
+#EXTINF:-1,HBO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3790
+#EXTINF:-1,HBO FHD  DUAL AUDIO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/3793
+EXTINF:-1,UFC Network
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/23748
+#EXTINF:-1, UFC TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/23749
+#EXTINF:-1,STAR ACTION
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1421
+#EXTINF:-1,HBO Plus HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1422
+#EXTINF:-1,HBO Signature HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1423
+#EXTINF:-1,HBO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1424
+#EXTINF:-1,HBO 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1425
+#EXTINF:-1,HBO XTREME
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1426
+#EXTINF:-1,HBO POP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1427
+#EXTINF:-1,Az Clic
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1428
+#EXTINF:-1,AZTECA 7 SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1429
+#EXTINF:-1,Azteca 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1430
+#EXTINF:-1,Hola TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1431
+#EXTINF:-1,Mas Chic
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1432
+#EXTINF:-1,GALA TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1433
+#EXTINF:-1,Unicable
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1434
+#EXTINF:-1,AZ Corazon
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1435
+#EXTINF:-1,Comedy Central
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1436
+#EXTINF:-1,Garage TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1437
+#EXTINF:-1,Glitz
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1438
+#EXTINF:-1,Distrito Comedia
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1439
+#EXTINF:-1,TL NOVELAS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1440
+#EXTINF:-1,AZ Mundo
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1441
+#EXTINF:-1,AZ Cinema
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1442
+#EXTINF:-1,Sundance TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1443
+#EXTINF:-1,Mexiquice
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1444
+#EXTINF:-1,TELEVISA MONTERREY
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1445
+#EXTINF:-1,Hola TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1446
+#EXTINF:-1,Mas Chic
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1447
+#EXTINF:-1,GALA TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1448
+#EXTINF:-1,Unicable
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1449
+#EXTINF:-1,ESTRELLA TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1450
+#EXTINF:-1,FORO TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1451
+#EXTINF:-1,CANAL ONCE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1452
+#EXTINF:-1,AZTECA UNO HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1453
+#EXTINF:-1,MILENIO TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1454
+#EXTINF:-1,De Pelicula
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1455
+#EXTINF:-1,DE PELICULAS PLUS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1456
+#EXTINF:-1,De Pelicula Classico
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1457
+#EXTINF:-1,MTV 00's
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1458
+#EXTINF:-1,ADN 40 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1459
+#EXTINF:-1,AZ CINEMA HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1460
+#EXTINF:-1,AZTECA CORAZON SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1461
+#EXTINF:-1,AZTECA CORAZON HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1462
+#EXTINF:-1,AZTECA MUNDO SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1463
+#EXTINF:-1,AZTECA MUNDO HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1464
+#EXTINF:-1,CANAL DE LAS ESTRELLAS SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1470
+#EXTINF:-1,CANAL DE LAS ESTRELLAS HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1471
+#EXTINF:-1,CANAL ONCE HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1472
+#EXTINF:-1,MEXIQUICE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1473
+#EXTINF:-1,MULTIMEDIOS PLUS HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1474
+#EXTINF:-1,TELENOVELAS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1475
+#EXTINF:-1,AZTECA 1 FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1476
+#EXTINF:-1,AZTECA CINEMA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1477
+#EXTINF:-1,ADN 40 SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1478
+#EXTINF:-1,TELENOVELA SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1479
+#EXTINF:-1,IMAGENTV HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1480
+#EXTINF:-1,Estrella TV HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1481
+#EXTINF:-1,DISTRITO COMEDIA SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1482
+#EXTINF:-1,ONCE NINOS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1483
+#EXTINF:-1,GALAVISION HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1484
+#EXTINF:-1,BITME HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1485
+#EXTINF:-1,BITME SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1486
+#EXTINF:-1,MX : AFIZZIONADOS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1487
+#EXTINF:-1,FORO TV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1488
+#EXTINF:-1,FORO TV HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1489
+#EXTINF:-1,TVC DEPORTES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1490
+#EXTINF:-1,AYM SPORT
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1491
+#EXTINF:-1,FOX SPORTS 1 SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1492
+#EXTINF:-1,FOX SPORTS 1 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1493
+#EXTINF:-1,FOX SPORTS 2 HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1494
+#EXTINF:-1,FOX SPORTS 3 SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1495
+#EXTINF:-1,SKY SPORTS LA LIGA HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1500
+#EXTINF:-1,UNIVISION MEXICO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1501
+#EXTINF:-1,CINE DINAMITA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1506
+#EXTINF:-1,MLS 01
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/490
+#EXTINF:-1,MLS 02 | 7.30 PM ET | 	New York RB vs Cincinnati
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/491
+#EXTINF:-1,MLS 03 | 8:30 PM ET | 	Chicago Fire vs CF Montréal
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/492
+#EXTINF:-1,MLS 04 | 8:30PM ET | 	Houston Dynamo vs Minnesota United
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/493
+#EXTINF:-1,MLS 05 | 8:30PM ET | Sporting KC vs Real Salt Lake
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/494
+#EXTINF:-1,MLS 06 | 8:30PM ET | Nashville SC vs Philadelphia Union
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/495
+#EXTINF:-1,MLS 07 | 10:30PM ET | SJ Earthquakes vs Seattle Sounders FC
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/496
+#EXTINF:-1,MLS 08 | 10:30PM ET | Vancouver Whitecaps vs Austin
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/497
+#EXTINF:-1,MLS 09 | 10:30PM ET | 	Los Angeles FC vs St. Louis City
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/498
+#EXTINF:-1,MLS 10 | OFF
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/499
+#EXTINF:-1,MLS 11 | 9:30PM ET | OFF
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/500
+#EXTINF:-1,MLS 12 | 10:30PM ET | OFF
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/501
+#EXTINF:-1,MLS 13 | 10:30PM ET | OFF
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/502
+#EXTINF:-1,MLS 14 |  10:30PM ET | OFF
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/503
+#EXTINF:-1,MLS 15 | OFFLINE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/504
+#EXTINF:-1,Vevo '70s
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8663
+#EXTINF:-1,Vevo '80s
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8664
+#EXTINF:-1,Vevo '90s
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8665
+#EXTINF:-1,Vevo 2K
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8666
+#EXTINF:-1,Vevo Country
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8667
+#EXTINF:-1,Vevo Latino
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8668
+#EXTINF:-1,Vevo Pop
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8669
+#EXTINF:-1,Vevo R&B
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8670
+#EXTINF:-1,Vevo Reggaetón & Trap
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8671
+#EXTINF:-1,Bandamax
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8679
+#EXTINF:-1,MTV
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8680
+#EXTINF:-1,MTV Live
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8681
+#EXTINF:-1,MTV Hits
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8682
+#EXTINF:-1,MTV Classics
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8683
+#EXTINF:-1,Telehit
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8684
+#EXTINF:-1,Telehit Musica
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8685
+#EXTINF:-1,Concert Channel
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8686
+#EXTINF:-1,VH1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8687
+#EXTINF:-1,VH1 Classics
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8688
+#EXTINF:-1,M+  CINE Ñ SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/70
+#EXTINF:-1,M+ CINE Ñ HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/71
+#EXTINF:-1,M+ CINE Ñ FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/72
+#EXTINF:-1,M+ CINE SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/73
+#EXTINF:-1,M+ CINE HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/74
+#EXTINF:-1,M+  CINE FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/75
+#EXTINF:-1,M+ CINE FHD (FIBRA)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/700
+#EXTINF:-1,M+ INDIE SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/76
+#EXTINF:-1,M+ INDIE HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/77
+#EXTINF:-1,M+ INDIE FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/78
+#EXTINF:-1,M+ ACCION SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/79
+#EXTINF:-1,M+ ACCION HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/80
+#EXTINF:-1,M+ ACCION FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/81
+#EXTINF:-1,M+ ACCION FHD (FIBRA)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/695
+#EXTINF:-1,M+ COMEDIA SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/82
+#EXTINF:-1,M+ COMEDIA HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/83
+#EXTINF:-1,M+ COMEDIA FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/84
+#EXTINF:-1,M+ COMEDIA FHD (FIBRA)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/696
+#EXTINF:-1,M+ DRAMA SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/85
+#EXTINF:-1,M+ DRAMA HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/86
+#EXTINF:-1,M+ DRAMA FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/87
+#EXTINF:-1,M+ DRAMA FHD (FIBRA)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/698
+#EXTINF:-1,M+ CLASICOS SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/88
+#EXTINF:-1,M+ CLASICOS HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/89
+#EXTINF:-1,M+ CLASICOS FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/90
+#EXTINF:-1,M+ CLASICOS FHD (FIBRA)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/699
+#EXTINF:-1,M+ CRACKS SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/93
+#EXTINF:-1,M+CRACKS HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/92
+#EXTINF:-1,M+ CRACKS FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/91
+#EXTINF:-1,M+  SERIES SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/96
+#EXTINF:-1,M+ SERIES HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/97
+#EXTINF:-1,M+  SERIES FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/98
+#EXTINF:-1,M+ SERIES FHD (FIBRA)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/705
+#EXTINF:-1,M+ SUSPENSE SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/99
+#EXTINF:-1,M+ SUSPENSE HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/100
+#EXTINF:-1,M+ SUSPENSE FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/101
+#EXTINF:-1,ALQUILER 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/103
+#EXTINF:-1,ALQUILER 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/104
+#EXTINF:-1,ALQUILER 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/105
+#EXTINF:-1,ALQUILER 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/106
+#EXTINF:-1,ALQUILER 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/107
+#EXTINF:-1,ALQUILER 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/108
+#EXTINF:-1,ALQUILER 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/109
+#EXTINF:-1,ALQUILER 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/110
+#EXTINF:-1,ALQUILER 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/111
+#EXTINF:-1,ALQUILER 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/112
+#EXTINF:-1,BOM CINE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/136
+#EXTINF:-1,BOM CINE HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/137
+#EXTINF:-1,BOM CINE FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/138
+#EXTINF:-1,MyTIME MOVIE NETWORK
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/163
+#EXTINF:-1,M+ PLUS SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12110
+#EXTINF:-1,M+ PLUS HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/14128
+#EXTINF:-1,M+ PLUS FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/14132
+#EXTINF:-1,M+ PLUS 2 FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/23378
+#EXTINF:-1,Cine FRIKI HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12151
+#EXTINF:-1,CANAL DE INFORMACION SERIES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34669
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/328
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/329
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/330
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD (FIBRA)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/718
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/331
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/332
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/333
+#EXTINF:-1,NAT GEO WILD FHD (FIBRA)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/719
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/334
+#EXTINF:-1,DISCOVERY CHANNEL  HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/335
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/336
+#EXTINF:-1,CAZA Y PESCA SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/350
+#EXTINF:-1,CAZA Y PESCA HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/351
+#EXTINF:-1,CAZA Y PESCA FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/352
+#EXTINF:-1,IBERALIA 100% PESCA FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/353
+#EXTINF:-1,IBERALIA TV SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/354
+#EXTINF:-1,IBERALIA TV HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/355
+#EXTINF:-1,IBERALIA TV FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/356
+#EXTINF:-1,IBERALIA 100% CAZA FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/357
+#EXTINF:-1,CAZAVISION SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/358
+#EXTINF:-1,CAZAVISION HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/359
+#EXTINF:-1,ESCAPA TV FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/364
+#EXTINF:-1,CANAL ORBE 21
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/410
+#EXTINF:-1,Documentales Putin/Rusia
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4200
+#EXTINF:-1,Documentales Ucrania
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4201
+#EXTINF:-1,Documentales de Futbol
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4202
+#EXTINF:-1,Documentales de F1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4203
+#EXTINF:-1,Documentales de MotoGP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4204
+#EXTINF:-1,Documentales sobre Egipto
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4205
+#EXTINF:-1,Documentales sobre Redes sociales
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4206
+#EXTINF:-1,Documentales sobre Animales
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4207
+#EXTINF:-1,Documentales de historias
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4208
+#EXTINF:-1,Documentales de España
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4209
+#EXTINF:-1,NATURE TIME FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4439
+#EXTINF:-1,NAUTICAL SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/6226
+#EXTINF:-1,M+ Documentales SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/12107
+#EXTINF:-1,M+ Documentales HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/14126
+#EXTINF:-1,M+ Documentales FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/14131
+#EXTINF:-1,24/7: ALF
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8757
+#EXTINF:-1,24/7: ALF
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8792
+#EXTINF:-1,24/7: ANIMANIACS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8803
+#EXTINF:-1,24/7: BARON ROJO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8791
+#EXTINF:-1,24/7: BATMAN LA SERIE ANIMADA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8767
+#EXTINF:-1,24/7: BEN 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8723
+#EXTINF:-1,24/7: BEN 10 FUERZA ALIENIGENA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8724
+#EXTINF:-1,24/7: BIRDMAN
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8776
+#EXTINF:-1,24/7: BOB ESPONJA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8703
+#EXTINF:-1,24/7: BOB ESPONJA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8704
+#EXTINF:-1,24/7: BREAKING BAD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8804
+#EXTINF:-1,24/7: CABALLEROS DEL ZODIACO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8737
+#EXTINF:-1,24/7: CANTINFLAS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8778
+#EXTINF:-1,24/7: CANTINFLAS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8795
+#EXTINF:-1,24/7: CHAPULIN COLORADO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8716
+#EXTINF:-1,24/7: CHAPULIN COLORADO ANIMADO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8717
+#EXTINF:-1,24/7: CHESPIRITO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8718
+#EXTINF:-1,24/7: CORAJE EL PERRO COBARDE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8750
+#EXTINF:-1,24/7: CORAJE EL PERRO COBARDE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8775
+#EXTINF:-1,24/7: CSI MIAMI
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8805
+#EXTINF:-1,24/7: DANIEL EL TRAVIESO 1986
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8759
+#EXTINF:-1,24/7: DICK TRACY
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8773
+#EXTINF:-1,24/7: DIGIMON ADVENTURE 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8790
+#EXTINF:-1,24/7: DINOSAURIOS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8751
+#EXTINF:-1,24/7: DON GATO Y SU PANDILLA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8772
+#EXTINF:-1,24/7: DORAEMON
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8694
+#EXTINF:-1,24/7: DRAGON BALL
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8707
+#EXTINF:-1,24/7: DRAGON BALL GT
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8709
+#EXTINF:-1,24/7: DRAGON BALL HEROES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8710
+#EXTINF:-1,24/7: DUCK DODGERS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8789
+#EXTINF:-1,24/7: EL CHAVO DEL 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8715
+#EXTINF:-1,24/7: EL CONDE PATULA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8774
+#EXTINF:-1,24/7: EL ESPECTACULAR HOMBRE ARAÑA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8784
+#EXTINF:-1,24/7: EL GALLO CLAUDIO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8806
+#EXTINF:-1,24/7: EL PAJARO LOCO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8719
+#EXTINF:-1,24/7: EL PAJARO LOCO (1)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8720
+#EXTINF:-1,24/7: EL PRINCIPE DEL RAP
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8802
+#EXTINF:-1,24/7: EL SHOW DE LA PEQUEÑA LU LU
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8771
+#EXTINF:-1,24/7: EL SHOW DE LOS LOONEY TUNES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8788
+#EXTINF:-1,24/7: FAMILY GUY
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8753
+#EXTINF:-1,24/7: FENOMENOIDE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8770
+#EXTINF:-1,24/7: GAMES OF THRONES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8752
+#EXTINF:-1,24/7: GARFIELD Y SUS AMIGOS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8769
+#EXTINF:-1,24/7: GASPARIN Y SUS AMIGOS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8777
+#EXTINF:-1,24/7: GRAVITY FALLS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8782
+#EXTINF:-1,24/7: HALCONES GALACTICOS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8793
+#EXTINF:-1,24/7: HEY ARNOLD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8721
+#EXTINF:-1,24/7: HEY ARNOLD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8722
+#EXTINF:-1,24/7: HI-MAN
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8761
+#EXTINF:-1,24/7: INFANTILES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8794
+#EXTINF:-1,24/7: IRON MAN 1994
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8768
+#EXTINF:-1,24/7: JORGE EL CURIOSO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8749
+#EXTINF:-1,24/7: LA FAMILIA MONSTER
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8807
+#EXTINF:-1,24/7: LA HORA PICO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8808
+#EXTINF:-1,24/7: LA LEY DE MILO MURPHY
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8781
+#EXTINF:-1,24/7: LA PANTERA ROSA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8746
+#EXTINF:-1,24/7: LA ROSA DE GUADALUPE
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8809
+#EXTINF:-1,24/7: LAS NUEVAS AVENTURAS DE HI-MAN
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8760
+#EXTINF:-1,24/7: LE TEMES A LA OSCURIDAD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8810
+#EXTINF:-1,24/7: LOONEY TUNES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8801
+#EXTINF:-1,24/7: LOONEY TUNES PLATINUM COLLECTION
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8758
+#EXTINF:-1,24/7: LOS AÑOS MARAVILLOSOS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8811
+#EXTINF:-1,24/7: LOS CABALLEROS DEL ZODIACO SANTUARIO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8738
+#EXTINF:-1,24/7: LOS PICAPIEDRA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8730
+#EXTINF:-1,24/7: LOS PICAPIEDRAS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8731
+#EXTINF:-1,24/7: LOS PICAPIEDRAS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8732
+#EXTINF:-1,24/7: LOS SIMPSON
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8697
+#EXTINF:-1,24/7: LOS SIMPSON (1-5)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8698
+#EXTINF:-1,24/7: LOS SIMPSON (12-17)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8699
+#EXTINF:-1,24/7: LOS SIMPSON (18-21)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8700
+#EXTINF:-1,24/7: LOS SIMPSON (22-26)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8701
+#EXTINF:-1,24/7: LOS SIMPSON (27-30)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8702
+#EXTINF:-1,24/7: LOS SUPERCAMPEONES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8692
+#EXTINF:-1,24/7: MALCOLM
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8745
+#EXTINF:-1,24/7: MALCOM
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8787
+#EXTINF:-1,24/7: MEGAMAN
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8786
+#EXTINF:-1,24/7: MI BELLA GENIO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8785
+#EXTINF:-1,24/7: MIRACULOUS LAS AVENTURAS DE LADYBUG
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8780
+#EXTINF:-1,24/7: MR BEAN
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8756
+#EXTINF:-1,24/7: NARUTO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8743
+#EXTINF:-1,24/7: ONE PUNCH MAN
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8800
+#EXTINF:-1,24/7: ONE PUNCH MAN
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8812
+#EXTINF:-1,24/7: PADRE DE FAMILIA (1 - 9)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8725
+#EXTINF:-1,24/7: PADRE DE FAMILIA (10-14)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8726
+#EXTINF:-1,24/7: PATO AVENTURAS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8779
+#EXTINF:-1,24/7: PATO AVENTURAS 1987
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8783
+#EXTINF:-1,24/7: PEPPA PIG (1-2)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8744
+#EXTINF:-1,24/7: PHINEAS & FERB
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8693
+#EXTINF:-1,24/7: PINKI ELVIRA & CEREBRO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8742
+#EXTINF:-1,24/7: PINKY & CEREBRO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8741
+#EXTINF:-1,24/7: POKEMON
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8695
+#EXTINF:-1,24/7: RANMA ½
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8705
+#EXTINF:-1,24/7: RANMA ½
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8706
+#EXTINF:-1,24/7: RICOCHET RABBIT Y DROOP A LONG
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8763
+#EXTINF:-1,24/7: ROBOTECH
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8766
+#EXTINF:-1,24/7: SAKURA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8755
+#EXTINF:-1,24/7: SAMURAI
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8799
+#EXTINF:-1,24/7: SCOOBY DOO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8727
+#EXTINF:-1,24/7: SCOOBY DOO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8728
+#EXTINF:-1,24/7: SCOOBY DOO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8729
+#EXTINF:-1,24/7: SMALLVILLELA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8798
+#EXTINF:-1,24/7: SONIC Y SU BANDA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8747
+#EXTINF:-1,24/7: SOUTH PARK
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8797
+#EXTINF:-1,24/7: SOUTH PARK (1)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8734
+#EXTINF:-1,24/7: SOUTH PARK (11-22)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8733
+#EXTINF:-1,24/7: SPIDERMAN
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8696
+#EXTINF:-1,24/7: STAR TREK
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8765
+#EXTINF:-1,24/7: THE BIG BANG THEORY
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8796
+#EXTINF:-1,24/7: THE BIG BANG THEORY (1-6)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8739
+#EXTINF:-1,24/7: THE BIG BANG THEORY (7 - 12)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8740
+#EXTINF:-1,24/7: THUNDERCATS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8764
+#EXTINF:-1,24/7: TOM & JERRY
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8735
+#EXTINF:-1,24/7: TOM & JERRY
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8736
+#EXTINF:-1,24/7: TRANSFORMERS ARMADA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8762
+#EXTINF:-1,24/7: TROLLHUNTERS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8813
+#EXTINF:-1,24/7: TWO AND A HALF
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8754
+#EXTINF:-1,24/7: XMEN
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8748
+#EXTINF:-1,24/7: YU-GI-OH
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8712
+#EXTINF:-1,24/7: YU-GI-OH
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8713
+#EXTINF:-1,24/7: YU-GI-OH
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/8714
+#EXTINF:-1,ADA MAGNIFICA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4308
+#EXTINF:-1,Alvin y las Ardillas
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4264
+#EXTINF:-1,Bob Esponja
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4261
+#EXTINF:-1,Calle Dalmatas 101
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4265
+#EXTINF:-1,Charlie en Villa
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/437
+#EXTINF:-1,Cocomelon ES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4253
+#EXTINF:-1,DRAGONES CARRERA
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4309
+#EXTINF:-1,Gudetama DelCascaronAL Aventura
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4266
+#EXTINF:-1,La Banda Del Pat
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/434
+#EXTINF:-1,La Casa De Micky Mouse 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4250
+#EXTINF:-1,La Casa De Micky Mouse 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4251
+#EXTINF:-1,La Casa De Micky Mouse 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4252
+#EXTINF:-1,La Casa De Muñecas De Gabby
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4262
+#EXTINF:-1,La Patrulla Canina
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4256
+#EXTINF:-1,la sirenita
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4267
+#EXTINF:-1,LEGO Ninjago Maestros del Spinjitzu
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4268
+#EXTINF:-1,Little Einsteins
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4386
+#EXTINF:-1,Looney Tunes ES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4260
+#EXTINF:-1,los osos Gummie
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4269
+#EXTINF:-1,Los Vengadores unidos
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4270
+#EXTINF:-1,Masha y eloso
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4263
+#EXTINF:-1,Miraculous
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4258
+#EXTINF:-1,Oggy Oggy
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/436
+#EXTINF:-1,Patatín y Patatón
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4388
+#EXTINF:-1,Patoaventuras
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/435
+#EXTINF:-1,Patrulla De Cachorros
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4259
+#EXTINF:-1,Peppa Pig ES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4255
+#EXTINF:-1,POCOYO
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4254
+#EXTINF:-1,Pokemon ES
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4271
+#EXTINF:-1,Pregunta StoryBo
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/430
+#EXTINF:-1,Rapidos y furios
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/431
+#EXTINF:-1,Sam ElBombero
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/432
+#EXTINF:-1,Scooby Doo
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4257
+#EXTINF:-1,Talking Tom and friends spanish
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4272
+#EXTINF:-1,Tibucan
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/433
+#EXTINF:-1,Tom & Jerry 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4245
+#EXTINF:-1,Tom & Jerry 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4246
+#EXTINF:-1,Tom & Jerry 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4247
+#EXTINF:-1,Tom & Jerry 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4248
+#EXTINF:-1,Tom & Jerry 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4249
+#EXTINF:-1,Ultimate Spider Man
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4273
+#EXTINF:-1,vamos aprender
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4274
+#EXTINF:-1,Viva el Rey Julien
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4387
+#EXTINF:-1,Yo-Kai Watch
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4275
+#EXTINF:-1,Marvel Series
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4198
+#EXTINF:-1,Marvel Películas
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4199
+#EXTINF:-1,Fast & Furious
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4277
+#EXTINF:-1,X - Men
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4279
+#EXTINF:-1,Star Wars
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4280
+#EXTINF:-1,Destino final
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4281
+#EXTINF:-1,El padrino
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4282
+#EXTINF:-1,Piratas Del Caribe
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4283
+#EXTINF:-1,Harry Potter
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4284
+#EXTINF:-1,Resident Evil
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4285
+#EXTINF:-1,Transformer
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4286
+#EXTINF:-1,La Peor Bruja
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4287
+#EXTINF:-1,Cacientifica
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4288
+#EXTINF:-1,Mi mascota magic Morphle
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4289
+#EXTINF:-1,Arma Letal
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4290
+#EXTINF:-1,Mision Imposible
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4291
+#EXTINF:-1,Los Juegos del Hambre
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4292
+#EXTINF:-1,Matrix
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4293
+#EXTINF:-1,Spiderman
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4294
+#EXTINF:-1,Saw
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4295
+#EXTINF:-1,Scream
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4296
+#EXTINF:-1,Jungla de Cristal
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4297
+#EXTINF:-1,Parque Jurasico
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4298
+#EXTINF:-1,Marvel  1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4299
+#EXTINF:-1,Marvel 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4300
+#EXTINF:-1,Marvel  3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4301
+#EXTINF:-1,Marvel  4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4302
+#EXTINF:-1,Marvel  5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4303
+#EXTINF:-1,Marvel  6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4304
+#EXTINF:-1,UNIVERSO D.C.  1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4305
+#EXTINF:-1,UNIVERSO DC  2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4306
+#EXTINF:-1,UNIRVERSO DC  3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4307
+#EXTINF:-1,AQUI NO HAY QUIEN VIVA 24/7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/22017
+#EXTINF:-1,FISICA O QUIMICA 24/7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/22018
+#EXTINF:-1,EQUIPO DE INVESTIGACION 24/7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/22019
+#EXTINF:-1,EL CLUB DE LA COMEDIA 24/7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/22020
+#EXTINF:-1,EL HORMIGUERO 24/7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/22021
+#EXTINF:-1,A3player CLASICOS 24/7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/22022
+#EXTINF:-1,A3player MULTICINE [24/7]
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/22023
+#EXTINF:-1,A3player INQUIETOS 24/7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/22024
+#EXTINF:-1,A3player Flooxer 24/7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/22025
+#EXTINF:-1,A3player KIDZ 24/7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/22026
+#EXTINF:-1,Accion 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13188
+#EXTINF:-1,Accion 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13189
+#EXTINF:-1,Accion 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13190
+#EXTINF:-1,Accion 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13191
+#EXTINF:-1,Accion 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13192
+#EXTINF:-1,Accion 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13193
+#EXTINF:-1,Accion 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13194
+#EXTINF:-1,Accion 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13195
+#EXTINF:-1,Accion 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13196
+#EXTINF:-1,Accion 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13197
+#EXTINF:-1,Comedia 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13198
+#EXTINF:-1,Comedia 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13199
+#EXTINF:-1,Comedia 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13200
+#EXTINF:-1,Comedia 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13201
+#EXTINF:-1,Comedia 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13202
+#EXTINF:-1,Comedia 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13203
+#EXTINF:-1,Comedia 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13204
+#EXTINF:-1,Comedia 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13205
+#EXTINF:-1,Comedia 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13206
+#EXTINF:-1,Comedia 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13207
+#EXTINF:-1,Comedia Clasicos
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13208
+#EXTINF:-1,Ciencia Ficcion
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13209
+#EXTINF:-1,Ciencia Ficcion 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13210
+#EXTINF:-1,Ciencia Ficcion 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13211
+#EXTINF:-1,Ciencia Ficcion 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13212
+#EXTINF:-1,Ciencia Ficcion 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13213
+#EXTINF:-1,Ciencia Ficcion 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13214
+#EXTINF:-1,Ciencia Ficcion 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13215
+#EXTINF:-1,Ciencia Ficcion 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13216
+#EXTINF:-1,Ciencia Ficcion 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13217
+#EXTINF:-1,Ciencia Ficcion 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13218
+#EXTINF:-1,Clasicos 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13219
+#EXTINF:-1,Clasicos 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13220
+#EXTINF:-1,Suspenca 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13221
+#EXTINF:-1,Suspenca 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13222
+#EXTINF:-1,Suspenca 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13223
+#EXTINF:-1,Suspenca 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13224
+#EXTINF:-1,Suspenca 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13225
+#EXTINF:-1,Suspenca 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13226
+#EXTINF:-1,Suspenca 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13227
+#EXTINF:-1,Suspenca 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13228
+#EXTINF:-1,Suspenca 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13229
+#EXTINF:-1,Suspenca 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13230
+#EXTINF:-1,Terror 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13231
+#EXTINF:-1,Terror 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13232
+#EXTINF:-1,Terror 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13233
+#EXTINF:-1,Terror 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13234
+#EXTINF:-1,Terror 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13235
+#EXTINF:-1,Terror 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13236
+#EXTINF:-1,Terror 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13237
+#EXTINF:-1,Terror 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13238
+#EXTINF:-1,Terror 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13239
+#EXTINF:-1,Terror 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13240
+#EXTINF:-1,Drama 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13241
+#EXTINF:-1,Drama 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13242
+#EXTINF:-1,Drama 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13243
+#EXTINF:-1,Drama 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13244
+#EXTINF:-1,Drama 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13245
+#EXTINF:-1,Drama 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13246
+#EXTINF:-1,Drama 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13247
+#EXTINF:-1,Drama 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13248
+#EXTINF:-1,Drama 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13249
+#EXTINF:-1,Drama 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13250
+#EXTINF:-1,PORTADA M+
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/1
+#EXTINF:-1,M+ ORIGINALES SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/24
+#EXTINF:-1,M+ ORIGINALES HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/25
+#EXTINF:-1,M+ ORIGINALES FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/26
+#EXTINF:-1,M+ ORIGINALES FHD (FIBRA)
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/707
+#EXTINF:-1,M+ LA RESISTENCIA SD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/6208
+#EXTINF:-1,Infantil 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4371
+#EXTINF:-1,Infantil 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4372
+#EXTINF:-1,Infantil 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4373
+#EXTINF:-1,Infantil 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4374
+#EXTINF:-1,Infantil 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4375
+#EXTINF:-1,Infantil 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4376
+#EXTINF:-1,Infantil 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4377
+#EXTINF:-1,Infantil 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4378
+#EXTINF:-1,Infantil 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4379
+#EXTINF:-1,Infantil 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4380
+#EXTINF:-1,Infantil 11
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4381
+#EXTINF:-1,Infantil 12
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4382
+#EXTINF:-1,Infantil 13
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4383
+#EXTINF:-1,Infantil 14
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4384
+#EXTINF:-1,Infantil 15
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4385
+#EXTINF:-1,Universo D.C. 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/438
+#EXTINF:-1,UNIVERSO D.C 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/439
+#EXTINF:-1,Estrenos Info
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4163
+#EXTINF:-1,Estrenos 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4164
+#EXTINF:-1,Estrenos 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4165
+#EXTINF:-1,Estrenos 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4166
+#EXTINF:-1,Estrenos 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4167
+#EXTINF:-1,Estrenos 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4168
+#EXTINF:-1,Estrenos 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4169
+#EXTINF:-1,Estrenos 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4170
+#EXTINF:-1,Estrenos 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4171
+#EXTINF:-1,Estrenos 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4172
+#EXTINF:-1,Estrenos 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4173
+#EXTINF:-1,Estrenos 11
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4186
+#EXTINF:-1,Estrenos 12
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4187
+#EXTINF:-1,Estrenos 13
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4188
+#EXTINF:-1,Estrenos 14
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4189
+#EXTINF:-1,Estrenos 15
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4190
+#EXTINF:-1,Estrenos 16
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4191
+#EXTINF:-1,ESTRENOS NETFLIX 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29642
+#EXTINF:-1,ESTRENOS NETFLIX 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29643
+#EXTINF:-1,ESTRENOS NETFLIX 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29644
+#EXTINF:-1,ESTRENOS NETFLIX 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29645
+#EXTINF:-1,ESTRENOS NETFLIX 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29646
+#EXTINF:-1,ESTRENOS NETFLIX 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29647
+#EXTINF:-1,ESTRENOS NETFLIX 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29648
+#EXTINF:-1,ESTRENOS NETFLIX 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29649
+#EXTINF:-1,ESTRENOS NETFLIX 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29650
+#EXTINF:-1,ESTRENOS NETFLIX 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29651
+#EXTINF:-1,ESTRENOS NETFLIX 11
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29652
+#EXTINF:-1,ESTRENOS NETFLIX 12
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29653
+#EXTINF:-1,ESTRENOS NETFLIX 13
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29654
+#EXTINF:-1,ESTRENOS NETFLIX 14
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29655
+#EXTINF:-1,ESTRENOS NETFLIX 15
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29656
+#EXTINF:-1,ESTRENOS NETFLIX 16
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29657
+#EXTINF:-1,ESTRENOS NETFLIX 17
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29658
+#EXTINF:-1,ESTRENOS NETFLIX 18
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29659
+#EXTINF:-1,ESTRENOS NETFLIX 19
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29660
+#EXTINF:-1,ESTRENOS NETFLIX 20
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/29661
+#EXTINF:-1,Series Info
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4174
+#EXTINF:-1,Serie 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4175
+#EXTINF:-1,Serie 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4176
+#EXTINF:-1,Serie 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4177
+#EXTINF:-1,Serie 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4178
+#EXTINF:-1,Serie 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4179
+#EXTINF:-1,Serie 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4180
+#EXTINF:-1,Serie 7
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4181
+#EXTINF:-1,Serie 8
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4182
+#EXTINF:-1,Serie 9
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4183
+#EXTINF:-1,Serie 10
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4184
+#EXTINF:-1,Serie 11
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4185
+#EXTINF:-1,Disney Junior Series
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4192
+#EXTINF:-1,Serie 12
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4193
+#EXTINF:-1,Serie 13
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4194
+#EXTINF:-1,Serie 14
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4195
+#EXTINF:-1,Serie 15
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4196
+#EXTINF:-1,Serie 16
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4197
+#EXTINF:-1,Estrenos
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4389
+#EXTINF:-1,Accion
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4390
+#EXTINF:-1,Ciencia ficcion
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4391
+#EXTINF:-1,Drama
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4392
+#EXTINF:-1,Comedia
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4393
+#EXTINF:-1,Suspense
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4394
+#EXTINF:-1,Familia
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4395
+#EXTINF:-1,Terror
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4396
+#EXTINF:-1,Marvel Castellano
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4397
+#EXTINF:-1,Cine Disney
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4398
+#EXTINF:-1,Accion 1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4399
+#EXTINF:-1,Accion 2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4400
+#EXTINF:-1,Accion 3
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4401
+#EXTINF:-1,Accion 4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4402
+#EXTINF:-1,Accion 5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4403
+#EXTINF:-1,Accion 6
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4404
+#EXTINF:-1,CANAL INFORMACION PELICULAS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/34685
+#EXTINF:-1,BBC DRAMA [Español]
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4438
+#EXTINF:-1,iHola Play
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4428
+#EXTINF:-1,RAKUTEN ACCION
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4431
+#EXTINF:-1,RAKUTEN CINE DRAMA HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4427
+#EXTINF:-1,RAKUTEN CINE Ñ
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4433
+#EXTINF:-1,RAKUTEN COMEDIA HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4426
+#EXTINF:-1,RAKUTEN MOVIES CENTRAL FHD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4436
+#EXTINF:-1,RAKUTEN PELIS TOP HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4434
+#EXTINF:-1,RAKUTEN ROMANTICO HD
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4435
+#EXTINF:-1,RAKUTEN TOP PELIS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4432
+#EXTINF:-1,Destino final
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13251
+#EXTINF:-1,El padrino
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13252
+#EXTINF:-1,El Señor de los Anillos
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13253
+#EXTINF:-1,X - Men
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13254
+#EXTINF:-1,Fast & Furious
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13255
+#EXTINF:-1,Star Wars
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13256
+#EXTINF:-1,Piratas Del Caribe
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13257
+#EXTINF:-1,Harry Potter
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13258
+#EXTINF:-1,Resident Evil
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13259
+#EXTINF:-1,Transformer
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13260
+#EXTINF:-1,Arma Letal
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13261
+#EXTINF:-1,Mision Imposible
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13262
+#EXTINF:-1,Los Juegos del H
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13263
+#EXTINF:-1,Matrix
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13264
+#EXTINF:-1,spider man
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13265
+#EXTINF:-1,Saw
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13266
+#EXTINF:-1,scream
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13267
+#EXTINF:-1,007Jamesbond1
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13268
+#EXTINF:-1,007Jamesbond2
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13269
+#EXTINF:-1,007Jamesbond
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13270
+#EXTINF:-1,007Jamesbond4
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13271
+#EXTINF:-1,007Jamesbond5
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/13272
+#EXTINF:-1,Juego De Tronos T01
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4223
+#EXTINF:-1,Juego De Tronos T02
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4224
+#EXTINF:-1,Juego De Tronos T03
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4225
+#EXTINF:-1,Juego De Tronos T04
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4226
+#EXTINF:-1,Juego De Tronos T05
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4227
+#EXTINF:-1,Juego De Tronos T06
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4228
+#EXTINF:-1,Juego De Tronos T07
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4229
+#EXTINF:-1,Juego De Tronos T08
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4230
+#EXTINF:-1,Vikingos T01
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4231
+#EXTINF:-1,Vikingos T02
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4232
+#EXTINF:-1,Vikingos T03
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4233
+#EXTINF:-1,Vikingos T04
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4234
+#EXTINF:-1,Vikingos T05
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4235
+#EXTINF:-1,Vikingos T06
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4236
+#EXTINF:-1,La Casa De Papel T01
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4237
+#EXTINF:-1,La Casa De Papel T02
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4238
+#EXTINF:-1,La Casa De Papel T03
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4239
+#EXTINF:-1,La Casa De Papel T04
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4240
+#EXTINF:-1,La Casa De Papel T05
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/4241
+#EXTINF:-1,SPOTIFY Fiesta
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/725
+#EXTINF:-1,SPOTIFY Flamenco
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/726
+#EXTINF:-1,SPOTIFY Hiphop
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/727
+#EXTINF:-1,SPOTIFY House
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/728
+#EXTINF:-1,SPOTIFY Jazz
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/729
+#EXTINF:-1,SPOTIFY Latino
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/730
+#EXTINF:-1,SPOTIFY Lomassonado
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/731
+#EXTINF:-1,SPOTIFY MegaBASS
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/732
+#EXTINF:-1,SPOTIFY Metal
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/733
+#EXTINF:-1,SPOTIFY Musica8K
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/734
+#EXTINF:-1,SPOTIFY Nostalgia
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/735
+#EXTINF:-1,SPOTIFY Novaquitarra
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/736
+#EXTINF:-1,SPOTIFY Reggaeton
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/737
+#EXTINF:-1,SPOTIFY Relax
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/738
+#EXTINF:-1,SPOTIFY Resturantes
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/739
+#EXTINF:-1,SPOTIFY Rock
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/740
+#EXTINF:-1,SPOTIFY Romance
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/741
+#EXTINF:-1,SPOTIFY Tropicaldeephouse
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/742
+#EXTINF:-1,SPOTIFY Verano
+http://nj.pinals.xyz:8080/JimaraLatino/7Fd6ZhLxPVEe/743
