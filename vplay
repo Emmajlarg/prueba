@@ -1,7 +1,11 @@
-  #EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="CINE",CONTRATA HOY TVPREMIUMHD.COMhttp://tvpremiumhd.club/lista-gratuita/183009/on/live.php?id=live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8          
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO",ADN 40http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8          #EXTINF:-1 tvg-id="APlus.mx" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="MEXICO",A+http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8          
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO",Azteca Unohttp://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8          
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO",ADN 40
+http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8          
+#EXTINF:-1 tvg-id="APlus.mx" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="MEXICO",A+
+http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8          
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO",Azteca Uno
+http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8          
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",Las Estrellashttp://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=channel01.akamaized.net/hls/live/2022749/event01/index.m3u8          
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", AZTECA 7 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8          
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="",TV MÁS(360p)https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8          
