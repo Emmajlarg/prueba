@@ -1,1253 +1,1865 @@
-#EXTM3U
-#EXTINF:-1, $ 1000 mes 3865448130
-ar.emmajl.social
-#EXTINF:-1,ESPN Premium HD 
- http://45.186.252.17:8000/play/a0bu 
- #EXTINF:-1,TNT Sports HD 
- http://45.186.252.17:8000/play/a0aw
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Undefined",El Nueve (1080p)
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Undefined",El Trece (1080p)
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="Undefined",Telefe Córdoba (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEFE AR 
- https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1298001059&_cdn_timestamp=1697506722&_cdn_token=960d86f757c628de2937cf1ecea8dcddf520b365
-#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (720p) [Not 24/7]
-https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
-#EXTINF:-1 tvg-id="TelefeNoticias.us" tvg-logo="https://i.imgur.com/GwdSxzV.png" group-title="News",Telefe Noticias (720p) [Not 24/7]
-https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
-#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png" group-title="Undefined",Telefe Rosario (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
-#EXTINF:-1 tvg-id="TelefeSalta.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/512px-Telefe_Salta_%282018%29.png" group-title="Undefined",Telefe Salta (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
-#EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://i.imgur.com/x6hiZRU.png" group-title="Undefined",Telefe Santa Fe (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Undefined" user-agent="iPhone",Crónica TV (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+PELICULAS DE 3865448130 Contacto
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News" user-agent="iPhone",A24 (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN Todo Noticias (1080p)
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-id="TropicalMoonEventosTV.us" tvg-logo="https://i.imgur.com/RklPmml.png" group-title="Music",Tropical Moon Eventos TV
-https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="General",TV Pública (TVP) (1080p) [Not 24/7]
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="News",IP Noticias (1080p)
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+ $ 1.000 cada una o $ 2.000 x2 pelis
+ Se pasa el enlace de descarga directa sin publicidad 
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nación+ (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Undefined",Telemax (720p)
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+--------------
+CALIDAD CINE GRABADO, BUENA IMAGEN 
 
-#EXTINF:-1 tvg-id="5TVArgentina.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Undefined",5TV Corrientes (480p) [Not 24/7]
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias (720p)
-https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Undefined",Aire de Santa Fe (480p)
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="News",América Tucumán (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-#EXTINF:-1 tvg-id="AnimaxRevival.cl" tvg-logo="https://animax.lat/assets/img/logo-512.png" group-title="Animation",Animax Revival (936p)
-https://streaming.zappix.live:3062/live/animaxlive.m3u8
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV (480p)
-http://animezonetv.net/hls/stream.m3u8
+	A Quiet Place Day One 
+	Accidental Texan cam 
+	Among.the.Willow 
+	Arthur Full 
+	Asphalt City 
+	Back to Black 
+	Bad Boys Hasta la muerte 
+	Bad Boys Ride or Die 2024.HDCAM 
+	Baghead
+	Cabrini cam 
+	Daddio 
+	Fly.Me.to.the.Moon.2024.HDCAM.c1nem4.x264-SUNSCREEN[TGx] 
+	Guy 2 
+	Horizon An American Saga-Chapter 
+	Immaculate cam 24 
+ IntensaMente 2 (2024).mp4	 
+ IntensaMente 2 (2024) TELESYNC 1080p h265.mkv	 
+	Kinds of Kindness
+	Lisa Frankenstein 
+	Longlegs 
+	Los extraños 
+		Lumina 
+ Mi villano favorito 4 LAT	 
+	Mother Couch 
+	Mothers Instinct 
+	Noche De Bodas 
+	Sleeping Dogs cam 
+	Some Other Woman 
+	Spy X Family 
+	The.Dead.Dont.Hurt
+	The.Strangers.Chapter.1 
+	The Bikeriders 
+	The First Omen 
+	The Shamrock Spitfire
+	Thelma 
+	Todas Menos Tu 
+	Un lugar en silencio Dia uno
+	Winnie the Pooh Blood and Honey 
+	twisters 
+--------
 
-#EXTINF:-1 tvg-id="Aunar.ar" tvg-logo="https://i.imgur.com/BfaCaZF.png" group-title="Culture;Travel",Aunar (720p)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
-#EXTINF:-1 tvg-id="AVCHD.ar" tvg-logo="https://i.imgur.com/8CT4y1O.png" group-title="Undefined",AVC HD (720p)
-https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
+CALIDAD HD
+	4 Kings 2 24 16:30
+	4 Months, 3 Weeks and 2 Days 08 07:51
+	5 de chocolate y 1 de fresa 20 22:26
+	5lbs Of Pressure 13 04:56
+	7 Plus Seven 20 22:26
+	9.Starship 04 19:15
+	10 Lives 27 19:53
+	10 To Midnight 29 14:57
+	12 Years A Slave 28 04:11
+	21 Up 21 15:27
+	49 Up 2005 18 20:26
+	A Cinderella Story Once Upon a Song 
+	A Creature Was Stirring 20 22:26
+	A Glimpse Inside The Mind Of Charles Swan IIl 
+	A Good Marriage 07 21:15
+	A Grammy Salute To The Beach Boys 
+	A Green Fever 24 18:24
+	A Heros Journey The Making of Percy jackson 
+	A Matter of Trus 12 17:13
+	A Part of You 31 21:01
+	A Song from the Dark 13 19:58
+	A Soul to Redeem 24 16:05
+	A Walk to Remember 18 22:48
+	Abigail 08 16:09
+	Above the Rim 17 18:07
+	After Death 27 14:44
+	Agencia Bien de amores 20 22:32
+	Air Force One Down 11 18:23
+	Alas de Esperanza 22 03:48
+	Alejandra 20 01:24
+	Alice 29 17:25
+	Alicia en el pais de las pesadillas
+	Alien Code 18 20:27
+	All Of Us Strangers 27 19:26
+	All Roads Lead To Rome 13 03:09
+	All of Us Strangers 23 21:23
+	Almamula 25 20:26
+	Amarte hasta Marte 10 18:56
+	American Dreamer 13 04:58
+	American Fiction 08 07:51
+	American Star 08 09:04
+	American Visa 29 17:08
+	Amityville 10 16:42
+	Amor de madre 22 03:49
+	Amor en Venta 22 18:30
+	Anatomy 2 10 16:42
+	And Justice for All 07 23:44
+	Andres no quiere dormir la siesta
+	Andy Hardy Meets Debutante 29 17:47
+	Annie Hall 29 16:20
+	Another Cinderella Story 20 22:43
+	Antares de la Luz 27 02:24
+	Anyone But You 06 19:26
+	Apaporis secretos de la selva 13 17:36
+	Apocalypse Now 29 15:11
+	Arana sagrada 26 22:00
+	Arcadian 03 19:26
+	Argylle 06 19:25
+	Arthur The King 05 16:59
+	Arthur Una amistad sin límites 21 14:36
+	Arthurs Whisky 10 16:43
+	As We Speak 29 17:47
+	Ascenso 09 03:29
+	Asesinato en.el Senado de la Nacion 
+	Aterrados 21 17:01
+	Atlantis The Lost Empire 03 21:57
+	Atlas 24 17:35
+	Atraccion peculiar 11 18:22
+	Atrapados en lo profundo 04 21:42
+	A través de tu mirada 23 19:31
+	A traves de tu mirada 28 04:22
+	Au Hasard Balthazar 20 01:24
+	Audi vs. Lancia Carrera por la gloria
+	Author Author 29 16:27
+	Autumn And The Black Jaguar 03 21:58
+	Avanti 29 16:42
+	Babes 06 20:29
+	Baby Shark - La Gran Pelicula 06 19:33
+	Bad Behaviour 17 02:45
+	Bade Miyan Chote Miyan 25 21:39
+	Baghead 10 16:45
+	Baki Hanma vs. Kengan Ashura 07 23:34
+	Bandido 20 22:52
+	Battle Over Britain 10 03:27
+	Battle of the Bulge 14 19:08
+	Beautiful Kate 19 04:02
+	Beautiful Wedding 14 23:32
+	Becoming King 23 21:26
+	Before the World Set on Fire 13 20:59
+	Bend It Like Beckham 04 22:26
+	Beverly Hills Cop Axel F 03 21:57
+	Beyond the Visible.Hilma af Klint 
+	Big Business 12 17:13
+	Big City Greens the Movie Spacecation 
+	Billy Budd 29 15:04
+	Bionic 31 21:21
+	Birth 21 17:00
+	BirthRebirth 15 17:59
+	Black Barbie 20 04:19
+	Black Lotus 27 02:06
+	Blaze 04 21:40
+	Bless The chld 21 16:59
+	Bloodline 29 16:44
+	Bob Marley One Love 20 00:26
+	Boneyard 03 22:00
+	Boomerang 12 17:13
+	Born Innocent 11 18:21
+	Born on the Fourth of July 17 17:40
+	Born to Fight 08 08:42
+	Boy Kills World 31 21:25
+	Boyfriends And Girlfriends 18 20:34
+	Brasileirinho Grandes Encontros do Choro 
+	Bray Wyatt Becoming Immortal 04 22:31
+	Break Up 05 19:27
+	Brief crossing 06 19:06
+	Bring Him Back Dead 10 00:03
+	Bring It On 13 19:59
+	Bring It On All or Nothing 13 19:59
+	Bring It On Fight.to the finish 
+	Bring Out the Fear 27 02:12
+	Broadway Danny Rose 29 16:27
+	Brownian Movement 20 22:54
+	Bunker Palace Hotel 04 22:02
+	Burga 15 05:39
+	Bye Bye Tiberias 17 18:17
+	Cómo Encontrar a Alguien Que Sea para Siempre 
+	Cómplices del engaño 07 23:58
+	C H u D 01 22:59
+	COmo Matar a tu Marido 02 05:58
+	Call 23 19:34
+	Calladita 18 22:48
+	Cameras 10 03:27
+	Camp Hideout 10 18:59
+	Canta y no llores 26 20:28
+	Carousel 18 20:34
+	Carried Away 27 19:26
+	Casi estadounidenses 16 20:37
+	Castigos de la traición 08 16:29
+	Casualties of War 13 02:10
+	Cat Ballou 18 20:43
+	Cat and Dog 21 15:41
+	Catching Fire The Story Of Anita Pallenberg 
+	Cautiva 23 19:45
+	Ce ancora domani 01 17:05
+	Celeste 10 16:47
+	Cello 07 23:48
+	Ceniza 16 02:16
+	Centurion 21 16:57
+	Cessationist 29 15:00
+	Chained 01 19:46
+	Challengers 18 02:47
+	Chemical Wedding 22 20:26
+	Children of Men 27 14:48
+	Chinas 24 18:10
+	Chocolat 13 17:36
+	Chrome Soldiers 13 17:36
+	Chuck Berry Hail Hail Rock n Roll 
+	Circle of Danger 14 19:08
+	City Hunter 25 16:35
+	Civil War 08 03:46
+	Claires Knee 21 15:30
+	Close 20 22:56
+	Clouds of Sils Maria 18 20:47
+	Coach Carter 19 04:38
+	Code 8 Part 2 28 17:42
+	Colateral 08 16:26
+	Cold Meat 29 15:03
+	Colors of Evil Red 31 21:27
+	Combate clandestino 20 22:59
+	Conception 17 04:13
+	Confesiones 25 14:42
+	Control 06 20:29
+	Cora 14 19:12
+	Cosmic Dawn 04 21:20
+	Cousin.cousine 13 20:15
+	Cow.Belles 10 16:58
+	Cracks 17 03:25
+	Creation Of The Gods I Kingdom Of Storms 
+	Crew 26 21:35
+	Crystal Fairy 29 17:34
+	Culpa y deseo 23 01:52
+	Cult Killer 20 22:59
+	Culto al Diablo 08 20:24
+	Curious Caterer Foiled Plans 23 02:26
+	Cyndi Lauper Let the Canary Sing 
+	DBZ Los Dos Guerreros Del Futuro Gohan y Trunks 
+	DRAGON BALL Z-El plan para erradicar a los Super Saiyans.polo 20 02:25
+	DRAGON BALL Z FUKKATSU NO F FUTURE TRUNKS 
+	Damsel 08 20:24
+	Dange 10 03:25
+	Danger on Party Island 29 17:55
+	Dangerous Waters 23 19:51
+	Dashcam 13 17:37
+	Davy Crockett King of the Wild Frontier
+	Daybreakers 20 23:00
+	De Italia con Amor 09 00:47
+	De Vuelta a la Universidad 08 17:12
+	Dead In tombstone 01 22:55
+	Dead Shot 19 03:59
+	Dead Wrong 02 03:34
+	Death Defying Acts 17 03:26
+	Death Tunnel 18 22:48
+	Death Whisperer 26 18:07
+	Deathtrap 18 20:48
+	Delta Force 2 The Colombian Connection 
+	Demasiado mayor para cuentos de hadas
+	Den of Thieves 16 20:07
+	Der Samurai 12 17:13
+	Der letzte Zug 07 01:07
+	Der vermessene Mensch 14 19:12
+	Descansar en Paz 30 18:04
+	Descendants 09 01:51
+	Descendientes El ascenso de Red 
+	Desde la ultima vez que nos vimos 
+	Desiree 21 16:44
+	DespuEs de la muerteDespués de la muerte 
+	Destroy All Neighbors 14 19:12
+	Diana Vreeland The Eye Has to Travel
+	Diario de mi Vagina 26 21:48
+	Die Hart 2 Die Harter 31 21:29
+	Die Tranen meiner Mutter 29 15:41
+	Disco Boy 01 17:05
+	Divertimento 13 17:37
+	Divorcio en negro 12 17:36
+	Django 01 22:33
+	DogMan 22 17:25
+	Domoy 15 05:27
+	Dont Look Away 20 23:13
+	Dont Look at the Demon 25 21:33
+	Double Blind 24 18:08
+	Dr Giggles 20 23:20
+	Draft Day 23 19:53
+	Dragon Ball Z El ataque del dragón 
+	Dragones en el aire 24 18:23
+	Dragonkeeper 12 22:27
+	Drawing Closer 27 19:48
+	Dream 9 Toriko One Piece Dragon Ball Z Super 
+	Drifter 18 20:49
+	Drive 20 23:25
+	Drive Away Dolls 13 04:57
+	Drugstore June 13 04:58
+	Dune Part Two 17 03:23
+	Earthsea 21 15:37
+	Earworm 23 21:27
+	Echoes of the Thunder 10 00:01
+	Eden Lake 10 05:48
+	Edge of Darkness 18 20:50
+	Eileen 08 16:09
+	Einstein And The Bomb 20 23:30
+	El Amanecer Del Planeta De Los Simios
+	El Amor No Tiene Reglas 22 03:51
+	El Beso del Demonio 14 22:52
+	El Guardián del Hermano 09 00:47
+	El Halcón 06 00:46
+	El Origen Del Planeta De Los Simios 
+	El Pasajero 09 00:47
+	El Podcast 11 23:17
+	El Poder de los Centavos 09 00:47
+	El Salvador de Almas 16 20:41
+	El Sonido de la Juventud 09 03:29
+	El arca de Noe 24 18:07
+	El callejon de la muerte 28 17:49
+	El camino de Hill 09 00:47
+	El campeon 12 17:36
+	El control 18 20:52
+	El corazón del cazador 29 21:11
+	El desafío de Marguerite 08 16:29
+	El despertar de los muertos vivientes
+	El guardian de las monarcas 13 20:19
+	El juego bonito 29 21:10
+	El juego de la muerte 27 15:16
+	El juego del pulpo 29 17:48
+	El nino pez 10 16:58
+	El pajaro Loco se va de campamento
+	El poderoso Zeus 29 17:54
+	El quinteto de la muerte 08 20:30
+	El retorno de los Thundermans 08 03:45
+	El roomie 11 18:04
+	El salario del miedo 29 21:02
+	El santo de la espada 20 01:24
+	El sur 12 17:13
+	El vendedor de ilusiones El caso Generacion Zoe 
+	El viaje 13 19:21
+	En La Puntería de Los Asesinos 09 01:02
+	Enamorada 12 17:58
+	En busca del barco perdido 08 20:50
+	Encontrando el amor en Sisters 06 00:40
+	Endless Borders 01 17:17
+	En la Gama de los Grises 10 17:03
+	En nombre de la tierra 08 16:25
+	Enter The Dragon 29 16:53
+	En tierra de santos y pecadores
+	Entrenado para Matar 08 20:54
+	Epica Retrospect 23 20:23
+	Epica We Will Take You with Us 23 20:23
+	Erik the Viking 22 20:26
+	Errante corazon 06 19:06
+	Es por su bien 21 19:25
+	Estoy bien 08 00:08
+	Eureka 17 18:16
+	Europa 19 04:02
+	Even Hell Has Its Heroes 30 17:58
+	Evidencias de amor 02 05:58
+	Evolution 01 17:05
+	Exhuma 15 04:41
+	Ezra 26 18:37
+	Fabbricante di lacrime 04 21:16
+	Falling in Love in Niagara 29 17:52
+	Familia nacional 18 02:54
+	Fantasia 08 02:08
+	Fargo 09 01:07
+	Fauna 13 17:37
+	Fear 19 21:14
+	Federer Twelve Final Days 21 19:25
+	Fentasy 13 20:56
+	Ferrari 12 02:05
+	Ferris Buellers Day Off 28 18:16
+	Fiesta en la madriguera 02 18:32
+	Final Summer 18 21:01
+	Firebrand 06 20:29
+	Firma aquí 21 19:25
+	Five Blind Dates 13 20:15
+	Flandres 04 22:20
+	Flight World War II 18 21:07
+	Float 14 19:12
+	For Love or Money 08 02:08
+	For Sale 07 23:46
+	Four Daughters 05 02:34
+	Four Minutes 01 22:31
+	Fourteen Hours 14 19:14
+	Frances Ha 18 21:09
+	Frankenhooker 18 21:14
+	Franz Klammer - La Leyenda del Esquí
+	Freaknik The Wildest Party Never Told 
+	Fremont 08 08:31
+	French 05 17:30
+	French Girl 02 18:32
+	French Kiss 04 21:46
+	Fresh Kills 12 22:27
+	Freuds Last Session 23 21:34
+	Frida 15 05:36
+	Frogman 13 04:58
+	Fuego contra fuego 12 02:05
+	Full Moon In Paris 18 21:15
+	Fun with Dick and Jane 04 21:42
+	Furiosa A Mad Max Saga 25 04:31
+	Gaga Chromatica Ball 20 03:32
+	Garra de hierro 11 23:16
+	Gasoline Rainbow 31 21:30
+	Gassed Up 06 01:32
+	Get Carter 20 23:31
+	Ghost Project 23 02:24
+	Ghostbusters Apocalipsis fantasma
+	Giannis The Marvelous Journey 24 16:05
+	Giovanna dArco al rogo 12 17:13
+	Girls On Film 06 01:31
+	Girls State 10 17:03
+	Godless The Eastfield Exorcism 10 03:27
+	Gods of the Deep 13 22:39
+	Godzilla Minus One 02 00:57
+	Godzilla x Kong The New Empire 13 20:18
+	Golden Kamuy 19 21:15
+	Grace of My Heart 29 16:45
+	Grand Jete 10 17:04
+	Great Expectations 19 04:04
+	Gunfight at Rio Bravo 26 21:35
+	Habitación De Escape Sin Salida 
+	Hable con ella 04 22:10
+	Hachiko 12 17:22
+	Hack Your Health The Secrets Of Your 
+	Hadik 26 21:59
+	Halo Legends 18 21:19
+	Handling The Undead 20 03:33
+	Hard Home 30 03:48
+	Hard Miles 06 20:29
+	Harka 08 08:57
+	He Went That Way 30 19:29
+	Hellblazers 04 21:05
+	Hickok 10 17:04
+	High Crimes 06 19:06
+	High and Low John Galliano 17 17:41
+	Highlander II The Quickening 20 23:34
+	Hijo del Hombre 26 22:19
+	History of Evil 23 21:34
+	Hook 13 02:10
+	Horizon An American Saga Chapter
+	Horror 21 
+	Hostages of war 16 20:44
+	Hot Shots 04 22:35
+	Hotel Desire 15 16:00
+	Hours With Gaspar 02 01:49
+	Housekeeping for Beginners 08 16:09
+	How to Date Billy Walsh 05 17:35
+	How to Eat Fried Worms 13 03:19
+	How to Rob a Bank 07 23:31
+	Hunt Club 27 02:06
+	Hush 23 20:25
+	I.S.S 08 07:51
+	I Am Celine Dion 26 18:37
+	IF 19 04:05
+	I Heard the Bells 14 19:12
+	I Saw The TV Glow 15 15:41
+	I Spit on Your Grave 01 19:45
+	I UsedTo Be Funny 25 20:25
+	I Was I Am I Will Be 29 15:50
+	Ice Storm 26 20:32
+	Ignacio of Loyola 26 18:37
+	Il Sol Dell Avvenire 10 17:04
+	Ill Never Forget Whatsisname 23 20:26
+	Imaginary 29 21:26
+	In Fear 18 21:26
+	In Good Hands 2 24 17:36
+	In a Violent Nature 30 03:48
+	India Song 08 07:51
+	Indiana Jones And The Kingdom Of The Crystal Skull 
+	Indiana Jones And The Last Crusade 
+	Indiana Jones And The Raiders Of The Lost Ark 
+	Indiana Jones And The Temple Of Doom 
+	Indiana Jones and the Dial of Destiny
+	Infested 02 20:57
+	Inglourious Basterds 03 03:17
+	Inheritance 20 04:15
+	Insanitarium 18 22:48
+	Inside The Yellow Cocoon Shell 21 15:29
+	Into the Woods 17 17:41
+	Irati 13 21:09
+	Irenas Vow 19 07:50
+	Irish Wish 15 18:42
+	Island Escape 23 02:21
+	Island Of the Dolls 24 18:03
+	JOY 27 01:31
+	Jack 17 22:57
+	Jacobs Ladder 13 17:09
+	Jade 03 04:33
+	Jeanne Du Barry 09 01:09
+	Jeff Dunham Arguing With Myself 
+	Jeff Dunham Spark Of Insanity 21 16:28
+	Jeff Dunhams Very Special Christmas Special 
+	Jeff Who Lives at Home 29 17:26
+	Jeji Telo 01 17:05
+	Jenny Slate Seasoned Professional 
+	Jim Henson Idea Man 31 21:32
+	John Wick 16 16:21
+	John Wick 1 16 16:22
+	John Wick 2014 16 16:21
+	John Wick Chapter 4 16 16:20
+	Johnson Family Vacation 13 02:11
+	Joika Una Americana en el Bolshoi 
+	Jonah 18 21:27
+	Journey To The West 18 21:28
+	Juanpis González El presidente de la gente 
+	Justice League Crisis on Infinite Earths Part Two 
+	Kali Ángel vengador 02 05:58
+	Kids Are Growing Up 01 19:51
+	Kill Craft 13 20:31
+	Kingdom of the Planet of the Apes
+	Kleks Academy 20 03:32
+	Klienten 27 02:06
+	Knox Goes Away 10 17:07
+	Kubi 17 17:40
+	Kundun 13 20:15
+	Kung Fu Jungle 17 18:11
+	Kung Fu Panda/
+	La Última Noche en Pacerville 09 01:30
+	La Biblia Jeremias 10 05:32
+	La Chimera 18 21:31
+	La Cima 16 02:16
+	La Contadora de Peliculas 20 23:37
+	La Familia del Barrio La Película 
+	La Guerra Del Planeta De Los Simios
+	La Guerra de los Dioses 09 01:17
+	La Luna 24 16:05
+	La Melodía del Amor 09 01:23
+	La Misión 26 21:52
+	La Passion de Dodin Bouffant 15 05:36
+	La Petite 29 16:13
+	La Sirga 18 21:40
+	La Vaquilla 18 21:41
+	La bestia humana 29 15:41
+	La bete humaine 11 18:21
+	La cazadora de Auschwitz 26 21:45
+	La estrella azul 25 20:25
+	La eterna noche de las doce luna 
+	La furia de la montaNA 04 18:03
+	La guerra de los mundos El ataque
+	La habitación del niño 08 08:09
+	La industria del placer 02 20:58
+	La maestra inolvidable 18 21:39
+	La mas grande historia jamas contada
+	La mesita del comedor 18 02:54
+	La montana rusa 2 12 17:13
+	Land Of Bad 20 23:37
+	Land Of Bad SUB 27 19:26
+	Land of Storms 18 21:46
+	Las Aventuras de Lady Marian 26 22:10
+	La secta de la muerte 20 01:57
+	La sociedad de la nieve Quienes fuimos en la montana 
+	La sombra de Caravaggio 10 05:28
+	Las pequeñas cosas 09 20:21
+	Las que ustedes no quemaron 12 02:05
+	Last Embrace 01 22:40
+	Last Exit to Brooklyn 08 07:51
+	Late Bloomers 13 20:31
+	Late Night With The Devil 01 17:05
+	La terra trema 20 01:24
+	La teta asustada 10 17:10
+	Latido 11 23:15
+	La vida loca 29 17:25
+	Lawman 18 21:56
+	Lawrence of Arabia 18 22:00
+	Le Salaire de la Peur 30 17:55
+	Leave 01 22:32
+	Le cri de la soie 18 22:05
+	Legally Blonde The Musical 13 17:08
+	Lenfer 17 18:05
+	Le paradis 14 19:15
+	Les Cyclades 18 02:54
+	Lets Get Harry 09 01:50
+	Life 05 19:26
+	Life After Fighting 13 20:30
+	Liga de la Justicia Crisis en Tierras Infinitas 
+	Like Mike 13 02:47
+	Liliom 08 08:25
+	Limitless 14 19:16
+	Lisa Frankenstein 29 21:07
+	Little Birds 26 18:07
+	Little Miss Sunshine 04 21:41
+	Little Richard I Am Everything 05 02:34
+	Little Wing 26 21:49
+	Living with Leopards 11 23:16
+	Llegó a mí 16 02:16
+	Lobola Man 12 17:36
+	Lobos de Arga 17 17:42
+	Lo que ignoramos 10 07:50
+	Lord Of Misrule 30 18:02
+	Los 3 reyes magos 08 07:51
+	Los 8 más odiados 04 21:42
+	Los Cuatro Jinetes del Apocalipsis
+	Los colonos 29 21:26
+	Los fierecillos se divierten 05 19:27
+	Los juegos del amor 15 02:14
+	Los ojos de mi madre 10 05:21
+	Lost Soulz 13 20:30
+	Los verdulero 07 21:15
+	Lotoman 14 19:27
+	Lousy Carter 29 17:55
+	Love Comes Softly 12 17:36
+	Love Letter 18 22:48
+	Love Lies Bleeding 01 17:05
+	Love You Like That 15 05:27
+	Love and Bruises 04 22:09
+	Lovely Dark And Deep 18 22:05
+	Lovely Dark and Deep 23 20:55
+	Lover Stalker Killer 14 19:32
+	Luchar o Morir 26 22:12
+	Lumberjack the Monster 03 03:17
+	Luna sin miel 30 19:24
+	Mátame si te atreves, cariño 13 22:39
+	Macbeth 29 15:36
+	Machuca 14 19:36
+	Mad Max 28 03:33
+	Mad Max 2 The Road Warrior 28 03:33
+	Mad Max Beyond Thunderdome 28 03:32
+	Madame Web 15 06:24
+	Made in Abyss Dawn of the Deep Soul 11 
+	Made in England The Films of Powell and Pressburger 
+	Mad max fury road 28 03:31
+	Madonna The Girlie Show Live Down Under
+	Madonna The Video Collection 22 17:10
+	Madu 30 18:02
+	Maharaj 04 21:43
+	Malicious 09 23:58
+	Manhattan 29 16:10
+	Manifest West 01 19:51
+	Manodrome 09 01:30
+	Manpower 29 17:09
+	Marca de vida 27 15:18
+	Marcel Prousts Time Regained 08 07:51
+	Maria Candelaria 13 17:37
+	Marley 12 17:38
+	Marshall Mu Gui-Ying 26 21:35
+	Mavka The Forest Song 27 19:26
+	Mea culpa 23 20:29
+	Mean Girls 27 20:58
+	Medidias extremas 03 04:33
+	Meet Me In Rome.2024 28 18:17
+	Megamind vs. The Doom Syndicate
+	Mejores Amigos 08 20:56
+	Memory 2023 28 18:17
+	Mi Último Deseo 12 02:05
+	Mi Novia Favorita 02 05:58
+	Midnight Peepshow 18 22:14
+	Midnight Stallion 18 22:20
+	Midnight in Paris 18 22:13
+	Mientras Duermes 09 01:35
+	Mike Epps Ready To Sell Out 28 18:17
+	Milagro 22 20:26
+	Milk 11 04:26
+	Miller s Girl 02 18:32
+	Minyan 17 03:29
+	Mistrz 08 09:00
+	Mobius 18 22:24
+	Moderato cantabile 14 19:40
+	Mondays See You This Week 31 21:01
+	Monkey Man 03 04:23
+	Monolith 20 01:49
+	Monsieur Hulots Holiday 18 22:26
+	Monster Hunt 03 03:17
+	Monster Island 21 16:14
+	Monster Party 13 17:10
+	Moon Crash 26 21:35
+	Mother of the Bride 09 23:55
+	Muchachos la pelicula de la gente
+	Mujeres Rebeldes 08 20:59
+	Mujeres a .borde de un ataque de nervios 
+	Multiverso Realidad Paralela 04 22:03
+	Mundo Miraculous París, las aventuras de Shadybug y Claw Noir 
+	Munecas de medianoche 
+	Murder Company 12 22:28
+	Musica 04 21:30
+	My Little Pony Equestria Girls 28 17:45
+	My Name Is Loh Kiwan 05 19:28
+	My Neighbors The Yamadas 12 17:40
+	My Oni Girl 24 17:37
+	Mysterious Skin 02 01:34
+	Nadie es nadie 06 19:26
+	Nahir 23 01:52
+	Nathalie 21 16:12
+	Night Of The Missing 20 23:38
+	Night Shift 15 05:36
+	Nightcrawler 18 22:27
+	Nightwatch Ds Are Forever 23 01:52
+	Ninja III The Domination 13 20:15
+	No No A Dockumentary 13 17:37
+	No Time to Spy A Loud HousE Movie
+	No Way Up 27 02:06
+	Noche de bodas 25 20:43
+	No es el fin 08 16:26
+	Noise 18 22:48
+	Noryang Deadly Sea 23 01:52
+	Not Another Church Movie 02 03:34
+	Novata espacial 04 18:03
+	Nuestro Hijo 26 22:29
+	Observados 28 16:49
+	Obsessed 26 18:07
+	Odd Thomas 03 04:26
+	Off the Map 08 08:52
+	Omerta 612 26 22:29
+	On Fire 24 18:00
+	Once A Thief 29 17:55
+	One Life 10 00:04
+	One Wild Moment 18 22:36
+	Only God Forgives 01 04:18
+	OperaciOn Esperanza Los niños perdidos en el Amazonas
+	Operation Arctic Cure 23 21:05
+	Operation Petticoat 13 17:38
+	Ordinary Angels 11 16:56
+	Orión y la oscuridad 09 01:46
+	Origin 13 04:58
+	Orlando My Political Biography 13 17:49
+	Ositos Asesinos 21 19:25
+	Ossessione 20 01:48
+	Ostrov 08 07:51
+	Out Of Darkness 02 01:49
+	Out of the Darkness 23 20:31
+	Overboard 31 03:31
+	Ovsyanki 21 16:11
+	Padre en accion 16 20:45
+	Panico en La Montana 16 02:16
+	Papá o mamá 20 23:44
+	Papa o mama 06 19:06
+	Parallel 03 17:03
+	Pared con pared 12 16:57
+	Party Monster 13 17:09
+	Pathological The Lies Of Joran Van Der Sloot
+	Pensati sexy 14 19:31
+	Perdidos en la noche 29 21:26
+	Perfect Days 20 23:49
+	Perra vida 24 17:37
+	Petulia 29 16:12
+	Picture Of Beauty 15 15:59
+	Piedras en el camino 09 01:48
+	Pileckis Report 17 03:32
+	Plaga zombi Invasión Americana 23 01:52
+	Point Of No Return 20 04:44
+	Police History 08 08:33
+	Politicamente incorrectos 14 19:54
+	Poolman 02 03:34
+	Poor Cow 14 18:35
+	Poor Things 27 15:21
+	Poppy Field 13 20:15
+	Population Purge 13 20:00
+	Porco Rosso 04 19:19
+	Por tus muertos 03 04:26
+	Posesiones 12 16:56
+	Priscilla 27 15:33
+	Private Property 11 18:22
+	Problemista 01 04:18
+	Project Eerie 20 23:50
+	Proyecto Fantasma 08 21:10
+	Puan 27 02:21
+	Puerta de Hierro el exilio de Peron
+	Quad Gods 13 20:00
+	Que Nadie Duerma 12 17:42
+	Queen Rock Montrea 15 21:33
+	Quien Se Quedará con Masha 12 02:05
+	Quien Se Rie Ahora 09 01:52
+	Quien invito a Charlie 23 21:10
+	Quiero que me mantengan 04 21:06
+	Quo Vado 17 18:09
+	RALPH 03 04:49
+	Radio 09 02:04
+	Raging Bull 29 15:36
+	Rambito y Rambon primera mision 
+	Rambo 16 18:36
+	Rambo 3 16 18:34
+	Rambo First Blood 16 18:35
+	Rambo First Blood 1 16 18:36
+	Ranma 1 2 21 15:58
+	Rebel Moon 20 04:52
+	Recursos humanos 10 07:51
+	Red Right Hand 23 21:14
+	Relación Obsesiva 08 21:13
+	Relatos salvajes 21 01:58
+	Requiem por un sueno 04 22:00
+	Restore Point 20 23:56
+	Resuelto 23 02:24
+	Reunidos El Mundo de Goku 20 02:26
+	Reunion 24 16:30
+	Rewind 25 20:25
+	Ricky Stanicky 07 22:58
+	Ritos ocultos 16 02:16
+	Road House 27 01:40
+	Road Trip Beer Pong 01 17:05
+	Robo 12 16:57
+	Robot Dreams 10 19:00
+	Robot dreams 30 17:58
+	Rodeio Rock 04 21:10
+	Rogue Trader 14 18:35
+	Roll Bounce 27 14:44
+	Rosaura a las diez 01 22:33
+	Rubikon 10 05:25
+	Rumba Therapy 12 17:45
+	Ruthless 05 19:27
+	Saben aquell 10 19:00
+	Salome 14 18:35
+	Salomon 10 05:32
+	Salvando al Soldado Perez 09 03:32
+	Sam and Kate 06 04:35
+	Sasquatch Sunset 16 02:49
+	Sayen 27 02:06
+	Scoop 05 17:37
+	Scrambled 06 01:32
+	Seagrass 06 01:31
+	Searching 26 18:07
+	Secretos Prohibidos 02 20:57
+	Seducidos por el Deseo 09 02:04
+	See Spot Run 04 21:51
+	Seis es Par 02 20:57
+	Serie Noire 29 16:51
+	Sex And Zen II 27 19:26
+	Shakira Live and Off The.Record 
+	Shakira Oral Fixation tour 29 15:09
+	Shakira in Concert El Dorado World Tour
+	Shark The Beginning 08 08:24
+	Sharknado 27 04:31
+	Sharknado 2 The Second One 27 02:21
+	Sharknado 3 Oh Hell No 27 02:21
+	Sharknado 5 Global Swarming 27 02:21
+	Sharknado The 4th.Awakens 27 02:21
+	Sharksploitation 14 18:35
+	Shin Ultraman 19 04:13
+	Shirley 24 17:54
+	Shower 02 01:41
+	Si Fuera Amor 09 02:08
+	Sight 25 20:26
+	Silver Haze 30 18:02
+	Sinister 20 04:21
+	Sinister 2 20 04:26
+	Sira 08 21:22
+	Slapface 22 17:21
+	Sleep El mal no duerme 08 21:29
+	Sleeping Dogs 09 17:59
+	Slumdog Millionaire 08 04:37
+	Snack Shack 02 17:56
+	Snake in the Eagles Shadow 13 20:15
+	Snoopy Presents Welcome Home Franklin
+	Snow Valley 29 17:57
+	Solo una noche de juegos 12 17:36
+	Sombras siniestras 08 21:34
+	Sometimes I Think About Dying 04 22:12
+	Soudain seuls 14 20:01
+	South Park El Fin de la Obesidad 
+	Soylent Green 05 19:28
+	Space Pups 31 21:01
+	Spaceman 01 19:46
+	Sparkle 20 23:56
+	Spermworld 30 18:00
+	Spice World 29 15:41
+	Spotlight 22 01:34
+	Squealer 23 21:21
+	Stagecoach 13 03:03
+	Stake Land 08 08:52
+	StarShip 04 19:15
+	Starship 2004 04 19:15
+	Starship Troopers 3 Marauder 04 19:15
+	Starship Troopers Traitor of Mars 
+	Stay Hungry 18 22:43
+	Stiletto 13 17:50
+	Still Crazy 10 16:23
+	Sting 16 23:09
+	Stir Crazy 10 16:23
+	Stomp the Yard 18 03:01
+	Stopmotion 18 19:50
+	Storm Center 20 01:24
+	Stormy 21 15:37
+	Stranded 17 03:36
+	Street Fighter The Legend of Chun Li
+	Stress Positions 23 02:22
+	Strictly Confidential 17 04:12
+	Summer Camp 28 01:44
+	Sun And Concrete 01 17:05
+	Suncoast 10 07:53
+	Sunset Blvd 18 19:50
+	Sur l Adamant 13 17:56
+	Susana quiere el negro tambien 29 15:40
+	Sustancia Negra 09 02:11
+	Svaniti nella notte 11 21:54
+	Switch 15 16:04
+	Switchback 21 00:00
+TERMINATOR 3 LA REBELION DE LAS MAQUINAS
+	THE FIRST SLAM DUNK 14 05:54
+	Take The Money And Run 18 19:50
+	Tantura 10 19:01
+	Tarot 31 21:01
+	Taxidermia 05 02:34
+	Taylor Tomlinson Have It All 14 19:46
+	Teen titans Go To the Movies 23 19:45
+	Temple Grandin 08 07:51
+	Terminator 2 Judgement Day 16 04:13
+	Terminator Dark Fate 16 04:13
+	Terminator Salvation 16 18:07
+	Terminator genisys 16 04:13
+	Terror en Silent Hill 04 21:52
+	Tetsuo II The Body Hammer 01 22:35
+	Tetsuo The Bullet Man 01 23:03
+	Texas Twister 12 21:42
+	The.Sandlot 09 03:29
+	The.Sandlot 2 09 03:29
+	The Abyss 03 21:05
+	The Adventures of Ford Fairlane 
+	The Alamo 04 22:22
+	The American 17 17:42
+	The American Friend 10 16:23
+	The American Society of Magical Negroes
+	The Animal Kingdom 21 15:30
+	The Antisocial Network Memes.to Mayhem 
+	The Aviators Wife 05 19:26
+	The Bakery Girl of Monceau 22 03:52
+	The Beach Boys 24 17:37
+	The Beast In The Jungle 17 02:45
+	The Beast of War 28 03:32
+	The Beatles Let It Be 18 02:55
+	The Beautiful Person 07 21:14
+	The Beekeeper 01 21:12
+	The Bikeriders 10 03:25
+	The Bloody Hundredth 18 19:50
+	The Blue Angel 21 15:38
+	The Blue Angels 24 16:30
+	The Book Of Clarence 27 14:44
+	The Boy and the Heron 25 20:24
+	The Breaking Ice 30 17:58
+	The Bricklayer 05 17:41
+	The Bridge Curse Ritual 24 16:05
+	The Canyons 29 16:41
+	The Casagrandes Movie 24 17:36
+	The Chosen One 08 08:23
+	The Cigarette 13 20:01
+	The Cloverfield Paradox 08 09:09
+	The Company Of Wolves 14 18:49
+	The Conversation 04 21:38
+	The Convert 12 22:27
+	The Core 08 08:30
+	The Counselor 17 05:31
+	The Crazies 12 17:53
+	The Crimson Kimono 20 01:50
+	The Dark Knight Rises 17 17:01
+	The Day After 20 01:24
+	The Dead Pool 12 17:59
+	The Devils Bath 30 03:48
+	The Donor Party 03 18:32
+	The End We Start From 21 15:40
+	The Exorcism 10 03:26
+	The Fall Guy 21 14:36
+	The Fly 01 04:18
+	The Flying Deuces 21 15:27
+	The Fog 17 17:42
+	The Gang That Couldnt Shoot Straight 
+	The Garfield Movie 09 01:50
+	The Ghost And Mrs Muir 18 19:50
+	The Girl Who Leapt Through Time 
+	The Girl on a Motorcycle 20 01:54
+	The Great Escaper 17 18:07
+	The Great Lillian Hall 13 20:30
+	The Greatest Hits 12 16:56
+	The Greatest Love Story Never Told 
+	The Green Ray 21 15:25
+	The Guardian 27 02:21
+	The Guernsey Literary and Potato Peel Pie Society 12 18:01
+	The Hangman 13 20:30
+	The Hi-Lo Country 08 08:23
+	The Hidden 17 02:45
+	The Hoarder 03 17:03
+	The Holy Mountain 13 17:09
+	The House Bunny 29 17:13
+	The Idea of You 02 18:44
+	The Inheritance 13 20:00
+	The Inventor 22 17:18
+	The Iron Claw 29 17:46
+	The Island 15 17:38
+	The Italian Job 17 02:45
+	The January Man 10 16:23
+	The Jester 21 04:43
+	The Judge and the Assassin 18 19:50
+	The Key to Rebecca 20 22:25
+	The Ladies Man 04 22:00
+	The Land of Hope 01 22:39
+	The Last Rifleman 02 18:41
+	The Last Sharknado Its About Time 
+	The Last Wave 21 15:24
+	The Last Winter 18 19:50
+	The Legend of Catclaws Mountain 
+	The Lighthorsemen 29 14:56
+	The Lionheart 15 05:36
+	The Listener 31 21:01
+	The Little Mermaid 11 21:55
+	The Long Game 02 20:57
+	The Man From The Diners Club 20 01:48
+	The Man Who Loved Women 18 19:50
+	The Marksman 30 03:35
+	The Ministry of Ungentlemanly Warfare
+	The Most Dangerous Game 12 18:10
+	The New Boy 17 18:16
+	The Other Side of Midnigh 04 19:19
+	The Parades 20 03:31
+	The Perfect Escape 06 01:32
+	The Picture of Dorian Gray 16 20:43
+	The Pig the Snake and the Pigeon 
+	The Pillow Book 12 18:14
+	The Pink Panther Strikes Again 13 17:57
+	The Piper 21 15:24
+	The Primevals 13 20:29
+	The Puppetman 20 22:26
+	The Quantum Devil 27 02:23
+	The Real Bros of Simi Valley The Movie
+	The Reef 13 02:10
+	The Revenant 08 07:51
+	The Reverend and Mrs Simpson 15 05:27
+	The Score 19 04:01
+	The Scorpion King 08 05:06
+	The Scorpion King 3 Battle for Redemption 
+	The Scorpion King Book of Souls 08 0
+	The Scorpion King Rise of a Warrior The Scorpion King 2 08 05:03
+	The Scorpion King The Lost Throne
+	The Sea Wolf 18 19:50
+	The Seeding 08 09:04
+	The Sessions 14 19:03
+	The Seventh Sign 01 22:32
+	The Shift 04 19:19
+	The Shift El gran cambio 23 02:20
+	The Sixth Sense 03 04:24
+	The Skulls 13 17:59
+	The Space Race 14 19:50
+	The Star Wars Holiday Special 17 02:45
+	The Statement 23 20:43
+	The Stepford Wives 27 14:44
+	The Strangers Chapter 1 17 20:06
+	The Tall Men 20 01:24
+	The Teachers Lounge 27 14:44
+	The Terminator 16 04:13
+	The Texas Chainsa Massacre 2 11 04:50
+	The Texas Chainsaw Massacre 08 02:09
+	The Thin Red Line 10 03:24
+	The Three Caballeros 18 20:17
+	The Three Musketeers 03 17:04
+	The Three Musketeers Milady 24 19:12
+	The Tigers Apprentice 12 18:21
+	The Treasure of the Sierra Madre 
+	The Truth Vs Alex Jones 29 14:59
+	The Verdict 19 05:17
+	The Virgin Suicides 15 15:59
+	The Water Horse Legend of the Deep
+	The Way of the Dragon 04 19:19
+	TheWicher 03 19:16
+	The Wicker.Man 03 19:05
+	The Wicker Man 03 19:05
+	The Wilby Conspiracy 11 18:23
+	The Wild 20 22:26
+	The Winter War 13 18:02
+	The Woods Are Real 13 05:00
+	The Zone of Interest 21 15:04
+	The dry 2 La Fuerza de la Naturaleza 
+	The greatest 14 18:52
+	The imaginary 05 18:49
+	Thelma The Unicorn 18 02:47
+	Theres Something About Mary 02 01:35
+	The unbreakable Tatiana Suarez 12 18:26
+	They Called Him Mostly Harmless 
+	They Shot The Piano Player 15 05:36
+	This Is Me Now 16 07:05
+	Thor God of Thunder 26 20:32
+	Three Amigos 18 20:18
+	Three Blind Mice 20 22:26
+	Three Kings 11 05:00
+	Three Summers 01 23:03
+	Three Thousand Years of Longing 
+	Throne Of.Blood 20 01:24
+	TikTok Star Murders 30 03:48
+	Timeless Heroes Indiana Jones And Harrison Ford 16 15:32
+	Todas menos tu 05 16:59
+	Todo el silencio 15 05:37
+	Tony Rome 10 16:23
+	Too Late for Tears 20 01:52
+	Top Dog 12 18:27
+	Tout le plaisir est pour moi 06 19:06
+	Tráfico Sexual 16 02:16
+	Traded 10 16:23
+	Training Day 05 02:33
+	Trespass 23 19:25
+	Trick r Treat 08 02:09
+	Trigger Warning 21 19:25
+	Turbulence 19 04:02
+	Turtles All the Way Down 02 18:32
+	Tusk 08 08:50
+	Twelve Monkeys 29 16:42
+	Twilight Portrait 29 17:38
+	Twister 12 21:42
+	Tykho Moon 10 16:23
+	UFC.303.PPV.Pereira.vs.Prochazka 
+	UFC.on.ESPN.59.Namajunas.vs.Cortez.Prelims 
+	UFC.on.ESPN.59.Namajunas.vs.Cortez 14 
+	UFC 302 Early Prelims 02 03:34
+	UFC 303 Early Prelims WEBDL.H264.Fight-BB 
+	Ultimas Voluntades 12 18:30
+	Ultraman Rising 15 05:37
+	Un Hipster en la Espana Vacia 27 04:35
+	Un Hombre Sin Memoria 22 04:00
+	Una Mujer Contra un País 08 20:24
+	Una Noche en el Infierno 22 04:10
+	Un actor malo 01 04:20
+	Una jauria llamada Ernesto 26 18:37
+	Un amor 10 16:39
+	Un asesinato sin duda 15 18:38
+	Un asunto familiar 28 16:50
+	Under Paris 07 23:36
+	Under The Boardwalk 11 18:22
+	Under The Hawthorn Tree 14 19:04
+	Undercover Brother 12 18:33
+	Unfrosted 03 18:33
+	Unicorn Wars La pelicula 26 21:45
+	Un ladron romantico 14 23:40
+	Unsung Hero 17 18:17
+	Un viaje hacia la noche 28 04:22
+	Up in the Air 05 01:07
+	Uproar 29 17:54
+	Uptown Girls 13 03:20
+	Uzak 12 18:36
+	Vampiras Resurrección 14 22:52
+	Vazante 06 19:06
+	Vertige 22 03:48
+	Victory Through Air Power 08 08:37
+	Viento negro 14 19:07
+	Vile 18 20:19
+	Vinyan 18 20:19
+	Visitante de invierno 04 22:18
+	Viviendo mi pelicula 14 19:46
+	Volkov - El nombre de la Violencia
+	WHERE HOPE GROWS 07 02:46
+	WWE.SMACKDOWN.2024.07.12.HDTV 14 20:03
+	WWE Backlash France 06 19:32
+	WWE Elimination Chamber 27 14:44
+	WWE King and Queen of the Ring 26 22:19
+	WWE Royal Rumble 08 06:04
+	WWE WrestleMania XL Saturday 10 16:41
+	Waiting for Bojangles 05 18:49
+	Wanted Man Se busca 11 23:19
+	War Is Over 15 05:36
+	War and Peace Part I 27 14:44
+	Waves 03 19:05
+	We Grown Now 20 04:20
+	We Were Soldier 13 02:10
+	Weak Layers 13 04:57
+	What Comes Around 31 21:01
+	What You Wish For 02 03:34
+	When Animals Dream 05 19:30
+	When Love Is Not Enough The Lois Wilson Story
+	Which Brings Me to You 02 18:50
+	White Dog 18 20:22
+	Whitewash 29 17:20
+	Wicker Park 18 22:48
+	Wild Eyed and Wicked 13 20:29
+	Wild Wild Punjab 11 05:02
+	Wildcat 13 19:58
+	Willard 20 04:08
+	Windcatcher 29 17:52
+	Winnie The Pooh Miel y sangre 2 
+	Winnie the Pooh Blood and Honey 2
+	Youre So Cupid 10 16:41
+	Zack and Miri Make a Porno 01 04:18
+	Zazie dans le metro 20 01:24
+	Zhong quan ba gong 01 17:05
+	Zona de interés 02 01:34
+	amarte 24 04:33
+	batman caballero de la noche 17 17:01
+	batman el regreso del caballero oscuro parte 2 
+	batman v superman el amanecer de la justicia 
+	brincos dieras TETEPA TITLÁN 04 02:41
+	el favor 12 22:01
+	exterminador 02 04:30
+	jacobs Ladder 1 13 17:10
+	sea of shadows 11 20:09
+	toy story 16 02:22
+-------------	
+	
+CALIDAD 4K
+	Amigos imaginarios 4k 05 02:51
+	Aquaman y el reino perdido 22 05:50
+	Argylle Agente secreto 22 05:49
+	Baghead 09 18:44
+	Beekeeper Sentencia de muerte 22 05:49
+	Bob Marley La leyenda 22 05:49
+	Chicas pesadas 22 05:49
+	Combate clandestino 22 05:49
+	Damsel 24 18:31
+	Descendientes El ascenso de Red 4k 
+	El duro 22 05:49
+	El exorcista Creyentes 22 05:50
+	El justiciero Capítulo final 22 07:07
+	El laberinto del fauno 4K 04 18:16
+	Five Nights at Freddys 22 07:37
+	Furiosa A Mad Max Saga 4k 25 04:37
+	Godzilla x Kong The New Empire 14 02:29
+	Guerra Civil 4k 05 02:56
+	Imaginary 4K 04 23:34
+	Intensa-mente 4k 05 02:51
+	Kingdom Of The Planet Of The Apes 2024
+	Kung Fu Panda 4 10 14:22
+	La monja 2 24 18:28
+	Land of Bad 09 18:32
+	La zona de interés 4K 04 23:34
+	Lisa Frankenstein 4K 04 23:34
+	Los indestructibles 4 22 08:51
+	Los juegos del hambre La balada de pájaros cantores y serpientes 22 09:00
+	Madame Web 22 05:49
+	Monkey Man 4K 04 18:16
+	Napoleon 22 09:02
+	Pobres criaturas 22 05:49
+	Saw X El juego del miedo 22 09:06
+	Space Cadet 4K 04 18:25
+	Taylor Swift The Eras Tour 22 09:12
+	The Fall Guy 4k 21 18:46
+	The Garfield Movie 4K 12 01:00
+	The Marvels 22 09:42
+	Toy Story 1 4k 05 02:51
+	Toy Story 2 4k 05 02:51
+	Toy Story 3 4k 05 02:51
+	Toy Story 4 4k 05 02:55
+	Winnie Pooh Miel y Sangre 2 4K 2
 
-#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="Undefined",Bayres TV (720p)
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+-----------
 
-#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
-http://45.5.8.78:8000/play/a00i
-#EXTINF:-1 tvg-id="BVC.ar" tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="Undefined",BVC (720p)
-https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+SERIES
 
-#EXTINF:-1 tvg-id="CadenaVIVO.ar" tvg-logo="https://i.imgur.com/bCjaI8j.png" group-title="Undefined",Cadena V!VO (720p) [Not 24/7]
-https://stmv1.voxtvhd.com.br/cadenavivo/cadenavivo/playlist.m3u8
-#EXTINF:-1 tvg-id="CalchaquiTV.ar" tvg-logo="https://i.imgur.com/5XkvytM.png" group-title="Undefined",Calchaquí TV (480p)
-https://video.streamtvradio.com:8443/uv068/uv068/chunks.m3u8
-#EXTINF:-1 tvg-id="Canal2deUshuaia.ar" tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" group-title="General",Canal 2 de Ushuaia (1080p)
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-#EXTINF:-1 tvg-id="Canal2Jujuy.ar" tvg-logo="https://i.imgur.com/q0FyrAv.png" group-title="Undefined",Canal 2 Jujuy (720p) [Not 24/7]
-https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-#EXTINF:-1 tvg-id="Canal2Misiones.ar" tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="Undefined",Canal 2 Misiones (1080p)
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-#EXTINF:-1 tvg-id="Canal2Perico.ar" tvg-logo="https://i.imgur.com/1zF4mZC.png" group-title="Undefined",Canal 2 Perico (480p)
-https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2Salta.ar" tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="Undefined",Canal 2 Salta (480p)
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-#EXTINF:-1 tvg-id="Canal2Sanagasta.ar" tvg-logo="https://lh3.googleusercontent.com/-JkBVmTEb_vw/YFtd-AiCe7I/AAAAAAABA4I/D3j1TH_6YVw-5eulULSfVnU0APlEpWoVwCK8BGAsYHg/s512/2021-03-24.jpg" group-title="Undefined",Canal 2 Sanagasta (720p)
-https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3Formosa.ar" tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="Undefined",Canal 3 Formosa (720p)
-https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3LaPampa.ar" tvg-logo="https://lh3.googleusercontent.com/-PgoAknEdw-o/YGpET38G2kI/AAAAAAABBM0/Np1YAYu9-9InY18g7CY4aGMUyoe4f1LxQCK8BGAsYHg/s512/2021-04-04.png" group-title="Undefined",Canal 3 La Pampa (1080p)
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3LasHeras.ar" tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Undefined",Canal 3 Las Heras (720p)
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-logo="https://i.imgur.com/PjsKbrz.png" group-title="Undefined",Canal 3 Rosario (704p) [Geo-blocked]
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Balcarce.ar" tvg-logo="https://i.imgur.com/6xYbED7.png" group-title="Undefined",Canal 4 Balcarce (360p)
-https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Eldorado.ar" tvg-logo="https://i.imgur.com/wgLw4sV.png" group-title="Undefined",Canal 4 Eldorado (720p)
-https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Esquel.ar" tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="Undefined",Canal 4 Esquel (540p)
-https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Undefined",Canal 4 Jujuy (720p)
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Undefined",Canal 4 Posadas (576p)
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="Undefined",Canal 4 San Juan (576p)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5DelPueblo.ar" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="General",Canal 5 del Pueblo (360p)
-https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5PicoTruncado.ar" tvg-logo="https://lh3.googleusercontent.com/-nLhzzPBenzQ/YGpG1G6WqiI/AAAAAAABBNI/4EDWxIC8dxIgRXapYx9PIZvSEbPFfbODACK8BGAsYHg/s512/2021-04-04.jpg" group-title="Undefined",Canal 5 Pico Truncado (540p)
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="Undefined",Canal 5 Santa Fe (240p)
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5Tucuman.ar" tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" group-title="Undefined",Canal 5 Tucumán (480p)
-https://videohd.live:19360/8090/8090.m3u8
-#EXTINF:-1 tvg-id="Canal6EntreRios.ar" tvg-logo="https://lh3.googleusercontent.com/-WaPcoRIsunA/X9djlAdcgmI/AAAAAAAA8OA/zTZ4rmvloRkADrSVnucZuvR1pZZKhA9sACK8BGAsYHg/s0/2020-12-14.png" group-title="Undefined",Canal 6 Entre Ríos (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
-#EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-logo="https://i.imgur.com/fNaIrvV.png" group-title="Undefined",Canal 6 Mar del Plata (480p)
-https://panel.dattalive.com/8166/8166/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal6Moreno.ar" tvg-logo="https://i.imgur.com/TefE4HC.png" group-title="Undefined",Canal 6 Moreno (720p) [Not 24/7]
-https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="Undefined",Canal 6 Posadas (1080p)
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal7Chubut.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-7-chubut-ar.png" group-title="Undefined",Canal 7 Chubut (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8
-#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Undefined",Canal 7 Jujuy (720p)
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="General",Canal 7 Neuquén (1080p)
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal7Salta.ar" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Undefined",Canal 7 Salta (1080p)
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-#EXTINF:-1 tvg-id="Canal7TV.ar" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Undefined",Canal 7 Santiago del Estero (720p)
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8MardelPlata.ar" tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="Undefined",Canal 8 Mar del Plata (720p)
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPYspgaPVcDnGMJbiJyhthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj" group-title="General",Canal 8 San Juan (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
-#EXTINF:-1 tvg-id="Canal8ValledeUco.ar" tvg-logo="https://i.imgur.com/XwZ7m4L.png" group-title="Undefined",Canal 8 Valle de Uco (720p)
-https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
-#EXTINF:-1 tvg-id="Canal9LaRioja.ar" tvg-logo="https://i.imgur.com/Sy7lBuk.png" group-title="General",Canal 9 La Rioja (720p)
-https://inliveserver.com:1936/17012/17012/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Undefined",Canal 9 Litoral (720p)
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9NorteMisionero.ar" tvg-logo="https://i.ibb.co/RSyDMxM/unnamed-6.png" group-title="General",Canal 9 Norte Misionero (614p)
-https://panel.dattalive.com/8076/8076/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 9 Resistencia (1080p)
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="Undefined",Canal 9 Río Cuarto (480p)
-https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9SantaCruz.ar" tvg-logo="https://i.imgur.com/WJjY3bu.png" group-title="General",Canal 9 Santa Cruz (1080p)
-https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
-#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Undefined",Canal 9 Televida (720p)
-https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Undefined",Canal 10 Córdoba (1080p)
-https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10deJunin.ar" tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="Undefined" user-agent="iPhone",Canal 10 de Junín (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=iPhone
-https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Goya.ar" tvg-logo="https://i.ibb.co/cySdXxP/unnamed-5.png" group-title="General",Canal 10 Goya (576p)
-https://streamcasthd.com:19360/canal10goya/canal10goya.m3u8
-#EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="Entertainment" user-agent="iPhone",Canal 10 Mar del Plata (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://g5.mc-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Neuquen.ar" tvg-logo="https://i.imgur.com/HVlnnDo.png" group-title="Undefined",Canal 10 Neuquén (480p)
-https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Nortevision.ar" tvg-logo="https://i.imgur.com/Uqf93Mu.png" group-title="Undefined",Canal 10 Nortevision (576p)
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
-#EXTINF:-1 tvg-id="Canal10TVRioNegro.ar" tvg-logo="https://i.imgur.com/zpJdUVC.png" group-title="Undefined",Canal 10 Rio Negro (720p) [Not 24/7]
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10SanRafael.ar" tvg-logo="https://i.imgur.com/yqyavnM.png" group-title="Undefined",Canal 10 San Rafael (480p)
-https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Salta.ar" tvg-logo="https://i.imgur.com/don0WSG.png" group-title="General",Canal 10 Televisión Salteña (720p)
-https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
-#EXTINF:-1 tvg-id="Canal11delaCosta.ar" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Undefined",Canal 11 de la Costa (720p)
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-#EXTINF:-1 tvg-id="Canal11LaRioja.ar" tvg-logo="https://i.imgur.com/Umy5drt.png" group-title="Undefined",Canal 11 La Rioja (Fénix Multiplataforma) (360p)
-http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-logo="https://i.imgur.com/agVTEeO.png" group-title="Undefined" user-agent="iPhone",Canal 12 Misiones (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/Playlist.m3u8
-#EXTINF:-1 tvg-id="Canal12Web.ar" tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Undefined",Canal 12 Puerto Madryn (720p) [Not 24/7]
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13Jujuy.ar" tvg-logo="https://lh3.googleusercontent.com/-bSbxNgtv_2M/X4y7pC59aKI/AAAAAAAA6h8/opkxju3NzT4BiFnp2zXdnyaBfgOJ7LW-QCK8BGAsYHg/s0/2020-10-18.png" group-title="Religious",Canal13 Jujuy TV (720p)
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Undefined",Canal 13 La Rioja (480p)
-http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13SanJuan.ar" tvg-logo="https://pbs.twimg.com/profile_images/1617246021/Captura_de_pantalla_2011-11-01_a_las_11.42.42_400x400.png" group-title="General",Canal 13 San Juan (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
-#EXTINF:-1 tvg-id="Canal13SanLuis.ar" tvg-logo="https://pbs.twimg.com/profile_images/1136452628337090565/Q-4TRuKs_400x400.jpg" group-title="Undefined",Canal 13 San Luis (1080p)
-https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://i.imgur.com/PaQH5JM.png" group-title="Undefined",Canal 20 Villa María (720p)
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
-#EXTINF:-1 tvg-id="Canal21TV.ar" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Undefined",Canal 21 TV (1080p)
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal22.ar" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Undefined",Canal 22 (720p)
-https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal34SanJuan.ar" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="General",Canal 34 San Juan (720p)
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal40Caucete.ar" tvg-logo="https://i.imgur.com/xUiQvk8.png" group-title="Undefined",Canal 40 Caucete (720p)
-https://canalsj.kozow.com/canal40/index.m3u8
-#EXTINF:-1 tvg-id="Canal50Morteros.ar" tvg-logo="https://i.imgur.com/IDhgBav.png" group-title="Undefined",Canal 50 Morteros (1080p)
-https://coopmorteros.online/canal50/vivo.m3u8
+	2.5-jigen no Ririsa 13 16:49
+	3 Body Problem 21 20:20
+	4N1K Primer Amor 06 06:25
+	7th Time Loop 01 18:40
+	30-sai made Doutei dato Mahoutsukai ni Nareru Rashii 
+	A Condition Called Love LAT 25 15:40
+	A Gentleman In Moscow 14 04:22
+	A Good Day to Be a Dog 05 20:13
+	A Good Girls Guide to Murder 08 18:29
+	A Lonely Fish 28 20:39
+	A Man in Full 02 19:43
+	A Pledge to God 23 20:20
+	A Shop for Killers 22 03:30
+	Abbott Elementary 31 22:20
+	Acapulco 21 19:03
+	After the FloodAfter the Flood 26 18:38
+	Agentes del misterio 19 05:21
+	Aile 04 04:00
+	Akuyaku Reijou Level 99 01 18:44
+	Alas Rotas 10 04:30
+	Alert Missing Persons Unit 18 17:54
+	All Creatures Great and Small 21 17:05
+	Allegiance 03 15:43
+	American Horror Story 05 23:33
+	American Nightmare 08 19:32
+	American Rust 03 16:36
+	Americas Sweethearts Dallas Cowboys Cheerleaders 
+	Amor en Conflicto 23 22:35
+	Amor invitados especiales matrimonio y divorcio 
+	Amos del Universo Revolución 08 19:11
+	Angry BirdsAngry Birds 23 01:36
+	Anna 15 20:07
+	Anneler ile Kizlari 22 01:09
+	Antracita 11 20:55
+	Ao no Exorcist 22 22:44
+	Aprendiendo a vivir 13 19:44
+	Arctic Ascent with Alex Honnold 
+	Are You Human Too 28 16:36
+	Arelys Henao 09 17:41
+	Ashley Madison Sexo, mentiras y escándalos 15 19:29
+	Astro Note 23 02:55
+	Atri My Dear Moments 15 05:37
+	Avatar The Last Airbender 22 17:00
+	B-Project Netsuretsu 05 20:25
+	BELLEZA VERDADERA 22 15:18
+	BTS 21 19:53
+	Baba 05 03:31
+	Baby Bandito 08 19:22
+	Backstrom 26 16:42
+	Bahar 22 04:51
+	Bandidos 15 00:24
+	Bartender Kami no Glass 22 02:32
+	Beacon 23 07 17:07
+	Bebé reno 11 20:14
+	Because This Is My First Life 28 18:53
+	Becoming Frida Kahlo 08 19:37
+	Belgravia The Next Chapter 11 18:01
+	Besos Kitty 24 04:31
+	Bestia Salvaje 08 19:14
+	Beyond Paradise 01 18:04
+	Billy The Kid 25 20:52
+	Black Mafia Family 03 17:00
+	Blackshore 30 17:38
+	Blood Free 15 15:56
+	Blue Archive the Animation 02 02:18
+	Blue Lights 24 17:19
+	Bluey 08 23:24
+	Bodkin 09 19:24
+	Boku no Hero Academia 19 06:17
+	Boku no Kokoro no Yabai Yatsu 03 16:52
+	Boku no Tsuma wa Kanjou ga Nai 15 05:35
+	Boukyaku Battery 28 20:33
+	Branding in Seongsu BIS 26 16:57
+	Bridgerton 13 19:06
+	Briganti 27 01:10
+	Bucchigiri 02 04:45
+	Burn The House Down 24 18:33
+	Buta no Liver wa Kanetsu Shiro 05 17:43
+	Bye Bye Earth 13 16:55
+	C.H.U.E.C.O 15 19:35
+	CHUCKY 19 14:35
+	CSI Vegas 26 21:19
+	CUANDO UN HOMBRE AMA 24 03:02
+	CafE con aroma de mujer 05 06:15
+	Captain Tsubasa 27 18:10
+	Captivating the King 16 15:47
+	Chicago Fire 12 19:05
+	Chicago PD 12 18:50
+	Chicago med 12 18:51
+	Chiyu Mahou no Machigatta Tsukaikata 01
+	Clanes 25 21:03
+	Clase de elite 16 00:45
+	Clipped 08 01:42
+	Code Geass Dakkan no Roze 02 04:08
+	Como Dice el Dicho 23 15:09
+	Como vuela el cuervo 11 20:23
+	Constellation 21 22:34
+	Consuelo 06 19:18
+	Contrato para una Boda 28 00:45
+	Crash Course in Romance 24 18:52
+	Criminal Record 22 17:10
+	Cris Miro 25 21:05
+	DALI Y EL PRINCIPE ARROGANTE 24 03:43
+	DOM 24 18:22
+	Dancing for the Devil The 7M TikTok Cult 
+	Daredevil 22 15:47
+	Dark City The Cleaner 17 04:02
+	Dark Matter 23 00:13
+	Date A Live V 10 21:37
+	Davos 15 15:57
+	Death and Other Details 05 20:38
+	De campamento 14 20:59
+	Dekisokonai to Yobareta Motoeiyuu wa Jikka kara 
+	Devuelveme La Vida 13 17:28
+	Divorce Attorney Shin 28 16:09
+	Doctor Clímax 14 21:20
+	Doctor Slump 19 19:59
+	Doctor Who 02 14:08
+	Doctors 23 20:50
+	Dom 25 21:05
+	Dora Di hello a la aventura 12 16:41
+	Dosanko Gal wa Namara Menko 01 20:28
+	Dragon Ball Heroes 02 04:12
+	Dragon Raja 23 04:14
+	Dragons of Wonderhatch 21 16:44
+	Dream High Suena sin limites 2 24 22:59
+	Dungeon Meshi 22 19:58
+	Dungeon no Naka no Hito 13 17:02
+	Duy Beni 04 01:09
+	El Campeon 05 23:50
+	El Conde Amor y Honor 17 16:32
+	El Doctor del Pueblo 05 02:20
+	El Encargado 31 21:54
+	El Maleficio 05 05:13
+	El SeNor de los Cielos 19 04:37
+	El Secretario 31 06:52
+	El amor No Tiene Receta 03 21:17
+	El canto de la Sirena 04 00:34
+	El caso Asunta 30 19:17
+	El dia de los Muertos 14 23:52
+	El extrano retorno de Diana Salazar
+	Elf-san wa Yaserarenai 15 05:19
+	El juego de la muerte 12 19:24
+	El juego de las llaves 16 07:11
+	Ellos 26 23:37
+	El sabor del silencio 24 18:05
+	Elsbeth 27 17:23
+	El segundo mejor hospital de la 23
+	El show de Vince Staples 22 03:41
+	El velo 01 21:57
+	Eric 02 02:42
+	Escandalo. Relato de una obsesion 
+	Escuela de Clones 10 18:47
+	Esposa joven 23 05:07
+	Evil 26 18:39
+	Expats 23 19:15
+	Extended Family 29 17:41
+	Extremely Inappropriate 12 15:01
+	Eye Love You 19 19:02
+	FBI 03 16:01
+	FBI International 23 20:24
+	Fairies Albums 05 17:09
+	Fairy Tail 100-nen Quest 15 05:44
+	Fallout 11 20:30
+	Fargo 21 16:30
+	Fear The Walking Dead 29 17:14
+	Fear The Walking Dead Dead in The Water
+	Fear the Walking Dead Flight 
+	Felices los 6 16 18:08
+	Feud 11 20:42
+	Fiasco 30 19:03
+	Fire Country 15 15:55
+	First Love 25 01:44
+	Flex X Cop 16 18:23
+	For All Mankind 21 16:29
+	Forecasting Love and Weather 28 20:50
+	Franklin 17 04:02
+	Friends 08 16:09
+	Frieren Tras finalizar el viaje 
+	Fugitivas en busca de la libertad 17 
+	Furias 21 14:45
+	Garoden El camino del lobo solitario 
+	Gatitos explosivos 14 01:05
+	Geek Girl 06 00:29
+	Gekai Elise 28 15:56
+	Gekkan Mousou Kagaku 01 18:10
+	Genius 08 19:02
+	Giji Harem 13 16:28
+	Gimai Seikatsu 13 16:06
+	Girls Band Cry 02 02:45
+	Goblin Slayer 05 17:25
+	Golpe de Suerte 21 03:52
+	Good Times 13 19:27
+	Good Trouble 26 16:27
+	Goodbye Earth 27 01:28
+	Gracias el siguiente 12 00:20
+	Greys Anatomy 20 04:33
+	Guzel Koylu 22 02:06
+	Halo 08 18:04
+	Hananoi-kun to Koi no Yamai 22 20:10
+	Hazurewaku no Joutai Ijou Skill 
+	Henjin no Salad Bowl 22 20:21
+	Hermosa Campesina 16 04:20
+	Hibike Euphonium 10 22:01
+	High Card 19 19:20
+	Highspeed Etoile 22 20:38
+	Hightown 08 20:35
+	Hijas de la luna 04 18:19
+	Hijastra 06 06:03
+	Hikikomari Kyuuketsuki no Monmon 
+	Him and HerHim and Her 16 15:54
+	Himesama 01 20:23
+	Hokkaido Gals Are Super Adorable LAT 
+	Hometown Cha Cha Cha 28 20:32
+	Hospital Playlist 28 02:11
+	Hospital Valle Norte 30 02:56
+	Hotel Cocaine 06 20:28
+	House of the Dragon 17 01:20
+	Hwarang La Juventud Del Guerrero Poeta
+	Hypnosis Mic 05 17:30
+	Interview with the Vampire 26 18:38
+	Invencible 14 23:52
+	Isekai Onsen Paradise 09 02:46
+	Isekai Shikkaku 17 19:19
+	Isekai Yururi Kikou Kosodateshinagara Boukensha Shimasu 
+	Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu 
+	Ishura 01
+	Its Okay to Not Be Okay 28 17:12
+	Iwájú Historias de África 11 20:38
+	Jaku-Chara Tomozaki-kun 16 00:51
+	Jaula dorada 06 05:30
+	Jerarquia 14 23:19
+	Jiban 30 19:45
+	Jiisan Baasan Wakagaeru 02 02:12
+	Jovenes altezas 12 19:55
+	Julia 21 16:27
+	Jurassic World Teoría del dinocaos
+	Kagejitsu 05 17:20
+	Kaii to Otome to Kamikakushi 02 02:38
+	Kaijuu 8-gou 02 02:40
+	Kaijuu 8-gou LAT 16 17:27
+	Kami wa Game ni Ueteiru 02 02:26
+	Kami wa Game ni Ueteiru LAT 15 17:59
+	Karasu wa Aruji wo Erabanai 02 02:46
+	Katsute Mahou Shoujo to Aku wa Tekitai shiteita 
+	Keikenzumi na Kimi to 05 17:26
+	Kekkon Yubiwa Monogatari 01 18:15
+	Kenka Dokugaku 10 21:45
+	Kibou no Chikara Otona Precure 
+	Kilos Mortales Mexico 28 04:27
+	Kimetsu no Yaiba 10 01:52
+	Kimi ni Todoke 28 01:06
+	Kimi to Boku no Saigo no Senjou 10 
+	Kinnikuman 15 05:52
+	Kiya los héroes de Kimoja 19 19:09
+	Knights of the Zodiac 09 18:04
+	Knuckles 27 01:26
+	Koi wa Futago de Warikirenai 10 18:45
+	Kono Sekai wa Fukanzen Sugiru 13 17:07
+	KonoSuba LAT 25 15:16
+	Kono Subarashii Sekai ni Bakuen wo
+	Kouryaku Wanted 05 17:28
+	Kubra 07 23:09
+	Kuroko no Basket LAT 25 15:20
+	Kuroshitsuji Kishuku Gakkou-hen 23
+	Kusuriya no Hitorigoto 01 18:22
+	LA ROSA DE GUADALUPE 23 06:09
+	LOL Last One Laughing 23 19:52
+	La Brea 08 06:06
+	LaLola 21 22:21
+	La Narcosatanica 03 05:09
+	La Traicion 09 19:03
+	La Verdad 30 19:48
+	La banda del guante verde 17 19:48
+	La caza del asesino 15 06:24
+	La gloria de Lucho 02 15:58
+	La historia de Juana 17 16:45
+	La lectora 07 21:22
+	La maison des bois 06 03:37
+	Land of Women 01 04:21
+	La noche del solsticio de verano
+	La paradoja del asesino 10 07:34
+	La partitura secreta 06 18:07
+	La primera vez 11 21:43
+	Las chicas del autobUs 22 17:52
+	La senal 08 03:45
+	Las largas sombras 12 00:04
+	La sustituta 02 04:30
+	Law Order Toronto Criminal Intent
+	Lego Ninjago El ascenso de los dragones
+	Lie To Me 08 18:19
+	Link Click 27 18:47
+	Llantas 24 19:01
+	Loot 31 17:48
+	Los Caballeros Las Prefieren Brutas 
+	Los Galindos toda la verdad 12 14:47
+	Los caballeros 08 04:13
+	Los detectives difuntos 27 01:10
+	Los otros Concha 17 16:46
+	Love Is Better the Second Time Around 
+	Lovely Runner 08 17:01
+	Lovestruck in the City 27 05:14
+	Luciernaga 22 15:10
+	Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life 
+	Machos Alfa 24 15:14
+	Mademoiselle Holmes 21 18:57
+	Madougushi Dahliya wa Utsumukanai 
+	Madrastra 05 01:21
+	Madre 05 03:53
+	Mahou Shoujo ni Akogarete 28 15:59
+	Mahouka Koukou no Rettousei 23 03:26
+	Majo to Yajuu 05 16:57
+	Makanai La cocinera de las maiko 
+	Make Heroine ga Oosugiru 15 05:40
+	Mal de Tierra 02 14:45
+	Maleante 04 20:11
+	Mammals 24 17:22
+	Mano de hierro 26 20:59
+	Maou Gakuin no Futekigousha 27 18:57
+	Maougun Saikyou no Majutsushi wa Ningen datta 
+	Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga 
+	Marea de Pasiones 01 16:06
+	Mary George 11 17:16
+	Mashle 17 18:05
+	Masters of the Air 21 22:59
+	Mato Seihei no Slave 01 18:54
+	Maviye Surgun 22 01:55
+	Maxton Hall Un mundo entre nosotros
+	Mayonaka Punch 17 19:12
+	Mayor Of Kingstown 08 18:48
+	McDonald and Dodds 25 20:45
+	Megami no Cafe Terrace 06 19:51
+	Megumi no Daigo 01 18:13
+	Meow the Secret Boy 28 05:54
+	Messi Meets America 05 19:50
+	Metallic Rouge 04 03:43
+	Metallic Rouge LAT 04 03:44
+	Mi Amor Sin Tiempo 17 16:46
+	Mi Lady Jane 28 02:53
+	Mi adorable demonio 22 21:49
+	Mia es la Venganza 29 22:02
+	Mirada de ángel 24 04:08
+	Misaeng 28 19:28
+	Mob kara Hajimaru Tansaku Eiyuutan 
+	Momochi-san Chi no Ayakashi Ouji 
+	Monarch Legacy of Monsters 21 16:26
+	Monogatari Series 15 05:25
+	Monsieur Spade 23 19:16
+	Monstruos a la obra 06 16:51
+	Mundos opuestos 22 16:50
+	Munecas 16 02:50
+	Mushoku Tensei 20 00:12
+	My Adventures With Superman 26 22:40
+	My Dearest 12 15:34
+	My Oni Girl 24 18:57
+	NCIS Hawai 26 21:24
+	NCIS Investigacion criminal  12 21:47
+	NCIS Sydney 03 15:46
+	Nahir el secreto de un crimen 01 04:24
+	Nanatsu no Taizai 22 04:22
+	Narco Circus 03 05:07
+	Narcosantos 03 05:22
+	Nell la renegada 29 20:45
+	New Look 14 18:35
+	NieR Automata Ver1 1a 13 17:01
+	Nige Jouzu no Wakagimi 15 05:20
+	Night Court 29 17:43
+	Nijiyon Animation 05 17:12
+	Ninja Kamui 01 18:36
+	Ni una mas 31 22:13
+	No Soy Un Robot 19 18:21
+	Nos vemos en otra vida 13 04:24
+	Nothing Uncovered 20 01:06
+	Nozomanu Fushi no Boukensha 01 20:02
+	Nugget de pollo 15 17:48
+	Office Girls 28 22:44
+	One Piece 15 05:43
+	One Room Hiatari Futsuu Tenshi tsuki 2
+	Ooi Tonbo 28 21:02
+	Ookami to Koushinryou Merchant Meets the Wise Wolf 
+	Ore wa Subete wo 13 16:13
+	Oroka na Tenshi wa Akuma to Odoru 
+	Oshi no Ko 10 18:42
+	Outer Range 16 20:12
+	Pacto de Sangre 02 16:25
+	Palm Royale 20 23:21
+	Palpito 02 14:39
+	Parasyte Los grises 05 17:15
+	Parish 24 17:30
+	Pecado original 22 18:17
+	Percy Jackson and the Olympians
+	Perfect Wife The Mysterious Disappearance of Sherri Papini 22 17:10
+	Perverso 08 18:38
+	Pesadillas y ensonaciones de Joko Anwar
+	Pituca sin lucas 17 16:45
+	Pokemon Horizons 23 02:50
+	Pon no Michi 01 20:12
+	Population 12 16:27
+	Power Book II 03 22:00
+	Power Book III 21 15:58
+	Presumed Innocent 12 17:13
+	Pretty Little Liars Escuela de verano
+	Primate 24 18:07
+	Profe Infiltrado 13 19:23
+	Professor 12 16:28
+	Proyecto Ourika 29 20:06
+	Punto de inflexion La bomba y la Guerra Fria 
+	Pyramid Game 03 20:38
+	Quacks 07 01:16
+	Quantum Leap 19 18:21
+	Que asi sea 29 14:40
+	Queen Of Tears 19 20:02
+	Quien lo mato 08 15:08
+	Quiet on Set The Dark Side of Kids 
+	Ragna Crimson 01 20:16
+	ReMonster 18 00:18
+	ReMonster LAT 18 00:19
+	Red Eye 26 18:17
+	Reflection of You 27 21:39
+	Reina Roja 29 18:01
+	Reina del Divorcio 08 05:16
+	Rengarenk 21 20:00
+	Resident Alien 21 23:08
+	Rico y Pobre 22 02:20
+	Rigo 16 19:35
+	Rinkai 02 02:34
+	Ripley 04 20:45
+	Rising Impact 02 03:56
+	Rojo Carmesi 17 16:52
+	Ronja La Hija del Bandolero 03 16:19
+	Rosario Tijeras 30 23:46
+	Ruyis Royal Love in the Palace 17 19:16
+	SAIMDANG DIARO DE LUZ 28 02:58
+	SEAL Team 12 18:58
+	SILVER SURFER 15 22:08
+	SWAT 12 18:50
+	Saihate no Paladin 05 17:36
+	Saijaku Tamer wa Gomi Hiroi no Tab
+	Saikyou Tank no Meikyuu Kouryaku
+	Saimdang Memoir of Colors 28 04:58
+	Sand Land The Series 24 22:47
+	Sangre de Zeus 11 23:50
+	Sasaki to Pii-chan 01 20:25
+	Sasayaku You ni Koi wo Utau 25 03:50
+	Sausage Party Foodtopia 12 07:05
+	School Days LAT 25 15:13
+	Secret City 02 18:05
+	Secret Mission Sennyuu Sousakan wa Zettai ni Makenai
+	Secretos de familia 03 08:40
+	Secrets Of Polygamy 07 23:36
+	Secuestro del vuelo 601 12 05:06
+	Segunda muerte 03 21:58
+	Seiyuu Radio no Uraomote 02 02:35
+	Selena and Yolanda The Secrets Between
+	Sengoku Youko 04 03:40
+	Senorita 89 01 18:17
+	Senpai wa Otokonoko 13 16:47
+	Sentai Daishikkaku 15 05:46
+	Sevdam Alabora 22 07:20
+	Sexy Beast 01 19:37
+	Shaman King Flowers 06 17:54
+	Shangri La Frontier 01 18:34
+	Shes Gotta Have It 05 22:47
+	Shikanoko Nokonoko Koshitantan 15 05:48
+	Shinigami Bocchan to Kuro Maid 10 22:03
+	Shinmai Ossan Boukensha 17 19:13
+	Shin no Nakama ja Nai to Yuusha no Party wo 
+	Shogun 
+	Shuumatsu Train Doko e Iku 02 02:21
+	Shy 06 19:56
+	Siempre el mismo día 10 07:14
+	Sight Unseen 30 17:48
+	Silicon Valley 11 18:22
+	Simple Days 15 23:30
+	Slow Horses 21 15:56
+	Smallville 28 01:27
+	Smiling Friends 25 20:57
+	Sokushi Cheat ga Saikyou sugite 
+	Sol Yanım 22 02:03
+	Solo Leveling 09 02:39
+	Solo Leveling lat 09 00:29
+	Sousou no Frieren 22 19:31
+	Soy extraordinaria 14 22:39
+	Spy x Family 05 17:37
+	Sr y Sra. Smith 08 18:34
+	Star Trek Discovery 05 16:09
+	Star Wars Tales of the Empire 04 20:14
+	Star Wars The Bad Batch 21 22:27
+	Station 19 18 23:40
+	Suenos de libertad 10 17:33
+	Sugar 22 17:49
+	Suicide Squad Isekai 13 16:04
+	Sunny 11 04:49
+	Supacell 27 19:37
+	Super Ada 12 16:11
+	Supersex 08 04:39
+	SurrealEstate 31 22:07
+	Sweet Tooth 07 21:59
+	Synduality Noir 01 20:20
+	T・P BON 17 19:32
+	TE ALQUILO MI AMOR 16 19:18
+	T P BON 03 18:27
+	TSUKIMICHI -Fantasía a la luz de la luna 
+	Tadaima Okaeri 28 20:28
+	Tasogare Out Focus 13 16:08
+	Tasuuketsu 17 19:20
+	Tate no Yuusha no Nariagari 05 17:24
+	Temptation Island Mexico 08 02:19
+	Tengo que morir todas las noches 
+	Tensei Kizoku Kantei Skill de Nariagaru
+	Tensei shitara Dainana Ouji Datta node
+	Tensei shitara Slime Datta Ken 05 16:59
+	Terius Behind Me 27 04:23
+	Testamento La historia de Moises 
+	The 8 Show 18 02:31
+	The Acolyte 05 21:52
+	The Bear 03 03:16
+	The Big Cigar 21 18:58
+	The Big Door Prize 16 23:07
+	The Big Door Prize La puerta a tus sueños 
+	The Boys 13 19:26
+	The Cleaning Lady 13 04:24
+	The Completely Made-Up Adventures of Dick Turpin 
+	The Couple Next Door 21 15:46
+	The Daily Life of the Immortal King
+	The Equalizer 21 22:24
+	The Fable 15 05:21
+	The Family Stallone 07 21:15
+	The Good Doctor 22 20:26
+	The Handmaids Tale 21 15:23
+	The Haunting of Hill House 05 21:35
+	The Impossible Heir 15 05:58
+	The Irrational 21 23:11
+	The Kardashian 03 20:58
+	The Marlow Murder Club 18 23:46
+	The Midnight Studio 19 19:57
+	The New Gate 02 03:44
+	The New Look 03 18:29
+	The Regime 12 16:32
+	The Responder 18 17:53
+	The Rookie 22 20:26
+	The Serpent Queen 17 18:17
+	The Smile Has Left Your Eyes 28 15:28
+	The Sympathizer 23 18:19
+	The Tattooist of Auschwitz 16 20:29
+	The Thorn Birds 06 03:06
+	The Tourist 21 15:09
+	The Traitors 11 17:16
+	The Traitors US 01 19:39
+	The Truth 08 18:57
+	The Walking Dead Cold Storage 30 02:43
+	The Walking Dead Dead City 03 18:40
+	The Walking Dead The Ones Who Live 28 
+	The Walking Dead Torn Apart 29 19:40
+	The Weakest Tamer Began a Journey to Pick Up Trash 09 18:01
+	The Woman In The Wall 21 15:07
+	The iDOLMASTER Shiny Colors 22 20:29
+	The twelve 06 03:21
+	This Town 02 19:30
+	Tierra de Lobos 29 01:43
+	Tierra de mujeres 26 20:09
+	Tierra de secretos 22 03:26
+	Todavia Tengo Esperanza 22 02:23
+	Together Treble Winners 06 16:48
+	Tokidoki Bosotto Russia 10 18:46
+	Tokyo Vice 08 18:04
+	Tonari no Youkai-san 02 03:43
+	Topissima 03 23:18
+	Tortugas Ninjas 15 20:47
+	Touch Your Heart 27 03:55
+	Touken Ranbu Kai Kyoden Moyuru Honnouji
+	Tracker 23 00:19
+	Tragones y mazmorras 28 20:48
+	Tres Hermanas 22 20:13
+	Trigger Point 08 18:59
+	True Detective 19 05:21
+	Trying 21 19:04
+	Tsue to Tsurugi no Wistoria 15 05:45
+	Tsuki ga Michibiku Isekai Douchuu 
+	Tu Vida Es mi vida 18 17:05
+	Un Buen Día Para Ser Perro 25 18:29
+	Una Historia de Amor 09 18:54
+	Una condicion llamada amor 16 17:59
+	Un buen divorcio 12 21:57
+	Undead Unluck 01 20:13
+	Under Ninja 05 17:23
+	Under The Bridge 31 17:55
+	Unnamed Memory 02 02:27
+	Urusei Yatsura 16 19:53
+	VIDAS ROTAS 03 23:30
+	VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream 08 19:06
+	Vampire Dormitory 02 02:08
+	Vecinos Temporada 16 11 17:20
+	Velma 27 01:19
+	Vikings Valhalla 11 21:28
+	Viral Hit 28 21:13
+	Vivir de Amor 17 16:33
+	Volver a Casa 06 04:00
+	Vuelve a mi 21 15:03
+	WIND BREAKER LAT 25 15:30
+	W Two Worlds 28 23:13
+	WWW 28 06:19
+	Walker 03 22:00
+	We Were The Lucky Ones 04 18:59
+	Wedding Impossible 19 19:56
+	What If 21 15:03
+	Wild Cards 07 23:25
+	Will Trent 24 15:17
+	Wind Breaker 02 02:39
+	Wine Dine and Woo Wine 27 21:49
+	WondLa 28 16:54
+	Wonderful World 16 18:32
+	X-Men 15 22:45
+	X-Men 97 20 23:33
+	X MEN 09 22:21
+	Yali Capkini 22 01:35
+	Yesil Vadinin Kizi 22 05:56
+	Yo 12 17:59
+	Yoru no Kurage wa Oyogenai 25 03:37
+	You Are My Spring 28 20:04
+	Youkoso Jitsuryoku Shijou 16 00:56
+	Young Sheldon 21 22:22
+	Yozakura-san Chi no Daisakusen 
+	Yubisaki to Renren 
+	Yuksek Sosyete 
+	Yuru Camp 
+	Yuuki Bakuhatsu Bang Bravern 
+	begins youth 
+	furia  
+	hacks 
+	kanojo mo Kanojoanojo mo Kanojo 
+	mujeres asesinas 
+	nadie como tu 
+	sierra madre 
+	supernatural  
+	the simpsons  
+	the veil  
+	vip  
 
-#EXTINF:-1 tvg-id="Canal79MardelPlata.ar" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Undefined",Canal 79 Mar del Plata (240p)
-https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal79Puan.ar" tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Undefined",Canal 79 Puan (240p)
-https://streamconex.com:1936/puan/puan/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal79SanJuan.ar" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Undefined",Canal 79 San Juan (240p)
-https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal79SantaClaradelMar.ar" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Undefined",Canal 79 Santa Clara del Mar (240p)
-https://streamconex.com:1936/santaclara/santaclara/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-logo="https://i.imgur.com/fNURpai.png" group-title="Undefined" user-agent="iPhone",Canal de la Ciudad (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://g2.vxral-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religious",Canal Orbe 21 (720p)
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-logo="https://i.imgur.com/bXHHtcb.png" group-title="Undefined",Canal Provincial (360p)
-https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Outdoor",Canal Rural (720p)
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSantaMaria.ar" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="Undefined",Canal Santa María (360p)
-https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CanalSiete.ar" tvg-logo="https://i.imgur.com/NdQF9K9.png" group-title="Undefined",Canal Siete (720p) [Not 24/7]
-https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
-#EXTINF:-1 tvg-id="CanalTDC.ar" tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="Undefined",CANAL TDC (1080p) [Not 24/7]
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Undefined",Canal U (720p)
-https://stream.arcast.live/canalu/canalu/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalXFN.ar" tvg-logo="https://i.imgur.com/Hw37hNs.png" group-title="Undefined",Canal XFN (720p)
-https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
-#EXTINF:-1 tvg-id="CatamarcaTV.ar" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="Undefined",Catamarca TV (720p)
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español (576p)
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="Undefined",Chaco TV (720p) [Not 24/7]
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="https://i.imgur.com/gy7AEfO.png" group-title="Outdoor",Chacra TV (480p) [Not 24/7]
-https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ChilecitoTV.ar" tvg-logo="https://i.imgur.com/zGubmgZ.png" group-title="Undefined",Chilecito TV (480p)
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="Undefined",Cinco TV (480p)
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",CINE.AR (720p) [Not 24/7]
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Undefined",Ciudad Magazine (1080p) [Geo-blocked]
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="Outdoor",Ciudad Mágica (720p) [Not 24/7]
-https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-logo="https://i.imgur.com/oL8SMTL.png" group-title="Undefined",Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://i.imgur.com/gwpETyS.png" group-title="Music" user-agent="iPhone",CM El Canal de la Música (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="Undefined",CN3 Pinamar (720p) [Not 24/7]
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Sports",CnAr Deportes (1440p)
-https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
-#EXTINF:-1 tvg-id="CnArNoticias.ar" tvg-logo="https://i.imgur.com/yOk4bHZ.png" group-title="News",CnAr Noticias (360p)
-https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
-http://181.78.24.67:8010/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-logo="https://i.imgur.com/7PBkvRp.png" group-title="Undefined",Corrientes TV (CTV) (720p)
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
-#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV (720p)
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports",DeporTV (1080p) [Not 24/7]
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (480p) [Geo-blocked]
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="DNews.us" tvg-logo="https://i.imgur.com/jF2BabI.png" group-title="News",DNews (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Undefined",El Doce (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/RZZshKK.png" group-title="Auto",El Garage TV (480p) [Not 24/7]
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
-#EXTINF:-1 tvg-id="ElOnce.ar" tvg-logo="https://i.imgur.com/sm2oUGF.png" group-title="Undefined",El Once (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
-
-#EXTINF:-1 tvg-id="ElSiete.ar" tvg-logo="https://i.imgur.com/yKb7nfP.png" group-title="Undefined",El Siete Mendoza (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
-
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro (1080p)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-
-#EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (720p)
-https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FenixTV.ar" tvg-logo="https://i.imgur.com/wQ33T78.png" group-title="Undefined",Fenix TV (Ciudad de La Rioja) (360p)
-https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
-https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-id="GenTV.ar" tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Undefined",GenTV (480p)
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LaVozdeTucuman.ar" tvg-logo="https://i.imgur.com/k2r7IeQ.png" group-title="Undefined",La Voz de Tucumán (480p)
-https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids (480p) [Not 24/7]
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids (486p)
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="MasMusicaTV.ar" tvg-logo="https://i.imgur.com/RcbIgA0.png" group-title="Music",Más Música TV (360p)
-https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MisionesCuatro.ar" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="General",Misiones Cuatro (480p)
-https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="Undefined",Multivisión Federal (720p) [Not 24/7]
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="Music",MusicTop (720p)
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="Undefined",Neo TV (432p)
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Undefined",Neox TV (480p)
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="General",NET TV (720p)
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NorteTV.ar" tvg-logo="https://i.imgur.com/jTX2vp0.png" group-title="General",Norte TV Canal 7 (360p)
-https://video.streamtvradio.com:8443/uv027/uv027/playlist.m3u8
-#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelísima [Not 24/7]
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka (720p)
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-id="PancTV.ar" tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="General",Panc TV (720p)
-https://stream.trixserver.com:3088/live/uv096live.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVTelefeClasico.us" tvg-logo="https://i.imgur.com/3fuWMmy.png" group-title="Undefined",Pluto TV Telefe Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="RTN.ar" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="Undefined",RTN (Neuquén) (720p) [Not 24/7]
-https://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 tvg-id="SanPedroTV.ar" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="Undefined",San Pedro TV (1080p) [Not 24/7]
-https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://i.imgur.com/C1mY5X4.png" group-title="Undefined",Santa Fe Canal (720p)
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="SenateTV.ar" tvg-logo="https://i.imgur.com/Mt0UCXk.png" group-title="Legislative",Senado TV (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCStm2uvQKowSXrnCzTWAn6Q.m3u8
-#EXTINF:-1 tvg-id="SenalU.ar" tvg-logo="https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png" group-title="Culture",Señal U (480p) [Not 24/7]
-https://tvd.uncu.edu.ar/memfs/2d4ab656-9596-4ce8-85a5-9aae1cf3a31d.m3u8
-#EXTINF:-1 tvg-id="SenillosaTV.ar" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTrvk7gv0uCQ8QdGREqv6Rtzm4F6UMetdxKub6D=s400-c-k-c0x00ffffff-no-rj" group-title="Undefined",Senillosa TV (360p)
-https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
-#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="General",SEO TV 1 (1080p)
-https://live.seo.tv.bo/live/1SEO.m3u8
-#EXTINF:-1 tvg-id="SEOTV2Kids.bo" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="Kids",SEO TV 2 Kids (1080p)
-https://live.seo.tv.bo/live/2SEO.m3u8
-#EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Series",SEO TV 3 Novelas (1080p)
-https://live.seo.tv.bo/live/3SEO.m3u8
-#EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Movies",SEO TV 4 Películas (1080p)
-https://live.seo.tv.bo/live/4SEO.m3u8
-#EXTINF:-1 tvg-id="SEOTV5Deportes.bo" tvg-logo="https://i.imgur.com/N56B7si.png" group-title="Sports",SEO TV 5 Deportes (1080p) [Not 24/7]
-https://live.seo.tv.bo/live/5SEO.m3u8
-#EXTINF:-1 tvg-id="SEOTV6.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Entertainment",SEO TV 6 (1080p)
-https://live.seo.tv.bo/live/6SEO.m3u8
-#EXTINF:-1 tvg-id="SEOTV7.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Comedy",SEO TV 7 (1080p)
-https://live.seo.tv.bo/live/7SEO.m3u8
-#EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Undefined",Sicardi TV (720p)
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-id="SoliveTV.ar" tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="Undefined",Solive TV (720p)
-https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
-#EXTINF:-1 tvg-id="SomosLaPampa.ar" tvg-logo="https://i2.paste.pics/91920f8c1ac64beaaf70f7fbc09982c8.png" group-title="Undefined",Somos La Pampa (1080p)
-https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperClassicsTV.ar" tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="Music",Super Classics TV (360p)
-https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="Animation;Kids",Super Kaos TV (360p)
-https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeloCuentoyQue.ar" tvg-logo="https://i.imgur.com/SWh8ZiH.png" group-title="Entertainment;News",Te Lo Cuento y Que...!!! (360p)
-https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
-#EXTINF:-1 tvg-id="TECTV.ar" tvg-logo="https://i.imgur.com/LYy0Rfo.png" group-title="Science",TEC TV (720p) [Not 24/7]
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-
-#EXTINF:-1 tvg-id="Telediez.ar" tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Undefined",Telediez (360p) [Not 24/7]
-https://videohd.live:19360/8020/8020.m3u8
-
-#EXTINF:-1 tvg-id="TeleJunin.ar" tvg-logo="https://i.imgur.com/5X8gdCv.png" group-title="Undefined",TeleJunín (576p)
-https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
-
-#EXTINF:-1 tvg-id="Telesol.ar" tvg-logo="https://i.imgur.com/79sTxtP.png" group-title="Undefined",Telesol (TLS) (432p) [Not 24/7] [Geo-blocked]
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR (1080p)
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
-
-#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://i.imgur.com/LQCaoH9.png" group-title="Undefined",Tierra Mía TV (720p)
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ViajarTV.ar" tvg-logo="https://i.imgur.com/LxB7ZIu.png" group-title="Undefined",Viajar TV (720p)
-https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-#EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="Entertainment",Vorterix (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
-#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science",Xtrema Animal (360p)
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Animation",Xtrema Anime (360p)
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids",Xtrema Cartoons (360p)
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",Xtrema Cine Acción (268p)
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="Movies",Xtrema Cine Asia (268p)
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="Comedy;Movies",Xtrema Cine Comedy (344p)
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="Movies",Xtrema Cine Drama (360p)
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="Movies",Xtrema Cine Europa (360p)
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="Family;Movies",Xtrema Cine Family (274p)
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="Movies",Xtrema Cine Hindi (272p)
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="Movies",Xtrema Cine Latino (360p)
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="Movies",Xtrema Cine Suspenso (360p)
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Movies",Xtrema Cine Terror (270p)
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Animation;Classic;Kids",Xtrema Retro Cartoons (360p)
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Classic;Series",Xtrema Retro Series (360p)
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Movies",Xtrema Series (360p)
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1,AMC
-http://190.149.66.90:4000/play/a016/index.m3u8
-#EXTINF:-1,AMC HD
-http://190.149.66.90:4000/play/a01m/index.m3u8
-#EXTINF:-1,AXN HD
-http://190.149.66.90:4000/play/a04r/index.m3u8
-#EXTINF:-1,AZ click HD
-http://190.149.66.90:4000/play/a01s/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://190.149.66.90:4000/play/a01j/index.m3u8
-#EXTINF:-1,Azcorazon
-http://190.149.66.90:4000/play/a00v/index.m3u8
-#EXTINF:-1,Azmundo
-http://190.149.66.90:4000/play/a030/index.m3u8
-#EXTINF:-1,BBC World
-http://190.149.66.90:4000/play/a018/index.m3u8
-#EXTINF:-1,Baby First
-http://190.149.66.90:4000/play/a028/index.m3u8
-#EXTINF:-1,CARTOON NT HD
-http://190.149.66.90:4000/play/a00b/index.m3u8
-#EXTINF:-1,CDN2- RD
-http://190.149.66.90:4000/play/a01z/index.m3u8
-#EXTINF:-1,CDN37 - RD
-http://190.149.66.90:4000/play/a02x/index.m3u8
-#EXTINF:-1,CINECANAL HD
-http://190.149.66.90:4000/play/a03h/index.m3u8
-#EXTINF:-1,CNNE
-http://190.149.66.90:4000/play/a017/index.m3u8
-#EXTINF:-1,Canal 11 - GUA
-http://190.149.66.90:4000/play/a01x/index.m3u8
-#EXTINF:-1,Canal 13-GUA
-http://190.149.66.90:4000/play/a01w/index.m3u8
-#EXTINF:-1,Canal 3 - GUA
-http://190.149.66.90:4000/play/a02u/index.m3u8
-#EXTINF:-1,Canal 4 - PAN
-http://190.149.66.90:4000/play/a044/index.m3u8
-#EXTINF:-1,Canal 7 - GUA
-http://190.149.66.90:4000/play/a02t/index.m3u8
-#EXTINF:-1,Canal 7 HD CR
-http://190.149.66.90:4000/play/a01g/index.m3u8
-#EXTINF:-1,Canal Antigua - GUA
-http://190.149.66.90:4000/play/a02r/index.m3u8
-#EXTINF:-1,Canal Azteca - GUA
-http://190.149.66.90:4000/play/a02s/index.m3u8
-#EXTINF:-1,Canal Claro
-http://190.149.66.90:4000/play/a00j/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://190.149.66.90:4000/play/a00o/index.m3u8
-#EXTINF:-1,Cartoonito
-http://190.149.66.90:4000/play/a00q/index.m3u8
-#EXTINF:-1,Cine Latino
-http://190.149.66.90:4000/play/a04k/index.m3u8
-#EXTINF:-1,CineCanal
-http://190.149.66.90:4000/play/a04n/index.m3u8
-#EXTINF:-1,CineMax
-http://190.149.66.90:4000/play/a04l/index.m3u8
-#EXTINF:-1,Claro Cinema
-http://190.149.66.90:4000/play/a03d/index.m3u8
-#EXTINF:-1,Claro Musica
-http://190.149.66.90:4000/play/a02j/index.m3u8
-#EXTINF:-1,Claro Sports 1 HD
-http://190.149.66.90:4000/play/a008/index.m3u8
-#EXTINF:-1,Claro Sports 1 SD
-http://190.149.66.90:4000/play/a04c/index.m3u8
-#EXTINF:-1,Claro Sports 2 HD
-http://190.149.66.90:4000/play/a009/index.m3u8
-#EXTINF:-1,Claro Sports 2 SD
-http://190.149.66.90:4000/play/a02f/index.m3u8
-#EXTINF:-1,Comedy Central HD
-http://190.149.66.90:4000/play/a03q/index.m3u8
-#EXTINF:-1,Concert Channel
-http://190.149.66.90:4000/play/a04g/index.m3u8
-#EXTINF:-1,DHE
-http://190.149.66.90:4000/play/a006/index.m3u8
-#EXTINF:-1,DHE HD
-http://190.149.66.90:4000/play/a01r/index.m3u8
-#EXTINF:-1,DISC THEATHER HD
-http://190.149.66.90:4000/play/a03n/index.m3u8
-#EXTINF:-1,Digital 15 - RD
-http://190.149.66.90:4000/play/a01y/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://190.149.66.90:4000/play/a036/index.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://190.149.66.90:4000/play/a051/index.m3u8
-#EXTINF:-1,Discovery Home & Health
-http://190.149.66.90:4000/play/a04a/index.m3u8
-#EXTINF:-1,Discovery ID HD
-http://190.149.66.90:4000/play/a055/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://190.149.66.90:4000/play/a045/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://190.149.66.90:4000/play/a049/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://190.149.66.90:4000/play/a052/index.m3u8
-#EXTINF:-1,Disney
-http://190.149.66.90:4000/play/a047/index.m3u8
-#EXTINF:-1,Disney JR
-http://190.149.66.90:4000/play/a00r/index.m3u8
-#EXTINF:-1,E!
-http://190.149.66.90:4000/play/a033/index.m3u8
-#EXTINF:-1,E! Entertairment HD
-http://190.149.66.90:4000/play/a01k/index.m3u8
-#EXTINF:-1,ESPN
-http://190.149.66.90:4000/play/a03a/index.m3u8
-#EXTINF:-1,ESPN  +
-http://190.149.66.90:4000/play/a01d/index.m3u8
-#EXTINF:-1,ESPN 2
-http://190.149.66.90:4000/play/a03b/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.149.66.90:4000/play/a04w/index.m3u8
-#EXTINF:-1,ESPN 3
-http://190.149.66.90:4000/play/a02g/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://190.149.66.90:4000/play/a04v/index.m3u8
-#EXTINF:-1,ESPN 4
-http://190.149.66.90:4000/play/a04e/index.m3u8
-#EXTINF:-1,ESPN 4  HD
-http://190.149.66.90:4000/play/a04q/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.149.66.90:4000/play/a04u/index.m3u8
-#EXTINF:-1,EURO Channel
-http://190.149.66.90:4000/play/a02b/index.m3u8
-#EXTINF:-1,EWTN
-http://190.149.66.90:4000/play/a01b/index.m3u8
-#EXTINF:-1,El Gourmet
-http://190.149.66.90:4000/play/a02d/index.m3u8
-#EXTINF:-1,Europa HD
-http://190.149.66.90:4000/play/a01p/index.m3u8
-#EXTINF:-1,Exa TV
-http://190.149.66.90:4000/play/a03c/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://190.149.66.90:4000/play/a04x/index.m3u8
-#EXTINF:-1,FOX Sports 2
-http://190.149.66.90:4000/play/a02h/index.m3u8
-#EXTINF:-1,FUTV CR
-http://190.149.66.90:4000/play/a040/index.m3u8
-#EXTINF:-1,FX
-http://190.149.66.90:4000/play/a029/index.m3u8
-#EXTINF:-1,FX HD
-http://190.149.66.90:4000/play/a01o/index.m3u8
-#EXTINF:-1,Film & Arts
-http://190.149.66.90:4000/play/a005/index.m3u8
-#EXTINF:-1,Fox Sport 3
-http://190.149.66.90:4000/play/a011/index.m3u8
-#EXTINF:-1,France24
-http://190.149.66.90:4000/play/a019/index.m3u8
-#EXTINF:-1,Golden
-http://190.149.66.90:4000/play/a02l/index.m3u8
-#EXTINF:-1,Golf Channel HD
-http://190.149.66.90:4000/play/a01u/index.m3u8
-#EXTINF:-1,Guatevision - GUA
-http://190.149.66.90:4000/play/a00k/index.m3u8
-#EXTINF:-1,H2
-http://190.149.66.90:4000/play/a02c/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://190.149.66.90:4000/play/a00f/index.m3u8
-#EXTINF:-1,HBO HD
-http://190.149.66.90:4000/play/a00c/index.m3u8
-#EXTINF:-1,HBO Plus HD
-http://190.149.66.90:4000/play/a00e/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://190.149.66.90:4000/play/a00g/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://190.149.66.90:4000/play/a00d/index.m3u8
-#EXTINF:-1,HOLA! TV HD
-http://190.149.66.90:4000/play/a03p/index.m3u8
-#EXTINF:-1,History Channel
-http://190.149.66.90:4000/play/a038/index.m3u8
-#EXTINF:-1,History HD
-http://190.149.66.90:4000/play/a01c/index.m3u8
-#EXTINF:-1,Home & Health HD
-http://190.149.66.90:4000/play/a03o/index.m3u8
-#EXTINF:-1,ID
-http://190.149.66.90:4000/play/a04b/index.m3u8
-#EXTINF:-1,ISAT
-http://190.149.66.90:4000/play/a04i/index.m3u8
-#EXTINF:-1,LIFE TIME
-http://190.149.66.90:4000/play/a010/index.m3u8
-#EXTINF:-1,Latin America Sport
-http://190.149.66.90:4000/play/a02i/index.m3u8
-#EXTINF:-1,MTV
-http://190.149.66.90:4000/play/a04f/index.m3u8
-#EXTINF:-1,MTV 00s
-http://190.149.66.90:4000/play/a02k/index.m3u8
-#EXTINF:-1,MTV 00s HD
-http://190.149.66.90:4000/play/a03s/index.m3u8
-#EXTINF:-1,MTV 80s
-http://190.149.66.90:4000/play/a013/index.m3u8
-#EXTINF:-1,MTV HD
-http://190.149.66.90:4000/play/a01e/index.m3u8
-#EXTINF:-1,MTV Hits
-http://190.149.66.90:4000/play/a012/index.m3u8
-#EXTINF:-1,MTV SIM HD
-http://190.149.66.90:4000/play/a03r/index.m3u8
-#EXTINF:-1,Multicinema
-http://190.149.66.90:4000/play/a02n/index.m3u8
-#EXTINF:-1,Multipremier
-http://190.149.66.90:4000/play/a04j/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://190.149.66.90:4000/play/a04y/index.m3u8
-#EXTINF:-1,National Geographic
-http://190.149.66.90:4000/play/a00z/index.m3u8
-#EXTINF:-1,Nick Jr
-http://190.149.66.90:4000/play/a00p/index.m3u8
-#EXTINF:-1,Nick SIM HD
-http://190.149.66.90:4000/play/a03k/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://190.149.66.90:4000/play/a046/index.m3u8
-#EXTINF:-1,Paramount
-http://190.149.66.90:4000/play/a007/index.m3u8
-#EXTINF:-1,Paramount HD
-http://190.149.66.90:4000/play/a04z/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://190.149.66.90:4000/play/a053/index.m3u8
-##EXTINF:-1,RCN - GUA
-http://190.149.66.90:4000/play/a042/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://190.149.66.90:4000/play/a02a/index.m3u8
-#EXTINF:-1,SEMILLITAS
-http://190.149.66.90:4000/play/a00s/index.m3u8
-#EXTINF:-1,SONY
-http://190.149.66.90:4000/play/a031/index.m3u8
-#EXTINF:-1,SONY HD
-http://190.149.66.90:4000/play/a03g/index.m3u8
-#EXTINF:-1,SPACE
-http://190.149.66.90:4000/play/a00w/index.m3u8
-#EXTINF:-1,SPACE HD
-http://190.149.66.90:4000/play/a04s/index.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://190.149.66.90:4000/play/a048/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://190.149.66.90:4000/play/a03e/index.m3u8
-#EXTINF:-1,Sony Movies HD
-http://190.149.66.90:4000/play/a01q/index.m3u8
-#EXTINF:-1,Star TVE HD
-http://190.149.66.90:4000/play/a01t/index.m3u8
-#EXTINF:-1,Studio Universal
-http://190.149.66.90:4000/play/a04m/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://190.149.66.90:4000/play/a01i/index.m3u8
-#EXTINF:-1,Sun Channel
-http://190.149.66.90:4000/play/a02e/index.m3u8
-#EXTINF:-1,SyFy
-http://190.149.66.90:4000/play/a035/index.m3u8
-#EXTINF:-1,TBN Enlace
-http://190.149.66.90:4000/play/a01a/index.m3u8
-#EXTINF:-1,TBS
-http://190.149.66.90:4000/play/a00y/index.m3u8
-#EXTINF:-1,TCM
-http://190.149.66.90:4000/play/a02m/index.m3u8
-#EXTINF:-1,TLC
-http://190.149.66.90:4000/play/a039/index.m3u8
-#EXTINF:-1,TNT
-http://190.149.66.90:4000/play/a015/index.m3u8
-#EXTINF:-1,TNT HD
-http://190.149.66.90:4000/play/a03m/index.m3u8
-#EXTINF:-1,TNT Series
-http://190.149.66.90:4000/play/a00x/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://190.149.66.90:4000/play/a050/index.m3u8
-#EXTINF:-1,TVE
-http://190.149.66.90:4000/play/a04o/index.m3u8
-#EXTINF:-1,Teen Nick HD
-http://190.149.66.90:4000/play/a01h/index.m3u8
-#EXTINF:-1,Telemundo
-http://190.149.66.90:4000/play/a00u/index.m3u8
-#EXTINF:-1,Telemundo HD
-http://190.149.66.90:4000/play/a01n/index.m3u8
-#EXTINF:-1,Tigo Sports HD
-http://190.149.66.90:4000/play/a03j/index.m3u8
-#EXTINF:-1,Tooncast
-http://190.149.66.90:4000/play/a02z/index.m3u8
-#EXTINF:-1,Tru TV
-http://190.149.66.90:4000/play/a00t/index.m3u8
-#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
-http://190.149.66.90:4000/play/a056/index.m3u8
-#EXTINF:-1,UNIVERSAL COMEDY HD
-http://190.149.66.90:4000/play/a03x/index.m3u8
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://190.149.66.90:4000/play/a03w/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE HD
-http://190.149.66.90:4000/play/a03t/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE O HD
-http://190.149.66.90:4000/play/a03u/index.m3u8
-#EXTINF:-1,UNIVERSAL REALITY HD
-http://190.149.66.90:4000/play/a03v/index.m3u8
-#EXTINF:-1,Universal
-http://190.149.66.90:4000/play/a04h/index.m3u8
-#EXTINF:-1,Univision HD
-http://190.149.66.90:4000/play/a054/index.m3u8
-#EXTINF:-1,WARNER HD
-http://190.149.66.90:4000/play/a03f/index.m3u8
-#EXTINF:-1,Warner
-http://190.149.66.90:4000/play/a032/index.m3u8
-#EXTINF:-1,MLS 1 | September 23 5:00 pAtlanta vs. Montréal
-http://magi-stv.net:8080/Joseluis/Joseluis123/2188073
-#EXTINF:-1,MLS 2 | September 23 5:00 pCincinnati vs. Charlotte
-http://magi-stv.net:8080/Joseluis/Joseluis123/2188074
-#EXTINF:-1,MLS 3 | September 23 5:00 pD.C. vs. New York
-http://magi-stv.net:8080/Joseluis/Joseluis123/2188075
-#EXTINF:-1,MLS 4 | September 23 5:00 pNew York City vs. Toronto
-http://magi-stv.net:8080/Joseluis/Joseluis123/2188076
-#EXTINF:-1,MLS 5 | September 23 5:00 pPhiladelphia vs. LAFC
-http://magi-stv.net:8080/Joseluis/Joseluis123/2188077
-#EXTINF:-1, Unicable
-http://magi-stv.net:8080/Joseluis/Joseluis123/2092564
-#EXTINF:-1, Universal Channel
-http://magi-stv.net:8080/Joseluis/Joseluis123/2092575
-#EXTINF:-1,2 MB| Fox Sports 3 LQ
-http://magi-stv.net:8080/Joseluis/Joseluis123/2123478
-#EXTINF:-1, Ultra Cine
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157469
-#EXTINF:-1, Ultra Documental
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157470
-#EXTINF:-1,VIX | Aqui y Ahora
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157549
-#EXTINF:-1,VIX | El Privilegio de Mandar
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157552
-#EXTINF:-1,VIX | Cronicas
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157553
-#EXTINF:-1,VIX | Cuidado con el Angel
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157554
-#EXTINF:-1,VIX | Del Mercado al Plato
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157555
-#EXTINF:-1,VIX | La Promesa
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157558
-#EXTINF:-1,VIX | Alebrijes y Rebujos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157559
-#EXTINF:-1,VIX | Tres Veces Ana
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157560
-#EXTINF:-1,VIX | Heroes del Norte
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157561
-#EXTINF:-1,VIX | Corazon Salvaje
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157562
-#EXTINF:-1,VIX | Lirio de Plata
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157565
-#EXTINF:-1,VIX | Muchachitas
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157566
-#EXTINF:-1,VIX | Triunfo del Amor
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157569
-#EXTINF:-1, Ultra Macho
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157594
-#EXTINF:-1, Ultra Mex
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157595
-#EXTINF:-1, Ultra Fiesta
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157596
-#EXTINF:-1, Ultra Familia
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157597
-#EXTINF:-1, Ultra Clasico
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157599
-#EXTINF:-1, Ultra Kids
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157598
-#EXTINF:-1,PLUTO | SERIES LATINAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157653
-#EXTINF:-1,PLUTO | CINE ESTELAR
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157654
-#EXTINF:-1,PLUTO | LUCHA LIBRE AAA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157655
-#EXTINF:-1,PLUTO | NICK EN ESPAÑOL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157656
-#EXTINF:-1,PLUTO | NICK JR EN ESPAÑOL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157657
-#EXTINF:-1,PLUTO | CINE ACCION
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157658
-#EXTINF:-1,PLUTO | CINE COMEDIA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157659
-#EXTINF:-1,PLUTO | CINE TERROR
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157660
-#EXTINF:-1,PLUTO | CINE DRAMA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157661
-#EXTINF:-1,PLUTO | CINE FAMILIA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157662
-#EXTINF:-1,PLUTO | CINE ROMANCE
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157663
-#EXTINF:-1,PLUTO | CINE SUSPENSO
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157664
-#EXTINF:-1,PLUTO | CINE CLASICO
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157665
-#EXTINF:-1,PLUTO | PELEAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157666
-#EXTINF:-1,PLUTO | NOVELAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157667
-#EXTINF:-1,PLUTO | SERIES RETRO
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157668
-#EXTINF:-1,PLUTO | MASTERCHEF
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157669
-#EXTINF:-1,Canela TV | Novelas Turcas
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157670
-#EXTINF:-1,PLUTO | LOS TRES CHIFLADOS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157671
-#EXTINF:-1,PLUTO | CLASICOS CARTOONS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157672
-#EXTINF:-1,PLUTO | NICK !Carly
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157673
-#EXTINF:-1,VIX | La Rosa de Guadalupe
-http://magi-stv.net:8080/Joseluis/Joseluis123/2157911
-#EXTINF:-1,24/7 :CINE ACCION
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090917
-#EXTINF:-1,24/7 :CINE ACCION SAGAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090918
-#EXTINF:-1,24/7 :CINE SAGAS INFANTIL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090919
-#EXTINF:-1,24/7 Better Call Saul
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133348
-#EXTINF:-1,24/7 Cantinflas 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090937
-#EXTINF:-1,24/7 Capitan America y Los Planetarios
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090954
-#EXTINF:-1,24/7 Caso Cerrado 
-http://magi-stv.net:8080/Joseluis/Joseluis123/189868
-#EXTINF:-1,24/7 Chespirito
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090979
-#EXTINF:-1,24/7 Clasicos de Disney (Latino)
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090938
-#EXTINF:-1,24/7 DAVE Y EVA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091358
-#EXTINF:-1,24/7 Disney Live Action
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090939
-#EXTINF:-1,24/7 Donde esta Wally
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090955
-#EXTINF:-1,24/7 Dragon Ball Freezer
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133668
-#EXTINF:-1,24/7 El Auto Fantastico
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090982
-#EXTINF:-1,24/7 El Gallo Claudio
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090957
-#EXTINF:-1,24/7 Fenomenoide
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090958
-#EXTINF:-1,24/7 Friends
-http://magi-stv.net:8080/Joseluis/Joseluis123/223069
-#EXTINF:-1,24/7 Game of Thrones
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133344
-#EXTINF:-1,24/7 Garfield
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090963
-#EXTINF:-1,24/7 Gargolas Heroes Goticos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090964
-#EXTINF:-1,24/7 Gasparin y sus Amigos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090965
-#EXTINF:-1,24/7 Halcones Galacticos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090966
-#EXTINF:-1,24/7 Halo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133343
-#EXTINF:-1,24/7 Hannah Montana
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090904
-#EXTINF:-1,24/7 Harry Potter & Animales Fantásticos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2106722
-#EXTINF:-1,24/7 Heidi
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090967
-#EXTINF:-1,24/7 Hercules 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090983
-#EXTINF:-1,24/7 Hey Arnold
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090905
-#EXTINF:-1,24/7 Hormiga Atomica
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133592
-#EXTINF:-1,24/7 La casa de los Dibujos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091492
-#EXTINF:-1,24/7 La Casa de Papel Corea
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133346
-#EXTINF:-1,24/7 La Familia P. Luche 
-http://magi-stv.net:8080/Joseluis/Joseluis123/200378
-#EXTINF:-1,24/7 La Rosa de Guadalupe
-http://magi-stv.net:8080/Joseluis/Joseluis123/180593
-#EXTINF:-1,24/7 Las Pistas de Blue
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090906
-#EXTINF:-1,24/7 Las Tortugas Ninja
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090968
-#EXTINF:-1,24/7 Los Años Maravillosos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090984
-#EXTINF:-1,24/7 Los Backyardigans
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090907
-#EXTINF:-1,24/7 Los Castores Cascarrabias
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090908
-#EXTINF:-1,24/7 Los Muppet Babys
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090910
-#EXTINF:-1,24/7 Los Padrinos Magicos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090909
-#EXTINF:-1,24/7 Los Supersonicos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090990
-#EXTINF:-1,24/7 MARVEL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090921
-#EXTINF:-1,24/7 Marvel Saga Infinito
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133201
-#EXTINF:-1,24/7 Mi Pequeño Pony
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090911
-#EXTINF:-1,24/7 Movies Jim Carrey
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090941
-#EXTINF:-1,24/7  Cinema 01
-http://magi-stv.net:8080/Joseluis/Joseluis123/210808
-#EXTINF:-1,24/7  Cinema 02
-http://magi-stv.net:8080/Joseluis/Joseluis123/210809
-#EXTINF:-1,24/7  Cinema 03
-http://magi-stv.net:8080/Joseluis/Joseluis123/210810
-#EXTINF:-1,24/7  Cinema 05
-http://magi-stv.net:8080/Joseluis/Joseluis123/210812
-#EXTINF:-1,24/7  Cinema 06
-http://magi-stv.net:8080/Joseluis/Joseluis123/210813
-#EXTINF:-1,24/7  Cinema 07
-http://magi-stv.net:8080/Joseluis/Joseluis123/210814
-#EXTINF:-1,24/7  Cinema 08
-http://magi-stv.net:8080/Joseluis/Joseluis123/210815
-#EXTINF:-1,24/7  Cinema 09
-http://magi-stv.net:8080/Joseluis/Joseluis123/210816
-#EXTINF:-1,24/7  Cinema 10
-http://magi-stv.net:8080/Joseluis/Joseluis123/210817
-#EXTINF:-1,24/7  Cinema 11
-http://magi-stv.net:8080/Joseluis/Joseluis123/210818
-#EXTINF:-1,24/7  Cinema 12
-http://magi-stv.net:8080/Joseluis/Joseluis123/210819
-#EXTINF:-1,24/7  Cinema 13
-http://magi-stv.net:8080/Joseluis/Joseluis123/210820
-#EXTINF:-1,24/7  Cinema 14
-http://magi-stv.net:8080/Joseluis/Joseluis123/210821
-#EXTINF:-1,24/7  Cinema 15
-http://magi-stv.net:8080/Joseluis/Joseluis123/210822
-#EXTINF:-1,24/7  Cinema 16
-http://magi-stv.net:8080/Joseluis/Joseluis123/210823
-#EXTINF:-1,24/7  Cinema 17
-http://magi-stv.net:8080/Joseluis/Joseluis123/210824
-#EXTINF:-1,24/7  Cinema 18
-http://magi-stv.net:8080/Joseluis/Joseluis123/210825
-#EXTINF:-1,24/7  Cinema 19
-http://magi-stv.net:8080/Joseluis/Joseluis123/210826
-#EXTINF:-1,24/7  Cinema 20
-http://magi-stv.net:8080/Joseluis/Joseluis123/210827
-#EXTINF:-1,24/7  Cinema 21
-http://magi-stv.net:8080/Joseluis/Joseluis123/210828
-#EXTINF:-1,24/7  Cinema 22
-http://magi-stv.net:8080/Joseluis/Joseluis123/210829
-#EXTINF:-1,24/7  Cinema 23
-http://magi-stv.net:8080/Joseluis/Joseluis123/210830
-#EXTINF:-1,24/7  Cinema 24
-http://magi-stv.net:8080/Joseluis/Joseluis123/210831
-#EXTINF:-1,24/7  Cinema 25
-http://magi-stv.net:8080/Joseluis/Joseluis123/210832
-#EXTINF:-1,24/7 Moviecenter Premium Oeste ⁽ᴴᴰ⁾
-http://magi-stv.net:8080/Joseluis/Joseluis123/186335
-#EXTINF:-1,24/7 Peliculas Marvel
-http://magi-stv.net:8080/Joseluis/Joseluis123/177987
-#EXTINF:-1,24/7 Películas Drama
-http://magi-stv.net:8080/Joseluis/Joseluis123/203983
-#EXTINF:-1,24/7 Películas Fantasía
-http://magi-stv.net:8080/Joseluis/Joseluis123/203984
-#EXTINF:-1,24/7 NARCOS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090920
-#EXTINF:-1,24/7 Padre de familia
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091023
-#EXTINF:-1,24/7 Paw Patroll
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090912
-#EXTINF:-1,24/7 PELICULAS ESTRENOS 2022
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133347
-#EXTINF:-1,24/7 Pocoyo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090913
-#EXTINF:-1,24/7 Scooby Doo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090914
-#EXTINF:-1,24/7 Shark Thank
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133765
-#EXTINF:-1,24/7 Super Agente 86
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133394
-#EXTINF:-1,24/7  Alerta Aeropuerto
-http://magi-stv.net:8080/Joseluis/Joseluis123/203977
-#EXTINF:-1,24/7 The Flash
-http://magi-stv.net:8080/Joseluis/Joseluis123/2133349
-#EXTINF:-1,24/7 Timon y Pumbaa
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090916
-#EXTINF:-1,24/7 Tiroloco
-http://magi-stv.net:8080/Joseluis/Joseluis123/2131773
-#EXTINF:-1,24/7 Tom Y Jerry
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090915
-#EXTINF:-1,24/7 Vecinos 
-http://magi-stv.net:8080/Joseluis/Joseluis123/189870
-#EXTINF:-1,24/7 Walker Texas Ranger
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090985
-#EXTINF:-1,24/7 Xena La Princesa Guerrera Temp 1
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090986
-#EXTINF:-1,24/7 | Aaahhh Monstruos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090870
-#EXTINF:-1,24/7 | Acapulco Shore FHD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090991
-#EXTINF:-1,24/7 | Alf
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090973
-#EXTINF:-1,24/7 | Animaniacs
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090871
-#EXTINF:-1,24/7 | Bleyblade
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090872
-#EXTINF:-1,24/7 | Bob Esponja
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090873
-#EXTINF:-1,24/7 | Buzz Lightyear
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090874
-#EXTINF:-1,24/7 | Castores Cascarravias
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090875
-#EXTINF:-1,24/7 | Cat Dog
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090876
-#EXTINF:-1,24/7 | Como Dice El Dicho
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090993
-#EXTINF:-1,24/7 | Coraje El Perro Cobarde
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090877
-#EXTINF:-1,24/7 | CSI Miami
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090994
-#EXTINF:-1,24/7 | Death Note
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090995
-#EXTINF:-1,24/7 | Desafío de fuego
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090992
-#EXTINF:-1,24/7 | DesEncanto
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090996
-#EXTINF:-1,24/7 | Digimon
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090878
-#EXTINF:-1,24/7 | Dinosaurios
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090879
-#EXTINF:-1,24/7 | DON GATO Y SU PANDILLA
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090953
-#EXTINF:-1,24/7 | Dora la Exploradora
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090880
-#EXTINF:-1,24/7 | Dr. House
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090997
-#EXTINF:-1,24/7 | Dragon Ball
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090998
-#EXTINF:-1,24/7 | Dragon Ball Super 1
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090999
-#EXTINF:-1,24/7 | Dragon Ball Super 2
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091000
-#EXTINF:-1,24/7 | Dragon Ball Z Saga Cell
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091001
-#EXTINF:-1,24/7 | El Chapulin Colorado
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090974
-#EXTINF:-1,24/7 | El Chavo Animado
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090881
-#EXTINF:-1,24/7 | El Chavo del 8
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090975
-#EXTINF:-1,24/7 | El Coyote y el Correcaminos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090952
-#EXTINF:-1,24/7 | El Laboratorio de Dexter
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090882
-#EXTINF:-1,24/7 | El Mentalista
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091002
-#EXTINF:-1,24/7 | El Mundo de Beakman
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090883
-#EXTINF:-1,24/7 | El Pajaro Loco
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090884
-#EXTINF:-1,24/7 | El Principe del Rap
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091003
-#EXTINF:-1,24/7 | El show de los Looney Tunes
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090899
-#EXTINF:-1,24/7 | En Familia con Chabelo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090885
-#EXTINF:-1,24/7 | Escandalosos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090886
-#EXTINF:-1,24/7 | Escobar: el patron del mal
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091004
-#EXTINF:-1,24/7 | Extranormal
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091005
-#EXTINF:-1,24/7 | Futurama
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091006
-#EXTINF:-1,24/7 | GRAVITY FALL
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090903
-#EXTINF:-1,24/7 | Hechizada
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090976
-#EXTINF:-1,24/7 | Jimmy Neutron
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090887
-#EXTINF:-1,24/7 | Johnny Bravo
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090888
-#EXTINF:-1,24/7 | Juego del Calamar
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091008
-#EXTINF:-1,24/7 | La Casa de Micky Mouse
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090889
-#EXTINF:-1,24/7 | La Casa de Papel
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091009
-#EXTINF:-1,24/7 | La Familia Peluche
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091010
-#EXTINF:-1,24/7 | La Hora Pico
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091011
-#EXTINF:-1,24/7 | La Ninera
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090977
-#EXTINF:-1,24/7 | La Pantera Rosa
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090971
-#EXTINF:-1,24/7 | La Rosa de Guadalupe
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091012
-#EXTINF:-1,24/7 | Ladybug
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090890
-#EXTINF:-1,24/7 | Le Temes a la Oscuridad
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090972
-#EXTINF:-1,24/7 | Los Gatos Samurai
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090891
-#EXTINF:-1,24/7 | Los Picapiedra
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090989
-#EXTINF:-1,24/7 | Los Simpson
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091013
-#EXTINF:-1,24/7 | Los Simpson HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091014
-#EXTINF:-1,24/7 | Los Simpson New HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091015
-#EXTINF:-1,24/7 | Los Simpsons Casitas del Horror
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091016
-#EXTINF:-1,24/7 | Los Thundercats
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090987
-#EXTINF:-1,24/7 | MASHA Y EL OSO
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091359
-#EXTINF:-1,24/7 | Mr Bean
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090988
-#EXTINF:-1,24/7 | Peppa Pig
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090892
-#EXTINF:-1,24/7 | Phineas y Ferb
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090893
-#EXTINF:-1,24/7 | Pokemon
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090894
-#EXTINF:-1,24/7 | Power Rangers 
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090895
-#EXTINF:-1,24/7 | Rick y Morty
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091020
-#EXTINF:-1,24/7 | Sailor Moon Crystal
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090900
-#EXTINF:-1,24/7 | South Park
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091021
-#EXTINF:-1,24/7 | Teen Titans Go
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090896
-#EXTINF:-1,24/7 | The Big Bang Theory
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091018
-#EXTINF:-1,24/7 | The Walking Dead
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091019
-#EXTINF:-1,24/7 | Vaca y Pollito
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090897
-#EXTINF:-1,24/7 | Yu Gi Oh
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090898
-#EXTINF:-1,24/7:  xmen
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090962
-#EXTINF:-1,24/7: CINE ACCION HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090923
-#EXTINF:-1,24/7: CINE COMEDIA 1
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090924
-#EXTINF:-1,24/7: CINE COMEDIA 2
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090925
-#EXTINF:-1,24/7: CINE FANTASIA 2
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090926
-#EXTINF:-1,24/7: CINE FANTASIA HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090927
-#EXTINF:-1,24/7: CINE FANTASIA SAGAS
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090928
-#EXTINF:-1,24/7: CINE INFANTIL HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090930
-#EXTINF:-1,24/7: CINE ROMANCE
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090931
-#EXTINF:-1,24/7: CINE ROMANCE HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090932
-#EXTINF:-1,24/7: CINE TERROR
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090933
-#EXTINF:-1,24/7: CINE TERROR HD
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090934
-#EXTINF:-1,24/7: CINE ZOMBIES
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090935
-#EXTINF:-1,24/7: El chapuli­n colorado
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090980
-#EXTINF:-1,24/7: El chavo del 8
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091028
-#EXTINF:-1,24/7: he man
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090961
-#EXTINF:-1,24/7: Los locos Addams
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090981
-#EXTINF:-1,24/7: Malcolm
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091027
-#EXTINF:-1,24/7: Mazingerz
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090956
-#EXTINF:-1,24/7: naruto
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090902
-#EXTINF:-1,24/7: peliculas estrenos
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090936
-#EXTINF:-1,24/7: pinky
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090901
-#EXTINF:-1,24/7: robotech
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090959
-#EXTINF:-1,24/7: shera
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090969
-#EXTINF:-1,24/7: Smallville
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091024
-#EXTINF:-1,24/7: South Park
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091026
-#EXTINF:-1,24/7: Spiderman
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090970
-#EXTINF:-1,24/7: Strangerthings
-http://magi-stv.net:8080/Joseluis/Joseluis123/2091025
-#EXTINF:-1,24/7: Super campeones
-http://magi-stv.net:8080/Joseluis/Joseluis123/2090960
-#EXTINF:-1,24/7: Superman Animated
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151280
-#EXTINF:-1,24/7:  La Leyenda del Tesoro Perdido
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151286
-#EXTINF:-1,24/7: Halloween
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151307
-#EXTINF:-1,24/7: Mission Impossible
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151332
-#EXTINF:-1,24/7: Hercules Animated
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151354
-#EXTINF:-1,24/7: South Park
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151356
-#EXTINF:-1,24/7: Adventure Time
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151380
-#EXTINF:-1,24/7: King Rider
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151382
-#EXTINF:-1,24/7: Tom and Jerry in New York
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151385
-#EXTINF:-1,24/7: Game of Thrones
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151387
-#EXTINF:-1,24/7: Pokemon
-http://magi-stv.net:8080/Joseluis/Joseluis123/2151390
